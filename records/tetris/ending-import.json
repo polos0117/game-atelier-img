@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "tetris",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tetris_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "3b960a3e79427f801a60d71b79e07875532558e49ef3159738168a1f7507c13a",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-26",
+ "review": "",
+ "ui_record": null
+}

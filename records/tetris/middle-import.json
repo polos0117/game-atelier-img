@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "tetris",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tetris_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "879c99c915fda74276af56366a70756d37380ae76fb4fab85b7221883d684063",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-26",
+ "review": "위쪽 떨어지는 블록이 테트리스 조각 모양(T·S·L) — 아이콘 일반화 규칙에 걸리나 사용자가 그대로 올리기로 함",
+ "ui_record": null
+}

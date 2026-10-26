@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "tetris",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tetris_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "9dbf05d07634e087d7f363d125e4062d92227d404c30496767f854d542e75f4a",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-26",
+ "review": "뒤에 흐릿한 사람들(한 명 규칙) — 사용자가 그대로 올리기로 함",
+ "ui_record": null
+}
