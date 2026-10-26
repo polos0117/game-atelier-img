@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "dragon_quest",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "dragon_quest_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "58cec10c8ae3d1f4f3a9d756dcbf0fdffe181bf67e30db2808cf346141ee9182",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-26",
+ "review": "",
+ "ui_record": null
+}
