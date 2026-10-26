@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "dark_souls",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "dark_souls_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "e45137595d73d77c517c9acd113e1efec151a646be5c018082b8cea6462d76a4",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-26",
+ "review": "그림자 위쪽에 눈·얼굴 윤곽(형체 없는 그림자에서 조금 어긋남, 원작 보스로는 안 읽힘) — 사용자가 그대로 올리기로 함",
+ "ui_record": null
+}
