@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "starcraft",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "starcraft_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "b540020001d5a8ec2f5463bfa16117ba6601745c02c3ee36775efffd2faa72e3",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-26",
+ "review": "뒤에 일반적인 SF 전차·비행선 여럿 — 전차 실루엣이 원작 유닛을 조금 떠올리게 함, 사용자가 그대로 올리기로 함",
+ "ui_record": null
+}
