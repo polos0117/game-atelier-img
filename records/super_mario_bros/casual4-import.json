@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "super_mario_bros",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_mario_bros_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "c904d5d2b54affff1dd4d98a8ed654d4fe5a9590dca502d4558d5be7aeb6ca6b",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-26",
+ "review": "뒤 현수막의 흐린 만화풍 얼굴 그림(특정 캐릭터 아님), 객석 손님 — 배경 속 사람은 괜찮다",
+ "ui_record": null
+}

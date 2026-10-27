@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "super_mario_bros",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_mario_bros_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "559c98b9f436f755a095b6819ae9c6684e452e4f5dc3cfbc99ffb585a752738e",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-26",
+ "review": "손 옆 빨강 바탕 흰 점 버섯 장식(얼굴 없음, 원작 슈퍼 버섯 모양에 가깝다) — 사용자가 그대로 올리기로 함 — 설계표 장면이 버섯을 잡는 순간",
+ "ui_record": null
+}
