@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "pacman",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pacman_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "ac15dd1bae010b876c48a0c84bc82f32295a2bdf830787afa53d731de899a557",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-26",
+ "review": "위쪽 네온 간판에 잘린 글자 일부(읽히지 않음), 창 안 오락기 화면은 작고 흐려 알아볼 게임 없음",
+ "ui_record": null
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "pacman",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pacman_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "f21083bdd1e1faa7faf485dd53cb1021e8bc0a32612e5a817aede33150e152da",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-26",
+ "review": "",
+ "ui_record": null
+}

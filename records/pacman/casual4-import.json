@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "pacman",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pacman_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "991eb4e6305427cc353378376b44e64ee780910d79ccd4a1f916f00c7b6ba32b",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-26",
+ "review": "뒤에 흐릿한 파티 손님 여럿 — 배경 속 사람은 괜찮다(사용자 2026-10-27)",
+ "ui_record": null
+}
