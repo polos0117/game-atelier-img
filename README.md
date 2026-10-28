@@ -6,4 +6,4 @@
 - `img/thumb/` — 썸네일(긴 변 512, webp 72). 같은 이름
 - `records/<게임>/<자리>-import.json` · `<자리>-ui.json` — 어떻게 만들었나. 원본 PNG 는 올리지 않고 sha256 만 적는다
 
-등록(코드 저장소 `data/img.json`)은 서가와 등록 워크플로가 오기 전까지 손으로 적는다. 그림을 덮어쓰지 않는다 — 바꿔 달라고 한 그림만 바꾸고 앞 그림의 sha256 을 `replacement.json` 에 남긴다.
+`img/` 에 webp 를 올리면 `썸네일` 워크플로가 `img/thumb/` 를 만들어 되커밋하고, 코드 저장소의 `그림 등록` 을 깨워 `data/img.json` 에 적게 한다(2026-10-28). 깨우려면 이 저장소의 Actions 비밀 `CODE_REPO_TOKEN`(game-atelier 하나, Contents: Read and write)이 있어야 한다 — 없으면 코드 저장소가 한 시간마다 스스로 돈다. 그림을 덮어쓰지 않는다 — 바꿔 달라고 한 그림만 바꾸고 앞 그림의 sha256 을 `replacement.json` 에 남긴다.
