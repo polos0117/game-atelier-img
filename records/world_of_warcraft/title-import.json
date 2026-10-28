@@ -12,7 +12,7 @@
    1024,
    1536
   ],
-  "sha256": "20e91db96bdf81d179414828a0e0d7f94e6c9b1af87145f369a3e4790b2ac9b9",
+  "sha256": "2ad7e2cc323072324caf82552a6b714609b6fa8028b583b4a9f04399e8e81771",
   "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
  },
  "converted": {
@@ -24,6 +24,7 @@
   }
  },
  "imported": "2026-10-28",
- "review": "깃발 문장은 깃털·잎 모양(진영 문장 아님)",
+ "replaces": "58c7cb3dcaaf74ece347372751903c7b191b0e846da5ae5e1d81330f34eb9076",
+ "review": "",
  "ui_record": null
 }

@@ -12,7 +12,7 @@
    1024,
    1536
   ],
-  "sha256": "29843894116206431fdc2043e3a19114f2a8ed82340bb6bdd09851c76d68e70f",
+  "sha256": "a7308b50f4842c23d98f0bf23742f32b9baf28fe58453eb84e76163066e0626d",
   "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
  },
  "converted": {
@@ -24,6 +24,7 @@
   }
  },
  "imported": "2026-10-28",
- "review": "",
+ "replaces": "0a92c298ad3de1ae8478ada55c31508214cecc4c127b6e88434788ab51cb2e34",
+ "review": "극장 앞 줄서기 — 뒤 흐린 사람들은 괜찮다",
  "ui_record": null
 }

@@ -12,7 +12,7 @@
    1024,
    1536
   ],
-  "sha256": "87081b8098a338049eb663f5ce3faaf5f74ad42f5c806d32d432c51ae882c188",
+  "sha256": "306e5b4a5e277bd7952846f552ccdb917b721f844c0bb8a0ac84331e97f5db1c",
   "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
  },
  "converted": {
@@ -24,6 +24,7 @@
   }
  },
  "imported": "2026-10-28",
- "review": "설계표의 무너지는 거대한 그림자는 잘 안 보인다 — 하늘의 빛줄기·떠오른 바위로",
+ "replaces": "75e66778c33ec01e29479dbf4ba7cb9ca8e5a928f93d099bdfe7259209f3bb73",
+ "review": "무너지는 불의 그림자는 뚜렷하지 않다 — 용암·전리품 빛으로",
  "ui_record": null
 }

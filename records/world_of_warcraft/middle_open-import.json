@@ -12,7 +12,7 @@
    1024,
    1536
   ],
-  "sha256": "86981ed64b60679ab3e5af398c34d11c72cfa6185c8fabf65a4e96105d0cf3fa",
+  "sha256": "6d390a943652a0c32c917c9f90c0a2166b86d9f8c70be1453cb90bf27091040e",
   "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
  },
  "converted": {
@@ -24,6 +24,7 @@
   }
  },
  "imported": "2026-10-28",
+ "replaces": "21789eb124edd18eb5bddd7e5a2cd9fff4068053e2ecb286089ecef1f4d91d9c",
  "review": "",
  "ui_record": null
 }

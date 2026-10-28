@@ -12,7 +12,7 @@
    1024,
    1536
   ],
-  "sha256": "ebcfc2002f380cf8d4ec7f7a4d39c9d7e36be7d4e16a7def78ade1b3cf455f64",
+  "sha256": "f5f35bd3800bfadc4f9b0be86c24cd95d467af558eb1084ac922b8bced363a6b",
   "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
  },
  "converted": {
@@ -24,6 +24,7 @@
   }
  },
  "imported": "2026-10-28",
- "review": "",
+ "replaces": "559fdf92694f22355fd4853ba414f0c8d0e723e00cb809849b2966edd4d481eb",
+ "review": "화산 심장부",
  "ui_record": null
 }

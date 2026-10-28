@@ -12,7 +12,7 @@
    1024,
    1536
   ],
-  "sha256": "89503eb8d37cc728500c7738507ab4e1ad04d6fc85fc86f3cb2a69f711ef80e7",
+  "sha256": "ebf16a9f3e9bbef26d4fb6b18cb504a61d6efa87c9ed6b587c1613774498fc0f",
   "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
  },
  "converted": {
@@ -24,6 +24,7 @@
   }
  },
  "imported": "2026-10-28",
- "review": "",
+ "replaces": "6a0a0a57b1cfd7f7278a5505dbb84124553719015670e5201db95c9e8cc08681",
+ "review": "좌우 다른 견갑 — 두 진영을 한 몸에",
  "ui_record": null
 }

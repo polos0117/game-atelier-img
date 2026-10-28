@@ -12,7 +12,7 @@
    1024,
    1536
   ],
-  "sha256": "d9e6fbda4caf36dd608a7f1773d6dca506f09752f6c819324114da84d59b5726",
+  "sha256": "47de7ab9f1204fe303db93d29a3da5ec11afb99bc82dafcefd9d9519726371d8",
   "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
  },
  "converted": {
@@ -24,6 +24,7 @@
   }
  },
  "imported": "2026-10-28",
- "review": "",
+ "replaces": "bc9c81123131c758e8e89f7be3ec29131b50c8f528c729ad7a1fb501f3c75728",
+ "review": "밤 발코니 와인 — 뒤돌아보기",
  "ui_record": null
 }

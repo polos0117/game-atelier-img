@@ -12,7 +12,7 @@
    1024,
    1536
   ],
-  "sha256": "b0c90bc220d293747dc5393d8ae8c6a85575b45bb039402460a7848cf20119e3",
+  "sha256": "50b66eedd131033f0d94b7051c3ca4d6f73bd4e89126d0ccc6a50cdff6781c62",
   "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
  },
  "converted": {
@@ -24,6 +24,7 @@
   }
  },
  "imported": "2026-10-28",
- "review": "",
+ "replaces": "89b42349fff7612a41fd8476ff7a50e6c8820e76c27d9cd13535e518a97d4d18",
+ "review": "고양이 카페 메이드",
  "ui_record": null
 }

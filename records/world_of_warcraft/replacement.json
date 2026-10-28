@@ -1,0 +1,146 @@
+{
+ "version": 1,
+ "game": "world_of_warcraft",
+ "note": "사람이 바꿔 달라고 한 그림만 바꾼다. 앞 그림은 git 이력에 있고, 여기에는 sha256 만 남긴다",
+ "replacements": [
+  {
+   "date": "2026-10-28",
+   "requested_by": "user",
+   "reason": "새 설계(알아볼 거리·원작풍 장비 / 중반 두 진영 대립 / 엔딩 화산 심장부)로 다시 만든 12장",
+   "files": [
+    {
+     "file": "world_of_warcraft_title_glossy_kr_game_f.webp",
+     "slot": "title",
+     "previous": {
+      "webp_sha256": "58c7cb3dcaaf74ece347372751903c7b191b0e846da5ae5e1d81330f34eb9076",
+      "source_sha256": "20e91db96bdf81d179414828a0e0d7f94e6c9b1af87145f369a3e4790b2ac9b9",
+      "imported": "2026-10-28"
+     },
+     "source_sha256": "2ad7e2cc323072324caf82552a6b714609b6fa8028b583b4a9f04399e8e81771",
+     "webp_sha256": "3a222db1c34488909d2aa8f1808705b6f8bc5c9dcd652eccea6846fea2426a6e"
+    },
+    {
+     "file": "world_of_warcraft_middle_glossy_kr_game_f.webp",
+     "slot": "middle",
+     "previous": {
+      "webp_sha256": "6a0a0a57b1cfd7f7278a5505dbb84124553719015670e5201db95c9e8cc08681",
+      "source_sha256": "89503eb8d37cc728500c7738507ab4e1ad04d6fc85fc86f3cb2a69f711ef80e7",
+      "imported": "2026-10-28"
+     },
+     "source_sha256": "ebf16a9f3e9bbef26d4fb6b18cb504a61d6efa87c9ed6b587c1613774498fc0f",
+     "webp_sha256": "d219b0916c0cbbf7df8999689096fedc7c1da9a0d7843b1eeb04eb7fdbecba41"
+    },
+    {
+     "file": "world_of_warcraft_ending_glossy_kr_game_f.webp",
+     "slot": "ending",
+     "previous": {
+      "webp_sha256": "559fdf92694f22355fd4853ba414f0c8d0e723e00cb809849b2966edd4d481eb",
+      "source_sha256": "ebcfc2002f380cf8d4ec7f7a4d39c9d7e36be7d4e16a7def78ade1b3cf455f64",
+      "imported": "2026-10-28"
+     },
+     "source_sha256": "f5f35bd3800bfadc4f9b0be86c24cd95d467af558eb1084ac922b8bced363a6b",
+     "webp_sha256": "81d9d01bb8e451349533bc9290c1d6928506081c956d0ea7c0f2b8b710408f88"
+    },
+    {
+     "file": "world_of_warcraft_title_open_glossy_kr_game_f.webp",
+     "slot": "title_open",
+     "previous": {
+      "webp_sha256": "e248ba2c143533cfd602bb9d3821baf966893371780d1bd7c4c5d6f43e7e9d86",
+      "source_sha256": "4eed3f3d99c5dfe089fb55866740b7688df8a32c9a2755418033e8ee2ee368f4",
+      "imported": "2026-10-28"
+     },
+     "source_sha256": "b8a27c5764b5ea0c4b842d250e5f88212f9d1c11c7cb0a300347e498286f96cb",
+     "webp_sha256": "e7da3b0b7bae6369a5cb76a2819b73861b44eaeec272c2df3d60cc59e7acb869"
+    },
+    {
+     "file": "world_of_warcraft_middle_open_glossy_kr_game_f.webp",
+     "slot": "middle_open",
+     "previous": {
+      "webp_sha256": "21789eb124edd18eb5bddd7e5a2cd9fff4068053e2ecb286089ecef1f4d91d9c",
+      "source_sha256": "86981ed64b60679ab3e5af398c34d11c72cfa6185c8fabf65a4e96105d0cf3fa",
+      "imported": "2026-10-28"
+     },
+     "source_sha256": "6d390a943652a0c32c917c9f90c0a2166b86d9f8c70be1453cb90bf27091040e",
+     "webp_sha256": "0072ee5e681aefc3023c9aa2eeb8707d333e0fa4c2345bf063ff18a3cbb4dec5"
+    },
+    {
+     "file": "world_of_warcraft_ending_open_glossy_kr_game_f.webp",
+     "slot": "ending_open",
+     "previous": {
+      "webp_sha256": "75e66778c33ec01e29479dbf4ba7cb9ca8e5a928f93d099bdfe7259209f3bb73",
+      "source_sha256": "87081b8098a338049eb663f5ce3faaf5f74ad42f5c806d32d432c51ae882c188",
+      "imported": "2026-10-28"
+     },
+     "source_sha256": "306e5b4a5e277bd7952846f552ccdb917b721f844c0bb8a0ac84331e97f5db1c",
+     "webp_sha256": "992c6e242769c13989c712aa16b346131a96ee2bbfb9f6c033d6035786ba6714"
+    },
+    {
+     "file": "world_of_warcraft_glossy_kr_game_f_casual1.webp",
+     "slot": "casual1",
+     "previous": {
+      "webp_sha256": "89b42349fff7612a41fd8476ff7a50e6c8820e76c27d9cd13535e518a97d4d18",
+      "source_sha256": "b0c90bc220d293747dc5393d8ae8c6a85575b45bb039402460a7848cf20119e3",
+      "imported": "2026-10-28"
+     },
+     "source_sha256": "50b66eedd131033f0d94b7051c3ca4d6f73bd4e89126d0ccc6a50cdff6781c62",
+     "webp_sha256": "7d791e93164f19221b38103c6d44e5545066a7015217ccac31fa54a8dba28d65"
+    },
+    {
+     "file": "world_of_warcraft_glossy_kr_game_f_casual2.webp",
+     "slot": "casual2",
+     "previous": {
+      "webp_sha256": "0a92c298ad3de1ae8478ada55c31508214cecc4c127b6e88434788ab51cb2e34",
+      "source_sha256": "29843894116206431fdc2043e3a19114f2a8ed82340bb6bdd09851c76d68e70f",
+      "imported": "2026-10-28"
+     },
+     "source_sha256": "a7308b50f4842c23d98f0bf23742f32b9baf28fe58453eb84e76163066e0626d",
+     "webp_sha256": "785aa4887efa35dc640a0f8fab70b3645c6cda87fb5a3ee9a7074f0f420391e5"
+    },
+    {
+     "file": "world_of_warcraft_glossy_kr_game_f_casual3.webp",
+     "slot": "casual3",
+     "previous": {
+      "webp_sha256": "9136723b533ec978b60596436615b74c0c1bee6d99185239e02038c39b987a00",
+      "source_sha256": "5d9e3239d2bb489a83702e48714824b73a0f5bdd289d8daeb0b13b404877b182",
+      "imported": "2026-10-28"
+     },
+     "source_sha256": "fc975ff16a625f3c54caaa106a349c7212d113067d57be9fcf14c98bc82ee302",
+     "webp_sha256": "99322363937da89afae33316d9b9a928959bd1b3eda449891291cfef4d29eb07"
+    },
+    {
+     "file": "world_of_warcraft_glossy_kr_game_f_casual4.webp",
+     "slot": "casual4",
+     "previous": {
+      "webp_sha256": "bc9c81123131c758e8e89f7be3ec29131b50c8f528c729ad7a1fb501f3c75728",
+      "source_sha256": "d9e6fbda4caf36dd608a7f1773d6dca506f09752f6c819324114da84d59b5726",
+      "imported": "2026-10-28"
+     },
+     "source_sha256": "47de7ab9f1204fe303db93d29a3da5ec11afb99bc82dafcefd9d9519726371d8",
+     "webp_sha256": "b4978ad35029d502d3e0b56452e8eeba3addf071b739a7fb811f668f48c00949"
+    },
+    {
+     "file": "world_of_warcraft_glossy_kr_game_f_casual5.webp",
+     "slot": "casual5",
+     "previous": {
+      "webp_sha256": "eb0227cbdda2c1cd7aa62dc2e39b50b30157e9a90171d8fd0f0f6e23c13c2e0d",
+      "source_sha256": "a9e73122aff8c74a7f43d79d581bb374e9fdc8356bd230dc1c103d7c32795211",
+      "imported": "2026-10-28"
+     },
+     "source_sha256": "c115b9ac668b965ee79ee950810a557b9db85815d48e95889003f71786230ee2",
+     "webp_sha256": "1e68ea1897d3c6200f265bcb9de4305745fd130bb9548db1010177236b97a598"
+    },
+    {
+     "file": "world_of_warcraft_glossy_kr_game_f_casual6.webp",
+     "slot": "casual6",
+     "previous": {
+      "webp_sha256": "0ec42ea12d2e2a02985e397386370bbf819ecb923f166dd295716363d4af6466",
+      "source_sha256": "be00eb52bc4be00e6fdc037e690793617d00ef890490da5e3522b35fa0005202",
+      "imported": "2026-10-28"
+     },
+     "source_sha256": "e1b0cdc28ad576583d562b904a6285b81d7277b7f026b0033e389a7cc43a6dc3",
+     "webp_sha256": "024e97db321af89080496d7079270df87beae817d4206b5964c2d651b42f9c3e"
+    }
+   ]
+  }
+ ]
+}

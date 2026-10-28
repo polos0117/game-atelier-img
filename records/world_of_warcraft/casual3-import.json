@@ -12,7 +12,7 @@
    1024,
    1536
   ],
-  "sha256": "5d9e3239d2bb489a83702e48714824b73a0f5bdd289d8daeb0b13b404877b182",
+  "sha256": "fc975ff16a625f3c54caaa106a349c7212d113067d57be9fcf14c98bc82ee302",
   "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
  },
  "converted": {
@@ -24,6 +24,7 @@
   }
  },
  "imported": "2026-10-28",
- "review": "",
+ "replaces": "9136723b533ec978b60596436615b74c0c1bee6d99185239e02038c39b987a00",
+ "review": "웨딩드레스",
  "ui_record": null
 }

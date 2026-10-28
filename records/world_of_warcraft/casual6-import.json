@@ -12,7 +12,7 @@
    1024,
    1536
   ],
-  "sha256": "be00eb52bc4be00e6fdc037e690793617d00ef890490da5e3522b35fa0005202",
+  "sha256": "e1b0cdc28ad576583d562b904a6285b81d7277b7f026b0033e389a7cc43a6dc3",
   "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
  },
  "converted": {
@@ -24,6 +24,7 @@
   }
  },
  "imported": "2026-10-28",
- "review": "뒤 흐린 사람들·호박 얼굴 — 배경 속 사람은 괜찮다",
+ "replaces": "0ec42ea12d2e2a02985e397386370bbf819ecb923f166dd295716363d4af6466",
+ "review": "해변 수영복",
  "ui_record": null
 }
