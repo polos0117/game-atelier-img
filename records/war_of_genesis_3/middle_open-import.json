@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "war_of_genesis_3",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "war_of_genesis_3_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "ade375822fc775323122c6939ebe6e4670e3aff464c56796976b3300c3e2483e",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-28",
+ "review": "하늘의 붉은 늑대 꼴 화염 — 설계표의 검기(혈랑마혼 연상)",
+ "ui_record": null
+}

@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "war_of_genesis_3",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "war_of_genesis_3_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "9b2cb7bcb734338bcefc0416592a0c4d5f9deb2d997fcfa816d687106451abfb",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-28",
+ "review": "",
+ "ui_record": null
+}
