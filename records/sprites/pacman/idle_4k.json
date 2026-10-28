@@ -1,0 +1,157 @@
+{
+ "date": "2026-10-28",
+ "author": "claude",
+ "atelier": "game",
+ "id": "pacman",
+ "form": "base",
+ "state": "idle",
+ "plan": "polos0117.github.io dot.html — 공용 도트 공방",
+ "generation": {
+  "file": "sprites/pacman/raw/pacman_base_idle_gen1.png",
+  "sha256": "4d9b6b8e54f3a4176bba5db754202c88ec7f43c0da35346cde505319c48410d1",
+  "by": "gpt",
+  "received_as": "pacman_base_idle_gen1.png",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "size": "2160x3840",
+  "usage": null,
+  "seconds": 0,
+  "attachments": [
+   "still_x6",
+   "canonical"
+  ],
+  "prompt": "Pixel art sprite sheet of the EXACT same character as attached image 1 — a finished pixel-art sprite.\nCopy it pixel for pixel in style: same very large chunky pixels, same 16-colour palette, same dark outline,\nsame proportions (about 4 heads tall), same face. Short golden-blonde bob with a black-and-yellow hair ribbon on the image-left side, a black choker with a yellow gem, a black frilled mini dress with glowing yellow neon trim and yellow polka dots over a layered black ruffled skirt, black puff sleeve cuffs with yellow rings, black high-heeled ankle boots with glowing yellow ribbons.\nKeep decoration as simple as image 1 — do not add new details. Image 2 is only a colour and face reference; do not copy its painterly style.\n\nSheet layout: portrait canvas 2160 x 3840, 4 frames in a 2 x 2 grid (cell 1080 x 1920), read left to right, top to bottom.\nIn every cell the character is the same size (about 125 pixels tall on the sprite's own pixel grid, each sprite pixel\ndrawn as a crisp 13 x 13 square), centred horizontally, with both feet on the same baseline near the bottom of the cell.\nEvery frame faces the same direction as described below. Hard edges only: no anti-aliasing, no blur, no gradients, no dithering noise.\nTransparent background. No grid lines, no cell borders, no numbers, no labels, no text, no ground, no shadow, no motion lines, no extra characters.\n\nIDLE animation, 4 frames. Same standing pose as image 1, three-quarter view turned slightly toward the viewer's right, arms relaxed.\nChanges between frames are tiny (1-2 sprite pixels): frame 1 = exactly image 1; frame 2 = slight breath in, shoulders and hair 1 pixel up;\nframe 3 = same as frame 2 but eyes closed (blink); frame 4 = back between frame 2 and frame 1.\nFeet never move. The loop 4 -> 1 must be seamless.",
+  "note": "앞서 받아 둔 원본을 다시 썼다(다른 상태만 다시 요청) — 위 지시문은 다시 요청할 때의 것이라 생김새 줄이 조금 다를 수 있다"
+ },
+ "cleaned": {
+  "file": "sprites/pacman/pacman_base_idle_4k.png",
+  "sha1": "19ae107d35c6",
+  "tool": "polos0117.github.io dot.html (rust/dot-core — book-atelier 파이썬 도구와 같은 셈)",
+  "args": [
+   "--frames",
+   "4",
+   "--grid",
+   "2x2",
+   "--palette",
+   "sprites/pacman/pacman_base_still_4k.png",
+   "--rows",
+   "221",
+   "--speck",
+   "150",
+   "--cell",
+   "192x256"
+  ],
+  "cell": [
+   192,
+   256
+  ],
+  "frames": 4,
+  "foot_y": 254,
+  "colours": 24,
+  "frame": [
+   {
+    "box_px": [
+     272,
+     52,
+     904,
+     1820
+    ],
+    "pitch": 7.98,
+    "size": [
+     79,
+     220
+    ],
+    "anchor_x": 35.96,
+    "dropped_specks": 0,
+    "at": [
+     60,
+     34
+    ]
+   },
+   {
+    "box_px": [
+     1294,
+     52,
+     1926,
+     1820
+    ],
+    "pitch": 7.98,
+    "size": [
+     79,
+     221
+    ],
+    "anchor_x": 35.71,
+    "dropped_specks": 0,
+    "at": [
+     60,
+     33
+    ]
+   },
+   {
+    "box_px": [
+     272,
+     1969,
+     904,
+     3742
+    ],
+    "pitch": 7.98,
+    "size": [
+     79,
+     222
+    ],
+    "anchor_x": 35.87,
+    "dropped_specks": 0,
+    "at": [
+     60,
+     32
+    ]
+   },
+   {
+    "box_px": [
+     1294,
+     1969,
+     1926,
+     3742
+    ],
+    "pitch": 7.98,
+    "size": [
+     79,
+     220
+    ],
+    "anchor_x": 36.17,
+    "dropped_specks": 0,
+    "at": [
+     60,
+     34
+    ]
+   }
+  ]
+ },
+ "playback": {
+  "order": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "ms": [
+   700,
+   220,
+   140,
+   220
+  ]
+ },
+ "canvas": "2160x3840",
+ "cell": [
+  192,
+  256
+ ],
+ "flip": {
+  "allowed": true
+ },
+ "references": {
+  "canonical": "img/pacman_title_glossy_kr_game_f.webp",
+  "still_x6": "sprites/pacman/pacman_base_still_4k.png (최근접 6배)"
+ },
+ "why": "사용자 \"게임공방 도트케릭 2명 만들어줘\"(2026-10-28) — 게임 공방 그림 중 내가 고른 한 장(타이틀 폼). book 의 4K 와 같은 길, 본보기는 book 앨리스 4K 정지 6배"
+}

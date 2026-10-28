@@ -1,0 +1,222 @@
+{
+ "date": "2026-10-28",
+ "author": "claude",
+ "atelier": "game",
+ "id": "pacman",
+ "form": "base",
+ "state": "walk",
+ "plan": "polos0117.github.io dot.html — 공용 도트 공방",
+ "generation": {
+  "file": "sprites/pacman/raw/pacman_base_walk_gen1.png",
+  "sha256": "62d5750f3fce4ef2491f4a30003db0619e1b12ffb8cc583985a236a466211def",
+  "by": "gpt",
+  "received_as": "pacman_base_walk_gen1.png",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "size": "2160x3840",
+  "usage": {
+   "input_tokens": 5111,
+   "input_tokens_details": {
+    "image_tokens": 4524,
+    "text_tokens": 587
+   },
+   "output_tokens": 865,
+   "output_tokens_details": {
+    "image_tokens": 865,
+    "text_tokens": 0
+   },
+   "total_tokens": 5976
+  },
+  "seconds": 34.3,
+  "attachments": [
+   "still_x6",
+   "leg_guide",
+   "canonical"
+  ],
+  "prompt": "Pixel art WALK CYCLE sprite sheet of the EXACT same character as attached image 1 — a finished pixel-art sprite.\nCopy it pixel for pixel in style: same very large chunky pixels, same 16-colour palette, same dark outline,\nsame proportions (about 4 heads tall), same face. Short golden-blonde bob with a black-and-yellow hair ribbon on the image-left side, a black choker with a yellow gem, a black frilled mini dress with glowing yellow neon trim and yellow polka dots over a layered black ruffled skirt, black puff sleeve cuffs with yellow rings, black high-heeled ankle boots with glowing yellow ribbons.\nKeep decoration as simple as image 1 — do not add new details. Image 3 is only a colour and face reference; do not copy its painterly style.\n\nSheet layout: portrait canvas 2160 x 3840, 6 frames in a 3 x 2 grid (cell 720 x 1920), read left to right, top to bottom.\nIn every cell the character is the same size (about 125 pixels tall on the sprite's own pixel grid, each sprite pixel\ndrawn as a crisp 13 x 13 square), centred horizontally, with both feet on the same baseline near the bottom of the cell.\nEvery frame faces the same direction as described below. Hard edges only: no anti-aliasing, no blur, no gradients, no dithering noise.\nTransparent background. No grid lines, no cell borders, no numbers, no labels, no text, no ground, no shadow, no motion lines, no extra characters.\nSide three-quarter view walking toward the viewer's right, walking in place (the character does not travel across the cell).\n\nLEGS: the legs are hidden by a long skirt or robe — follow attached image 2 only for where the two feet are and how the hem moves:\nframe 1 = NEAR foot forward peeking out in front of the hem, FAR foot behind (only its toe showing at the back of the hem); the hem pushes forward;\nframe 2 = feet close, hem settles, body 1 pixel lower; frame 3 = FAR foot swinging forward under the hem, body 1 pixel higher;\nframe 4 = the MIRROR of frame 1: FAR foot forward in front of the hem, NEAR foot behind; frame 5 = feet close, body 1 pixel lower;\nframe 6 = NEAR foot swinging forward under the hem, body 1 pixel higher. Frames 1 and 4 must clearly show a different foot in front.\nThe hem sways opposite to the forward foot. The loop 6 -> 1 must be seamless."
+ },
+ "cleaned": {
+  "file": "sprites/pacman/pacman_base_walk_4k.png",
+  "sha1": "abcebf72fcd0",
+  "tool": "polos0117.github.io dot.html (rust/dot-core — book-atelier 파이썬 도구와 같은 셈)",
+  "args": [
+   "--frames",
+   "6",
+   "--grid",
+   "3x2",
+   "--palette",
+   "sprites/pacman/pacman_base_still_4k.png",
+   "--rows",
+   "221",
+   "--speck",
+   "150",
+   "--cell",
+   "192x256"
+  ],
+  "cell": [
+   192,
+   256
+  ],
+  "frames": 6,
+  "foot_y": 254,
+  "colours": 24,
+  "frame": [
+   {
+    "box_px": [
+     79,
+     130,
+     684,
+     1843
+    ],
+    "pitch": 7.7,
+    "size": [
+     78,
+     221
+    ],
+    "anchor_x": 34.86,
+    "dropped_specks": 0,
+    "at": [
+     61,
+     33
+    ]
+   },
+   {
+    "box_px": [
+     803,
+     130,
+     1384,
+     1843
+    ],
+    "pitch": 7.7,
+    "size": [
+     75,
+     221
+    ],
+    "anchor_x": 35.34,
+    "dropped_specks": 0,
+    "at": [
+     61,
+     33
+    ]
+   },
+   {
+    "box_px": [
+     1518,
+     130,
+     2120,
+     1843
+    ],
+    "pitch": 7.7,
+    "size": [
+     78,
+     221
+    ],
+    "anchor_x": 38.74,
+    "dropped_specks": 0,
+    "at": [
+     57,
+     33
+    ]
+   },
+   {
+    "box_px": [
+     79,
+     2053,
+     695,
+     3762
+    ],
+    "pitch": 7.7,
+    "size": [
+     80,
+     219
+    ],
+    "anchor_x": 38.66,
+    "dropped_specks": 0,
+    "at": [
+     57,
+     35
+    ]
+   },
+   {
+    "box_px": [
+     803,
+     2053,
+     1384,
+     3762
+    ],
+    "pitch": 7.7,
+    "size": [
+     75,
+     219
+    ],
+    "anchor_x": 35.41,
+    "dropped_specks": 0,
+    "at": [
+     61,
+     35
+    ]
+   },
+   {
+    "box_px": [
+     1519,
+     2053,
+     2120,
+     3762
+    ],
+    "pitch": 7.7,
+    "size": [
+     78,
+     222
+    ],
+    "anchor_x": 38.64,
+    "dropped_specks": 0,
+    "at": [
+     57,
+     32
+    ]
+   }
+  ]
+ },
+ "playback": {
+  "order": [
+   0,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "ms": [
+   200,
+   200,
+   200,
+   200,
+   200,
+   200
+  ],
+  "speed": 97,
+  "dy": [
+   0,
+   2,
+   -1.33,
+   -1,
+   0.67,
+   -0.67
+  ],
+  "stride": 58
+ },
+ "canvas": "2160x3840",
+ "cell": [
+  192,
+  256
+ ],
+ "flip": {
+  "allowed": true
+ },
+ "references": {
+  "canonical": "img/pacman_title_glossy_kr_game_f.webp",
+  "still_x6": "sprites/pacman/pacman_base_still_4k.png (최근접 6배)",
+  "leg_guide": "polos0117.github.io dot/walk_leg_guide.png"
+ },
+ "why": "사용자 \"게임공방 도트케릭 2명 만들어줘\"(2026-10-28) — 게임 공방 그림 중 내가 고른 한 장(타이틀 폼). book 의 4K 와 같은 길, 본보기는 book 앨리스 4K 정지 6배"
+}

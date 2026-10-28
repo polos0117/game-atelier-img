@@ -1,0 +1,168 @@
+{
+ "date": "2026-10-28",
+ "author": "claude",
+ "atelier": "game",
+ "id": "dave_the_diver",
+ "form": "base",
+ "state": "react",
+ "plan": "polos0117.github.io dot.html — 공용 도트 공방",
+ "generation": {
+  "file": "sprites/dave_the_diver/raw/dave_the_diver_base_react_gen1.png",
+  "sha256": "e7126a9b2f69cfbd5c5c3c2390c26ac5bd1f92f84db411ee93452509adf6f807",
+  "by": "gpt",
+  "received_as": "dave_the_diver_base_react_gen1.png",
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "medium",
+  "size": "2160x3840",
+  "usage": {
+   "input_tokens": 3446,
+   "input_tokens_details": {
+    "image_tokens": 2988,
+    "text_tokens": 458
+   },
+   "output_tokens": 865,
+   "output_tokens_details": {
+    "image_tokens": 865,
+    "text_tokens": 0
+   },
+   "total_tokens": 4311
+  },
+  "seconds": 26.5,
+  "attachments": [
+   "still_x6",
+   "canonical"
+  ],
+  "prompt": "Pixel art sprite sheet of the EXACT same character as attached image 1 — a finished pixel-art sprite.\nCopy it pixel for pixel in style: same very large chunky pixels, same 16-colour palette, same dark outline,\nsame proportions (about 4 heads tall), same face. Short dark-brown hair with orange-framed diving goggles pushed up on the forehead, a navy-blue and orange full-body wetsuit with a front zipper and orange side stripes, black harness straps across the chest, a dive computer on the image-left wrist, a small air tank on the back, black knee pads, black dive boots with orange swim fins on the feet.\nKeep decoration as simple as image 1 — do not add new details. Image 2 is only a colour and face reference; do not copy its painterly style.\n\nSheet layout: portrait canvas 2160 x 3840, 4 frames in a 2 x 2 grid (cell 1080 x 1920), read left to right, top to bottom.\nIn every cell the character is the same size (about 125 pixels tall on the sprite's own pixel grid, each sprite pixel\ndrawn as a crisp 13 x 13 square), centred horizontally, with both feet on the same baseline near the bottom of the cell.\nEvery frame faces the same direction as described below. Hard edges only: no anti-aliasing, no blur, no gradients, no dithering noise.\nTransparent background. No grid lines, no cell borders, no numbers, no labels, no text, no ground, no shadow, no motion lines, no extra characters.\n\nREACT animation when selected, 4 frames. Starts and ends in the image 1 pose.\nframe 1 = image 1 pose; frame 2 = turns head and body toward the viewer with a small pleased expression;\nframe 3 = a small greeting that suits the character (a light bow, a curtsy or a small wave), knees slightly bent, body 2-3 pixels lower;\nframe 4 = rising back halfway toward the image 1 pose. Feet stay on the baseline."
+ },
+ "cleaned": {
+  "file": "sprites/dave_the_diver/dave_the_diver_base_react_4k.png",
+  "sha1": "003fd770d7a5",
+  "tool": "polos0117.github.io dot.html (rust/dot-core — book-atelier 파이썬 도구와 같은 셈)",
+  "args": [
+   "--frames",
+   "4",
+   "--grid",
+   "2x2",
+   "--palette",
+   "sprites/dave_the_diver/dave_the_diver_base_still_4k.png",
+   "--rows",
+   "217",
+   "--speck",
+   "150",
+   "--cell",
+   "192x256"
+  ],
+  "cell": [
+   192,
+   256
+  ],
+  "frames": 4,
+  "foot_y": 254,
+  "colours": 23,
+  "frame": [
+   {
+    "box_px": [
+     317,
+     42,
+     893,
+     1861
+    ],
+    "pitch": 8.38,
+    "size": [
+     69,
+     217
+    ],
+    "anchor_x": 31.51,
+    "dropped_specks": 0,
+    "at": [
+     64,
+     37
+    ]
+   },
+   {
+    "box_px": [
+     1258,
+     42,
+     1797,
+     1861
+    ],
+    "pitch": 8.38,
+    "size": [
+     64,
+     217
+    ],
+    "anchor_x": 26.42,
+    "dropped_specks": 0,
+    "at": [
+     70,
+     37
+    ]
+   },
+   {
+    "box_px": [
+     336,
+     1980,
+     1001,
+     3797
+    ],
+    "pitch": 8.38,
+    "size": [
+     79,
+     213
+    ],
+    "anchor_x": 39.94,
+    "dropped_specks": 0,
+    "at": [
+     56,
+     41
+    ]
+   },
+   {
+    "box_px": [
+     1232,
+     1980,
+     1828,
+     3797
+    ],
+    "pitch": 8.38,
+    "size": [
+     71,
+     216
+    ],
+    "anchor_x": 31.14,
+    "dropped_specks": 0,
+    "at": [
+     65,
+     38
+    ]
+   }
+  ]
+ },
+ "playback": {
+  "order": [
+   0,
+   1,
+   2,
+   3
+  ],
+  "ms": [
+   120,
+   180,
+   320,
+   200
+  ]
+ },
+ "canvas": "2160x3840",
+ "cell": [
+  192,
+  256
+ ],
+ "flip": {
+  "allowed": true
+ },
+ "references": {
+  "canonical": "img/dave_the_diver_title_glossy_kr_game_f.webp",
+  "still_x6": "sprites/dave_the_diver/dave_the_diver_base_still_4k.png (최근접 6배)"
+ },
+ "why": "사용자 \"게임공방 도트케릭 2명 만들어줘\"(2026-10-28) — 게임 공방 그림 중 내가 고른 한 장(타이틀 폼). book 의 4K 와 같은 길, 본보기는 book 앨리스 4K 정지 6배"
+}
