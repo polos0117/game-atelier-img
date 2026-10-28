@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "minecraft",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "minecraft_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
+  "code_commit": "690805e7e94b8b95fcc30852f8fc3dd6fa87baf5",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "29a679131f191da6cc0e2f4fff4cc90c8298ad360926f5531e69bc9500af6d9e",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793231242,
+  "usage": {
+   "input_tokens": 2645,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1109
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4017
+  }
+ },
+ "reference": "minecraft_title_glossy_kr_game_f.webp",
+ "prompt": "records/minecraft/middle-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-28",
+ "review": "",
+ "ui_record": "records/minecraft/middle-ui.json"
+}

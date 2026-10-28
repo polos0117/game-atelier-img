@@ -1,0 +1,120 @@
+{
+ "version": 1,
+ "game": "minecraft",
+ "title": "마인크래프트",
+ "mode": "form",
+ "form": "ending",
+ "stage": "엔딩",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "minecraft_ending_glossy_kr_game_f.webp",
+ "record": "records/minecraft/ending-ui.json",
+ "at": "2026-10-28T23:45:22.824Z",
+ "storage": {
+  "last": "minecraft",
+  "cards": {
+   "minecraft": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "reference",
+    "form": "ending",
+    "baseForm": "title",
+    "casualN": 1,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "form",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: the attached image is the approved character (title form); keep her.\n\nGAME: «마인크래프트» (Minecraft), 2011. Genre: sandbox. Graphics era: modern.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"정사각 몸·정육면체 머리의 인물\"; \"초록 폭발 괴물 얼굴\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined costume and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (recognizable, as the game shows them): \"풀 덮인 흙 블록\", \"하늘색 날의 다이아몬드 곡괭이\", \"작업대와 화로\", \"벽에 꽂힌 횃불\".\n\nQuoted design notes may be in Korean; read them as description, never render them as text.\n\nAGE: keep her age as in the attached image; add no wrinkles, folds or under-eye shadows, even when she smiles.\n\nGARMENT: keep her material family (thick felt cut into small cube-like quilting) and palette, but let the cut change as FORM says — this form must read as a clearly different outfit silhouette from the attached image.\n\nFORM — ENDING (엔딩): \"보석 블록이 박힌 망토와 건축가 장갑\". Battle role: support. Stage of play: the finished run — most dazzling or most serene.\nGEAR in the game's own style: \"다이아몬드 갑옷 세트풍 하늘색 네모 판과 마법 부여의 보랏빛 윤기\".\n\nSETTING (this form): \"꽃이 핀 큰 정원과 다 지은 블록 마을 — 오후의 따뜻한 빛\" — the finale — wide, open composition with space around her, warm golden or afterglow light.\n\nHOLD BACK: these moments belong to the open images — keep their events out of this setting, even as a distant figure or reflection: \"해 질 녘 들판에 블록이 쌓여 첫 집이 생긴다\"; \"깊은 굴 속 용암 빛 아래 광석이 반짝인다\"; \"그녀가 지은 블록 성 위로 아침 해가 뜬다\". An object named in FORM or in her pose stays.\n\nEXPOSURE (bold): cut the FORM costume to show skin through its own structure — a deep open neckline with natural cleavage, a fitted corset-like waist, and bare shoulders, arms or thighs where the garment allows, kept symmetrical. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the FORM costume, material and palette.\n\nPRESENTATION: a polished, glamorous adult game card illustration — a beautiful face within her FACE structure; a dense, high-detail costume with glossy trim, clasps and jewelry framing her game's material; luminous rim light, strong value contrast.\n\nSTANCE (this form): \"두 손으로 마지막 블록을 머리 위로 올려 쌓는 자세\" — a grand final pose, seen from a slightly high, more distant camera, easy to read as a card.\n\nOUTPUT: the ending form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions and palette; change only her costume and bearing, as FORM says. Do not reuse its outer garment or lining artwork — build the costume FORM describes. Build the background, light and camera from SETTING and STANCE — do not reuse the attached image's background, floor, lighting or camera angle. Vertical 2:3 frame (1024×1536), full body with head and feet inside the frame and clear margins, nothing in front of her but what she holds, face toward the camera (front or three-quarter, never a back view).\n\nONE FIGURE ONLY. No second character, no text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: natural human hands. Her hands do only what STANCE says and hold only what it names. Her hands keep the same gloves or bare hands as in the attached image.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}
