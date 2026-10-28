@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "dave_the_diver",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "dave_the_diver_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "21315c68d912910316fa556d08a8b6191ff29edd940c210a57d904e634ac271b",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-28",
+ "review": "깊은 바다의 거대한 고래 그림자",
+ "ui_record": null
+}

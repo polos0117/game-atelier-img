@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "dave_the_diver",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "dave_the_diver_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "f4993be1e0f99e9d231c140d6c82a2aaf2c139af45a757260178f6e8d9b0c43b",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-28",
+ "review": "레코드 커버는 흐려 읽히지 않는다",
+ "ui_record": null
+}

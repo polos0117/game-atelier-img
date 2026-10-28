@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "dave_the_diver",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "dave_the_diver_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "0dc424d43f65ce46b1e632b5011910a4f4ea492210a5054a2a3fd52ffe3dc112",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-28",
+ "review": "뒤 흐린 축제 관객 — 배경 속 사람은 괜찮다",
+ "ui_record": null
+}
