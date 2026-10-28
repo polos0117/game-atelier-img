@@ -18,9 +18,11 @@
  },
  "seconds": 18.794,
  "date": "2026-10-28",
- "file": "backgrounds/arcade.webp",
+ "file": "backgrounds/arcade-moonlit.webp",
  "raw_sha256": "1e5f08ea2f36d21171f1cc3621af0749c6911c5da82487eaece2620c4b533438",
  "by": "claude",
- "why": "game-atelier 첫 화면(오락실) 배경 — 도트 인물이 거니는 바닥이 있는 가로 그림. 사용자 \"도트 공방 API 호출기로 프롬프트만 바꿔 받아오면\" (2026-10-28). 원본 PNG 는 올리지 않는다",
- "how": "images/generations 1536×1024 medium, 도트 공방과 같은 열쇠. webp 86 으로 줄여 backgrounds/ 에(lib/room.css 가 말한 자리) — img/ 밖이라 등록기·썸네일이 읽지 않는다"
+ "why": "game-atelier 첫 화면(오락실) 배경 — 도트 인물이 거니는 바닥이 있는 가로 그림. 사용자 \"도트 공방 API 호출기로 프롬프트만 바꿔 받아오면\" (2026-10-28). 원본 PNG 는 올리지 않는다 → 공간마다 한 장이 되며 arcade-moonlit 으로 이름을 바꿨다",
+ "how": "images/generations 1536×1024 medium, 도트 공방과 같은 열쇠. webp 86 으로 줄여 backgrounds/ 에(lib/room.css 가 말한 자리) — img/ 밖이라 등록기·썸네일이 읽지 않는다",
+ "theme": "moonlit",
+ "scene": "심야 게임방 — 네온 띠·기기 줄·체크 융단"
 }

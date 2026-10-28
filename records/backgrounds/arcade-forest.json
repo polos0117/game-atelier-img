@@ -1,0 +1,28 @@
+{
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1536x1024",
+ "quality": "medium",
+ "prompt": "Pixel art background for a 2D side-scrolling game, 16-bit style with crisp square pixels and a limited palette, wide straight-on front view, no perspective tilt. The bottom third of the image is an empty flat floor completely clear of objects, so sprites can stand on it. No people, no characters, no text, no letters, no logos, no readable signs, nothing blurry.\nScene: the living room of a cozy wooden forest cabin in the evening. Log walls, a big window showing dark pine trees and a soft amber sunset, a stone fireplace with a gentle fire, a wooden shelf with a boxy old television and a game console on a low table, a standing lamp casting amber light, a woven rug hanging on the wall. Floor: warm wooden plank floor with visible grain and a thin darker seam line. Warm brown, amber and deep green palette.",
+ "usage": {
+  "input_tokens": 184,
+  "input_tokens_details": {
+   "image_tokens": 0,
+   "text_tokens": 184
+  },
+  "output_tokens": 343,
+  "output_tokens_details": {
+   "image_tokens": 343,
+   "text_tokens": 0
+  },
+  "total_tokens": 527
+ },
+ "seconds": 16.95,
+ "date": "2026-10-28",
+ "file": "backgrounds/arcade-forest.webp",
+ "theme": "forest",
+ "scene": "별장 거실 — 통나무 벽·벽난로·창밖 소나무 노을·옛 TV 와 게임기, 나무 마루",
+ "raw_sha256": "275e9ae9c8da897093a0af160ef84d6511c61e778e5cabf4b7621a1b36cf059b",
+ "by": "claude",
+ "why": "game-atelier 첫 화면(오락실) 배경 — 공간(테마)마다 한 장. 사용자 \"각 테마별로 배경도 바꿔줘\"(2026-10-28). 원본 PNG 는 올리지 않는다",
+ "how": "images/generations 1536×1024 medium, 도트 공방과 같은 열쇠. webp 86 으로 줄여 backgrounds/ 에 — img/ 밖이라 등록기·썸네일이 읽지 않는다"
+}

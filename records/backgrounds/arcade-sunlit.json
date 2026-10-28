@@ -1,0 +1,28 @@
+{
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1536x1024",
+ "quality": "medium",
+ "prompt": "Pixel art background for a 2D side-scrolling game, 16-bit style with crisp square pixels and a limited palette, wide straight-on front view, no perspective tilt. The bottom third of the image is an empty flat floor completely clear of objects, so sprites can stand on it. No people, no characters, no text, no letters, no logos, no readable signs, nothing blurry.\nScene: a bright retro arcade hall at noon. Big windows on the back wall pour in warm sunlight with soft pink and sky-blue tints; a row of pastel arcade cabinets with glowing screens along the wall, a potted plant, a wall clock, light cream walls. Floor: pale checkered tiles with a thin pink guide line. Cheerful daytime mood, warm palette.",
+ "usage": {
+  "input_tokens": 163,
+  "input_tokens_details": {
+   "image_tokens": 0,
+   "text_tokens": 163
+  },
+  "output_tokens": 343,
+  "output_tokens_details": {
+   "image_tokens": 343,
+   "text_tokens": 0
+  },
+  "total_tokens": 506
+ },
+ "seconds": 20.215,
+ "date": "2026-10-28",
+ "file": "backgrounds/arcade-sunlit.webp",
+ "theme": "sunlit",
+ "scene": "한낮의 오락실 — 큰 창으로 햇살, 파스텔 기기 줄, 옅은 체크 타일",
+ "raw_sha256": "267ac2f80d01149b0c70d6e9201991de177ae665fb608281d5dc35fb0cec679a",
+ "by": "claude",
+ "why": "game-atelier 첫 화면(오락실) 배경 — 공간(테마)마다 한 장. 사용자 \"각 테마별로 배경도 바꿔줘\"(2026-10-28). 원본 PNG 는 올리지 않는다",
+ "how": "images/generations 1536×1024 medium, 도트 공방과 같은 열쇠. webp 86 으로 줄여 backgrounds/ 에 — img/ 밖이라 등록기·썸네일이 읽지 않는다"
+}
