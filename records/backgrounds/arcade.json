@@ -1,0 +1,26 @@
+{
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1536x1024",
+ "quality": "medium",
+ "prompt": "Pixel art background for a 2D side-scrolling game, 16-bit style with crisp square pixels and a limited warm palette.\nInterior of a cozy retro arcade hall at night, wide straight-on front view, no perspective tilt.\nBack wall: a continuous row of dark arcade cabinets with softly glowing blank screens, neon tube strips in yellow, magenta and cyan, a few blank posters and a wall clock.\nCeiling with a few hanging lamps casting pools of light.\nThe bottom third of the image is an empty flat floor: dark checkered carpet with a thin yellow guide line, completely clear of objects, so sprites can stand on it.\nNo people, no characters, no text, no letters, no logos, no readable signs. Even lighting, nothing blurry.",
+ "usage": {
+  "input_tokens": 161,
+  "input_tokens_details": {
+   "image_tokens": 0,
+   "text_tokens": 161
+  },
+  "output_tokens": 343,
+  "output_tokens_details": {
+   "image_tokens": 343,
+   "text_tokens": 0
+  },
+  "total_tokens": 504
+ },
+ "seconds": 18.794,
+ "date": "2026-10-28",
+ "file": "backgrounds/arcade.webp",
+ "raw_sha256": "1e5f08ea2f36d21171f1cc3621af0749c6911c5da82487eaece2620c4b533438",
+ "by": "claude",
+ "why": "game-atelier 첫 화면(오락실) 배경 — 도트 인물이 거니는 바닥이 있는 가로 그림. 사용자 \"도트 공방 API 호출기로 프롬프트만 바꿔 받아오면\" (2026-10-28). 원본 PNG 는 올리지 않는다",
+ "how": "images/generations 1536×1024 medium, 도트 공방과 같은 열쇠. webp 86 으로 줄여 backgrounds/ 에(lib/room.css 가 말한 자리) — img/ 밖이라 등록기·썸네일이 읽지 않는다"
+}
