@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "world_of_warcraft",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "world_of_warcraft_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "29843894116206431fdc2043e3a19114f2a8ed82340bb6bdd09851c76d68e70f",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-28",
+ "review": "",
+ "ui_record": null
+}

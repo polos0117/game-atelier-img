@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "world_of_warcraft",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "world_of_warcraft_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "a9e73122aff8c74a7f43d79d581bb374e9fdc8356bd230dc1c103d7c32795211",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-28",
+ "review": "뒤 흐린 사람들 — 배경 속 사람은 괜찮다",
+ "ui_record": null
+}

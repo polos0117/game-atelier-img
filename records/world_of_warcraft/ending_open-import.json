@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "world_of_warcraft",
+ "slot": "ending_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "world_of_warcraft_ending_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "87081b8098a338049eb663f5ce3faaf5f74ad42f5c806d32d432c51ae882c188",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-28",
+ "review": "설계표의 무너지는 거대한 그림자는 잘 안 보인다 — 하늘의 빛줄기·떠오른 바위로",
+ "ui_record": null
+}

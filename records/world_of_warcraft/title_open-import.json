@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "world_of_warcraft",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "world_of_warcraft_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "4eed3f3d99c5dfe089fb55866740b7688df8a32c9a2755418033e8ee2ee368f4",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-28",
+ "review": "",
+ "ui_record": null
+}

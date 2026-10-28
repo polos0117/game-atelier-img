@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "world_of_warcraft",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "world_of_warcraft_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "89503eb8d37cc728500c7738507ab4e1ad04d6fc85fc86f3cb2a69f711ef80e7",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-28",
+ "review": "",
+ "ui_record": null
+}
