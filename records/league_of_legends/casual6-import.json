@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "league_of_legends",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "league_of_legends_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
+  "code_commit": "3fae0abf992fae49af887c045e51df0910adf9ea",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "0efbab7a6905dc5a373b9a7019136a69c30e392b176fc9d5458f8f8f9448000d",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793249845,
+  "usage": {
+   "input_tokens": 2739,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1203
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4111
+  }
+ },
+ "reference": "league_of_legends_title_glossy_kr_game_f.webp",
+ "prompt": "records/league_of_legends/casual6-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "사용자 요청 「손가락 하나로 쉿」 — 생성기에 자세 finger_to_lips 를 넣고 한 칸 더. 첫 그림(오페라 계단·어깨 너머·난간에 한 손)은 팔이 셋이라 사용자가 「정면 상체로」 — 서점 거닐기·정면·가슴 위로 다시(허리 위는 허벅지까지 넓어져 한 번 더). 사용자가 고른 칸이라 묶음 겹침 검사에서 뺐다(--free 6)",
+ "ui_record": "records/league_of_legends/casual6-ui.json"
+}

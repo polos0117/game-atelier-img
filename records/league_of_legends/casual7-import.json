@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "league_of_legends",
+ "slot": "casual7",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "league_of_legends_glossy_kr_game_f_casual7.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
+  "code_commit": "3fae0abf992fae49af887c045e51df0910adf9ea",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "f62d701364feef7050aa0dfe5afb390ec0ebacb2f8917bbc564b342a5909af5e",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793250141,
+  "usage": {
+   "input_tokens": 2800,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1264
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4172
+  }
+ },
+ "reference": "league_of_legends_title_glossy_kr_game_f.webp",
+ "prompt": "records/league_of_legends/casual7-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "사용자 요청 「엄지 척」(리그 오브 레전드 — 경기장 세리머니) — 생성기에 자세 thumbs_up·옷 e스포츠 팀 저지를 넣고, 대회 무대 경기 뒤 인터뷰·정면·가슴 위. 사용자가 고른 칸이라 묶음 겹침 검사에서 뺐다(--free 6,7)",
+ "ui_record": "records/league_of_legends/casual7-ui.json"
+}
