@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "street_fighter_2",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "street_fighter_2_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
+  "code_commit": "fdf33a7e82e13c76d54808950ed430d881670480",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "40547347e9d8ab3cfbdfe3f9ff6fb49949e0165c229abcb71d48b75e61838542",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/generations",
+  "created": 1793236292,
+  "usage": {
+   "input_tokens": 1335,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1335
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 2707
+  }
+ },
+ "reference": null,
+ "prompt": "records/street_fighter_2/title-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "머리·눈 색을 설계표 대표색(불꽃 주황·강철 파랑)으로 싣게 고친 뒤(game fdf33a7) 그렸다 · 세 장 중 고름 — 첫 장은 가슴이 드러났다",
+ "ui_record": "records/street_fighter_2/title-ui.json"
+}

@@ -1,0 +1,127 @@
+{
+ "version": 1,
+ "game": "street_fighter_2",
+ "title": "스트리트 파이터 II",
+ "mode": "form",
+ "form": "ending",
+ "stage": "엔딩",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "street_fighter_2_ending_glossy_kr_game_f.webp",
+ "record": "records/street_fighter_2/ending-ui.json",
+ "at": "2026-10-29T01:09:58.188Z",
+ "storage": {
+  "last": "street_fighter_2",
+  "cards": {
+   "street_fighter_2": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "reference",
+    "form": "ending",
+    "baseForm": "title",
+    "casualN": 1,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "form",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold"
+      },
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      }
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: the attached image is the approved character (title form); keep her.\n\nGAME: «스트리트 파이터 II» (Street Fighter II), 1991. Genre: fighting. Graphics era: golden-age arcade.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"원작 격투가들의 얼굴\"; \"손에서 쏘는 기공 구체\"; \"VS·KO 글자\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined costume and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (recognizable, as the game shows them): \"보너스 스테이지의 찌그러진 빨간 승용차\", \"세계 지도 위를 잇는 비행기 선\", \"오락기 레버와 여섯 단추\", \"나라마다 다른 대전 무대(시장·공군 기지·항구)\".\n\nQuoted notes may be Korean; read them as description, never render them as text.\n\nAGE: keep her age as in the attached image; add no wrinkles, folds or under-eye shadows, even when she smiles.\n\nGARMENT: keep her material family (glossy satin sportswear) and palette, but let the cut change as FORM says — this form must read as a clearly different outfit silhouette from the attached image.\n\nFORM — ENDING (엔딩): \"은빛 새틴 챔피언 가운, 어깨에 링 로프 장식\". Battle role: trickster. Stage of play: the finished run — most dazzling or most serene.\nGEAR in the game's own style: \"챔피언 벨트와 검은 띠를 두른 은빛 가운\".\n\nSETTING (this form): \"텅 빈 대회장 관중석 앞의 시상대 — 차가운 은빛 조명\" — the finale — wide, open composition with space around her, warm golden or afterglow light.\n\nHOLD BACK: these moments belong to the open images — keep their events out of this setting, even as a distant figure or reflection: \"어두운 링에 조명이 하나씩 켜지며 그녀를 비춘다\"; \"이어진 주먹 끝으로 불꽃이 연달아 터진다\"; \"링 위로 은빛 종이 조각이 쏟아진다\". An object named in FORM or in her pose stays.\n\nEXPOSURE (bold): cut the FORM costume to show skin through its own structure — a deep open neckline with natural cleavage, a fitted corset-like waist, and bare shoulders, arms or thighs where the garment allows, kept symmetrical. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the FORM costume, material and palette.\n\nPRESENTATION: a polished, glamorous adult game card illustration — a beautiful face within her FACE structure; a dense, high-detail costume with glossy trim, clasps and jewelry framing her game's material; luminous rim light, strong value contrast.\n\nSTANCE (this form): \"가운 자락을 휘날리며 한 손을 들어 다음 도전자를 부르는 자세\" — a grand final pose, seen from a slightly high, more distant camera, easy to read as a card.\n\nOUTPUT: the ending form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions and palette; change only her costume and bearing, as FORM says. Do not reuse its outer garment or lining artwork — build the costume FORM describes. Build the background, light and camera from SETTING and STANCE — do not reuse the attached image's background, floor, lighting or camera angle. Vertical 2:3 frame (1024×1536), full body with head and feet inside the frame and clear margins, nothing in front of her but what she holds, face toward the camera (front or three-quarter, never a back view).\n\nONE FIGURE ONLY. No second character, no text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: natural human hands. Her hands do only what STANCE says and hold only what it names. Her hands keep the same gloves or bare hands as in the attached image.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}

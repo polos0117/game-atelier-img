@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "street_fighter_2",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "street_fighter_2_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
+  "code_commit": "fdf33a7e82e13c76d54808950ed430d881670480",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "79ffca9d2408500135395ada1c5625249e17cb539842ac80de71cc21ca47505e",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793236597,
+  "usage": {
+   "input_tokens": 2698,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1162
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4070
+  }
+ },
+ "reference": "street_fighter_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/street_fighter_2/casual5-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "두 번째 그림 — 첫 장이 1·4 와 같은 흰 탱크톱+겉옷이라 옷 칸을 채우고, 벤치 장면이라 자세를 앉기로. 장면 랜덤의 자세·방향·프레이밍이 예시와 어긋나 생성기 선택지에서 바꿨다(방향은 몸이 카메라 쪽 3/4)",
+ "ui_record": "records/street_fighter_2/casual5-ui.json"
+}
