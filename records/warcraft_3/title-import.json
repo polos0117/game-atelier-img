@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "warcraft_3",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "warcraft_3_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "64816474f99673d32d24d429383b9fb8bf1eb4d2",
+  "code_commit": "a27735a913a530a1a2ec822da44f19924e9b01a2",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "e0578f79b76a1a2e0704c20d1984c49226393bf0c8dbd1d39c3069cd986c8135",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/generations",
+  "created": 1793280200,
+  "usage": {
+   "input_tokens": 1486,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1486
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 2858
+  }
+ },
+ "reference": null,
+ "prompt": "records/warcraft_3/title-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "두 장 중 사용자가 고름(B) — 금광 안쪽 금빛·인간 성채 깃발이 더 강하다. 은백색 포니테일·파랑 흰 옷이 제이나를 떠올릴 수 있다고 알렸고 사용자가 그대로",
+ "ui_record": "records/warcraft_3/title-ui.json"
+}
