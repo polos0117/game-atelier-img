@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "grand_theft_auto_v",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "grand_theft_auto_v_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
+  "code_commit": "392c3255f3da7533ab55cfd412ea3dd7f88f5270",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "16c00f4c66d5e9efe6466a616ed669ca399c46d69c615895b045badedbae769c",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793246368,
+  "usage": {
+   "input_tokens": 2723,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1187
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4095
+  }
+ },
+ "reference": "grand_theft_auto_v_title_glossy_kr_game_f.webp",
+ "prompt": "records/grand_theft_auto_v/middle-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "처음 그림은 시그니처 「경찰 헬기 탐조등」 이 중반 개방과 겹쳐 헬기가 나와 시그니처를 경광등으로 바꾸고 다시",
+ "ui_record": "records/grand_theft_auto_v/middle-ui.json"
+}
