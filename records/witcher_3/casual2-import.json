@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "witcher_3",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "witcher_3_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
+  "code_commit": "382e7098b043d5081b1bba0faf6a1c3b33adfe3b",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "56e3cdaed0cdde4787c1648613932c7ee921fba0066d6280749d67c7ce00a24e",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793250998,
+  "usage": {
+   "input_tokens": 2623,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1087
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 3995
+  }
+ },
+ "reference": "witcher_3_title_glossy_kr_game_f.webp",
+ "prompt": "records/witcher_3/casual2-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "일상컷 묶음 계획기(tools/casual-plan.cjs, seed 1705)로 짠 칸 — 그리기 전에 계획을 사용자에게 보였다 · 알아볼 거리는 장소에 맞게 손으로 다시 나눴다 · 배경에 늑대 문장 깃발이 더 들어갔다(게임 색 세기 strong) — 사용자가 장신구와 배경은 다르다며 그대로",
+ "ui_record": "records/witcher_3/casual2-ui.json"
+}
