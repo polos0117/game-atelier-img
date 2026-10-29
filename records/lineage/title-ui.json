@@ -1,0 +1,128 @@
+{
+ "version": 1,
+ "game": "lineage",
+ "title": "리니지",
+ "mode": "form",
+ "form": "title",
+ "stage": "타이틀",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "lineage_title_glossy_kr_game_f.webp",
+ "record": "records/lineage/title-ui.json",
+ "at": "2026-10-29T14:04:36.312Z",
+ "storage": {
+  "last": "lineage",
+  "cards": {
+   "lineage": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "create",
+    "form": "title",
+    "baseForm": "title",
+    "casualN": 1,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "form",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold"
+      },
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      },
+      "era": "now",
+      "place": "street_cafe",
+      "act": "coffee_takeout",
+      "ofam": "everyday",
+      "item": ""
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images.\n\nGAME: «리니지» (Lineage), 1998. Genre: massively multiplayer online role-playing game. Graphics era: early 3D.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"원작 인물·몬스터의 얼굴과 몸\"; \"로고·타이틀 글자\"; \"강화 수치(+9)·읽히는 아이템 이름\"; \"채팅창·HUD\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined costume and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (recognizable, as the game shows them): \"푸르게 빛나는 강화 주문서와 칼날\", \"말하는 섬 선착장\", \"기란 마을 광장의 노점\", \"성벽 위 혈맹 깃발과 투석기\".\n\nQuoted notes may be Korean; read them as description, never render them as text.\n\nSUBJECT: one adult woman who personifies the video game itself. Persona: \"혈맹을 모아 아덴의 성을 차지하려는 젊은 군주\". Desire: \"아덴의 성을 차지해 왕좌에 오르기\"; conflict: \"한 번에 모든 걸 거는 강화와 동료를 지켜야 하는 군주의 책임\". Its symbols become costume motifs drawn the way the game shows them, worn, not carried, unless her form or pose puts one in hand: \"혈맹 문장\", \"강화 주문서\", \"성주의 왕관\".\n\nAGE: in her twenties — smooth youthful skin, soft full cheeks; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases) and a soft smile that never creases her face.\n\nCORE PLAY: \"혈맹을 모아 공성전에서 성을 차지하고, 무기를 강화해 한 번에 큰 힘을 건다\" — shown in her bearing and small costume details, never as effects, numbers or a HUD.\n\nERA LOOK: early 3D era — clean angular tailoring, faceted panels like simple polygons, cool metallic edges — in fabric and trim only, never pixel art or a screenshot.\n\nSILHOUETTE: statuesque, long-legged, with a natural neck length build; long straight hair; deep wine-red hair; garment structure: an overlapping robe; main material: deep crimson damask embroidered with a silver guild crest; palette: deep crimson and dark silver with a gold crest.\n\nFACE (her own structure, not the style's default face): oval face; long monolid eyes; thick straight brows; straight narrow nose; small bow lips; steel-blue eyes; broad Korean ancestry with individual variation, no stereotyped features.\n\nFORM — TITLE (타이틀): \"소박한 리넨 겹옷 위에 가죽 조끼와 짧은 망토, 허리에 짧은 검과 빵 주머니\". Battle role: scout. Stage of play: the first power-on — her cleanest look, genre colors most vivid.\nGEAR in the game's own style: \"견습 기사풍 — 가죽 튜닉과 짧은 검\".\n\nSETTING (this form): \"안개 낀 섬의 나무 선착장 — 잔잔한 회색 바다\" — calm start-screen composition — centered, uncluttered, cool clean light, dark negative space.\n\nHOLD BACK: these moments belong to the open images — keep their events out of this setting, even as a distant figure or reflection: \"안개가 걷히며 섬 너머 대륙의 불빛들이 하나씩 켜진다\"; \"칼날의 푸른 빛이 터지듯 번지며 둘레의 등불이 한꺼번에 흔들린다\"; \"성문이 무너지며 혈맹 깃발의 그림자가 성벽 전체를 덮고 불꽃이 하늘로 흩어진다\". An object named in FORM or in her pose stays.\n\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the FORM costume, material and palette.\n\nPRESENTATION: a polished, glamorous adult game card illustration — a beautiful face within her FACE structure; a dense, high-detail costume with glossy trim, clasps and jewelry framing her game's material; luminous rim light, strong value contrast.\n\nSTANCE (this form): \"선착장 말뚝에 한 발을 올리고 바다 건너를 내다보는 자세\" — held still and centered, seen at eye level, easy to read as a card.\n\nOUTPUT: one full-body card image of this form, which also fixes who she is for every later form. Vertical 2:3 frame (1024×1536), full body with head and feet inside the frame and clear margins, nothing in front of her but what she holds, face toward the camera (front or three-quarter, never a back view). Build the background from SETTING; it evokes her game's world without being a screenshot or level map.\n\nONE FIGURE ONLY. No second character, no text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: natural human hands. Her hands do only what STANCE says and hold only what it names.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}

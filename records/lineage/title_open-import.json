@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "lineage",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "lineage_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "64816474f99673d32d24d429383b9fb8bf1eb4d2",
+  "code_commit": "9f1b20bb9054346f5a2eb32fe90479985a20deb7",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "ac477a0cfa210f6b60fa4cdeecd6794d76a89c7cdd5857c37036c4f591f309cf",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793283114,
+  "usage": {
+   "input_tokens": 2201,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 665
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 3573
+  }
+ },
+ "reference": "lineage_title_glossy_kr_game_f.webp",
+ "prompt": "records/lineage/title_open-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "",
+ "ui_record": "records/lineage/title_open-ui.json"
+}

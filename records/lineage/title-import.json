@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "lineage",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "lineage_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "64816474f99673d32d24d429383b9fb8bf1eb4d2",
+  "code_commit": "9f1b20bb9054346f5a2eb32fe90479985a20deb7",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "07a1e4ae35995e860f2aae53d7aebf45e1cd7e7a25d59e9455dda8e72c994e41",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/generations",
+  "created": 1793282840,
+  "usage": {
+   "input_tokens": 1415,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1415
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 2787
+  }
+ },
+ "reference": null,
+ "prompt": "records/lineage/title-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "두 장 중 사용자가 고름(B). 「바다 건너를 내다보는」 인데 카메라를 본다(한국어 자세 문장 ↔ 눈높이 카메라), 디아블로 II 와 붉은 머리가 비슷하다고 알렸고 사용자가 그대로",
+ "ui_record": "records/lineage/title-ui.json"
+}

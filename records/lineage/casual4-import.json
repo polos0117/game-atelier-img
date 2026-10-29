@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "lineage",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "lineage_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "64816474f99673d32d24d429383b9fb8bf1eb4d2",
+  "code_commit": "9f1b20bb9054346f5a2eb32fe90479985a20deb7",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "e0e0b679242fa25b8d26c885ce1f0648801f982cbeb0cb2d0ea6eb62f72a898c",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793286145,
+  "usage": {
+   "input_tokens": 2854,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1318
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4226
+  }
+ },
+ "reference": "lineage_title_glossy_kr_game_f.webp",
+ "prompt": "records/lineage/casual4-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "일상컷 묶음 계획기(tools/casual-plan.cjs, seed 2001)로 짠 칸 — 그리기 전에 계획을 사용자에게 보였다 · 알아볼 거리는 장소에 맞게 손으로 다시 나눴다 · 헤엄치기가 두 번 다 물속에 앉아 기댔다(3/4 컷 ↔ 수평 헤엄) — 사용자 결정으로 트리 문장을 평영·머리와 어깨는 물 위로, 헤엄은 3/4 컷을 안 받게 고치고 이 칸을 클로즈업으로 바꿔 다시. 쇄골 컷이 가슴 위로 조금 넓다",
+ "ui_record": "records/lineage/casual4-ui.json"
+}
