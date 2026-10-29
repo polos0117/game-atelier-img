@@ -1,0 +1,101 @@
+{
+ "version": 1,
+ "game": "diablo_2",
+ "title": "디아블로 II",
+ "mode": "casual",
+ "form": "title",
+ "stage": "타이틀",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "diablo_2_glossy_kr_game_f_casual2.webp",
+ "record": "records/diablo_2/casual2-ui.json",
+ "at": "2026-10-29T13:01:32.419Z",
+ "storage": {
+  "last": "diablo_2",
+  "cards": {
+   "diablo_2": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "create",
+    "form": "title",
+    "baseForm": "title",
+    "casualN": 2,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {},
+      "action": {},
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {},
+      "action": {},
+      "randomLocks": {}
+     },
+     "casual": {
+      "expr": "sensual",
+      "pose": "hands_in_hair",
+      "orient": "front",
+      "scene": "",
+      "outfit": "",
+      "frame": "chest_up",
+      "lens": "portrait85",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold",
+       "action_level": "balanced",
+       "source_influence": "subtle",
+       "separates_preference": "balanced"
+      },
+      "action": {},
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      },
+      "era": "fantasy",
+      "place": "fx_runway",
+      "act": "editorial_pose",
+      "ofam": "editorial",
+      "item": "kinetic_layer",
+      "prop": "2",
+      "preset": ""
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: the attached image is the approved character; keep her.\n\nCHARACTER: the same woman as the attached image — the personification of the game «디아블로 II» (action role-playing game). Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"원작 악마·괴물(디아블로·바알 등)의 얼굴과 몸\"; \"원작 캐릭터의 얼굴\"; \"로고·타이틀 글자\"; \"화면 위 체력·마나 구슬과 HUD\"; \"읽히는 아이템 이름·숫자\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined fabric and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (this one only, as an accessory or an object in the scene — never printed on or woven into the clothes): \"무기 홈에 박힌 빛나는 룬석\".\n\nAGE: keep her age as in the attached image; add no wrinkles, folds or under-eye shadows, even when she smiles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her game shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never her form costume, its characters or logo. Era, place, activity, outfit, pose and camera follow SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; the Framing in SCENE sets how much of her shows.\n\nCROP: a chest-up shot — the bottom edge crosses just below her bust; waist, hips and legs are out of frame. This crop wins over every other line — pose, outfit, props and activity details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. The lens sets perspective only, never how much of her shows. Do not widen the shot to fit them in. An arm or leg that crosses the edge runs naturally on past it — never cut off, shortened or fading out inside the image.\n\nSETTING: a stylised stage, editorial or fantasy set, not bound to a real year — still one real adult woman in a believable space, no creatures.\n\nSCENE (chosen):\nPlace: a fashion runway under white spotlights\nActivity: holding a strong editorial pose that shows the outfit's cut\nOutfit: a kinetic editorial layer that fans out from the back like a glowing aura\nPose: Use the hands to tidy the established hairstyle without changing its cut or length.\nOrientation: torso and pelvis face the camera; gaze is independent\nFraming: Chest-up framing focused on the face, shoulders and expression with a small amount of setting.\nLens / perspective: 85mm-equivalent short-telephoto perspective from a suitable distance, with gentle background compression.\nExpression: heavy-lidded eyes, lips slightly parted and relaxed, brow smooth, chin a little lowered\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more shoulder, neckline and upper-back exposure inside the crop; cover the chest\naction_level: balanced — a readable moment of gentle movement, not a ratio of multiple images\nsource_influence: subtle — her game shows only as one small accessory; the outfit keeps its own colours and patterns\nseparates_preference: balanced — choose either a one-piece outfit or separates to suit the scene\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; the part of that outfit inside the crop must read at first glance in its own colours. Do not carry the attached image's palette, patterns or trim into the outfit; her game belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her and never a character from her game. No text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: natural human hands.\n\nHAND TASK: her hands act naturally for the pose and scene; any idle hand rests in a relaxed, anatomically plausible position. Natural occlusion is allowed; do not force every hand or finger into view.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}

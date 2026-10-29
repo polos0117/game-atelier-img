@@ -1,0 +1,128 @@
+{
+ "version": 1,
+ "game": "diablo_2",
+ "title": "디아블로 II",
+ "mode": "form",
+ "form": "title",
+ "stage": "타이틀",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "diablo_2_title_glossy_kr_game_f.webp",
+ "record": "records/diablo_2/title-ui.json",
+ "at": "2026-10-29T13:01:01.448Z",
+ "storage": {
+  "last": "diablo_2",
+  "cards": {
+   "diablo_2": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "create",
+    "form": "title",
+    "baseForm": "title",
+    "casualN": 1,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "form",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold"
+      },
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      },
+      "era": "now",
+      "place": "street_cafe",
+      "act": "coffee_takeout",
+      "ofam": "everyday",
+      "item": ""
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images.\n\nGAME: «디아블로 II» (Diablo II), 2000. Genre: action role-playing game. Graphics era: early 3D.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"원작 악마·괴물(디아블로·바알 등)의 얼굴과 몸\"; \"원작 캐릭터의 얼굴\"; \"로고·타이틀 글자\"; \"화면 위 체력·마나 구슬과 HUD\"; \"읽히는 아이템 이름·숫자\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined costume and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (recognizable, as the game shows them): \"붉은 체력 물약과 푸른 마나 물약 병\", \"금빛 문양의 호라드림 상자\", \"무기 홈에 박힌 빛나는 룬석\", \"로그 야영지의 모닥불과 짐수레\".\n\nQuoted notes may be Korean; read them as description, never render them as text.\n\nSUBJECT: one adult woman who personifies the video game itself. Persona: \"어둠이 내린 성역을 떠돌며 악마를 사냥하고 전리품을 모으는 방랑자\". Desire: \"가장 깊은 지옥까지 내려가 근원의 악을 쓰러뜨리기\"; conflict: \"더 좋은 장비를 찾는 끝없는 사냥과 끝내야 할 싸움\". Its symbols become costume motifs drawn the way the game shows them, worn, not carried, unless her form or pose puts one in hand: \"붉은 체력 물약\", \"호라드림 상자\", \"룬석\".\n\nAGE: in her twenties — smooth youthful skin, soft full cheeks; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases) and a soft smile that never creases her face.\n\nCORE PLAY: \"쓰러뜨릴 때마다 전리품이 떨어지고, 맞춰 입은 장비만큼 강해진다\" — shown in her bearing and small costume details, never as effects, numbers or a HUD.\n\nERA LOOK: early 3D era — clean angular tailoring, faceted panels like simple polygons, cool metallic edges — in fabric and trim only, never pixel art or a screenshot.\n\nSILHOUETTE: slender build; long wavy hair; crimson-red hair; garment structure: a wrapped cloak; main material: dark tooled leather etched with blood-red runes and bone studs; palette: blood crimson and bone white over charcoal.\n\nFACE (her own structure, not the style's default face): heart-shaped face; deep-set eyes; sharp angled brows; aquiline nose; full wide lips; ember-orange eyes; broad European ancestry with individual variation, no stereotyped features.\n\nFORM — TITLE (타이틀): \"닳은 가죽 코르셋 위에 짧은 사냥꾼 망토, 허리띠에 붉은 물약 병 셋\". Battle role: scout. Stage of play: the first power-on — her cleanest look, genre colors most vivid.\nGEAR in the game's own style: \"아마존 사냥꾼풍 — 가벼운 가죽 갑옷과 창 끈\".\n\nSETTING (this form): \"어스름한 로그 야영지 — 목책 너머로 안개 낀 들판\" — calm start-screen composition — centered, uncluttered, cool clean light, dark negative space.\n\nHOLD BACK: these moments belong to the open images — keep their events out of this setting, even as a distant figure or reflection: \"모닥불이 확 타오르며 야영지 둘레의 어둠이 물러나고 물약 병들이 붉게 빛난다\"; \"호라드림 상자가 열리며 금빛 문양이 공중에 떠올라 룬석 셋이 하나로 녹아든다\"; \"협곡 끝 붉은 하늘이 갈라지며 거대한 뿔 달린 그림자가 무너져 재가 된다\". An object named in FORM or in her pose stays.\n\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the FORM costume, material and palette.\n\nPRESENTATION: a polished, glamorous adult game card illustration — a beautiful face within her FACE structure; a dense, high-detail costume with glossy trim, clasps and jewelry framing her game's material; luminous rim light, strong value contrast.\n\nSTANCE (this form): \"모닥불 빛 속에서 물약 병 하나를 들어 비춰 보는 자세\" — held still and centered, seen at eye level, easy to read as a card.\n\nOUTPUT: one full-body card image of this form, which also fixes who she is for every later form. Vertical 2:3 frame (1024×1536), full body with head and feet inside the frame and clear margins, nothing in front of her but what she holds, face toward the camera (front or three-quarter, never a back view). Build the background from SETTING; it evokes her game's world without being a screenshot or level map.\n\nONE FIGURE ONLY. No second character, no text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: natural human hands. Her hands do only what STANCE says and hold only what it names.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}

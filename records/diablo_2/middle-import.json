@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "diablo_2",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "diablo_2_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "64816474f99673d32d24d429383b9fb8bf1eb4d2",
+  "code_commit": "0d24c7588dc719a59a33af26dee3da6c4cd7413c",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "20cf3dc274c37195fa9572b8f4c4a1ad65ec418e1220eed77d5c24b2be7e18e8",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793279140,
+  "usage": {
+   "input_tokens": 2778,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1242
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4150
+  }
+ },
+ "reference": "diablo_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/diablo_2/middle-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "",
+ "ui_record": "records/diablo_2/middle-ui.json"
+}

@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "diablo_2",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "diablo_2_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "64816474f99673d32d24d429383b9fb8bf1eb4d2",
+  "code_commit": "0d24c7588dc719a59a33af26dee3da6c4cd7413c",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "0d27806c372347da8821004c2c5c17664fe0e79d51333898dd9e69965d11f1ce",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793279139,
+  "usage": {
+   "input_tokens": 2719,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1183
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4091
+  }
+ },
+ "reference": "diablo_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/diablo_2/casual5-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "일상컷 묶음 계획기(tools/casual-plan.cjs, seed 1803)로 짠 칸 — 그리기 전에 계획을 사용자에게 보였다 · 알아볼 거리는 장소에 맞게 손으로 다시 나눴다 · 필수 갈래(수영복) · 옆모습으로 골랐는데 누운 몸이 거의 정면, 한복 선 커버업이 비치는 숄·랩스커트로(WORLD 줄의 사막 도시가 끌었다) — 사용자가 그대로",
+ "ui_record": "records/diablo_2/casual5-ui.json"
+}
