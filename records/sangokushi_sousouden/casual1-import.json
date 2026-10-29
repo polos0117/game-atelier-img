@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "sangokushi_sousouden",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "sangokushi_sousouden_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
+  "code_commit": "ee82a98b399150cba8dae408383dccc4475c7fdc",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "94d487307b4ab9c5fcdc28ede0a304d80fa8b871167c6aab337bae75796bb69f",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793242009,
+  "usage": {
+   "input_tokens": 2666,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1130
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4038
+  }
+ },
+ "reference": "sangokushi_sousouden_title_glossy_kr_game_f.webp",
+ "prompt": "records/sangokushi_sousouden/casual1-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "일상컷 묶음 계획기(tools/casual-plan.cjs, seed 1029)로 짠 칸 · 필수 갈래(란제리풍). 렌즈 35→50mm(가까운 컷에 광각 금지) · 가슴 위로 골랐지만 허리 아래까지 나왔다 — 그대로 올린다(사용자)",
+ "ui_record": "records/sangokushi_sousouden/casual1-ui.json"
+}
