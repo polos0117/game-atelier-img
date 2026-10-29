@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "legend_of_zelda",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "legend_of_zelda_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
+  "code_commit": "e5207979d54f105472e92424bca6fd104254d14b",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "f01c429e74cf72820322b31785be60f02e6f4753570f85a33d72665a3a0cd58d",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793234761,
+  "usage": {
+   "input_tokens": 2712,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1176
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4084
+  }
+ },
+ "reference": "legend_of_zelda_title_glossy_kr_game_f.webp",
+ "prompt": "records/legend_of_zelda/casual5-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-28",
+ "review": "장면 랜덤의 자세·방향·프레이밍이 예시와 어긋나 생성기 선택지에서 바꿨다(방향은 몸이 카메라 쪽 3/4)",
+ "ui_record": "records/legend_of_zelda/casual5-ui.json"
+}
