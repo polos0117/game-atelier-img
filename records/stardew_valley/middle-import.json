@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "stardew_valley",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "stardew_valley_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "64816474f99673d32d24d429383b9fb8bf1eb4d2",
+  "code_commit": "1e76e61fd7c28bd2002e84dca161673a59df799f",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "9c65be717e3e6939c2c7235778d58b5f7b6e88f8946853aa15553123a2d3a325",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793316255,
+  "usage": {
+   "input_tokens": 2768,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1232
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4140
+  }
+ },
+ "reference": "stardew_valley_title_glossy_kr_game_f.webp",
+ "prompt": "records/stardew_valley/middle-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "처음 것은 곡괭이 자루가 손 아래에서 꺾여 두 토막처럼 이어졌다(자세 「어깨에 걸치고」 ↔ 중반의 낮은 각도·움직임 카메라) — 사용자 결정으로 자세를 「한 손으로 쥔 곡괭이 자루를 어깨에 곧게 걸치고, 다른 손의 등불로」 로 바꿔 다시. 다시 그린 것은 등불을 아래로 든다",
+ "ui_record": "records/stardew_valley/middle-ui.json"
+}

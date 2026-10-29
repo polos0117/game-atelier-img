@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "stardew_valley",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "stardew_valley_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "64816474f99673d32d24d429383b9fb8bf1eb4d2",
+  "code_commit": "1e76e61fd7c28bd2002e84dca161673a59df799f",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "19f2ab20308d5df3a40af658e5d18fd4176fb18828a5a6bed6ae529973246e86",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793315954,
+  "usage": {
+   "input_tokens": 2229,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 693
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 3601
+  }
+ },
+ "reference": "stardew_valley_title_glossy_kr_game_f.webp",
+ "prompt": "records/stardew_valley/title_open-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "",
+ "ui_record": "records/stardew_valley/title_open-ui.json"
+}
