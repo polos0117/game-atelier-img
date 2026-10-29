@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "dragon_quest",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "dragon_quest_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
+  "code_commit": "868820b8ccbf2e686d863c6207b8d78b6d3f93e1",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "073b4d78c0353323a92d596d8f588f10178106535c93c855cc328e27eb5a0c14",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793234256,
+  "usage": {
+   "input_tokens": 2781,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1245
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4153
+  }
+ },
+ "reference": "dragon_quest_title_glossy_kr_game_f.webp",
+ "prompt": "records/dragon_quest/casual6-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-28",
+ "review": "두 번째 그림 — 장면 랜덤의 자세(물뿌리개)·방향(옆얼굴)이 예시(아치 아래 비 피하기)와 어긋나 선택지에서 바꿨고, 기존 일상컷이 파랑·흰색으로 쏠려 옷 칸에 주황 니트·올리브 치마를 적었다 — 사용자 확인",
+ "ui_record": "records/dragon_quest/casual6-ui.json"
+}
