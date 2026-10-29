@@ -1,0 +1,133 @@
+{
+ "version": 1,
+ "game": "war_of_genesis_3",
+ "title": "창세기전 3",
+ "mode": "casual",
+ "form": "title",
+ "stage": "타이틀",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "war_of_genesis_3_glossy_kr_game_f_casual6.webp",
+ "record": "records/war_of_genesis_3/casual6-ui.json",
+ "at": "2026-10-29T00:31:38.196Z",
+ "storage": {
+  "last": "war_of_genesis_3",
+  "cards": {
+   "war_of_genesis_3": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "create",
+    "form": "title",
+    "baseForm": "title",
+    "casualN": 6,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "expr": "determined",
+      "pose": "leaning_furniture",
+      "orient": "front_3q",
+      "scene": "",
+      "outfit": "a black halter-neck mini dress with an open back and a short flared hem",
+      "frame": "waist_up",
+      "lens": "natural50",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "game_life_sensual",
+      "catCustom": "",
+      "ex": "gl_inn_counter",
+      "exCustom": "",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold",
+       "action_level": "mostly posed",
+       "source_influence": "subtle",
+       "separates_preference": "prefer separates"
+      },
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true,
+       "cat": true,
+       "ex": true
+      },
+      "era": ""
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: the attached image is the approved character; keep her.\n\nCHARACTER: the same woman as the attached image — the personification of the game «창세기전 3» (tactical role-playing game). Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"원작 인물(시반 슈미터·셰라자드 등)의 얼굴\"; \"아지다하카·마장기의 또렷한 모습 — 그림자로만\"; \"타이틀 글자·로고\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined fabric and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (one or two at most, as an accessory or an object in the scene — never printed on or woven into the clothes): \"시반 슈미터의 흰 두건과 쌍검\", \"장갑 마룡 아지다하카의 그림자\", \"투르 제국의 황토색 요새·자비단 궁성\", \"크림슨 크루세이더의 진홍 군장·철가면단의 강철 가면\".\n\nAGE: keep her age as in the attached image; add no wrinkles, folds or under-eye shadows, even when she smiles.\n\nOUTPUT: one standalone off-duty scene of her. Everyday clothing chosen for the scene; her game shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never her form costume, its characters or logo. Scene, outfit, pose and camera follow the settings below.\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the whole scene for this frame; Framing below sets how much of her shows.\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as the scene settings below describe; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her game belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as the scene settings below describe, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nGAME PLACE: a real-feeling place shaped like the world of «창세기전 3» — a sunbaked desert empire of ochre fortresses, mercenary war camps and a ruined sultan's palace under a crimson dusk. No characters, creatures, logos or on-screen graphics.\n\nSCENE (chosen):\nExpression: brows pulled down and in, hard forward gaze, jaw clenched, mouth a tight line\nPose: Rest a hand or forearm on a table, counter or railing in a relaxed supported pose.\nOrientation: front three-quarter body turn of about 30-45 degrees; rotate torso and pelvis together\nOutfit and props: a black halter-neck mini dress with an open back and a short flared hem\nCategory: Create a sensual but non-explicit everyday moment of her living inside her own game's world (see GAME PLACE) — her room, a bath, a market, an inn or a rooftop there, as if this is simply where she lives. Revealing ordinary everyday or loungewear clothing (the world shows in the room and props, not in the clothes), and a concrete action already in progress rather than a posed shoot. The world reads through architecture, props, light and weather, and its SIGNATURE items may appear — never its characters, creatures, logos, on-screen graphics or interface. Avoid turning the scene into a lingerie catalogue.\nExample scene: Leaning on the counter of an inn or tavern of her game's world at night in a low-backed dress, a warm cup in her hand and lantern light on her skin.\nFraming: Waist-up framing showing the head, torso and relevant hand gesture; place essential props inside this crop.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\naction_level: mostly posed — a paused or held moment of the selected activity\nsource_influence: subtle — her game shows only as one small accessory; the outfit keeps its own colours and patterns\nseparates_preference: prefer separates — prefer separate top and bottom unless outfit is explicitly specified\n\nONE FIGURE ONLY. No second character, no text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: natural human hands.\n\nHAND TASK: her hands act naturally for the pose and scene; any idle hand rests in a relaxed, anatomically plausible position. Natural occlusion is allowed; do not force every hand or finger into view.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}
