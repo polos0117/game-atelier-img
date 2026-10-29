@@ -1,0 +1,128 @@
+{
+ "version": 1,
+ "game": "civilization_v",
+ "title": "문명 V",
+ "mode": "form",
+ "form": "middle",
+ "stage": "중반",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "civilization_v_middle_glossy_kr_game_f.webp",
+ "record": "records/civilization_v/middle-ui.json",
+ "at": "2026-10-29T05:25:58.853Z",
+ "storage": {
+  "last": "civilization_v",
+  "cards": {
+   "civilization_v": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "reference",
+    "form": "middle",
+    "baseForm": "title",
+    "casualN": 1,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "form",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold"
+      },
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      },
+      "era": "now",
+      "place": "street_cafe",
+      "act": "coffee_takeout",
+      "ofam": "everyday",
+      "item": ""
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: the attached image is the approved character (title form); keep her.\n\nGAME: «문명 V» (Civilization V), 2010. Genre: strategy. Graphics era: HD console.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"실제 역사 지도자의 얼굴\"; \"로고·타이틀 글자\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined costume and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (recognizable, as the game shows them): \"세계 불가사의(피라미드·만리장성)\", \"개척자 천막\", \"우주선 발사대\", \"청동 월계관\".\n\nQuoted notes may be Korean; read them as description, never render them as text.\n\nAGE: keep her age as in the attached image; add no wrinkles, folds or under-eye shadows, even when she smiles.\n\nGARMENT: keep her material family (brocade woven with old map and parchment motifs) and palette, but let the cut change as FORM says — this form must read as a clearly different outfit silhouette from the attached image.\n\nFORM — MIDGAME (중반): \"지도 무늬 비단 겉옷과 청동 장식\". Battle role: defender. Stage of play: mid-play mastery — more gear, a sturdier cut.\nGEAR in the game's own style: \"르네상스 시대 — 비단과 지도 무늬\".\n\nSETTING (this form): \"돌 성벽과 신전이 선 고대 도시의 광장 — 오후 햇살\" — mid-play intensity — diagonal, crowded composition, hot saturated light, motion streaks.\n\nHOLD BACK: these moments belong to the open images — keep their events out of this setting, even as a distant figure or reflection: \"발밑의 땅에서 도시와 길이 빛으로 차례로 솟아오른다\"; \"시대가 넘어가며 그녀 둘레의 건물이 돌에서 철로 바뀐다\"; \"우주선이 하늘로 솟으며 지구본 같은 행성이 발아래 펼쳐진다\". An object named in FORM or in her pose stays.\n\nEXPOSURE (bold): cut the FORM costume to show skin through its own structure — a deep open neckline with natural cleavage, a fitted corset-like waist, and bare shoulders, arms or thighs where the garment allows, kept symmetrical. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the FORM costume, material and palette.\n\nPRESENTATION: a polished, glamorous adult game card illustration — a beautiful face within her FACE structure; a dense, high-detail costume with glossy trim, clasps and jewelry framing her game's material; luminous rim light, strong value contrast.\n\nSTANCE (this form): \"두루마리 지도를 펼쳐 들고 성벽 아래를 내려다보는 자세\" — caught mid-motion, seen from a low dramatic three-quarter angle, easy to read as a card.\n\nOUTPUT: the midgame form of the woman in the attached image, as a new card image. Keep her face, eye and hair colors, haircut, skin tone, body proportions and palette; change only her costume and bearing, as FORM says. Do not reuse its outer garment or lining artwork — build the costume FORM describes. Build the background, light and camera from SETTING and STANCE — do not reuse the attached image's background, floor, lighting or camera angle. Vertical 2:3 frame (1024×1536), full body with head and feet inside the frame and clear margins, nothing in front of her but what she holds, face toward the camera (front or three-quarter, never a back view).\n\nONE FIGURE ONLY. No second character, no text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: natural human hands. Her hands do only what STANCE says and hold only what it names. Her hands keep the same gloves or bare hands as in the attached image, unless FORM names gloves.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}

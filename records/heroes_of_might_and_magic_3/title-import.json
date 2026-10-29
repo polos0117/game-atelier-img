@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "heroes_of_might_and_magic_3",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "heroes_of_might_and_magic_3_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
+  "code_commit": "8dae4bbeb7767359e94ddafb5eabed9055a66444",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "200e4165402daa2fa72987687be09f45ea01342373aa801e0d5771f3a5515ade",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/generations",
+  "created": 1793251605,
+  "usage": {
+   "input_tokens": 1357,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1357
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 2729
+  }
+ },
+ "reference": null,
+ "prompt": "records/heroes_of_might_and_magic_3/title-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "두 장 중 고름(B) — 사용자가 실제 게임과 더 어울린다며 말 탄 장면으로 자세를 바꿔 다시 그린 것",
+ "ui_record": "records/heroes_of_might_and_magic_3/title-ui.json"
+}
