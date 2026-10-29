@@ -1,0 +1,69 @@
+{
+ "version": 1,
+ "game": "street_fighter_2",
+ "note": "사람이 바꿔 달라고 한 그림만 바꾼다. 앞 그림은 git 이력에 있고, 여기에는 sha256 만 남긴다",
+ "replacements": [
+  {
+   "date": "2026-10-29",
+   "requested_by": "user",
+   "reason": "일상컷 구도가 너무 비슷했다(다섯 장 모두 몸 3/4 정면·비슷한 거리) — 방향·프레이밍·렌즈를 돌려 다시 그린 다섯 장",
+   "files": [
+    {
+     "file": "street_fighter_2_glossy_kr_game_f_casual1.webp",
+     "slot": "casual1",
+     "previous": {
+      "webp_sha256": "ca1b6e655bceb94c78c7fd4ca31b862cbb42e7bed516dedab70ba70f965a7538",
+      "source_sha256": "5ffa05aaee30e1b12f321064b44932b61a0eae0ba2c481ed553ae6858e0e267e",
+      "imported": "2026-10-29"
+     },
+     "source_sha256": "dae8586e8b9048aa8df12fe0de514996d756baac9a6049bbd9ed8e2d4b655f30",
+     "webp_sha256": "10bd3f209b8f09fb60a756b8f982700cc5bab5fdfde2497048f98bd89e1c8949"
+    },
+    {
+     "file": "street_fighter_2_glossy_kr_game_f_casual2.webp",
+     "slot": "casual2",
+     "previous": {
+      "webp_sha256": "b38b37a71242ceede5926a34aafb13599ab1c73ba9bfb5509af032187b6e39d8",
+      "source_sha256": "87f54a5df864c5bb5389629544ed1afdc82068eada301032a6bdf8a2f4acec76",
+      "imported": "2026-10-29"
+     },
+     "source_sha256": "eea81f96f08a5c93a002787fbb2a7b77ff22340abf5e03fe7facc24f34b78396",
+     "webp_sha256": "35bd896d7551eec80a82a11269c9a49b1adc3c773125e9a2c35c7eab67d8f881"
+    },
+    {
+     "file": "street_fighter_2_glossy_kr_game_f_casual3.webp",
+     "slot": "casual3",
+     "previous": {
+      "webp_sha256": "c89bb65981a73d427c1c45a772be61f5b1878eba87ed87fec4de8ede1fcdd1f6",
+      "source_sha256": "31f76bbb700744ef8c422284f49f04f3d91509e9c3911338ec6aabb9ab0d79ef",
+      "imported": "2026-10-29"
+     },
+     "source_sha256": "cc98b0bb95648615fecf790920d5e85a7f546008423d2b830b887744dc105748",
+     "webp_sha256": "3551522f1395a09ca77e9baa4ba258f6a99f347d69514100c32e3224c70cdb2c"
+    },
+    {
+     "file": "street_fighter_2_glossy_kr_game_f_casual4.webp",
+     "slot": "casual4",
+     "previous": {
+      "webp_sha256": "5daada5cbedb4c62b0616a9a652ef6bb1793d3c3ab6cc07b747b09b81976e6e6",
+      "source_sha256": "f6764ec0ee010e551652a2b89ec5505e53b09a4b362d8a6ec110ec072269bdd8",
+      "imported": "2026-10-29"
+     },
+     "source_sha256": "c9bbb844aa49408c6049d7bdd0b93b711ed717e0ae39520c174b5ed999c80676",
+     "webp_sha256": "008481acc0d12943198733c51ee0a76730bb57bcdc83684254a8c3a7dd84fcfd"
+    },
+    {
+     "file": "street_fighter_2_glossy_kr_game_f_casual5.webp",
+     "slot": "casual5",
+     "previous": {
+      "webp_sha256": "6df21a0568271c446fe97266d0c13c0e91a8d06c84cc1ba5ce510aba519852ac",
+      "source_sha256": "79ffca9d2408500135395ada1c5625249e17cb539842ac80de71cc21ca47505e",
+      "imported": "2026-10-29"
+     },
+     "source_sha256": "e69a6233314073af8ccbb5d037f3fd17031efffe1cb81922a0c3767683c5ef44",
+     "webp_sha256": "c34cdbdc47230de69a04b28e1ed40ce799e3159240058ae2930232f86c2f3c01"
+    }
+   ]
+  }
+ ]
+}

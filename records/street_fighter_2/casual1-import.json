@@ -7,15 +7,15 @@
  "file": "street_fighter_2_glossy_kr_game_f_casual1.webp",
  "source": {
   "kind": "generated",
-  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 첫 그림(타이틀) 첨부, images/edits",
   "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
-  "code_commit": "fdf33a7e82e13c76d54808950ed430d881670480",
+  "code_commit": "70445cdcee50be831851048d5b8f983c6181b723",
   "format": "png",
   "size": [
    1024,
    1536
   ],
-  "sha256": "5ffa05aaee30e1b12f321064b44932b61a0eae0ba2c481ed553ae6858e0e267e",
+  "sha256": "dae8586e8b9048aa8df12fe0de514996d756baac9a6049bbd9ed8e2d4b655f30",
   "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
  },
  "generation": {
@@ -24,19 +24,19 @@
   "size": "1024x1536",
   "background": "opaque",
   "endpoint": "images/edits",
-  "created": 1793236599,
+  "created": 1793237372,
   "usage": {
-   "input_tokens": 2768,
+   "input_tokens": 2808,
    "input_tokens_details": {
     "image_tokens": 1536,
-    "text_tokens": 1232
+    "text_tokens": 1272
    },
    "output_tokens": 1372,
    "output_tokens_details": {
     "image_tokens": 1372,
     "text_tokens": 0
    },
-   "total_tokens": 4140
+   "total_tokens": 4180
   }
  },
  "reference": "street_fighter_2_title_glossy_kr_game_f.webp",
@@ -50,6 +50,7 @@
   }
  },
  "imported": "2026-10-29",
- "review": "두 번째 그림 — 첫 장은 네온이 K 글자로 보이고 격투가 실루엣 포스터가 있었다. 장면 랜덤의 자세·방향·프레이밍이 예시와 어긋나 생성기 선택지에서 바꿨다(방향은 몸이 카메라 쪽 3/4)",
+ "replaces": "ca1b6e655bceb94c78c7fd4ca31b862cbb42e7bed516dedab70ba70f965a7538",
+ "review": "허리 위·35mm 는 고른 대로, 옆모습은 반쯤 돈 정도(완전한 90도는 아니다). 첫 시도는 무릎 위까지 넓게 나와 CROP 줄을 고친 뒤(game 66a3e3b) 다시 그렸다",
  "ui_record": "records/street_fighter_2/casual1-ui.json"
 }

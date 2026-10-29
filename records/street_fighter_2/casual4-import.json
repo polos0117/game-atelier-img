@@ -7,15 +7,15 @@
  "file": "street_fighter_2_glossy_kr_game_f_casual4.webp",
  "source": {
   "kind": "generated",
-  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 첫 그림(타이틀) 첨부, images/edits",
   "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
-  "code_commit": "fdf33a7e82e13c76d54808950ed430d881670480",
+  "code_commit": "70445cdcee50be831851048d5b8f983c6181b723",
   "format": "png",
   "size": [
    1024,
    1536
   ],
-  "sha256": "f6764ec0ee010e551652a2b89ec5505e53b09a4b362d8a6ec110ec072269bdd8",
+  "sha256": "c9bbb844aa49408c6049d7bdd0b93b711ed717e0ae39520c174b5ed999c80676",
   "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
  },
  "generation": {
@@ -24,19 +24,19 @@
   "size": "1024x1536",
   "background": "opaque",
   "endpoint": "images/edits",
-  "created": 1793236596,
+  "created": 1793237236,
   "usage": {
-   "input_tokens": 2775,
+   "input_tokens": 2879,
    "input_tokens_details": {
     "image_tokens": 1536,
-    "text_tokens": 1239
+    "text_tokens": 1343
    },
    "output_tokens": 1372,
    "output_tokens_details": {
     "image_tokens": 1372,
     "text_tokens": 0
    },
-   "total_tokens": 4147
+   "total_tokens": 4251
   }
  },
  "reference": "street_fighter_2_title_glossy_kr_game_f.webp",
@@ -50,6 +50,7 @@
   }
  },
  "imported": "2026-10-29",
- "review": "두 번째 그림 — 첫 장이 1·5 와 같은 흰 탱크톱+겉옷이라 옷 칸을 채웠다. 장면 랜덤의 자세·방향·프레이밍이 예시와 어긋나 생성기 선택지에서 바꿨다(방향은 몸이 카메라 쪽 3/4)",
+ "replaces": "5daada5cbedb4c62b0616a9a652ef6bb1793d3c3ab6cc07b747b09b81976e6e6",
+ "review": "고른 대로(어깨 너머 돌아보기·환경·50mm), 옷 칸은 앞 묶음과 같다",
  "ui_record": "records/street_fighter_2/casual4-ui.json"
 }

@@ -7,15 +7,15 @@
  "file": "street_fighter_2_glossy_kr_game_f_casual2.webp",
  "source": {
   "kind": "generated",
-  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 첫 그림(타이틀) 첨부, images/edits",
   "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
-  "code_commit": "fdf33a7e82e13c76d54808950ed430d881670480",
+  "code_commit": "70445cdcee50be831851048d5b8f983c6181b723",
   "format": "png",
   "size": [
    1024,
    1536
   ],
-  "sha256": "87f54a5df864c5bb5389629544ed1afdc82068eada301032a6bdf8a2f4acec76",
+  "sha256": "eea81f96f08a5c93a002787fbb2a7b77ff22340abf5e03fe7facc24f34b78396",
   "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
  },
  "generation": {
@@ -24,19 +24,19 @@
   "size": "1024x1536",
   "background": "opaque",
   "endpoint": "images/edits",
-  "created": 1793236511,
+  "created": 1793237488,
   "usage": {
-   "input_tokens": 2715,
+   "input_tokens": 2721,
    "input_tokens_details": {
     "image_tokens": 1536,
-    "text_tokens": 1179
+    "text_tokens": 1185
    },
    "output_tokens": 1372,
    "output_tokens_details": {
     "image_tokens": 1372,
     "text_tokens": 0
    },
-   "total_tokens": 4087
+   "total_tokens": 4093
   }
  },
  "reference": "street_fighter_2_title_glossy_kr_game_f.webp",
@@ -50,6 +50,7 @@
   }
  },
  "imported": "2026-10-29",
- "review": "장면 랜덤의 자세·방향·프레이밍이 예시와 어긋나 생성기 선택지에서 바꿨다(방향은 몸이 카메라 쪽 3/4) · 필수 갈래(란제리풍)",
+ "replaces": "b38b37a71242ceede5926a34aafb13599ab1c73ba9bfb5509af032187b6e39d8",
+ "review": "필수 갈래(란제리풍). 처음 고른 가슴 위 크롭은 안전 필터에 막혀 머리~무릎으로 바꿨다(game 70445cd)",
  "ui_record": "records/street_fighter_2/casual2-ui.json"
 }
