@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "simcity",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "simcity_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
+  "code_commit": "4246a0975a9b87ea2dbc73391fb34bb4f4e34bbc",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "8b3b2cd5a16a9ce4f1aa0218a4cadc2c61b72b0e02cd21a570eb3b534fa53862",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793243272,
+  "usage": {
+   "input_tokens": 2636,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1100
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4008
+  }
+ },
+ "reference": "simcity_title_glossy_kr_game_f.webp",
+ "prompt": "records/simcity/casual1-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "일상컷 묶음 계획기(tools/casual-plan.cjs, seed 1030)로 짠 칸 — 그리기 전에 계획을 사용자에게 보였다 · 필수 갈래(역할극)",
+ "ui_record": "records/simcity/casual1-ui.json"
+}

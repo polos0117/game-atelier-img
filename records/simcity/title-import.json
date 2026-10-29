@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "simcity",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "simcity_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "fdfb8d85c395716936966b0fb3e0694fdba51613",
+  "code_commit": "4246a0975a9b87ea2dbc73391fb34bb4f4e34bbc",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "c83c485a61a026ae6a542704612c8f8d3475416f8d26c1234b2638e752712d8b",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/generations",
+  "created": 1793242664,
+  "usage": {
+   "input_tokens": 1330,
+   "input_tokens_details": {
+    "image_tokens": 0,
+    "text_tokens": 1330
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 2702
+  }
+ },
+ "reference": null,
+ "prompt": "records/simcity/title-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "두 장 중 고름 — 빈 언덕·세 색 완장·구역 도면",
+ "ui_record": "records/simcity/title-ui.json"
+}
