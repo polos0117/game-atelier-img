@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "hearthstone",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "hearthstone_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "9ec29b3971d625ad354c003f67c472571e226ec5",
+  "code_commit": "86d133c7bed7d4819b689d6c5bd565e9f50805a1",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "356e710a82a5b48d57e9cfd44a3ad1878122cfa0bcfaef835f7ec70de4cdd30a",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793320612,
+  "usage": {
+   "input_tokens": 2652,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1116
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4024
+  }
+ },
+ "reference": "hearthstone_title_glossy_kr_game_f.webp",
+ "prompt": "records/hearthstone/casual4-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": "일상컷 묶음 계획기(tools/casual-plan.cjs, seed 2211, --required lingerie)로 짠 칸 — 그리기 전에 계획을 사용자에게 보였다 · 알아볼 거리는 장소에 맞게 손으로 다시 나눴다 · 전설 카드가 안 보이고 깃발에 소용돌이 문양 — 사용자가 그대로",
+ "ui_record": "records/hearthstone/casual4-ui.json"
+}

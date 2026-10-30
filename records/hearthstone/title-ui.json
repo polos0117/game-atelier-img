@@ -1,0 +1,128 @@
+{
+ "version": 1,
+ "game": "hearthstone",
+ "title": "하스스톤",
+ "mode": "form",
+ "form": "title",
+ "stage": "타이틀",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "hearthstone_title_glossy_kr_game_f.webp",
+ "record": "records/hearthstone/title-ui.json",
+ "at": "2026-10-30T00:31:19.565Z",
+ "storage": {
+  "last": "hearthstone",
+  "cards": {
+   "hearthstone": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "create",
+    "form": "title",
+    "baseForm": "title",
+    "casualN": 1,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "form",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold"
+      },
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      },
+      "era": "now",
+      "place": "street_cafe",
+      "act": "coffee_takeout",
+      "ofam": "everyday",
+      "item": ""
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images.\n\nGAME: «하스스톤» (Hearthstone), 2014. Genre: digital collectible card game. Graphics era: HD console.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"원작 영웅·하수인의 얼굴과 몸\"; \"카드 앞면의 원작 그림\"; \"로고·타이틀 글자\"; \"카드 위의 읽히는 글자·숫자\"; \"화면 위 HUD\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined costume and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (recognizable, as the game shows them): \"불꽃이 타닥이는 여관 화로와 나무 탁자\", \"금테를 두른 카드 뒷면\", \"주황빛으로 빛나는 전설 카드 테두리\", \"푸르게 빛나는 마나 수정\".\n\nQuoted notes may be Korean; read them as description, never render them as text.\n\nSUBJECT: one adult woman who personifies the video game itself. Persona: \"여관 화롯가에서 카드를 섞으며 손님을 승부로 불러 앉히는 단골\". Desire: \"화롯가의 모든 손님과 한 판씩 겨뤄 보기\"; conflict: \"덱을 믿고 기다리는 마음과 지금 뒤집고 싶은 손\". Its symbols become costume motifs drawn the way the game shows them, worn, not carried, unless her form or pose puts one in hand: \"카드 덱\", \"마나 수정\", \"여관 화로\".\n\nAGE: in her twenties — smooth youthful skin, soft full cheeks; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases) and a soft smile that never creases her face.\n\nCORE PLAY: \"차례마다 마나 수정이 하나씩 늘고, 덱에서 뽑은 카드를 내려 싸운다\" — shown in her bearing and small costume details, never as effects, numbers or a HUD.\n\nERA LOOK: HD era — weathered, finely textured materials, dense layered detail, cinematic light on worn metal — in fabric and trim only, never pixel art or a screenshot.\n\nSILHOUETTE: curvy build; an updo bun; warm bronze hair; garment structure: layered skirts; main material: warm tavern tapestry wool with brass card-frame trim; palette: hearth amber, oak brown and gold leaf.\n\nFACE (her own structure, not the style's default face): round face; soft droopy eyes; thin arched brows; upturned nose; full heart-shaped lips; amber eyes; broad Mediterranean ancestry with individual variation, no stereotyped features.\n\nFORM — TITLE (타이틀): \"소매를 걷은 여관 셔츠와 자수 코르셋, 겹치마, 허리에 카드 주머니\". Battle role: support. Stage of play: the first power-on — her cleanest look, genre colors most vivid.\nGEAR in the game's own style: \"여관 단골풍 — 앞치마와 카드 주머니\".\n\nSETTING (this form): \"따뜻한 등불이 켜진 여관 선술집 — 나무 들보와 화롯불\" — calm start-screen composition — centered, uncluttered, cool clean light, dark negative space.\n\nHOLD BACK: these moments belong to the open images — keep their events out of this setting, even as a distant figure or reflection: \"탁자 위 카드들이 한꺼번에 뒤집히며 화롯불이 크게 일어난다\"; \"떠오른 카드들이 둘레를 돌며 푸른 수정들이 하나씩 켜진다\"; \"손끝의 빛이 터지며 투기장 둘레의 깃발들이 한꺼번에 펄럭이고 금빛 가루가 쏟아진다\". An object named in FORM or in her pose stays.\n\nEXPOSURE (bold): cut the FORM costume to show skin through its own structure — a deep open neckline with natural cleavage, a fitted corset-like waist, and bare shoulders, arms or thighs where the garment allows, kept symmetrical. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the FORM costume, material and palette.\n\nPRESENTATION: a polished, glamorous adult game card illustration — a beautiful face within her FACE structure; a dense, high-detail costume with glossy trim, clasps and jewelry framing her game's material; luminous rim light, strong value contrast.\n\nSTANCE (this form): \"카드를 부채처럼 펼쳐 들고 맞은편 자리로 손짓하는 자세\" — held still and centered, seen at eye level, easy to read as a card.\n\nOUTPUT: one full-body card image of this form, which also fixes who she is for every later form. Vertical 2:3 frame (1024×1536), full body with head and feet inside the frame and clear margins, nothing in front of her but what she holds, face toward the camera (front or three-quarter, never a back view). Build the background from SETTING; it evokes her game's world without being a screenshot or level map.\n\nONE FIGURE ONLY. No second character, no text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: natural human hands. Her hands do only what STANCE says and hold only what it names.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}

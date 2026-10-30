@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "hearthstone",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "hearthstone_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "9ec29b3971d625ad354c003f67c472571e226ec5",
+  "code_commit": "86d133c7bed7d4819b689d6c5bd565e9f50805a1",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "33901220635c0d868585814f0de46d150e55b219f9f9a0674b41aae4b7ba926e",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793320615,
+  "usage": {
+   "input_tokens": 2212,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 676
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 3584
+  }
+ },
+ "reference": "hearthstone_title_glossy_kr_game_f.webp",
+ "prompt": "records/hearthstone/title_open-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-29",
+ "review": " · 깃발·카드 뒷면에 하스스톤 소용돌이 문양이 나온다(알아볼 거리 「금테를 두른 카드 뒷면」 이 끌었다) — 알렸고 사용자가 그대로",
+ "ui_record": "records/hearthstone/title_open-ui.json"
+}
