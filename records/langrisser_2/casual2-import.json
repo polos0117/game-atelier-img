@@ -1,0 +1,60 @@
+{
+ "version": 1,
+ "game": "langrisser_2",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "langrisser_2_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "4f9ee54018bca9656cbf567f24a9946223336f0a",
+  "code_commit": "5369395f9c0f64fcc808d8905967b3ec7102c148",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "32f1bd870639186a558093daf12e1e1b19161b94925949b865be0d99c8f06008",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793359744,
+  "usage": {
+   "input_tokens": 2794,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1258
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4166
+  }
+ },
+ "reference": "langrisser_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/langrisser_2/casual2-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "일상컷 트리 버전2 — node tools/casual-plan.cjs langrisser_2 --v2 --seed 9 · 그리기 전에 계획을 사용자에게 보였다(첫 판은 시대가 지금 셋 · 출시 당시 둘이라 사용자 「시대 분포가 너무 적어」 → 계획기에 시대 규칙: 한 가지 두 번까지 · 네 장 이상이면 네 시대 다) · 묶음 검사 · 구도 검사 통과 · 첫 계획(게임 세계의 방 · 수건 두른 목욕 차림 · 벽에 기대 팔짱 · 가슴 위)이 안전 필터에 두 번 막혀(같은 지시문으로 한 번 더) 나머지 넷은 두고 이 칸만 계획기로 다시(--slots 2 --records <나머지 넷> --seed 1) — 게임 세계의 장터 · 레인코트 + 부츠 · 허리에 손 짝다리 · 계획대로",
+ "ui_record": "records/langrisser_2/casual2-ui.json",
+ "blocked": {
+  "tries": 2,
+  "prompt_sha256": "9b49779a7235e614983fbb534a3ae49af244bcc60cb2ece4769d509e54798839",
+  "scene": "게임 세계 안 · 그 세계의 방 · 목욕 차림(수건 두르기) · 벽에 기대 팔짱 · 가슴 위"
+ }
+}

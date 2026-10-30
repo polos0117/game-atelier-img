@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "langrisser_2",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "langrisser_2_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "4f9ee54018bca9656cbf567f24a9946223336f0a",
+  "code_commit": "5369395f9c0f64fcc808d8905967b3ec7102c148",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "ee82fa67f97ba05d46a29da4912ec575b99d1045cc1b7f443418d8707b1f9ef0",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793357771,
+  "usage": {
+   "input_tokens": 2722,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1186
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4094
+  }
+ },
+ "reference": "langrisser_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/langrisser_2/ending-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "계획대로",
+ "ui_record": "records/langrisser_2/ending-ui.json"
+}

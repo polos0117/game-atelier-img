@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "langrisser_2",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "langrisser_2_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "4f9ee54018bca9656cbf567f24a9946223336f0a",
+  "code_commit": "5369395f9c0f64fcc808d8905967b3ec7102c148",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "8fa6da96718a96be84c30718407eb836333a70a40238cf7aacf725a5d251de61",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793359624,
+  "usage": {
+   "input_tokens": 2786,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1250
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4158
+  }
+ },
+ "reference": "langrisser_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/langrisser_2/casual3-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "일상컷 트리 버전2 — node tools/casual-plan.cjs langrisser_2 --v2 --seed 9 · 그리기 전에 계획을 사용자에게 보였다(첫 판은 시대가 지금 셋 · 출시 당시 둘이라 사용자 「시대 분포가 너무 적어」 → 계획기에 시대 규칙: 한 가지 두 번까지 · 네 장 이상이면 네 시대 다) · 묶음 검사 · 구도 검사 통과 · 쇼핑몰 · 벨벳 드레스 · 창턱에 턱 괴기 · 계획대로",
+ "ui_record": "records/langrisser_2/casual3-ui.json"
+}
