@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "metal_gear_solid",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "metal_gear_solid_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "9ec29b3971d625ad354c003f67c472571e226ec5",
+  "code_commit": "bb583310c992b23dcccad481f36a956399b404bb",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "c1091767c0397fbe3fccf43793b8e62c9b762dbb6555c0b95af46a4dcd170d40",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793332903,
+  "usage": {
+   "input_tokens": 2889,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1353
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4261
+  }
+ },
+ "reference": "metal_gear_solid_title_glossy_kr_game_f.webp",
+ "prompt": "records/metal_gear_solid/casual1-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "일상컷 트리 버전2 시범(docs/CASUAL_TREE_V2.md 7절 시범 표) — 칸을 직접 정하고 버전2 모듈로 다시 검사 · 묶음 계획기 --check · 구도 검사 통과 · 그리기 전에 계획을 사용자에게 보였다 · 클로즈업 + 한 손 화면 밖 · 계획은 오른손으로 무전기를 얼굴 옆에 — 왼손으로 들었다(첨부한 타이틀 B 가 왼손으로 무전기를 귀에 댄 그림이라 따라간 것으로 본다), 클로즈업보다 넓게 가슴까지 — 사용자가 그대로(손은 어쩔 수 없다)",
+ "ui_record": "records/metal_gear_solid/casual1-ui.json"
+}

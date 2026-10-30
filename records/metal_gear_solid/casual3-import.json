@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "metal_gear_solid",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "metal_gear_solid_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "9ec29b3971d625ad354c003f67c472571e226ec5",
+  "code_commit": "bb583310c992b23dcccad481f36a956399b404bb",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "212df023bb08cc995028e531e6fc7227dd6c43a1db5d8a0ed488b442dee4d2a4",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793332906,
+  "usage": {
+   "input_tokens": 2784,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1248
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4156
+  }
+ },
+ "reference": "metal_gear_solid_title_glossy_kr_game_f.webp",
+ "prompt": "records/metal_gear_solid/casual3-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "일상컷 트리 버전2 시범(docs/CASUAL_TREE_V2.md 7절 시범 표) — 칸을 직접 정하고 버전2 모듈로 다시 검사 · 묶음 계획기 --check · 구도 검사 통과 · 그리기 전에 계획을 사용자에게 보였다 · 두 손 소품 동작(망원경) · 몸이 옆모습이 아니라 거의 정면, 눈이 접안부가 아니라 옆을 본다 — 사용자가 그대로. 원인(시선 「소품」 말 · 옆모습에 얼굴 말이 없음)은 생성기에서 고쳤다",
+ "ui_record": "records/metal_gear_solid/casual3-ui.json"
+}

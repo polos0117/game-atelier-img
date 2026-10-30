@@ -1,0 +1,123 @@
+{
+ "version": 1,
+ "game": "metal_gear_solid",
+ "title": "메탈 기어 솔리드",
+ "mode": "form",
+ "form": "title",
+ "stage": "타이틀",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "metal_gear_solid_title_glossy_kr_game_f.webp",
+ "record": "records/metal_gear_solid/title-ui.json",
+ "at": "2026-10-30T03:58:29.951Z",
+ "storage": {
+  "last": "metal_gear_solid",
+  "cards": {
+   "metal_gear_solid": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "create",
+    "form": "title",
+    "baseForm": "title",
+    "casualN": 1,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "form",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "",
+      "scene": "",
+      "outfit": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold"
+      },
+      "action": {},
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      },
+      "era": "now",
+      "place": "home_bedroom",
+      "ofam": "everyday",
+      "posture": "stand",
+      "support": "none",
+      "frame": "face_close",
+      "body": "front",
+      "head": "with_body",
+      "camera": "eye",
+      "right": "out",
+      "left": "out",
+      "use": ""
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images.\n\nGAME: «메탈 기어 솔리드» (Metal Gear Solid), 1998. Genre: stealth action game. Graphics era: early 3D.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"원작 인물(스네이크·메릴·울프 등)의 얼굴\"; \"메탈 기어 병기의 똑같은 디자인\"; \"로고·타이틀 글자\"; \"화면 위 레이더·HUD\"; \"읽히는 글자·숫자\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined costume and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (recognizable, as the game shows them): \"귀에 대는 작은 무전기\", \"기지 구석의 골판지 상자\", \"눈 내리는 헬기 이착륙장\", \"기지 복도의 환풍구와 철제 사다리\".\n\nQuoted notes may be Korean; read them as description, never render them as text.\n\nSUBJECT: one adult woman who personifies the video game itself. Persona: \"눈 덮인 섬의 기지에 홀로 숨어든 특수 요원\". Desire: \"들키지 않고 기지 깊숙이 들어가 거대한 병기를 멈추기\"; conflict: \"숨어야 하는 임무와 마주친 사람을 지나칠 수 없는 마음\". Its symbols become costume motifs drawn the way the game shows them, worn, not carried, unless her form or pose puts one in hand: \"무전기\", \"골판지 상자\", \"쌍안경\".\n\nAGE: in her twenties — smooth youthful skin, soft full cheeks; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases) and a soft smile that never creases her face.\n\nCORE PLAY: \"적의 시야를 피해 숨어 다니고, 들키면 경보가 울려 적이 몰려온다\" — shown in her bearing and small costume details, never as effects, numbers or a HUD.\n\nERA LOOK: early 3D era — clean angular tailoring, faceted panels like simple polygons, cool metallic edges — in fabric and trim only, never pixel art or a screenshot.\n\nSILHOUETTE: athletic build; an updo bun; silver-white hair; garment structure: a fitted one-piece flight suit with harness straps; main material: tight matte sneaking-suit weave with ribbed panels and straps; palette: arctic gray, olive drab and snow white.\n\nFACE (her own structure, not the style's default face): softly square face; deep-set eyes; sharp angled brows; broad soft nose; thin long lips; steel-blue eyes; broad Slavic ancestry with individual variation, no stereotyped features.\n\nFORM — TITLE (타이틀): \"몸에 붙는 무광 잠입 슈트와 허리의 장비 벨트\". Battle role: scout. Stage of play: the first power-on — her cleanest look, genre colors most vivid.\nGEAR in the game's own style: \"잠입 요원풍 — 잠입 슈트와 장비 벨트\".\n\nSETTING (this form): \"눈보라 치는 기지 선착장 — 차가운 조명\" — calm start-screen composition — centered, uncluttered, cool clean light, dark negative space.\n\nHOLD BACK: these moments belong to the open images — keep their events out of this setting, even as a distant figure or reflection: \"눈보라가 걷히며 기지의 탐조등이 일제히 그녀를 지나간다\"; \"경보가 울리며 헬기장의 탐조등이 한곳으로 모인다\"; \"격납고의 거대한 그림자가 움직이려는 순간 불꽃이 튀며 멈춘다\". An object named in FORM or in her pose stays.\n\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the FORM costume, material and palette.\n\nPRESENTATION: a polished, glamorous adult game card illustration — a beautiful face within her FACE structure; a dense, high-detail costume with glossy trim, clasps and jewelry framing her game's material; luminous rim light, strong value contrast.\n\nSTANCE (this form): \"벽에 등을 붙이고 앉아 귀에 손가락을 대고 무전을 듣는 자세\" — held still and centered, seen at eye level, easy to read as a card.\n\nOUTPUT: one full-body card image of this form, which also fixes who she is for every later form. Vertical 2:3 frame (1024×1536), full body with head and feet inside the frame and clear margins, nothing in front of her but what she holds, face toward the camera (front or three-quarter, never a back view). Build the background from SETTING; it evokes her game's world without being a screenshot or level map.\n\nONE FIGURE ONLY. No second character, no text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: natural human hands. Her hands do only what STANCE says and hold only what it names.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}
