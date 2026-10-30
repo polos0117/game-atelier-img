@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "metal_gear_solid",
+ "slot": "casual12",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "metal_gear_solid_glossy_kr_game_f_casual12.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "9ec29b3971d625ad354c003f67c472571e226ec5",
+  "code_commit": "eba58cdcbc910e2fbd75b11210db300c3bfa829c",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "795c33796f423bb86c3f383ff01a7ecb3f8ef369fc1236205574c00e6dd4423f",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793339528,
+  "usage": {
+   "input_tokens": 2796,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1260
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4168
+  }
+ },
+ "reference": "metal_gear_solid_title_glossy_kr_game_f.webp",
+ "prompt": "records/metal_gear_solid/casual12-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "사용자가 「윙크 장면 하나만 더」 — 보드게임 카페 · 90년대 트랙복(레트로는 출시 당시엔 못 고른다 → 지금) · 탁자로 기울여 앉아 무전기를 얼굴 옆에 들고 카메라에 윙크 · 계획대로",
+ "ui_record": "records/metal_gear_solid/casual12-ui.json"
+}

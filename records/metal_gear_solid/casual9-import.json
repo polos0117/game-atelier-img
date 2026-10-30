@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "metal_gear_solid",
+ "slot": "casual9",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "metal_gear_solid_glossy_kr_game_f_casual9.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "9ec29b3971d625ad354c003f67c472571e226ec5",
+  "code_commit": "eba58cdcbc910e2fbd75b11210db300c3bfa829c",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "96a6d4b964ad297a23d51d2b75460e3158e8e857b55cd2e15a3942d7bc0be041",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793339096,
+  "usage": {
+   "input_tokens": 2885,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1349
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4257
+  }
+ },
+ "reference": "metal_gear_solid_title_glossy_kr_game_f.webp",
+ "prompt": "records/metal_gear_solid/casual9-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "일상컷 트리 버전2 넓히기 시범(docs/CASUAL_TREE_V2.md 7-3 — 검토 제안의 여섯 장면, 사용자가 그리기로) — 칸을 직접 정하고 버전2 모듈로 다시 검사 · 묶음 계획기 --check(사용자가 고른 칸이라 --free) · 지시문은 이 코드에서 다시 만들어도 같다 · 눈 오는 산장 테라스 · 터틀넥 + 퀼팅 조끼 · 두 손으로 잔 감싸기 · 카메라 응시 · 계획대로",
+ "ui_record": "records/metal_gear_solid/casual9-ui.json"
+}

@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "metal_gear_solid",
+ "slot": "casual7",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "metal_gear_solid_glossy_kr_game_f_casual7.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "9ec29b3971d625ad354c003f67c472571e226ec5",
+  "code_commit": "eba58cdcbc910e2fbd75b11210db300c3bfa829c",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "ebb732557a50f5a23d1f7c45cc9f9ce0d6d6c2ab2e9fbe038a9597da51fcedc6",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793339750,
+  "usage": {
+   "input_tokens": 2792,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1256
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4164
+  }
+ },
+ "reference": "metal_gear_solid_title_glossy_kr_game_f.webp",
+ "prompt": "records/metal_gear_solid/casual7-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "일상컷 트리 버전2 넓히기 시범(docs/CASUAL_TREE_V2.md 7-3 — 검토 제안의 여섯 장면, 사용자가 그리기로) — 칸을 직접 정하고 버전2 모듈로 다시 검사 · 묶음 계획기 --check(사용자가 고른 칸이라 --free) · 지시문은 이 코드에서 다시 만들어도 같다 · 안개 낀 온실 · 꽃집 앞치마 · 물뿌리개 · 첫 장은 뒤 3/4 를 앞 3/4 로 그렸다(얼굴 말이 없었다) → 생성기에 뒤 3/4 얼굴 말을 넣고 다시 그렸다(사용자 결정) — 계획대로",
+ "ui_record": "records/metal_gear_solid/casual7-ui.json"
+}

@@ -1,0 +1,112 @@
+{
+ "version": 1,
+ "game": "metal_gear_solid",
+ "title": "메탈 기어 솔리드",
+ "mode": "casual",
+ "form": "title",
+ "stage": "타이틀",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "metal_gear_solid_glossy_kr_game_f_casual6.webp",
+ "record": "records/metal_gear_solid/casual6-ui.json",
+ "at": "2026-10-30T05:44:07.117Z",
+ "storage": {
+  "last": "metal_gear_solid",
+  "cards": {
+   "metal_gear_solid": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "create",
+    "form": "title",
+    "baseForm": "title",
+    "casualN": 6,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {},
+      "action": {},
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {},
+      "action": {},
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "calm",
+      "scene": "",
+      "outfit": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold",
+       "action_level": "balanced",
+       "source_influence": "balanced",
+       "separates_preference": "prefer separates"
+      },
+      "action": {},
+      "era": "now",
+      "place": "library_reading",
+      "ofam": "everyday",
+      "item": "cardigan_skirt",
+      "prop": "",
+      "preset": "table_lean_use",
+      "use": "book_turn",
+      "kind": "both",
+      "posture": "sit_lean",
+      "support": "none",
+      "frame": "three_quarter",
+      "body": "side",
+      "head": "with_body",
+      "camera": "eye",
+      "right": "prop",
+      "left": "prop",
+      "legs": "knees_together",
+      "gaze": "",
+      "weather": "rain",
+      "ofeat": [
+       "glasses"
+      ],
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      }
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: the attached image is the approved character; keep her.\n\nCHARACTER: the same woman as the attached image — the personification of the game «메탈 기어 솔리드» (stealth action game). Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"원작 인물(스네이크·메릴·울프 등)의 얼굴\"; \"메탈 기어 병기의 똑같은 디자인\"; \"로고·타이틀 글자\"; \"화면 위 레이더·HUD\"; \"읽히는 글자·숫자\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined fabric and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (one or two at most, as an accessory or an object in the scene — never printed on or woven into the clothes): \"귀에 대는 작은 무전기\", \"기지 구석의 골판지 상자\", \"눈 내리는 헬기 이착륙장\", \"기지 복도의 환풍구와 철제 사다리\".\n\nAGE: keep her age as in the attached image; add no wrinkles, folds or under-eye shadows, even when she smiles.\n\nOUTPUT: one standalone off-duty scene of her in the outfit chosen in SCENE; her game shows only through accessories and objects around her — never in the outfit's colours, patterns or cut, never her form costume, its characters or logo. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nSCENE (chosen):\nPlace: a quiet library reading room with tall bookshelves, reading desks and big windows\nWeather / season: a rainy day — rain falls outside and streaks any window; surfaces are wet where she is outdoors.\nOutfit: a soft cardigan and a slip skirt; she wears thin-framed glasses\nPOSTURE: seated, leaning slightly forward toward the table, forearms near its edge.\nCOMPOSITION: a three-quarter shot from her head to just above the knees; body in side profile, her face in profile too, not turned toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand is in PROP.\nLEFT HAND: her own left hand is in PROP.\nPROP: with both hands she turns a page of a book lying open on the table — her own right hand lifts the corner of a page, her own left hand keeps the book flat.\nLEGS: knees together, feet slightly apart.\nGAZE: her eyes rest on what she holds.\nEXPRESSION: relaxed brow, softly open eyes, lips closed and unstrained, no smile.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: bold — more scene-appropriate shoulder, back, midriff or leg exposure; cover chest and pelvis\naction_level: balanced — a readable moment of gentle movement, not a ratio of multiple images\nsource_influence: balanced — her game shows as one accessory and one object in the scene; the outfit keeps its own colours and patterns\nseparates_preference: prefer separates — prefer separate top and bottom unless the chosen Outfit names a one-piece garment, which wins\n\nWARDROBE: change her clothes completely. From the attached image take only her face, hair and body — not its garment, layers, sash, tassels, jewelry, hair ornaments or background. Dress her exactly as SCENE describes; that outfit must read at first glance, keeping its own recognisable colours and parts. Do not carry the attached image's palette, patterns or trim into the outfit; her game belongs in accessories and props, never in the clothes — never restyle the chosen outfit into her own costume, genre or palette.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her and never a character from her game. No text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}
