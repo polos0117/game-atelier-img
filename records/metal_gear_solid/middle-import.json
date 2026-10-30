@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "metal_gear_solid",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "metal_gear_solid_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "9ec29b3971d625ad354c003f67c472571e226ec5",
+  "code_commit": "3036bac43a2de6d803109a737a7f28dc79286184",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "ccbd2f798e00b2db62b2e65a9022a82cad0cc161b6f7b20f5c7bb7bc43cc467b",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793336146,
+  "usage": {
+   "input_tokens": 2726,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1190
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4098
+  }
+ },
+ "reference": "metal_gear_solid_title_glossy_kr_game_f.webp",
+ "prompt": "records/metal_gear_solid/middle-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "설계대로 — 다만 모퉁이 너머가 아니라 카메라 쪽을 쌍안경으로 본다(사용자가 그대로)",
+ "ui_record": "records/metal_gear_solid/middle-ui.json"
+}

@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "metal_gear_solid",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "metal_gear_solid_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "9ec29b3971d625ad354c003f67c472571e226ec5",
+  "code_commit": "3036bac43a2de6d803109a737a7f28dc79286184",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "21bd44e6b75bbbc3583fc7141d04d33b4c8c919c890f2ccc6ea2852086c41089",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793336658,
+  "usage": {
+   "input_tokens": 2807,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1271
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4179
+  }
+ },
+ "reference": "metal_gear_solid_title_glossy_kr_game_f.webp",
+ "prompt": "records/metal_gear_solid/ending-ui.json",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "다시 그림(사용자) — 처음 것은 위를 노려보는 대신 귀에 무전기를 대고 카메라를 봤다(첨부한 타이틀 B 의 동작 · SIGNATURE 「귀에 대는 작은 무전기」 가 끌었다). 폼 세부 요청에 「무전기 없이 두 손을 비우고 위쪽 병기를 노려본다, 병기는 형체로만」 을 적어 다시. 뒤의 병기는 어둡지만 두 다리 기계 윤곽이 보인다 — 원작 디자인과 똑같지는 않다",
+ "ui_record": "records/metal_gear_solid/ending-ui.json"
+}
