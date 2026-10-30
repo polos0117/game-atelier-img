@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "freestyle",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "freestyle_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "84f0ce8c943d066d5e79c6165b0ea5bf86fe1a8396ff4860cee03623bad18a10",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "운동화 옆면에 실제 상표(스우시) 모양이 보인다 — 사용자가 그대로 올리라 함(2026-10-30)",
+ "ui_record": null
+}

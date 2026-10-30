@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "freestyle",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "freestyle_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "0650f8cf03cb6ac393e65d6f249cd70ffa92031f74047c3e1a4334519a63d609",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "비치는 가운 아래 하의가 안 보인다(골반이 가려지지 않은 것처럼 보임) — 사용자가 그대로 올리라 함(2026-10-30)",
+ "ui_record": null
+}

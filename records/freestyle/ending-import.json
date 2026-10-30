@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "freestyle",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "freestyle_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "b3826c599c825d22ae666056fb87443ad4c5417f03e56208ee5beef718eead64",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "설계표 freestyle 의 ending 장면과 맞다 · 운동화 옆면에 실제 상표(스우시) 모양이 보인다 — 사용자가 그대로 올리라 함(2026-10-30)",
+ "ui_record": null
+}

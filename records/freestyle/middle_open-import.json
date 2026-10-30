@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "freestyle",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "freestyle_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "cdf2f180163287fdf72489c5b053c84702f5fba42dd526dedba8b52a08b495c6",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "설계표 freestyle 의 middle_open 장면과 맞다 · 운동화 옆면에 실제 상표(스우시) 모양이 보인다 — 사용자가 그대로 올리라 함(2026-10-30)",
+ "ui_record": null
+}

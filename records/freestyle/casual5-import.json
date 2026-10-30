@@ -1,0 +1,29 @@
+{
+ "version": 1,
+ "game": "freestyle",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "freestyle_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "user_upload",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "1ddfaf3e58c16af549aa6a25955a27c867b06c5f2ffb2e0e2c9746da32a93093",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-10-30",
+ "review": "",
+ "ui_record": null
+}
