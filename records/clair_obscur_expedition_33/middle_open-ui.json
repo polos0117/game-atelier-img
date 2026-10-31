@@ -1,0 +1,111 @@
+{
+ "version": 1,
+ "game": "clair_obscur_expedition_33",
+ "title": "클레르 옵스퀴르: 33 원정대",
+ "mode": "open",
+ "form": "middle",
+ "stage": "중반",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "clair_obscur_expedition_33_middle_open_glossy_kr_game_f.webp",
+ "record": "records/clair_obscur_expedition_33/middle_open-ui.json",
+ "at": "2026-10-31T16:54:10.542Z",
+ "storage": {
+  "last": "clair_obscur_expedition_33",
+  "cards": {
+   "clair_obscur_expedition_33": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "reference",
+    "form": "middle",
+    "baseForm": "title",
+    "casualN": 1,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "open",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "",
+      "scene": "",
+      "outfit": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold"
+      },
+      "action": {},
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      }
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: attach this game's midgame form card image. It is the approved CLOSED state and serves only as the visual reference for the single OPEN image.\n\nGAME: «클레르 옵스퀴르: 33 원정대» (Clair Obscur: Expedition 33), 2025. Genre: role-playing game. Graphics era: modern.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"원작 인물(구스타브·마엘·룬·시엘 등)의 얼굴\"; \"화가(페인트리스)와 네브론의 디자인\"; \"로고·타이틀 글자\"; \"모노리스의 읽히는 숫자\"; \"화면 위 HUD\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined costume and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (recognizable, as the game shows them): \"무너진 탑이 솟은 벨 에포크풍 항구 도시\", \"바다 건너 멀리 솟은 거대한 검은 모노리스\", \"바람에 흩날리는 붉은 꽃잎\", \"가죽 끈으로 묶은 원정대 일지\".\n\nQuoted notes may be Korean; read them as description, never render them as text.\n\nOUTPUT: exactly ONE standalone image showing ONLY the OPEN state — the climactic moment of this stage of play. The attached image is a visual reference, NOT part of the output. Keep the same character, face, hair, body, costume, pose, camera angle, framing and subject scale. Change only the environment, lighting and effects into this moment: \"떠 있는 바위섬들이 천천히 돌고 둘레의 숲이 유화 붓자국으로 번져 간다\". She is the only person; the moment is carried by objects, environment, light, weather or a formless looming shadow — never a character or creature from the game.\n\nFRAME: a single full-frame vertical 2:3 illustration (1024×1536). NEVER include the original CLOSED image, a before-and-after comparison, diptych, split-screen, side-by-side layout, collage, multiple panels or duplicated views. ONE image, ONE character, ONE scene — OPEN state only.\n\nAGE: keep her age as in the attached image; add no wrinkles, folds or under-eye shadows, even when she smiles.\n\nONE FIGURE ONLY. No second character, no text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: keep both hands as in the attached image.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}

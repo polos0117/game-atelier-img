@@ -1,0 +1,76 @@
+{
+ "version": 1,
+ "game": "clair_obscur_expedition_33",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "clair_obscur_expedition_33_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "20a40068d8a8ebe74125d0ad347faef702564ae2",
+  "code_commit": "a2b1ff5078001a313cb529bd8945fd301fa20ad4",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "66202e95c5577f414b6f443acb188533ae5fbd6d7c393e2e831329dc836baadd",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793465509,
+  "usage": {
+   "input_tokens": 2906,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1370
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4278
+  }
+ },
+ "reference": "clair_obscur_expedition_33_title_glossy_kr_game_f.webp",
+ "prompt": "records/clair_obscur_expedition_33/ending-ui.json",
+ "prompt_sha256": "6aeba9dc17dbbf912038678c60c91735367154cc59acbab9b87dd8d25756894f",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "review": "셋째 판 — 사용자 「엔딩에 칼을 든 손의 각도가 이상해」. 첫 판은 칼이 손목에서 꺾였다(자세 문장 「검을 붓처럼 …」 의 「붓처럼」) → 설계표 자세를 고쳐 둘째 판, 칼날이 주먹 아래로 · 주먹 위로 붓 자루 같은 막대(금빛 획 · 붓자국 말이 검을 붓처럼 당김) → 추가 연출에 「칼 하나 · 짧은 자루 · 팔과 한 줄 · 금빛 획은 빛일 뿐 붓이 아니다」 를 적어 셋째 판(사용자가 고름)",
+ "ui_record": "records/clair_obscur_expedition_33/ending-ui.json",
+ "attempts": [
+  {
+   "name": "ending v1",
+   "sha256": "ccd08e2f26c05d9f72da4b4f21dccb573f7080a16eeb025e1f204807d598003c",
+   "chosen": false,
+   "why": "칼이 손목에서 꺾임 — 자세 「검을 붓처럼 크게 휘둘러 …」"
+  },
+  {
+   "name": "ending v2",
+   "sha256": "b15ce321e0c1b4ce8d6149bac4603fdf81205794fe115b60a6703a9a9ea0786c",
+   "chosen": false,
+   "why": "칼날이 주먹 아래로, 주먹 위로 붓 자루 같은 막대 — 자세 「한 손으로 검 자루를 단단히 쥐고 …」"
+  },
+  {
+   "name": "ending v3",
+   "sha256": "66202e95c5577f414b6f443acb188533ae5fbd6d7c393e2e831329dc836baadd",
+   "chosen": true,
+   "why": "같은 자세 + 추가 연출에 칼 모양"
+  }
+ ]
+}

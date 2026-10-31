@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "clair_obscur_expedition_33",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "clair_obscur_expedition_33_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "20a40068d8a8ebe74125d0ad347faef702564ae2",
+  "code_commit": "a2b1ff5078001a313cb529bd8945fd301fa20ad4",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "c69414f74a463b3386482b144562f210bd1b9790c12d956cced5e5ec9f2297dc",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793465686,
+  "usage": {
+   "input_tokens": 2857,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 1321
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 4229
+  }
+ },
+ "reference": "clair_obscur_expedition_33_title_glossy_kr_game_f.webp",
+ "prompt": "records/clair_obscur_expedition_33/casual1-ui.json",
+ "prompt_sha256": "4dd924456ac42aa225b55572804a15d82da8a7187e28d799808a9c9775682862",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "review": "일상컷 트리 버전2 — node tools/casual-plan.cjs clair_obscur_expedition_33 --v2 --slots 1,2,3,4,5 · 그리기 전에 계획을 사용자에게 보였다(사용자 「응 그대로 그려줘」) · 지시문은 지시문 묶음(tools/prompt-pack.cjs)이 계획기와 글자 하나 다르지 않게 · 그 세계의 방 · 린넨 홈웨어 · 원정대 일지를 얼굴 옆에 들고 어깨 너머로 돌아봄 · 계획대로",
+ "ui_record": "records/clair_obscur_expedition_33/casual1-ui.json"
+}

@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "clair_obscur_expedition_33",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "clair_obscur_expedition_33_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "polos0117.github.io dot/dot.js 그리기(GEN) — 카드라서 바탕 불투명, 첨부 없는 첫 그림은 images/generations",
+  "dot_commit": "20a40068d8a8ebe74125d0ad347faef702564ae2",
+  "code_commit": "a2b1ff5078001a313cb529bd8945fd301fa20ad4",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "478139fe12661be2b4ae016dc06e760055147b2b68ccced05adc2fb047466b48",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "generation": {
+  "model": "gpt-image-2.5-sunburst",
+  "quality": "high",
+  "size": "1024x1536",
+  "background": "opaque",
+  "endpoint": "images/edits",
+  "created": 1793465054,
+  "usage": {
+   "input_tokens": 2260,
+   "input_tokens_details": {
+    "image_tokens": 1536,
+    "text_tokens": 724
+   },
+   "output_tokens": 1372,
+   "output_tokens_details": {
+    "image_tokens": 1372,
+    "text_tokens": 0
+   },
+   "total_tokens": 3632
+  }
+ },
+ "reference": "clair_obscur_expedition_33_title_glossy_kr_game_f.webp",
+ "prompt": "records/clair_obscur_expedition_33/title_open-ui.json",
+ "prompt_sha256": "266a6d9be08a7d4b42eb478551ec1f3a1b2c09da6e9a918ed6b0b7fcf54a05a7",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "review": "계획대로",
+ "ui_record": "records/clair_obscur_expedition_33/title_open-ui.json"
+}
