@@ -4,7 +4,7 @@
   {
    "key": "clair_obscur_expedition_33",
    "execution": "claude-e33-20261031T163839Z",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-10-31T16:38:46.395Z",
    "date_kst": "2026-11-01",
    "date_utc": "2026-10-31",
@@ -20,7 +20,9 @@
     "clair_obscur_expedition_33_glossy_kr_game_f_casual3.webp",
     "clair_obscur_expedition_33_glossy_kr_game_f_casual4.webp",
     "clair_obscur_expedition_33_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-10-31T16:58:08.365Z",
+   "done_by": "claude-e33-20261031T163839Z"
   }
  ]
 }
