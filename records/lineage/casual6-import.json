@@ -1,0 +1,54 @@
+{
+ "version": 1,
+ "game": "lineage",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "lineage_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "8bac43843c92bc62aa20d83b05d47692e5ef0389373a10de0ee6842b3a87c41b",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "lineage_title_glossy_kr_game_f.webp",
+ "prompt": "records/lineage/casual6-ui.json",
+ "prompt_sha256": "3b41e131d740ed3f2f071c32f2b7f009d9732aa3ba14cb8e529e199dcdcb0d97",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "de965968669e1caea510ad2768b84cf5e462b564d3346b54ac36dc0a6d7219b6",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "군주",
+  "en": "the Lineage monarch's look — a regal crimson cape over burnished plate armour, a gold circlet and a long sword belt"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8bac43843c92bc62aa20d83b05d47692e5ef0389373a10de0ee6842b3a87c41b",
+  "passed": true,
+  "observations": [
+   "붉은 장발·같은 성인 얼굴 유지. 진홍 망토·금관·금속 갑옷 크롭 투피스·검 벨트의 군주 코스튬.",
+   "패션쇼에서 카메라를 두 손으로 들고 촬영. 보이는 팔·손과 다리 연결 자연스러움.",
+   "카메라의 아주 작은 흰 표식은 선명하게 읽히지 않음. 큰 글자·HUD·게임 로고·원작 얼굴 없음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
