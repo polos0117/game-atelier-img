@@ -1,0 +1,53 @@
+{
+ "version": 1,
+ "game": "sangokushi_sousouden",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "sangokushi_sousouden_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "70ff9f0c8934a1954eb7ce4a8e16d00793d6837be5cb942d02e416b04d28739b",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "sangokushi_sousouden_title_glossy_kr_game_f.webp",
+ "prompt": "records/sangokushi_sousouden/casual6-ui.json",
+ "prompt_sha256": "fb0fca7b237d8fd6603cfee25a2a26013488f247eafd82ba689db1711ca56f4e",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "1700bda2d189d5f8b67b18a30c10e0f82c5103df1a18b30c92c28f1737cf3ce0",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "조조",
+  "en": "Cao Cao's warlord look — dark lacquered lamellar armour with gold trim, a deep blue silk robe beneath, a crested helmet circlet and a long war cape"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "70ff9f0c8934a1954eb7ce4a8e16d00793d6837be5cb942d02e416b04d28739b",
+  "passed": false,
+  "observations": [
+   "붉은 올림머리·동일 얼굴. 검은 금장 갑옷 코르셋·남색 천과 관의 조조 차림. 무릎 모아 꿇고 두 손을 모음, 중복 팔다리 없음.",
+   "모래언덕 대신 원본의 진영 배경이 남고 깃발에 읽히는 한자 曹가 보임. HUD·실제 상표 없음."
+  ],
+  "cause": "원본 배경의 진영과 깃발 글자를 복제함"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
