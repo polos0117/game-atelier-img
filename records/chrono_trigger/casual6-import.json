@@ -1,0 +1,54 @@
+{
+ "version": 1,
+ "game": "chrono_trigger",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "chrono_trigger_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "a153fe92e0f24ecae378a7e3945960be23712e13d039c3454e5558745cf4341f",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "chrono_trigger_title_glossy_kr_game_f.webp",
+ "prompt": "records/chrono_trigger/casual6-ui.json",
+ "prompt_sha256": "4bec292ce9ff5c146aeffbf3e5d7b3bb0200b5a6ffa98a3a26b47956440bf192",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "51870470f70cf90afaeaad80f21eb928eab3e49e2f0972a93e7bff8d935b4582",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "크로노",
+  "en": "Crono's look — a blue tunic with a yellow sash belt, a white headband, wristbands and a katana scabbard"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a153fe92e0f24ecae378a7e3945960be23712e13d039c3454e5558745cf4341f",
+  "passed": true,
+  "observations": [
+   "붉은 포니테일·같은 성인 얼굴 유지. 파란 튜닉 보디수트·노란 허리띠·흰 머리띠·검집의 크로노 코스튬.",
+   "노래방 소파에 옆으로 다리 꼬고 앉아 오른손 휴대폰·왼손 무릎. 팔은 정확히 두 개이고 두 어깨에서 손목까지 자연스럽게 이어짐.",
+   "휴대폰을 보며 웃는 표정, 화면은 보이지 않고 배경 TV는 추상 광원. 읽히는 문자·HUD·실제 상표 없음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
