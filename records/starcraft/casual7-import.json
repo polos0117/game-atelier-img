@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "starcraft",
+ "slot": "casual7",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "starcraft_glossy_kr_game_f_casual7.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "655945c457e5e7458df778b3699a111317ab85dd892388e78e57e2c9612c22be",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "starcraft_title_glossy_kr_game_f.webp",
+ "prompt": "records/starcraft/casual7-ui.json",
+ "prompt_sha256": "ed7359f433ed835861649af5b9b92d1db175b9edced707b68eaaf419e3be8187",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "268e43e0a0c1ea949e5ad9d470cdf61cb410915833f9216b7eb9482cb9bda72d",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "테란 해병",
+  "en": "a Terran Marine's power armour — chunky cobalt-blue armoured shoulder plates, an armoured breastplate, armoured gauntlets and heavy armoured boots with an amber visor headpiece"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "655945c457e5e7458df778b3699a111317ab85dd892388e78e57e2c9612c22be",
+  "passed": false,
+  "observations": [
+   "어두운 긴 머리·동일 얼굴. 코발트 해병 보디수트·큰 어깨 장갑·호박색 바이저 소품.",
+   "사진 부스 벽에 기대고 한 손으로 머리를 만짐. 보이는 팔 두 개는 어깨·손목과 자연스럽게 이어짐.",
+   "계획의 오른손 머리·왼손 밖과 반대로 왼손 머리·오른팔 아래. 허리 위보다 약간 넓게 허벅지가 보임. 원작 인물·외계 생물·HUD·문자 없음."
+  ],
+  "cause": "wall_hair 추천의 좌우 손과 프레이밍을 모델이 반전·확장함"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "필수 갈래가 없다"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}

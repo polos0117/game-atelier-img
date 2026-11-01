@@ -1,0 +1,44 @@
+{
+ "game": "starcraft",
+ "seed": 711010,
+ "tree": 2,
+ "required": "costume",
+ "slots": [
+  7
+ ],
+ "cuts": [
+  {
+   "n": 7,
+   "era": "now",
+   "place": "arcade_photo",
+   "ofam": "hero_costume",
+   "treeV": 2,
+   "prop": "",
+   "preset": "wall_hair",
+   "use": "",
+   "posture": "lean_wall",
+   "support": "back_wall",
+   "frame": "waist_up",
+   "body": "front_3q",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "hair_tuck",
+   "left": "out",
+   "legs": "",
+   "gaze": "screen_left",
+   "item": "hc_bodysuit",
+   "expr": "exhausted",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "balanced",
+    "source_influence": "strong",
+    "separates_preference": "balanced"
+   }
+  }
+ ],
+ "scope": "Existing registered games: add exactly one hero/mascot costume; legacy cuts stay unchanged",
+ "legacy_record_gaps": [
+  "필수 갈래가 없다"
+ ]
+}
