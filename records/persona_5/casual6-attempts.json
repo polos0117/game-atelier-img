@@ -1,0 +1,36 @@
+{
+ "game": "persona_5",
+ "slot": "casual6",
+ "attempts": [
+  {
+   "exposure": "bold",
+   "prompt_sha256": "d1b8633ead91d39e84f4b52e7113c5a0c929c9d0b49ca660f712655d3e968a8e",
+   "result": "moderation_blocked",
+   "category": "sexual",
+   "request_id": "aeb29a81-296f-45d9-a176-bd16a3c83a39"
+  },
+  {
+   "exposure": "moderate",
+   "prompt_sha256": "942900651c870a3764dc6389ca4d88cf940bbcedef072f3a8c17d91c6a87ce62",
+   "result": "moderation_blocked",
+   "category": "sexual",
+   "request_id": "8c8c92da-abe1-49cc-939e-29a16f5f7aaa"
+  },
+  {
+   "exposure": "low",
+   "result": "moderation_blocked",
+   "request_id": "691ac019-7dce-45c7-b20a-9a62358ee69e",
+   "category": "sexual"
+  }
+ ],
+ "prior_group_error": {
+  "request_id": "610d7a7e-3dbf-48ec-9ab5-26d102a14792",
+  "note": "Concurrent batch returned a moderation rejection before both results settled; no image returned for these two targets. Error could not be attributed to one target."
+ },
+ "replan": "One public full-body costume portrait, opaque full coverage, after bold/moderate/low refusals",
+ "final": {
+  "exposure": "low",
+  "result": "generated",
+  "prompt_sha256": "10c486caa33e9bce1740e4bbb4666bd1ca807ff7ba9b49ff2b761322a7920a05"
+ }
+}

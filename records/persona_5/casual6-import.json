@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "persona_5",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "persona_5_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "78098de6f1d03293362486382a32fc5e2e186c2676531d594c0d70601f8e0cf1",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "persona_5_title_glossy_kr_game_f.webp",
+ "prompt": "records/persona_5/casual6-ui.json",
+ "prompt_sha256": "10c486caa33e9bce1740e4bbb4666bd1ca807ff7ba9b49ff2b761322a7920a05",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "b759623c59e6749949e2c6450a8fcbfe57593811604556473e43e16b4cb93c00",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "조커(괴도단)",
+  "en": "the Phantom Thief Joker's look — a long black tailcoat, a grey high-collared waistcoat, red gloves and a white domino mask"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "78098de6f1d03293362486382a32fc5e2e186c2676531d594c0d70601f8e0cf1",
+  "passed": false,
+  "observations": [
+   "보라색 물결 머리·붉은 눈·동일 성인 얼굴. 긴 검정 테일코트·회색 조끼·붉은 장갑·흰 도미노 마스크의 조커 코스튬.",
+   "연회장 전신, 팔은 두 개이며 손목과 어깨에 정상 연결. 두 다리와 부츠가 프레임 안에 있음. 몸통과 다리는 코트·타이츠로 덮음.",
+   "새 계획의 측면·오른손 흔들기 대신 원본처럼 뒤 3/4·한 손 마스크 들기가 나옴. 얼굴은 카메라를 보고 원작 얼굴·HUD·읽히는 문자·상표 없음."
+  ],
+  "cause": "보통·적게 노출에서도 거절되어 한 번 장면 재계획. 전신 코스튬 생성에는 성공했으나 기준 이미지의 뒤돌아 마스크 드는 포즈를 따라감"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "프레이밍 three_quarter 가 2 번(1 번까지)"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
