@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "game": "sonic_the_hedgehog",
+  "slot": "ending_open",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "sonic_the_hedgehog_ending_open_glossy_kr_game_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "555c96a1e7a9d640f2607035bfa950f00470d18776d4849c7c7b4f58875a1005",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": "sonic_the_hedgehog_ending_glossy_kr_game_f.webp",
+  "prompt": "records/sonic_the_hedgehog/ending_open-ui.json",
+  "prompt_sha256": "d3d9837b2ff4b19fee965d9098ebd3d7206c7550ddaa302eb3903199bca70f14",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-sonic-d18f-20261102",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "555c96a1e7a9d640f2607035bfa950f00470d18776d4849c7c7b4f58875a1005",
+    "passed": false,
+    "observations": [
+      "1024×1536, portrait 2:3.",
+      "One main adult human woman; no source character face/body, readable text, logo, HUD, or real shoe brand seen.",
+      "No duplicated arms or legs seen; visible hands connect to their forearms. Occluded fingers are not fully countable.",
+      "Face, royal-blue curled hair, emerald eyes, skin tone and body proportions remain consistent with the canonical title.",
+      "Background changes from sunset sea to bright blue sky and checkered cliffs while gold rings rise; pose and identity match."
+    ],
+    "cause": "OPEN world replacement with rising rings competes with keeping the sunset sea background."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

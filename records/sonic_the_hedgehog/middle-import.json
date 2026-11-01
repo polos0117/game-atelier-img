@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "game": "sonic_the_hedgehog",
+  "slot": "middle",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "sonic_the_hedgehog_middle_glossy_kr_game_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "e46fa8d36a00c056865f6ef1c5e417cfdf95d96c68e716aea058cbe97e6f6e6c",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": "sonic_the_hedgehog_title_glossy_kr_game_f.webp",
+  "prompt": "records/sonic_the_hedgehog/middle-ui.json",
+  "prompt_sha256": "e491138f4be18142ba8b7038982166e0dbfbe885feac589cd6a1a7974dde6ea2",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-sonic-d18f-20261102",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "e46fa8d36a00c056865f6ef1c5e417cfdf95d96c68e716aea058cbe97e6f6e6c",
+    "passed": false,
+    "observations": [
+      "1024×1536, portrait 2:3.",
+      "One main adult human woman; no source character face/body, readable text, logo, HUD, or real shoe brand seen.",
+      "No duplicated arms or legs seen; visible hands connect to their forearms. Occluded fingers are not fully countable.",
+      "Face, royal-blue curled hair, emerald eyes, skin tone and body proportions remain consistent with the canonical title.",
+      "Hair retains the canonical curls rather than the form-specific spiky silhouette; crouch reads as a sprint instead of a tightly rounded roll preparation."
+    ],
+    "cause": "Identity reference haircut lock competes with FORM spiky-hair instruction; low action angle promotes a sprint crouch."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

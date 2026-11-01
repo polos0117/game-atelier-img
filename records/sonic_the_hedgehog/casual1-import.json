@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "game": "sonic_the_hedgehog",
+  "slot": "casual1",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "sonic_the_hedgehog_glossy_kr_game_f_casual1.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "c0cdfc6f8f4a9d898a7d8bb391264bfeb5506a2ae703cd9f7744d22bff139875",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": "sonic_the_hedgehog_title_glossy_kr_game_f.webp",
+  "prompt": "records/sonic_the_hedgehog/casual1-ui.json",
+  "prompt_sha256": "ce1c41bc395bf27905d59c7a573e9ea108d2670a8d3f3c8f674b598ce393996e",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-sonic-d18f-20261102",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "c0cdfc6f8f4a9d898a7d8bb391264bfeb5506a2ae703cd9f7744d22bff139875",
+    "passed": false,
+    "observations": [
+      "1024×1536, portrait 2:3.",
+      "One main adult human woman; no source character face/body, readable text, logo, HUD, or real shoe brand seen.",
+      "No duplicated arms or legs seen; visible hands connect to their forearms. Occluded fingers are not fully countable.",
+      "Face, royal-blue curled hair, emerald eyes, skin tone and body proportions remain consistent with the canonical title.",
+      "Planned gaze is screen-left but observed gaze is screen-right; the environmental plan renders as a close full-body chair scene. Multiple ring jewelry pieces remain."
+    ],
+    "cause": "Head turn and GAZE screen-left were not both followed; source accessory details carried through identity reference."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

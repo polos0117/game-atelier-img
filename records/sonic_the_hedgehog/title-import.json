@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "game": "sonic_the_hedgehog",
+  "slot": "title",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "sonic_the_hedgehog_title_glossy_kr_game_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "92b6a08f8b473ebce6e283eb9547e81951a0caeb97a0316991e74147a1f3237a",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": null,
+  "prompt": "records/sonic_the_hedgehog/title-ui.json",
+  "prompt_sha256": "a15a93d5fa7f6645006cff5c6d1ee40a58ea2eaa1b6da598025f1ee56a0c95ef",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-sonic-d18f-20261102",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "92b6a08f8b473ebce6e283eb9547e81951a0caeb97a0316991e74147a1f3237a",
+    "passed": false,
+    "observations": [
+      "1024×1536, portrait 2:3.",
+      "One main adult human woman; no source character face/body, readable text, logo, HUD, or real shoe brand seen.",
+      "No duplicated arms or legs seen; visible hands connect to their forearms. Occluded fingers are not fully countable.",
+      "Confident face has a slight smile rather than the specified composed closed mouth; voluminous hair touches the upper frame."
+    ],
+    "cause": "STANCE sprint lean and full-body margins compete with a voluminous hairstyle and detailed card close emphasis."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

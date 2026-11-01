@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "game": "sonic_the_hedgehog",
+  "slot": "casual5",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "sonic_the_hedgehog_glossy_kr_game_f_casual5.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "fc715a4b8af8b28305b2ca34ee8d3d719d9e6f5134dea4ed0818e2aed29052f7",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": "sonic_the_hedgehog_title_glossy_kr_game_f.webp",
+  "prompt": "records/sonic_the_hedgehog/casual5-ui.json",
+  "prompt_sha256": "107bb397be936d62ce3826de397886ee42b9ba2a7b0ddd90219e93443bf9e922",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-sonic-d18f-20261102",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "fc715a4b8af8b28305b2ca34ee8d3d719d9e6f5134dea4ed0818e2aed29052f7",
+    "passed": false,
+    "observations": [
+      "1024×1536, portrait 2:3.",
+      "One main adult human woman; no source character face/body, readable text, logo, HUD, or real shoe brand seen.",
+      "No duplicated arms or legs seen; visible hands connect to their forearms. Occluded fingers are not fully countable.",
+      "Face, royal-blue curled hair, emerald eyes, skin tone and body proportions remain consistent with the canonical title.",
+      "Two distinct arms connect naturally: right hand on hip and left hand at hair. Multiple gold ring fasteners appear on the swimsuit despite the casual wardrobe rule limiting game influence to a small accessory."
+    ],
+    "cause": "Game reference ring motifs carried into swimsuit fasteners despite WARDROBE restriction."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}
