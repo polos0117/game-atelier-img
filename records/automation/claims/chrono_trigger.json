@@ -4,7 +4,7 @@
   {
    "key": "chrono_trigger",
    "execution": "game-chrono-4c4bb8-20261101",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-01T09:12:15.548Z",
    "date_kst": "2026-11-01",
    "date_utc": "2026-11-01",
@@ -20,7 +20,9 @@
     "chrono_trigger_glossy_kr_game_f_casual3.webp",
     "chrono_trigger_glossy_kr_game_f_casual4.webp",
     "chrono_trigger_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-01T09:31:44.808Z",
+   "done_by": "game-chrono-4c4bb8-20261101"
   }
  ]
 }
