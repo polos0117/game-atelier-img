@@ -4,7 +4,7 @@
   {
    "key": "detroit_become_human",
    "execution": "game-detroit-70c654-20261101",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-01T13:52:09.858Z",
    "date_kst": "2026-11-01",
    "date_utc": "2026-11-01",
@@ -20,7 +20,9 @@
     "detroit_become_human_glossy_kr_game_f_casual3.webp",
     "detroit_become_human_glossy_kr_game_f_casual4.webp",
     "detroit_become_human_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-01T14:09:01.202Z",
+   "done_by": "game-detroit-70c654-20261101"
   }
  ]
 }
