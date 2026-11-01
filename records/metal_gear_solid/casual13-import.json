@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "metal_gear_solid",
+ "slot": "casual13",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "metal_gear_solid_glossy_kr_game_f_casual13.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "8cc62638262f36b63af1d932ebb38e7281d9bf2932fab5d8ae84963c6c538d16",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "metal_gear_solid_title_glossy_kr_game_f.webp",
+ "prompt": "records/metal_gear_solid/casual13-ui.json",
+ "prompt_sha256": "ffa82f5e05c9182080b1e24bc863b7260ad93289361133ae246ba90d15b79eba",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "b8ea7a91703b45bc5faca6b23ca37379a3ae27c133e0c6e6194b23d524eed732",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "솔리드 스네이크",
+  "en": "Solid Snake's sneaking-suit look — a fitted dark blue-grey tactical bodysuit, a load-bearing harness and a long black bandana tied at the forehead"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8cc62638262f36b63af1d932ebb38e7281d9bf2932fab5d8ae84963c6c538d16",
+  "passed": false,
+  "observations": [
+   "은백 올림머리·회청 눈·동일 얼굴. 짙은 청회색 전술 보디수트·하네스·긴 검은 반다나의 솔리드 스네이크 코스튬.",
+   "서커스 바닥에서 오른팔 머리 뒤·왼손 바닥 지지. 팔은 정확히 두 개이며 정상 연결. 읽히는 문자·HUD·원작 얼굴 없음.",
+   "전신 프레임에서 한쪽 부츠만 뚜렷하고 두 다리·발이 서로 포개져 반대쪽 발은 구별이 어렵다. 옆눕기보다 상체를 높게 듦."
+  ],
+  "cause": "포개진 다리 원근과 높은 상체로 전신 다리·발 분리 확인이 제한됨"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "몸 방향 front 가 3 번(2 번까지)"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
