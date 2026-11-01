@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "world_of_warcraft",
+ "slot": "casual7",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "world_of_warcraft_glossy_kr_game_f_casual7.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "c02262fe0c199beb44996ef9a00a6f119b18032220d738f44c1427a07818ea4b",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "world_of_warcraft_title_glossy_kr_game_f.webp",
+ "prompt": "records/world_of_warcraft/casual7-ui.json",
+ "prompt_sha256": "5940c64364706bb2e8333bcffedfb0279da0cc46e377b969a9f71f08ee666af1",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "ad40a3f4037446a0c5e239bf228a5b79195f17a67924930a468d0f9ea1e0fe57",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "멀록(마스코트)",
+  "en": "the murloc mascot's look — teal-green scaled fabric, a fin-crested hood and fin-shaped trims at the hips and wrists, without its face"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c02262fe0c199beb44996ef9a00a6f119b18032220d738f44c1427a07818ea4b",
+  "passed": false,
+  "observations": [
+   "땋은 머리·동일 얼굴, 결혼식 꽃 장식 배경에 멀록 비늘 크롭 투피스·지느러미 장식. 두 손으로 꽃·가위를 다루며 팔 연결은 자연스러움.",
+   "후드에 큰 눈 장식이 더해져 마스코트 얼굴 배제 지시와 어긋남. 프레임은 3/4보다 허벅지가 적게 보임. 문자·HUD 없음."
+  ],
+  "cause": "멀록 fin-crested hood를 눈이 달린 동물 후드로 구체화함"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "필수 갈래가 없다"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
