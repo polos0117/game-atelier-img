@@ -1,0 +1,61 @@
+{
+ "version": 1,
+ "game": "resident_evil_2",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "resident_evil_2_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session, built-in)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "0f46ce0f7a7c4b739b35e45baf8ecf991e82626ad4a349ab6bc5d8c972cf0064",
+  "note": "Original PNG is not committed; SHA256 only."
+ },
+ "reference": "resident_evil_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/resident_evil_2/casual5-ui.json",
+ "prompt_sha256": "95c0b334f70e6376fa98b22e09fa5c2e141d3ab405890b4ad56dc1f29280bd8d",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "9f36fa3610b2080cf019f8df453e7f9ddbf44d7cde634d3aa405037f6c193738",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-re2-7f93e99eda57",
+ "qa": {
+  "reviewer": "game-re2-7f93e99eda57",
+  "image_sha256": "0f46ce0f7a7c4b739b35e45baf8ecf991e82626ad4a349ab6bc5d8c972cf0064",
+  "passed": false,
+  "observations": [
+   "Same face/hair in a leotard with wrap skirt on a rainy police-station terrace, gaze toward camera; both feet inside the full-body frame.",
+   "Two connected arms: right bent behind head, left extends to the floor; two bent legs, no extra limb apparent.",
+   "DEVIATION: reclining, propped torso rather than the planned fully side-lying posture. A handgun and loose cartridges are extra background props alongside the flashlight. No blood."
+  ],
+  "cause": "The head-support and floor-bracing hand tasks appear to favor a supported recline over the planned side-lying posture."
+ },
+ "acceptance": "user_approval_2026-10-31 — publish after AI QA, user reviews published results; explicit task authorization 2026-11-01.",
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "request_id": "ec4f0e22-a488-47a3-b164-a04934a0e8b6"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "generated"
+   }
+  ]
+ }
+}

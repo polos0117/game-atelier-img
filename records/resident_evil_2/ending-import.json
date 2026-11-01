@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "resident_evil_2",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "resident_evil_2_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session, built-in)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "62eeeb733b42ac4f4764d18d2fc22b186bc04ec4ba32e90e4656f5a09acd0b1d",
+  "note": "Original PNG is not committed; SHA256 only."
+ },
+ "reference": "resident_evil_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/resident_evil_2/ending-ui.json",
+ "prompt_sha256": "c4faa824471a164588362688dfcd46f067841354cdb31e616c4e07000eb1aa04",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "058924c45faea8f1a551f5fbd48a826690ec7077eb52fea0548c39691e3773d6",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-re2-7f93e99eda57",
+ "qa": {
+  "reviewer": "game-re2-7f93e99eda57",
+  "image_sha256": "62eeeb733b42ac4f4764d18d2fc22b186bc04ec4ba32e90e4656f5a09acd0b1d",
+  "passed": true,
+  "observations": [
+   "Identity matches title; short scorched black leather jacket, shoulder bag and aimed handgun on a red-lit underground station platform.",
+   "Two connected arms and legs with visible boots; grip fingers partly hidden naturally. No monster, blood, readable lettering, company logo or HUD.",
+   "A red lining and reflective trim carry over, but the outer silhouette changes to a short jacket."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — publish after AI QA, user reviews published results; explicit task authorization 2026-11-01."
+}

@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "resident_evil_2",
+ "slot": "ending_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "resident_evil_2_ending_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session, built-in)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "3804a728405fae388a4e6e801e3ae2c2bb66e816a4f393dfcb0f8141f44c29bb",
+  "note": "Original PNG is not committed; SHA256 only."
+ },
+ "reference": "resident_evil_2_ending_glossy_kr_game_f.webp",
+ "prompt": "records/resident_evil_2/ending_open-ui.json",
+ "prompt_sha256": "5b3872456f0703224fbdbe0deec1d47c4c97157c922969d475c8a4fa09ba3724",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "1dbb05df7da7b1a5abe0970ec1c5b459ba82e609a90ad775230a7d77c0da59d6",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-re2-7f93e99eda57",
+ "qa": {
+  "reviewer": "game-re2-7f93e99eda57",
+  "image_sha256": "3804a728405fae388a4e6e801e3ae2c2bb66e816a4f393dfcb0f8141f44c29bb",
+  "passed": true,
+  "observations": [
+   "Same face, stance, jacket, shoulder bag and handgun as ending; approaching train headlamps, rotating red warning lights, rain and sparks.",
+   "One undivided composition with one woman, two connected arms and legs, full boots; no legible text, logo, monster or wound."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — publish after AI QA, user reviews published results; explicit task authorization 2026-11-01."
+}

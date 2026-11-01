@@ -1,0 +1,67 @@
+{
+ "version": 1,
+ "game": "resident_evil_2",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "resident_evil_2_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session, built-in)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "0fb283cfbe702f85f4afee800f87e517b460d2e37109e621140f42167cbb37df",
+  "note": "Original PNG is not committed; SHA256 only."
+ },
+ "reference": "resident_evil_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/resident_evil_2/casual2-ui.json",
+ "prompt_sha256": "08711f1d90582afeb583f58bc94d89594e336e8944e994054d696c0eeb6845db",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "e51c6b7baac9ee4cc92e15f0bc2fb1cbbf96555bc0f0ec713b60d1ac554621ab",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-re2-7f93e99eda57",
+ "qa": {
+  "reviewer": "game-re2-7f93e99eda57",
+  "image_sha256": "0fb283cfbe702f85f4afee800f87e517b460d2e37109e621140f42167cbb37df",
+  "passed": true,
+  "observations": [
+   "Exposure reduced from bold to moderate after two output safety rejections. Cutout mini dress in a sauna/pool setting, seated with knees together.",
+   "Both hands brace the ledge as planned; two arms and two legs with no visible extra digits. Three-quarter framing, gaze to camera and frontal torso match.",
+   "Same adult identity; no creature, readable text, brand or HUD."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — publish after AI QA, user reviews published results; explicit task authorization 2026-11-01.",
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "request_id": "8cdbb01d-6f54-4984-9252-2c8a129cad0a"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "request_id": "13d92d39-2739-4ee1-ab3f-2b81f8653388"
+   },
+   {
+    "attempt": 3,
+    "exposure": "moderate",
+    "result": "generated"
+   }
+  ]
+ }
+}

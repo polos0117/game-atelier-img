@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "resident_evil_2",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "resident_evil_2_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session, built-in)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "10eb4886e15639a617eecb6a3ca148945945a727114ebea9062c4e73b3a7702f",
+  "note": "Original PNG is not committed; SHA256 only."
+ },
+ "reference": "resident_evil_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/resident_evil_2/title_open-ui.json",
+ "prompt_sha256": "1a9f9b69b4cad965b2f9164596d6143bf75e63b3d35fa538c2739eae0ebc54fa",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "e58c4dbbe621b1dfe89e3daefa2596c7c4b63b00455b220e21160165fb6739f4",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-re2-7f93e99eda57",
+ "qa": {
+  "reviewer": "game-re2-7f93e99eda57",
+  "image_sha256": "10eb4886e15639a617eecb6a3ca148945945a727114ebea9062c4e73b3a7702f",
+  "passed": true,
+  "observations": [
+   "Same face, costume, pose and framing as title; darkened street and visible lightning with red emergency lamps.",
+   "Single undivided image; one woman, both boots visible, two arms and two legs; no visible new anatomy issue, readable text, creature or HUD."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — publish after AI QA, user reviews published results; explicit task authorization 2026-11-01."
+}

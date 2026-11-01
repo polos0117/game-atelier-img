@@ -1,0 +1,95 @@
+{
+ "version": 1,
+ "game": "resident_evil_2",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "resident_evil_2_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session, built-in)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "039f1cbe1813f427210f5aa090d09fe99181e515b154bfc089cbdc57f040fd54",
+  "note": "Original PNG is not committed; SHA256 only."
+ },
+ "reference": "resident_evil_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/resident_evil_2/casual3-ui.json",
+ "prompt_sha256": "8137d88730d86a9e85c1111531acdbdc451e75157c17855d6310ea0a98840a04",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "d2d77ad49c16b54ccaf42be9772fd7746cda9fca9d1b3315e240734068b8a02b",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-re2-7f93e99eda57",
+ "qa": {
+  "reviewer": "game-re2-7f93e99eda57",
+  "image_sha256": "039f1cbe1813f427210f5aa090d09fe99181e515b154bfc089cbdc57f040fd54",
+  "passed": false,
+  "observations": [
+   "After four safety rejections, planner replanned only slot 3 from garter-inspired fashion to bath yukata; new plan succeeded at moderate after two bold rejections.",
+   "Castle stairs, wall lean, waist-up crop and leftward gaze are present; same face and short hair.",
+   "DEVIATION: anatomical left hand touches hair rather than planned right, and the other forearm enters the lower crop rather than fully outside frame.",
+   "Exactly two visible connected arms; fingers partly occluded by hair. No visible text, creature, logo or HUD."
+  ],
+  "cause": "Hair-touch action is mirrored despite the explicit right/left task lines; waist-up crop includes the idle forearm."
+ },
+ "acceptance": "user_approval_2026-10-31 — publish after AI QA, user reviews published results; explicit task authorization 2026-11-01.",
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "request_id": "a71327a2-1976-4cc8-ab34-86e29eae5aa3"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "request_id": "5068d58e-485d-4296-82be-413745640755"
+   },
+   {
+    "attempt": 3,
+    "exposure": "moderate",
+    "result": "moderation_blocked",
+    "request_id": "6ede91f1-611f-4e19-a59b-2dbd4799e51b"
+   },
+   {
+    "attempt": 4,
+    "exposure": "low",
+    "result": "moderation_blocked",
+    "request_id": "f8a839f0-218d-40cd-9172-0f5de127d5c7"
+   },
+   {
+    "attempt": 5,
+    "plan": 2,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "request_id": "b3a4861e-0943-4483-a171-2c093664a450"
+   },
+   {
+    "attempt": 6,
+    "plan": 2,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "request_id": "88e7e2fc-c327-4f03-8bf4-4982ba2f5120"
+   },
+   {
+    "attempt": 7,
+    "plan": 2,
+    "exposure": "moderate",
+    "result": "generated"
+   }
+  ]
+ }
+}

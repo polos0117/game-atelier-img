@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "resident_evil_2",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "resident_evil_2_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session, built-in)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "84d031ea01adbc743be47ba8bf78b84787b6421fc41f0ef32ea48ee073d3a158",
+  "note": "Original PNG is not committed; SHA256 only."
+ },
+ "reference": "resident_evil_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/resident_evil_2/casual4-ui.json",
+ "prompt_sha256": "c406a0dc3290aa4868fd6b283a45d1ffef1c2bf92a8fa8992bc15311f139fe97",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "8ed67226380048da8383ceebec657e1c2fdc889bfc050c7c9ecfd1d720d0c59a",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-re2-7f93e99eda57",
+ "qa": {
+  "reviewer": "game-re2-7f93e99eda57",
+  "image_sha256": "84d031ea01adbc743be47ba8bf78b84787b6421fc41f0ef32ea48ee073d3a158",
+  "passed": false,
+  "observations": [
+   "Moon-priestess fantasy dress beside a hinoki bath; side view, standing, herb pot held with two connected hands as planned.",
+   "Same original adult identity; no duplicated limbs; one leg partly occluded by drapery, both feet plausibly connected and within image.",
+   "DEVIATION: the woman fills nearly the full image height rather than the planned environmental distance."
+  ],
+  "cause": "The reference full-body scale and costume detail compete with the planned distant environmental framing."
+ },
+ "acceptance": "user_approval_2026-10-31 — publish after AI QA, user reviews published results; explicit task authorization 2026-11-01."
+}

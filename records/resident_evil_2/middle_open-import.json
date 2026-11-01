@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "resident_evil_2",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "resident_evil_2_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session, built-in)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "5d100458f633f24ecba75ec705f2819771fc061d886a6359514735922eb75e23",
+  "note": "Original PNG is not committed; SHA256 only."
+ },
+ "reference": "resident_evil_2_middle_glossy_kr_game_f.webp",
+ "prompt": "records/resident_evil_2/middle_open-ui.json",
+ "prompt_sha256": "dcd2e2a49baeae4a4919b2a2d81862fd846b564404fa7f3ca0f8f945834af6da",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "1482b1f6f460a2b4f60de26c3e06db9b01a472e610b7aa3d6aa30ced275c448c",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-re2-7f93e99eda57",
+ "qa": {
+  "reviewer": "game-re2-7f93e99eda57",
+  "image_sha256": "5d100458f633f24ecba75ec705f2819771fc061d886a6359514735922eb75e23",
+  "passed": false,
+  "observations": [
+   "Same woman and pose as middle; moonlight pours through the upper hall window, leaning candle flames and drifting pages.",
+   "DEVIATION inherited from middle: red raincoat remains; reddish brown bandage stains can read as blood.",
+   "Single undivided image, complete boots; no duplicated arms or legs; background statue is architectural decor."
+  ],
+  "cause": "The referenced middle image already contains costume retention and blood-like bandage stains; open preserves the form image."
+ },
+ "acceptance": "user_approval_2026-10-31 — publish after AI QA, user reviews published results; explicit task authorization 2026-11-01."
+}

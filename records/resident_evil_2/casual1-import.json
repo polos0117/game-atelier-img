@@ -1,0 +1,47 @@
+{
+ "version": 1,
+ "game": "resident_evil_2",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "resident_evil_2_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session, built-in)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "63d229872249bcbc9a83475bba201871b942306f609b315964e591b4ebc0f210",
+  "note": "Original PNG is not committed; SHA256 only."
+ },
+ "reference": "resident_evil_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/resident_evil_2/casual1-ui.json",
+ "prompt_sha256": "6c28cb566e019d9263241e3e49699e668280ffc675cf4f1e8d73d78399c8a7bf",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "e04cf63ebe514191bd053de1ca95c597e86db822f8466718bdcf13e7d49f457e",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-re2-7f93e99eda57",
+ "qa": {
+  "reviewer": "game-re2-7f93e99eda57",
+  "image_sha256": "63d229872249bcbc9a83475bba201871b942306f609b315964e591b4ebc0f210",
+  "passed": false,
+  "observations": [
+   "Game studio desk/window scene in white lab-roleplay outerwear; same short hair, eyes and face; looking toward the rainy window.",
+   "DEVIATION: anatomical left hand supports the chin, whereas the plan specifies right; the other hand is outside the crop.",
+   "DEVIATION: framing includes much of chest and torso, wider than planned face_close. No extra visible arm or finger.",
+   "Typewriter is a small background motif; background paper markings are illegible."
+  ],
+  "cause": "Chin support is mirrored from the planned hand; reference identity/framing tendencies may have widened the requested face-close crop."
+ },
+ "acceptance": "user_approval_2026-10-31 — publish after AI QA, user reviews published results; explicit task authorization 2026-11-01."
+}

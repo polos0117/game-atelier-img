@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "resident_evil_2",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "resident_evil_2_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session, built-in)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "f1707ad2e62d6b10937f23724998ec1e8f916f484ddecf370f8dbf9ae1f38857",
+  "note": "Original PNG is not committed; SHA256 only."
+ },
+ "reference": null,
+ "prompt": "records/resident_evil_2/title-ui.json",
+ "prompt_sha256": "109a79bb9bb19f3e5c7456c961aa416365059d20dcc1e5ff733ca37d670d1800",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "b00502749e885c95c025979352770924e4e629f5629f56b24e59a5b50bd36d88",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-re2-7f93e99eda57",
+ "qa": {
+  "reviewer": "game-re2-7f93e99eda57",
+  "image_sha256": "f1707ad2e62d6b10937f23724998ec1e8f916f484ddecf370f8dbf9ae1f38857",
+  "passed": true,
+  "observations": [
+   "Wet red reflective police raincoat, short antique-gold hair, blue eyes, flashlight aimed to image left; complete head and both boots inside the image.",
+   "One original adult woman, no visible monster, injury, company logo or HUD. Tiny distant clock dial is not legibly numbered.",
+   "Two arms and legs; exposed fingers are plausible, some digits occluded by the flashlight and gloves."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — publish after AI QA, user reviews published results; explicit task authorization 2026-11-01."
+}

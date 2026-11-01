@@ -1,0 +1,47 @@
+{
+ "version": 1,
+ "game": "resident_evil_2",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "resident_evil_2_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session, built-in)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "86002765906e128bc936256dbdd8373bcccb73526bb8ed551f305bffb1552c1c",
+  "note": "Original PNG is not committed; SHA256 only."
+ },
+ "reference": "resident_evil_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/resident_evil_2/middle-ui.json",
+ "prompt_sha256": "d063c2343cfec9fd163b2736a0382f5c61a42888b525a553a606a80a98dedbe3",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "1b0f2b90f56117fbdd5083fc5ef8ac57ad07c57f44c4186ed890c8dba536481e",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-re2-7f93e99eda57",
+ "qa": {
+  "reviewer": "game-re2-7f93e99eda57",
+  "image_sha256": "86002765906e128bc936256dbdd8373bcccb73526bb8ed551f305bffb1552c1c",
+  "passed": false,
+  "observations": [
+   "Identity matches the title; leaning at a locked door in a marble hall with candles, typewriter and herb.",
+   "DEVIATION: the title red raincoat remains over the rolled-sleeve shirt and tactical vest; FORM calls for the shirt and vest as the new outfit.",
+   "DEVIATION: reddish brown markings on the leg bandage can read as blood, contrary to avoid. No exposed wound.",
+   "Head and both boots inside frame; no duplicated arms or legs; flashlight hand digits are partly occluded."
+  ],
+  "cause": "Reference costume retention conflicts with the requested FORM change; the bandaged survival look may have prompted injury-like staining despite NEVER DRAW."
+ },
+ "acceptance": "user_approval_2026-10-31 — publish after AI QA, user reviews published results; explicit task authorization 2026-11-01."
+}
