@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "trails_of_cold_steel",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "trails_of_cold_steel_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "f1ec7625dbce2bafed1b09e2929f3310dbae8bcb45d66179a6f1b80a4e0fa685",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "trails_of_cold_steel_title_glossy_kr_game_f.webp",
+ "prompt": "records/trails_of_cold_steel/casual6-ui.json",
+ "prompt_sha256": "9cdcfdb0d27b9fadc91a287f56f9ed0884ef88268e8c6de668326aaa62d56da0",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "02ccb37e93af4004e541e7a03ef8b805a4803aa4cb7d1ce0873c3de2ba98449c",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "린 슈바르처(VII반)",
+  "en": "the Class VII look — a fitted crimson uniform jacket with white trim and gold buttons, a dark pleated skirt and a katana scabbard at the hip"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f1ec7625dbce2bafed1b09e2929f3310dbae8bcb45d66179a6f1b80a4e0fa685",
+  "passed": false,
+  "observations": [
+   "금발 장발·푸른 눈·동일 성인 얼굴. 진홍 교복·흰 트림·금단추·검집의 린/VII반 코스튬.",
+   "오페라 홀 허리 위, 오른손 부채·왼손 난간·부채 쪽 시선. 두 팔·손 연결 자연스럽고 문자·HUD 없음.",
+   "몸은 완전 측면보다 3/4이며 보디수트보다 원본 교복의 재킷·주름치마가 강조됨."
+  ],
+  "cause": "원본 교복 실루엣을 강하게 이어받음"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "필수 갈래가 없다"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
