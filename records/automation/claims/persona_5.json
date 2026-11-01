@@ -4,7 +4,7 @@
   {
    "key": "persona_5",
    "execution": "game-persona5-77eb-20261101",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-01T04:30:40.897Z",
    "date_kst": "2026-11-01",
    "date_utc": "2026-11-01",
@@ -20,7 +20,9 @@
     "persona_5_glossy_kr_game_f_casual3.webp",
     "persona_5_glossy_kr_game_f_casual4.webp",
     "persona_5_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-01T04:43:28.582Z",
+   "done_by": "game-persona5-77eb-20261101"
   }
  ]
 }
