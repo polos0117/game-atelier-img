@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "overwatch",
+ "slot": "ending_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "overwatch_ending_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "2bc4302c3d7af1105e398f1e9028a48768677b3f8fa37a8ac6040a6a76c4e271",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "overwatch_ending_glossy_kr_game_f.webp",
+ "prompt": "records/overwatch/ending_open-ui.json",
+ "prompt_sha256": "d80f569a68c0f2675e1d2c3e5ed1e0b500b42e2c0d17149eb574d4e51370405a",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-overwatch-e799-20261102",
+ "generation": {
+  "calls": 1,
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2bc4302c3d7af1105e398f1e9028a48768677b3f8fa37a8ac6040a6a76c4e271",
+  "passed": true,
+  "observations": [
+   "1024×1536. 한국형 글로시 일러스트의 성인 여성 주인공 한 명. 읽히는 글자·숫자·타이틀 로고·HUD·실제 상표는 확인되지 않는다.",
+   "엔딩의 공중 자세·의상·날개를 유지하고 노을 위에서 금빛 빛줄기가 쏟아진다.",
+   "추가 인물이나 분할 화면이 없고 양손과 두 다리 연결이 보인다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

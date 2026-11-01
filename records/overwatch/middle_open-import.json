@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "overwatch",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "overwatch_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "52a2cd9ee7d24f81550298356ef0e0368900bfedefe47db3ff968e4f70768ba2",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "overwatch_middle_glossy_kr_game_f.webp",
+ "prompt": "records/overwatch/middle_open-ui.json",
+ "prompt_sha256": "0433f30d6f59e2730e26660104ee09476b57d234a792856eec1a9101d14ab7ff",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-overwatch-e799-20261102",
+ "generation": {
+  "calls": 1,
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "52a2cd9ee7d24f81550298356ef0e0368900bfedefe47db3ff968e4f70768ba2",
+  "passed": false,
+  "observations": [
+   "1024×1536. 한국형 글로시 일러스트의 성인 여성 주인공 한 명. 읽히는 글자·숫자·타이틀 로고·HUD·실제 상표는 확인되지 않는다.",
+   "중반의 두 팔·두 다리·권총 자세와 얼굴을 유지했다.",
+   "좁은 골목 양쪽 벽에 파란 섬광이 튄다. 중반의 의상·권총 잡기 차이도 그대로 이어졌다."
+  ],
+  "cause": "생성기가 제공한 지시문은 수정하지 않았다. 참조 의상 고착 또는 손 좌우·프레이밍·세부 표정의 생성 불일치. 규칙에 따라 재생성하지 않고 관찰 내용을 그대로 기록한다."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "overwatch",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "overwatch_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "719b70b91f97b4311085fd2fdcbc022952e4008d971ac78e9ac03a6dcdef63b1",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "overwatch_title_glossy_kr_game_f.webp",
+ "prompt": "records/overwatch/title_open-ui.json",
+ "prompt_sha256": "08a7d1f23eacb1b0a630d482b1cf7203f0262ec229f518475a80e7451f27f258",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-overwatch-e799-20261102",
+ "generation": {
+  "calls": 1,
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "719b70b91f97b4311085fd2fdcbc022952e4008d971ac78e9ac03a6dcdef63b1",
+  "passed": true,
+  "observations": [
+   "1024×1536. 한국형 글로시 일러스트의 성인 여성 주인공 한 명. 읽히는 글자·숫자·타이틀 로고·HUD·실제 상표는 확인되지 않는다.",
+   "타이틀의 얼굴·머리·의상·손을 내미는 자세를 유지했다.",
+   "공중 보행로와 강한 아침 햇살로 배경을 바꾼 단일 장면이다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

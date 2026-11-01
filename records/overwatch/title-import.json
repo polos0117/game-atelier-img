@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "overwatch",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "overwatch_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "2cf48701db77b35f8fe04734e549fbde7a8b2343dd0ad2c1a1646cbc0d732dd1",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": null,
+ "prompt": "records/overwatch/title-ui.json",
+ "prompt_sha256": "9264b4dab9a5a1f263e574c9f02774907e928792235686d231f0dba188ec4437",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-overwatch-e799-20261102",
+ "generation": {
+  "calls": 1,
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2cf48701db77b35f8fe04734e549fbde7a8b2343dd0ad2c1a1646cbc0d732dd1",
+  "passed": true,
+  "observations": [
+   "1024×1536. 한국형 글로시 일러스트의 성인 여성 주인공 한 명. 읽히는 글자·숫자·타이틀 로고·HUD·실제 상표는 확인되지 않는다.",
+   "전신과 양발이 여백 안에 있고 오른팔은 앞으로, 왼팔은 몸 옆으로 연결된다.",
+   "흰색·주황 전술복과 청록색 포니테일, 화물 수레·회복 팩·점령 원이 보인다. 배경의 인체형은 석상이다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

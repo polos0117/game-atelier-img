@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "overwatch",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "overwatch_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "d1ba7923a7e713498e70ff5320ab32862dd091731189bd86bc81d20274f3588f",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "overwatch_title_glossy_kr_game_f.webp",
+ "prompt": "records/overwatch/middle-ui.json",
+ "prompt_sha256": "afa2cbb38575ff9e516270f82285df032359a0be599b2d857a8d243769040ab2",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-overwatch-e799-20261102",
+ "generation": {
+  "calls": 1,
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "d1ba7923a7e713498e70ff5320ab32862dd091731189bd86bc81d20274f3588f",
+  "passed": false,
+  "observations": [
+   "1024×1536. 한국형 글로시 일러스트의 성인 여성 주인공 한 명. 읽히는 글자·숫자·타이틀 로고·HUD·실제 상표는 확인되지 않는다.",
+   "두 팔에 각각 권총을 들고 두 다리로 낮은 자세를 취한다. 추가 팔다리는 보이지 않는다.",
+   "미준수: 하늘색 강화 슈트보다 정본의 흰색·주황 재킷과 반바지를 강하게 따랐다. 양손으로 한 권총을 겨누는 대신 두 권총을 각각 쥐었다."
+  ],
+  "cause": "생성기가 제공한 지시문은 수정하지 않았다. 참조 의상 고착 또는 손 좌우·프레이밍·세부 표정의 생성 불일치. 규칙에 따라 재생성하지 않고 관찰 내용을 그대로 기록한다."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

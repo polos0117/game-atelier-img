@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "overwatch",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "overwatch_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "20146147ecb63b5e95761b4685138968734155a9d04d0c555d9e2e2c76c18745",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "overwatch_title_glossy_kr_game_f.webp",
+ "prompt": "records/overwatch/casual2-ui.json",
+ "prompt_sha256": "d3fabe9060cc94993a2b22a68b85431185456ac6883c7b5e40d2f5828004aeaf",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-overwatch-e799-20261102",
+ "generation": {
+  "calls": 1,
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "20146147ecb63b5e95761b4685138968734155a9d04d0c555d9e2e2c76c18745",
+  "passed": false,
+  "observations": [
+   "1024×1536. 한국형 글로시 일러스트의 성인 여성 주인공 한 명. 읽히는 글자·숫자·타이틀 로고·HUD·실제 상표는 확인되지 않는다.",
+   "문방구 앞 오락기 옆에서 트레이서 코스튬으로 다리를 꼬고 휴대폰을 본다. 정본의 얼굴·청록색 머리가 유지된다.",
+   "미준수: 오른손 휴대폰·왼손 무릎 계획과 반대로 왼손 휴대폰·오른손 무릎이다. 미니드레스보다 보디수트형이며 엄격한 옆모습 대신 3/4 방향이다. 양팔은 각각 해당 어깨에 연결된다."
+  ],
+  "cause": "생성기가 제공한 지시문은 수정하지 않았다. 참조 의상 고착 또는 손 좌우·프레이밍·세부 표정의 생성 불일치. 규칙에 따라 재생성하지 않고 관찰 내용을 그대로 기록한다."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

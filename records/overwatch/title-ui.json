@@ -1,0 +1,111 @@
+{
+ "version": 1,
+ "game": "overwatch",
+ "title": "오버워치",
+ "mode": "form",
+ "form": "title",
+ "stage": "타이틀",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "overwatch_title_glossy_kr_game_f.webp",
+ "record": "records/overwatch/title-ui.json",
+ "at": "2026-11-01T23:04:17.070Z",
+ "storage": {
+  "last": "overwatch",
+  "cards": {
+   "overwatch": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "create",
+    "form": "title",
+    "baseForm": "title",
+    "casualN": 1,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "form",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "",
+      "scene": "",
+      "outfit": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold"
+      },
+      "action": {},
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      }
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images.\n\nGAME: «오버워치» (Overwatch), 2016. Genre: shooter. Graphics era: HD console.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"원작 영웅(트레이서·메르시 등)의 얼굴\"; \"원형 로고·타이틀 글자\"; \"화면 위 HUD·궁극기 숫자\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined costume and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (recognizable, as the game shows them): \"천천히 굴러가는 화물 호위 수레\", \"바닥에 빛나는 점령 원\", \"빛나는 회복 팩\", \"푸른 빛 펄스 권총\".\n\nQuoted notes may be Korean; read them as description, never render them as text.\n\nSUBJECT: one adult woman who personifies the video game itself. Persona: \"세계가 다시 부를 때 흩어진 영웅들을 모아, 역할을 맞춰 한 팀을 짜는 이\". Desire: \"흩어진 영웅들을 다시 한 팀으로\"; conflict: \"역할 조합과 궁극기의 때\". Its symbols become costume motifs drawn the way the game shows them, worn, not carried, unless her form or pose puts one in hand: \"화물 호위 수레\", \"충전되는 빛 고리\", \"방패·칼·십자의 역할 표식\".\n\nAGE: in her twenties — smooth youthful skin; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases) whatever her expression.\n\nCORE PLAY: \"돌격·공격·지원 역할을 맞춰 팀을 짜고, 모은 궁극기를 한꺼번에 터뜨린다\" — shown in her bearing and small costume details, never as effects, numbers or a HUD.\n\nERA LOOK: HD era — weathered, finely textured materials, dense layered detail, cinematic light on worn metal — in fabric and trim only, never pixel art or a screenshot.\n\nSILHOUETTE: statuesque, long-legged, with a natural neck length build; a long ponytail; teal hair; garment structure: layered armor over clothing; main material: white near-future armour plating with orange hard-light seams; palette: payload white and signal orange with sky blue.\n\nFACE (her own structure, not the style's default face): softly square face; large round eyes; sharp angled brows; small button nose; full heart-shaped lips; sky-blue eyes; broad Southeast Asian ancestry with individual variation, no stereotyped features.\n\nFORM — TITLE (타이틀): \"흰 바탕에 주황 장식선의 전술 재킷과 가벼운 판금 어깨 갑주, 짧은 전투 바지, 허리의 장비 벨트\". Battle role: support. Stage of play: the first power-on — her cleanest look, genre colors most vivid.\nGEAR in the game's own style: \"흰·주황 장식선 전술복\".\n\nSETTING (this form): \"해 뜨는 미래 도시의 광장 — 유리 탑과 공중 보행로\" — calm start-screen composition — centered, uncluttered, cool clean light, dark negative space.\n\nHOLD BACK: these moments belong to the open images — keep their events out of this setting, even as a distant figure or reflection: \"유리 탑 사이 공중 보행로 위로 아침 햇살이 번쩍 퍼진다\"; \"좁은 골목 벽을 따라 파란 불꽃이 연달아 튄다\"; \"노을 하늘에서 금빛 빛줄기가 한꺼번에 쏟아져 내린다\". An object named in FORM or in her pose stays.\n\nEXPOSURE (bold): her outer layer (coat, cloak, robe or armor) stays on both shoulders, worn symmetrically; skin shows through the inner garment — a deep open neckline with natural cleavage, a fitted corset-like waist, slits where the form allows. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the FORM costume, material and palette.\n\nPRESENTATION: a polished, glamorous adult game card illustration — a beautiful face within her FACE structure; a dense, high-detail costume with glossy trim, clasps and jewelry framing her game's material; luminous rim light, strong value contrast.\n\nSTANCE (this form): \"한 손을 들어 동료를 부르듯 앞을 가리키는 자세\" — held still and centered, seen at eye level, easy to read as a card.\n\nEXPRESSION (TITLE): relaxed brow, softly open eyes, lips closed and unstrained, no smile — the mood of this stage, on her own face.\n\nOUTPUT: one full-body card image of this form, which also fixes who she is for every later form. Vertical 2:3 frame (1024×1536), full body with head and feet inside the frame and clear margins, nothing in front of her but what she holds, face toward the camera (front or three-quarter, never a back view). Build the background from SETTING; it evokes her game's world without being a screenshot or level map.\n\nONE FIGURE ONLY. No second character, no text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: natural human hands. Her hands do only what STANCE says and hold only what it names.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}

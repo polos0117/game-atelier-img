@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "overwatch",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "overwatch_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "456bd7fa2ea5d635612d7ba009f7cacae3d26d6423b9d4e430805e2a8f3e5bf7",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "overwatch_title_glossy_kr_game_f.webp",
+ "prompt": "records/overwatch/casual1-ui.json",
+ "prompt_sha256": "e0e3593e300c522e78e44e373b3184758b59d4046d65912585c97a2931dace79",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-overwatch-e799-20261102",
+ "generation": {
+  "calls": 1,
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "456bd7fa2ea5d635612d7ba009f7cacae3d26d6423b9d4e430805e2a8f3e5bf7",
+  "passed": false,
+  "observations": [
+   "1024×1536. 한국형 글로시 일러스트의 성인 여성 주인공 한 명. 읽히는 글자·숫자·타이틀 로고·HUD·실제 상표는 확인되지 않는다.",
+   "촛불 예배당에서 짙은 남색 란제리풍 차림으로 앉아 오른손에 회복 팩, 왼손은 무릎 위에 둔다. 양발까지 보인다.",
+   "미준수: 매끈한 바이어스 상의·하의 세트보다 레이스 장식의 연결형 바디수트로 표현되었다. 시선은 계획의 화면 왼쪽과 달리 화면 오른쪽이다."
+  ],
+  "cause": "생성기가 제공한 지시문은 수정하지 않았다. 참조 의상 고착 또는 손 좌우·프레이밍·세부 표정의 생성 불일치. 규칙에 따라 재생성하지 않고 관찰 내용을 그대로 기록한다."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

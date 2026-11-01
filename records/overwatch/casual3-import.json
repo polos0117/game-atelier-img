@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "overwatch",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "overwatch_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "40509a041b1e2f3153bd601c26fdae261014b5b8b41632b86cf349b9f3c6f64c",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "overwatch_title_glossy_kr_game_f.webp",
+ "prompt": "records/overwatch/casual3-ui.json",
+ "prompt_sha256": "c7b0020762ce773c7986a332724f24c05a1ce07a2e1b02fc6f8b1215a17ff120",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-overwatch-e799-20261102",
+ "generation": {
+  "calls": 1,
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "40509a041b1e2f3153bd601c26fdae261014b5b8b41632b86cf349b9f3c6f64c",
+  "passed": false,
+  "observations": [
+   "1024×1536. 한국형 글로시 일러스트의 성인 여성 주인공 한 명. 읽히는 글자·숫자·타이틀 로고·HUD·실제 상표는 확인되지 않는다.",
+   "현관에서 검정·흰색 메이드 차림, 오른손으로 오른쪽 귀 뒤 머리를 넘기고 윙크한다. 왼손은 프레임 밖이다.",
+   "미준수: 얼굴 클로즈업 계획보다 가슴까지 넓게 포함한다. 손의 추가 복제는 보이지 않는다."
+  ],
+  "cause": "생성기가 제공한 지시문은 수정하지 않았다. 참조 의상 고착 또는 손 좌우·프레이밍·세부 표정의 생성 불일치. 규칙에 따라 재생성하지 않고 관찰 내용을 그대로 기록한다."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

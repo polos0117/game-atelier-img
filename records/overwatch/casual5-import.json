@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "overwatch",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "overwatch_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "6f27e9b27455819a5dec9c692688f48e4171f3e81f4f3e1339364d5626fd8929",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "overwatch_title_glossy_kr_game_f.webp",
+ "prompt": "records/overwatch/casual5-ui.json",
+ "prompt_sha256": "e90174dac8e174d460c7d08e8ba552438c542576520cd002dd07d2b91f234883",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-overwatch-e799-20261102",
+ "generation": {
+  "calls": 1,
+  "retries": []
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "6f27e9b27455819a5dec9c692688f48e4171f3e81f4f3e1339364d5626fd8929",
+  "passed": false,
+  "observations": [
+   "1024×1536. 한국형 글로시 일러스트의 성인 여성 주인공 한 명. 읽히는 글자·숫자·타이틀 로고·HUD·실제 상표는 확인되지 않는다.",
+   "미래 도시 광장에서 검정 턱시도 재킷·흰 캐미솔·정장 바지를 입고 벽에 기대 머리를 넘긴다.",
+   "미준수: 계획의 오른손 대신 왼손이 왼쪽 귀로 올라간다. 오른손은 아래 프레임 가장자리에 일부 보이며 추가팔은 없다. 눈이 하늘색보다 따뜻한 갈색으로 보이고 미소는 약하다."
+  ],
+  "cause": "생성기가 제공한 지시문은 수정하지 않았다. 참조 의상 고착 또는 손 좌우·프레이밍·세부 표정의 생성 불일치. 규칙에 따라 재생성하지 않고 관찰 내용을 그대로 기록한다."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}
