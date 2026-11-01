@@ -1,0 +1,45 @@
+{
+ "game": "pacman",
+ "seed": 711010,
+ "tree": 2,
+ "required": "costume",
+ "slots": [
+  6
+ ],
+ "cuts": [
+  {
+   "n": 6,
+   "era": "now",
+   "place": "evening_gala",
+   "ofam": "hero_costume",
+   "treeV": 2,
+   "prop": "",
+   "preset": "bench_sit",
+   "use": "sig_hold",
+   "kind": "hold",
+   "posture": "sit_chair",
+   "support": "none",
+   "frame": "environmental",
+   "body": "front",
+   "head": "turn_side",
+   "camera": "eye",
+   "right": "prop",
+   "left": "lap",
+   "legs": "knees_together",
+   "gaze": "screen_left",
+   "item": "hc_crop_set",
+   "expr": "gentle",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "mostly active",
+    "source_influence": "balanced",
+    "separates_preference": "balanced"
+   }
+  }
+ ],
+ "scope": "Existing registered games: add exactly one hero/mascot costume; legacy cuts stay unchanged",
+ "legacy_record_gaps": [
+  "필수 갈래가 없다"
+ ]
+}

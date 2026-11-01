@@ -1,0 +1,57 @@
+{
+ "version": 1,
+ "game": "pacman",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pacman_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "5de76d7d75c415a497b585e1d53ba7118e7dfa5f02f36bb5d50c58056e191db7",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "pacman_title_glossy_kr_game_f.webp",
+ "prompt": "records/pacman/casual6-ui.json",
+ "prompt_sha256": "9ae07f684e8b17e81e67fb983ca8d70bb9f00f07e18d636bec3b538d06375deb",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "cc28b07becff39945f07a809d7324e831ce38fcce0f10e23f5f893698a8080ab",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "팩맨(마스코트)",
+  "en": "Pac-Man's look — glossy bright yellow with a wedge-shaped cut-out motif, rows of small white pellet dots as trim and a pair of red cherries as an accessory"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5de76d7d75c415a497b585e1d53ba7118e7dfa5f02f36bb5d50c58056e191db7",
+  "passed": false,
+  "observations": [
+   "1024×1536, 한 명의 주인공과 흐린 만찬 배경 인물. 금발 단발과 황금빛 눈의 정체성 유지.",
+   "크롭 투피스·펠릿 트림·체리·파워 쿠키가 보이고, 두 팔·두 다리와 손목 연결은 자연스럽다.",
+   "환경 롱샷 요청보다 인물이 크게 차지한다. 얼굴은 화면 오른쪽으로 향해 계획의 왼쪽 시선과 다르다.",
+   "상의 장식의 쐐기 원형에 검은 눈 점이 더해져 금지한 팩맨 얼굴처럼 보인다. 글자·HUD·실제 상표는 없다."
+  ],
+  "cause": "코스튬의 wedge-shaped cut-out motif가 캐릭터 얼굴 장식으로 구체화되었고, 인물 강조가 environmental long shot·왼쪽 시선을 덮었다. 자동 검수 규칙에 따라 재생성 없이 기록."
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "필수 갈래가 없다"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
