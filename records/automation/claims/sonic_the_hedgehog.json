@@ -4,7 +4,7 @@
   {
    "key": "sonic_the_hedgehog",
    "execution": "game-sonic-d18f-20261102",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-01T21:32:31.371Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-01",
@@ -20,7 +20,9 @@
     "sonic_the_hedgehog_glossy_kr_game_f_casual3.webp",
     "sonic_the_hedgehog_glossy_kr_game_f_casual4.webp",
     "sonic_the_hedgehog_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-01T21:43:56.451Z",
+   "done_by": "game-sonic-d18f-20261102"
   }
  ]
 }
