@@ -1,0 +1,22 @@
+{
+ "game": "langrisser_2",
+ "slot": "casual6",
+ "attempts": [
+  {
+   "exposure": "bold",
+   "prompt_sha256": "a553cbc930d302cdd52e1a9cdab8ebd0bd3d15869918f5bb0e5a643416dbb898",
+   "result": "moderation_blocked",
+   "category": "sexual",
+   "request_id": "7a225e90-9f9b-4db8-b2e0-9c6909cae519"
+  }
+ ],
+ "prior_group_error": {
+  "request_id": "610d7a7e-3dbf-48ec-9ab5-26d102a14792",
+  "note": "Concurrent batch returned a moderation rejection before both results settled; no image returned for these two targets. Error could not be attributed to one target."
+ },
+ "final": {
+  "exposure": "moderate",
+  "result": "generated",
+  "prompt_sha256": "78441ba2720ab5451babd5d790cf676c5b4cb769885067a3941109bda9619cb5"
+ }
+}
