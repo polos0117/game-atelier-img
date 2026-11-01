@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "simcity",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "simcity_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "ab9486f357301828c3d22218faf72f9b6fbf8deff06a7fb780ef2090d9da0a5d",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "simcity_title_glossy_kr_game_f.webp",
+ "prompt": "records/simcity/casual6-ui.json",
+ "prompt_sha256": "0a5c6f781def92d8cd4d52649e76acf66ba3994ddde1ff08b0d8f59a223f7ea6",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "697d0a693cdbb836e50532be19788681a07781de7d2bb5f8d4aa030e902719b6",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "시장(플레이어)",
+  "en": "the SimCity mayor's look — colour-blocked residential green, commercial blue and industrial yellow zoning panels, a white construction hard hat and a rolled blueprint sash"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ab9486f357301828c3d22218faf72f9b6fbf8deff06a7fb780ef2090d9da0a5d",
+  "passed": false,
+  "observations": [
+   "청록 올림머리·녹색 눈과 얼굴 유지. 흰 안전모·녹청황 구역색 미니드레스·도면 장식.",
+   "오페라 로비 허리 위, 두 팔과 두 손은 자연스럽게 연결됨.",
+   "계획은 오른손 턱·왼손 난간인데 결과는 왼손 턱·오른손 난간. 도시 그림은 장식이며 읽히는 글자·HUD·실제 상표 없음."
+  ],
+  "cause": "턱 괴는 자세의 좌우가 반대로 생성됨"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "시대 now 가 4 번(2 번까지)"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
