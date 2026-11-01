@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "maplestory",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "maplestory_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "ead8e0c2ae81e5b7021bb41e2e88372744ecaa7fbcb989a6b64671535709c10e",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "maplestory_title_glossy_kr_game_f.webp",
+ "prompt": "records/maplestory/ending-ui.json",
+ "prompt_sha256": "c9017a684174bc444775a9d04e6500046e60ac57b38fcfaae5237a2e2ca65c87",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "44505c9e899a1b7d4524a54b2ad78ebea0b9b24467d99387f6bf5e1139849ab2",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72,
+   "producer": "GitHub Actions"
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-maplestory-6b3ac6dc",
+ "qa": {
+  "reviewer": "gpt-game-maplestory-6b3ac6dc",
+  "image_sha256": "ead8e0c2ae81e5b7021bb41e2e88372744ecaa7fbcb989a6b64671535709c10e",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "주인공 한 명. 분할·HUD·읽히는 글자·숫자·상표 없음.",
+   "정본과 같은 얼굴·머리색·눈색, 흰색·금색 갑옷과 리본 망토, 웃는 표정을 확인함.",
+   "팔 2개·다리 2개가 연결되며 공중 점프와 두 발이 프레임 안에 있음.",
+   "높고 먼 카메라보다 낮고 가까운 구도이며, 아래로 스킬을 쏟는 자세 대신 양팔을 벌리고 명시하지 않은 지팡이를 들었음."
+  ],
+  "cause": "정본의 한쪽 무릎을 든 구도 및 게임 마법 장비 연상이 SETTING의 높은 카메라와 STANCE의 아래 방향 스킬보다 강하게 반영됨."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

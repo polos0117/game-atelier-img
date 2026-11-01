@@ -1,0 +1,50 @@
+{
+ "version": 1,
+ "game": "maplestory",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "maplestory_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "0d4bd68976918c48bcefa67efa5caa8ea53d4ff1f4292eca963ccf6d416324ff",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "maplestory_title_glossy_kr_game_f.webp",
+ "prompt": "records/maplestory/casual5-ui.json",
+ "prompt_sha256": "7d7aa664146d9f54a810b3fddc55f440d518a309c78cc2b96bb00e386d094a76",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "542c3f5bbb86a081ec29274b2bbee67265cbaf931a5e4bc9564c5f2c8dbd3043",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72,
+   "producer": "GitHub Actions"
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-maplestory-6b3ac6dc",
+ "qa": {
+  "reviewer": "gpt-game-maplestory-6b3ac6dc",
+  "image_sha256": "0d4bd68976918c48bcefa67efa5caa8ea53d4ff1f4292eca963ccf6d416324ff",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "주인공 한 명. 분할·HUD·읽히는 글자·숫자·상표 없음.",
+   "정본 얼굴·분홍 포니테일·하늘색 눈을 유지함. 밤 천문대·가죽 재킷·찢어진 티·타탄 미니스커트·책 소품을 확인.",
+   "본인 오른손은 책을 안고 본인 왼팔은 화면 왼쪽으로 자연스럽게 내려감. 팔 2개가 어깨에서 이어지며 추가 팔 없음.",
+   "몸은 뒤 3/4이나, 계획한 본인 왼쪽 어깨 대신 오른쪽 어깨 쪽으로 돌아봄.",
+   "얼굴 달린 주황 버섯 장식이 추가되어 원작 몬스터 얼굴 금지 우려를 기록함."
+  ],
+  "cause": "참조 얼굴의 방향이 왼쪽 어깨 돌아보기 지시보다 강하게 반영됨. 강한 source_influence와 버섯 모티프가 얼굴 달린 장식으로 출력됨."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

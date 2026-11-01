@@ -1,0 +1,62 @@
+{
+ "version": 1,
+ "game": "maplestory",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "maplestory_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "99335364e7937ff068f6c746feb8e5ecdec2e2d1737a8aebd4c2b3f8712d6cc6",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "maplestory_middle_glossy_kr_game_f.webp",
+ "prompt": "records/maplestory/middle_open-ui.json",
+ "prompt_sha256": "e789c1043a2851f138708602080726fe3cada04de7cc3917f0fd31776f9ce7a4",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "df916d8c718337f3034d9eb32d6e28f4b1e38889b40f183dacd0d06c7b42f5fa",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72,
+   "producer": "GitHub Actions"
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-maplestory-6b3ac6dc",
+ "qa": {
+  "reviewer": "gpt-game-maplestory-6b3ac6dc",
+  "image_sha256": "99335364e7937ff068f6c746feb8e5ecdec2e2d1737a8aebd4c2b3f8712d6cc6",
+  "passed": true,
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "주인공 한 명. 분할·HUD·읽히는 글자·숫자·상표 없음.",
+   "중반 폼의 얼굴·머리·별 망토·지팡이와 구도를 유지함.",
+   "구름 사이에 별 무리가 쏟아지는 단일 개방 장면. 팔 2개·다리 2개 연결, 손 중복 없음.",
+   "첫 시도 output 단계 안전 필터 거절 후 동일 지시문·동일 참조로 한 번 재시도하여 성공함."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다",
+ "attempts": [
+  {
+   "attempt": 1,
+   "result": "moderation_blocked",
+   "stage": "output",
+   "request_id": "48851c40-4524-4832-9bbe-73b306869663"
+  },
+  {
+   "attempt": 2,
+   "result": "generated",
+   "same_prompt": true
+  }
+ ]
+}

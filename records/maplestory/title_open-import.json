@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "maplestory",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "maplestory_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "27b06096a0c5c3343aa982fc70188932e73d01662e5cd8b0979de4d6888ccbe6",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "maplestory_title_glossy_kr_game_f.webp",
+ "prompt": "records/maplestory/title_open-ui.json",
+ "prompt_sha256": "e295d0c9285d2d11b7723477bd2cc75ee43664fd345c9820fef742cfaa337a40",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "da78557b4dd58fadce9ab3b643f26ac1936e5408c82374bcfdf9365a4b7aa746",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72,
+   "producer": "GitHub Actions"
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-maplestory-6b3ac6dc",
+ "qa": {
+  "reviewer": "gpt-game-maplestory-6b3ac6dc",
+  "image_sha256": "27b06096a0c5c3343aa982fc70188932e73d01662e5cd8b0979de4d6888ccbe6",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "주인공 한 명. 분할·HUD·읽히는 글자·숫자·상표 없음.",
+   "타이틀의 얼굴·의상·구도를 유지하고 단풍 회오리와 하늘 계단 발판을 추가한 단일 장면임.",
+   "팔 2개·다리 2개 및 손목·발 연결을 확인함. 닫힘·개방 분할 없음.",
+   "정본의 얼굴 달린 주황 버섯 장식도 유지되어 같은 금지 지시 우려를 기록함."
+  ],
+  "cause": "개방의 의상 유지 지시가 정본의 버섯 얼굴 장식까지 유지함."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

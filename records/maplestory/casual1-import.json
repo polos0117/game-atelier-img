@@ -1,0 +1,50 @@
+{
+ "version": 1,
+ "game": "maplestory",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "maplestory_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "67b5ded908c19e9c6b4f3883e05ed397b81e5a132dcee4e79bf6f2a3be648f58",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "maplestory_title_glossy_kr_game_f.webp",
+ "prompt": "records/maplestory/casual1-ui.json",
+ "prompt_sha256": "1d3b407997aa96fad4794bb03355d09c7b27af737efed20747a0d51d73832312",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "dc448c97beaa73a8156ff4a0f6e22cf44a233b3c9b55b18eba229922a3e02e3a",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72,
+   "producer": "GitHub Actions"
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-maplestory-6b3ac6dc",
+ "qa": {
+  "reviewer": "gpt-game-maplestory-6b3ac6dc",
+  "image_sha256": "67b5ded908c19e9c6b4f3883e05ed397b81e5a132dcee4e79bf6f2a3be648f58",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "주인공 한 명. 분할·HUD·읽히는 글자·숫자·상표 없음.",
+   "분홍 포니테일·하늘색 눈을 유지하고 숲 갈림길에서 두 손으로 지도를 펼침.",
+   "팔 2개·다리 2개와 두 발의 연결을 확인. 지도에 알아볼 문자나 숫자는 식별되지 않음.",
+   "계획한 크롭 탑·보이쇼츠형 스포츠 비키니 대신 삼각형 상의·브리프 형태이며, 정본의 가방·얼굴 달린 버섯 장식·물약이 남음.",
+   "현실 2003년 숲길 대신 공중 발판의 판타지 풍경 비중이 큼."
+  ],
+  "cause": "WARDROBE의 완전한 의상 교체·장신구 제외보다 참조 그림의 가방과 source_influence: strong이 우세함. SIGNATURE의 구름 발판과 현실 ERA도 배경에서 경쟁함."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

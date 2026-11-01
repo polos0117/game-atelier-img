@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "maplestory",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "maplestory_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "3ab92df48140d2068debb88112fab53a22f1b0c14fd79b0e91689d17d6bfb4eb",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "maplestory_title_glossy_kr_game_f.webp",
+ "prompt": "records/maplestory/middle-ui.json",
+ "prompt_sha256": "616e3342d204e27e067f5e2ed6cf0a3ab1b9ee817a6bc655f15151e74cae0270",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "ab3512811fbdb7771d8b28adc55e8587f937878df1aad498047e886d3c1f686b",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72,
+   "producer": "GitHub Actions"
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-maplestory-6b3ac6dc",
+ "qa": {
+  "reviewer": "gpt-game-maplestory-6b3ac6dc",
+  "image_sha256": "3ab92df48140d2068debb88112fab53a22f1b0c14fd79b0e91689d17d6bfb4eb",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "주인공 한 명. 분할·HUD·읽히는 글자·숫자·상표 없음.",
+   "정본의 얼굴·분홍 포니테일·하늘색 눈과 체형을 유지함.",
+   "별 망토·지팡이·하늘 도시·무지개 배경, 팔 2개·다리 2개의 자연스러운 연결을 확인함.",
+   "지팡이는 설계의 짧은 지팡이보다 길고 큰 장식이 달린 형태임."
+  ],
+  "cause": "FORM의 짧은 지팡이와 고밀도 장식·글로시 카드 PRESENTATION이 경쟁하여 지팡이를 과장함."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

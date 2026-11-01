@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "maplestory",
+ "slot": "ending_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "maplestory_ending_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "584d10ae1d0271fc9d38ff9e5d37860e93a1c88a18894ff6744c79e060b5be3a",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "maplestory_ending_glossy_kr_game_f.webp",
+ "prompt": "records/maplestory/ending_open-ui.json",
+ "prompt_sha256": "06933d4ca3989f4cfbc8318c2170a3a85be5eace6f6a23e5d64ca7322dd9ac0a",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "5fcb7bf8017e5d5dc3d8cb532a814f1202ee392beba543bb6d634e20b392079f",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72,
+   "producer": "GitHub Actions"
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-maplestory-6b3ac6dc",
+ "qa": {
+  "reviewer": "gpt-game-maplestory-6b3ac6dc",
+  "image_sha256": "584d10ae1d0271fc9d38ff9e5d37860e93a1c88a18894ff6744c79e060b5be3a",
+  "passed": true,
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "주인공 한 명. 분할·HUD·읽히는 글자·숫자·상표 없음.",
+   "엔딩 폼의 얼굴·머리·흰금 의상·점프 구도를 유지함.",
+   "시계탑 주위의 빛 고리·갈라진 노을빛 하늘로 배경이 변한 단일 장면임.",
+   "팔 2개·다리 2개 연결 확인. 닫힘/개방 분할 없음. 엔딩 원본의 구도와 지팡이를 그대로 유지함."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

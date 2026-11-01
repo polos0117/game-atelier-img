@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "maplestory",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "maplestory_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "4b50190489447b45d7753a4fee2e34be331ed7d10f25c3d750b388955a127c18",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "maplestory_title_glossy_kr_game_f.webp",
+ "prompt": "records/maplestory/casual4-ui.json",
+ "prompt_sha256": "386893a0ceda217b6ee8575e23a77035aa4193a65d4081a5847f76d2f7dd33e8",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "d2247db7d71eb3c4971de2eac5a97cd976804da263194e6034bd4abf351d33eb",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72,
+   "producer": "GitHub Actions"
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-maplestory-6b3ac6dc",
+ "qa": {
+  "reviewer": "gpt-game-maplestory-6b3ac6dc",
+  "image_sha256": "4b50190489447b45d7753a4fee2e34be331ed7d10f25c3d750b388955a127c18",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "주인공 한 명. 분할·HUD·읽히는 글자·숫자·상표 없음.",
+   "정본의 얼굴·머리색·눈색을 유지하며 장터 작업대에서 몸을 앞으로 기울임.",
+   "크롭 후디와 레깅스 차림, 두 손이 단풍 가지 양쪽을 잡으며 팔 2개의 연결과 손 중복 없음 확인.",
+   "소품 단풍잎 외에 정본의 가방과 머리 장식이 남아 장신구 제외·교체 지시와 다름."
+  ],
+  "cause": "참조 이미지의 가방·머리 장식이 WARDROBE의 얼굴·머리·몸만 참조하라는 지시보다 강하게 유지됨."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "maplestory",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "maplestory_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "5d470e8b9059fd8125237ed45d6c5190d3115fc53d5b9281c3c7618381959e4b",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "maplestory_title_glossy_kr_game_f.webp",
+ "prompt": "records/maplestory/casual2-ui.json",
+ "prompt_sha256": "3629aefd35a18c33f54c20d34523c38dc1974cf683c8ecbaba38495459717199",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "856951475e63fd954c420e757aafd08c07093ea2d1f9745ed5100e3cf1955382",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72,
+   "producer": "GitHub Actions"
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-maplestory-6b3ac6dc",
+ "qa": {
+  "reviewer": "gpt-game-maplestory-6b3ac6dc",
+  "image_sha256": "5d470e8b9059fd8125237ed45d6c5190d3115fc53d5b9281c3c7618381959e4b",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "주인공 한 명. 분할·HUD·읽히는 글자·숫자·상표 없음.",
+   "단풍잎 코르셋 성인 코스튬·바닷가·놀란 표정과 정본의 얼굴·색을 확인함.",
+   "본인 오른손(화면 왼쪽)은 5손가락으로 손을 흔들고, 반대 손은 쇄골 근처에 연결됨. 추가 팔 없음.",
+   "가슴 위 계획보다 허리까지 넓어졌고, 현실 바닷가 뒤로 정본을 닮은 판타지 마을이 남음."
+  ],
+  "cause": "코스튬의 코르셋·짧은 스커트 디테일 및 참조의 배경이 CROP과 배경 교체 지시보다 강하게 반영됨."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

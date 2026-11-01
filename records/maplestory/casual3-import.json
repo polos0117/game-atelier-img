@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "maplestory",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "maplestory_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "291d2ead7d672afd22c6c5c2e4058567b344e01dc80f7a2e595fb97e18b95bb8",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "maplestory_title_glossy_kr_game_f.webp",
+ "prompt": "records/maplestory/casual3-ui.json",
+ "prompt_sha256": "de42c500f3442e07f0a3c1a3495fac2af00694e1eaae18758da37b05b877b4d3",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "d25b6d917681f40c49b9346099687ecf00b9b1e89721a05be783b507eb0c6576",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72,
+   "producer": "GitHub Actions"
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-maplestory-6b3ac6dc",
+ "qa": {
+  "reviewer": "gpt-game-maplestory-6b3ac6dc",
+  "image_sha256": "291d2ead7d672afd22c6c5c2e4058567b344e01dc80f7a2e595fb97e18b95bb8",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "주인공 한 명. 분할·HUD·읽히는 글자·숫자·상표 없음.",
+   "얼굴·분홍 머리·하늘색 눈을 유지하고 무표정에 가까운 표정으로 볼을 짚음.",
+   "추가 손이나 팔은 보이지 않으나, 볼을 짚는 손이 계획의 본인 오른손 대신 본인 왼손(화면 오른쪽)으로 보임.",
+   "쇄골에서 끝나는 얼굴 클로즈업 대신 가슴·상의가 보이며, 단순 양궁 상의보다 정본의 장식 코르셋·가죽 장갑에 가까움."
+  ],
+  "cause": "참조 얼굴과 글로시 의상 세부 강조가 CROP·WARDROBE 교체보다 우세하고, RIGHT HAND의 좌우가 반전되어 출력됨."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

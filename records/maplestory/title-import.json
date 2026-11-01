@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "maplestory",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "maplestory_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "6cd3fc991de07eeec117ffab4798a10e24a633f794445ad5a9e885dfa084ec80",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": null,
+ "prompt": "records/maplestory/title-ui.json",
+ "prompt_sha256": "07c3b2dc96f09c817b934cddc3fe09b491e1358da0bfc6bda48f25b67d027cfd",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "5ae5ce43fb7468180d5de068c57ffc35173a74fdb89bc56f2c76aaeb78a3b837",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72,
+   "producer": "GitHub Actions"
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-maplestory-6b3ac6dc",
+ "qa": {
+  "reviewer": "gpt-game-maplestory-6b3ac6dc",
+  "image_sha256": "6cd3fc991de07eeec117ffab4798a10e24a633f794445ad5a9e885dfa084ec80",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3 확인.",
+   "주인공 한 명. 분할·HUD·읽히는 글자·숫자·상표 없음.",
+   "분홍 포니테일·하늘색 눈·단풍 원피스·멜빵 가방과 두 발이 프레임 안에 있음.",
+   "팔 2개·다리 2개의 연결을 확인했으며 손 중복은 보이지 않음.",
+   "가방의 주황 버섯 장식에 얼굴이 추가되어 원작 몬스터 얼굴을 피하라는 지시와 어긋날 소지가 있음."
+  ],
+  "cause": "SIGNATURE의 통통 튀는 주황 버섯 및 SUBJECT의 버섯 의상 모티프가 NEVER DRAW의 몬스터 얼굴 금지와 경쟁해 얼굴 달린 장식으로 출력됨."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}
