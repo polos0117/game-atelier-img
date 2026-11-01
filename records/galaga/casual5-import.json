@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "galaga",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "galaga_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "0e3b0b2ee6fbe5c2c0f6f1af5b54fad6b46991dd955c2c03742f85b314e84d64",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "galaga_title_glossy_kr_game_f.webp",
+ "prompt": "records/galaga/casual5-ui.json",
+ "prompt_sha256": "046269d6a4862ada294155eed0c9cc7c5012e9f3154f4ca57a1c98cc28d74e6d",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-f949-20261102",
+ "qa": {
+  "reviewer": "gpt-game-f949",
+  "image_sha256": "0e3b0b2ee6fbe5c2c0f6f1af5b54fad6b46991dd955c2c03742f85b314e84d64",
+  "passed": false,
+  "observations": [
+   "1024×1536. 주인공 한 명, 원작 인물·적 벌레 형상·로고·HUD·읽히는 글자·숫자·상표·분할 없음. 기존 타이틀과 같은 얼굴·남색 보브·붉은 눈.",
+   "별하늘 우주 도시 테라스, 반쯤 내린 웻슈트와 검은 수영복. 뒤에서 보이는 보행 전신.",
+   "두 팔·두 다리와 맨발이 연결됨. 화면 왼쪽 왼손에 등불, 오른손은 비어 있음.",
+   "계획의 오른손 등불 대신 왼손으로 들고, 먼 곳 시선보다 어깨 너머로 얼굴을 돌림."
+  ],
+  "cause": "소품 손 좌우와 머리·시선 방향이 계획에서 벗어남."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

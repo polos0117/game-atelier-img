@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "galaga",
+ "slot": "ending_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "galaga_ending_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "8ce3f4195900073059f83471133ce0f9159edce19a97b414962b4c75272a1ee5",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "exec-d1fce827-fc1c-455e-90d5-08f5fe20ff77.png",
+ "prompt": "records/galaga/ending_open-ui.json",
+ "prompt_sha256": "74981a44213491010e8d8a8a1f58b4471de6bc17afddce0d704bf32d670bfdfc",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-f949-20261102",
+ "qa": {
+  "reviewer": "gpt-game-f949",
+  "image_sha256": "8ce3f4195900073059f83471133ce0f9159edce19a97b414962b4c75272a1ee5",
+  "passed": true,
+  "observations": [
+   "1024×1536. 주인공 한 명, 원작 인물·적 벌레 형상·로고·HUD·읽히는 글자·숫자·상표·분할 없음. 기존 타이틀과 같은 얼굴·남색 보브·붉은 눈.",
+   "엔딩의 금빛 재킷·엄지·헬멧 자세를 유지하고 금빛 불꽃이 별하늘 전체에 퍼짐.",
+   "주인공 한 명. 두 팔·두 다리·두 발과 손 연결 확인."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

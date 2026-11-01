@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "galaga",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "galaga_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "61ddfa677fc52f08005740e9d6d59e7ad0223a5de19c01f4e642710cebb3373c",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "galaga_title_glossy_kr_game_f.webp",
+ "prompt": "records/galaga/casual3-ui.json",
+ "prompt_sha256": "bd3568e41b18cdffd931885423b77dde8afb1b66b1e7428e2a4dae14f609e5a4",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-f949-20261102",
+ "qa": {
+  "reviewer": "gpt-game-f949",
+  "image_sha256": "61ddfa677fc52f08005740e9d6d59e7ad0223a5de19c01f4e642710cebb3373c",
+  "passed": false,
+  "observations": [
+   "1024×1536. 주인공 한 명, 원작 인물·적 벌레 형상·로고·HUD·읽히는 글자·숫자·상표·분할 없음. 기존 타이틀과 같은 얼굴·남색 보브·붉은 눈.",
+   "스튜디오에서 엎드려 두 손으로 턱을 괴고 웃는 표정, 자수 블라우스와 올린 두 발.",
+   "두 팔은 각 어깨에서 팔꿈치를 거쳐 턱으로 이어지며 손·발 중복 없음.",
+   "full_body 계획과 달리 왼쪽 엉덩이 일부가 화면 가장자리에 잘리고 상체 비중이 큼. 헬멧·조이스틱 등 장식이 복수 추가됨."
+  ],
+  "cause": "전신 크롭보다 첨부 인물의 얼굴 강조와 소품 장식이 강하게 반영됨."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

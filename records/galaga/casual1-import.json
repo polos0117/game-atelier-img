@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "galaga",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "galaga_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "76ec7a7b519672e7d6af8c6ba72b80f5027b828433731c6377b5ca3ae9c1aa0b",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "galaga_title_glossy_kr_game_f.webp",
+ "prompt": "records/galaga/casual1-ui.json",
+ "prompt_sha256": "4a555b0a293bb06dd74a1f4e38808570f655997ab6c74fb195a575f93ec113ac",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-f949-20261102",
+ "qa": {
+  "reviewer": "gpt-game-f949",
+  "image_sha256": "76ec7a7b519672e7d6af8c6ba72b80f5027b828433731c6377b5ca3ae9c1aa0b",
+  "passed": false,
+  "observations": [
+   "1024×1536. 주인공 한 명, 원작 인물·적 벌레 형상·로고·HUD·읽히는 글자·숫자·상표·분할 없음. 기존 타이틀과 같은 얼굴·남색 보브·붉은 눈.",
+   "롤러장 배경, 남색 수영복과 꽃무늬 유카타, 카메라를 보는 기울인 얼굴.",
+   "화면 왼쪽 오른손은 병을 잡고 팔이 어깨에 이어짐. 반대 손은 프레임 밖. 추가 팔 없음.",
+   "계획의 끈 잡기 대신 병을 들었고 가슴 위보다 배꼽까지 넓은 프레이밍."
+  ],
+  "cause": "활동은 끈 잡기인데 생성 결과는 임의 음료병 소품으로 대체됨. CROP의 가슴 위 지정도 미준수."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

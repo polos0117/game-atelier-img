@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "galaga",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "galaga_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "6c8c7a51ccd13c0884aa8047c56f765ee811ce752adb070c452043ba897d3355",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "galaga_title_glossy_kr_game_f.webp",
+ "prompt": "records/galaga/casual2-ui.json",
+ "prompt_sha256": "4bf7996ca08cf15d1d366c44a214e740e472dcce8afd1b62e493d38c12b656ca",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-f949-20261102",
+ "qa": {
+  "reviewer": "gpt-game-f949",
+  "image_sha256": "6c8c7a51ccd13c0884aa8047c56f765ee811ce752adb070c452043ba897d3355",
+  "passed": true,
+  "observations": [
+   "1024×1536. 주인공 한 명, 원작 인물·적 벌레 형상·로고·HUD·읽히는 글자·숫자·상표·분할 없음. 기존 타이틀과 같은 얼굴·남색 보브·붉은 눈.",
+   "역 플랫폼과 열차, 흰 전투기 크롭 투피스 코스튬, 등 3/4에서 어깨 너머 카메라를 봄.",
+   "오른손은 화면 오른쪽 쇼핑백을 들고 왼손은 화면 왼쪽으로 내려옴. 목·어깨와 두 팔 연결 확인. 무릎 부근까지의 3/4 컷."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

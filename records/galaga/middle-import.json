@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "galaga",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "galaga_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "dff15f15b219c37c5fd236591d4df1e07e468e976f977095570158ce5debcf6b",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "galaga_title_glossy_kr_game_f.webp",
+ "prompt": "records/galaga/middle-ui.json",
+ "prompt_sha256": "7b150e7483cd34926500e8f4c08dee333161ef0b1bd90366e6f34fbe7672c9ee",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-f949-20261102",
+ "qa": {
+  "reviewer": "gpt-game-f949",
+  "image_sha256": "dff15f15b219c37c5fd236591d4df1e07e468e976f977095570158ce5debcf6b",
+  "passed": false,
+  "observations": [
+   "1024×1536. 주인공 한 명, 원작 인물·적 벌레 형상·로고·HUD·읽히는 글자·숫자·상표·분할 없음. 기존 타이틀과 같은 얼굴·남색 보브·붉은 눈.",
+   "정면 3/4 전신, 두 팔이 각 어깨에서 뻗고 두 손은 권총을 잡는다. 두 다리·부츠가 프레임 안에 있음.",
+   "남색 보브와 붉은 눈 유지. 은백색 비행복과 쌍날개 가슴 배지.",
+   "FORM에 없는 권총 두 자루가 추가됐고 은청색 비행복보다 타이틀의 흰 비행복에 가까움."
+  ],
+  "cause": "STANCE의 연달아 쏘듯 겨누는 자세를 권총 사격으로 구체화했고, 첨부한 타이틀 의상의 영향이 강함."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

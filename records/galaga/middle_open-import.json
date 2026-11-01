@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "galaga",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "galaga_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "9edf202c84c9d5a0261894a1fa6e54aeaba5173f6d97a2140895434f13aad26a",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "exec-b273d164-a6c2-420f-8138-17e1d8530aec.png",
+ "prompt": "records/galaga/middle_open-ui.json",
+ "prompt_sha256": "a85e93ce3d63aa30093b94e96b55937b2ef32247f640f02b7facb82d204c9ef4",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-f949-20261102",
+ "qa": {
+  "reviewer": "gpt-game-f949",
+  "image_sha256": "9edf202c84c9d5a0261894a1fa6e54aeaba5173f6d97a2140895434f13aad26a",
+  "passed": false,
+  "observations": [
+   "1024×1536. 주인공 한 명, 원작 인물·적 벌레 형상·로고·HUD·읽히는 글자·숫자·상표·분할 없음. 기존 타이틀과 같은 얼굴·남색 보브·붉은 눈.",
+   "중반의 인물·의상·사격 자세 유지, 푸른 견인 광선 기둥으로 배경 변환. 분할 없음.",
+   "양팔·양손·양다리·발 연결 확인.",
+   "중반에서 추가된 권총과 타이틀에 가까운 의상을 그대로 계승."
+  ],
+  "cause": "중반 그림을 첨부해 그 컷의 의상·소품 편차를 이어받음."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}
