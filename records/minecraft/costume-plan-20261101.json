@@ -1,0 +1,45 @@
+{
+ "game": "minecraft",
+ "seed": 711010,
+ "tree": 2,
+ "required": "costume",
+ "slots": [
+  6
+ ],
+ "cuts": [
+  {
+   "n": 6,
+   "era": "fantasy",
+   "place": "fx_chapel",
+   "ofam": "hero_costume",
+   "treeV": 2,
+   "prop": "",
+   "preset": "side_chair_cross",
+   "use": "bouquet_hold",
+   "kind": "hold",
+   "posture": "sit_chair",
+   "support": "back_seat",
+   "frame": "full_body",
+   "body": "side",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "lap",
+   "legs": "cross_legs",
+   "gaze": "camera",
+   "item": "hc_corset",
+   "expr": "cold_smile",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "mostly posed",
+    "source_influence": "balanced",
+    "separates_preference": "prefer separates"
+   }
+  }
+ ],
+ "scope": "Existing registered games: add exactly one hero/mascot costume; legacy cuts stay unchanged",
+ "legacy_record_gaps": [
+  "필수 갈래가 없다"
+ ]
+}

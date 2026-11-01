@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "minecraft",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "minecraft_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "3ce77f9dbf104bee4a2d722b91a9aa0747a034864de2842778b7ee6239ae739b",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "minecraft_title_glossy_kr_game_f.webp",
+ "prompt": "records/minecraft/casual6-ui.json",
+ "prompt_sha256": "3e2ce20d9711e147d6d98d593650b710eec4d7cdd722140cfc9a69038d850815",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "b98428372cbfa111eda6d2b8d1fa90cff922e1e021503938474ca6e8b900d7ce",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "스티브",
+  "en": "Steve's outfit — a cyan short-sleeved top and indigo-blue bottoms with crisp pixel-square edges, grey shoes and a pixel pickaxe accessory"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3ce77f9dbf104bee4a2d722b91a9aa0747a034864de2842778b7ee6239ae739b",
+  "passed": false,
+  "observations": [
+   "밝은 트윈테일·같은 얼굴 유지. 청록 코르셋·남색 픽셀 치마·회색 부츠·곡괭이의 스티브 코스튬.",
+   "환상 예배당 의자에 다리 꼬고 앉은 전신. 두 팔·손·다리·발이 자연스럽게 연결됨.",
+   "계획의 오른손 꽃다발·왼손 무릎과 반대로 보이며 몸은 완전 측면보다 3/4. 게임 얼굴·로고·문자·HUD 없음."
+  ],
+  "cause": "측면 앉기에서 코스튬 정면을 강조하며 몸과 손 배치가 변함"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "필수 갈래가 없다"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
