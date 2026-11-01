@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "heroes_of_might_and_magic_3",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "heroes_of_might_and_magic_3_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "20fcce1df80ab0f2237ec460afad8208e3f72ad015b9129007a2b602ad6ee532",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "heroes_of_might_and_magic_3_title_glossy_kr_game_f.webp",
+ "prompt": "records/heroes_of_might_and_magic_3/casual6-ui.json",
+ "prompt_sha256": "1ad27c0ba6189386f9e481136728a9294ac74e38ee9d974221dea5596a5fff43",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "0ce7531adebcf933c3d6e5d7d5484a5c226adbdb6ef2876dac3ea68af73402de",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "성 진영 영웅 기사",
+  "en": "the Castle hero knight's look — polished silver plate with blue-and-gold heraldic trim, a griffin-crest helm circlet and a long blue cape"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "20fcce1df80ab0f2237ec460afad8208e3f72ad015b9129007a2b602ad6ee532",
+  "passed": false,
+  "observations": [
+   "보라 트윈테일·금색 눈·동일 얼굴 유지. 은색 보디수트형 갑옷·청금 장식·그리핀 문양 파란 망토.",
+   "PC방 전신, 팔 두 개·손 두 개·다리 두 개가 자연스럽고 손을 편 쪽 손가락 다섯.",
+   "측면 요청보다 뒤 3/4이며 계획의 오른손 흔들기와 반대 손으로 보임. 화면은 추상 광원이고 읽히는 문자·HUD·원작 얼굴 없음."
+  ],
+  "cause": "측면·좌우 손보다 뒤쪽 망토 문양이 강조됨"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "시대 now 가 3 번(2 번까지)"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
