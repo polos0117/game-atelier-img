@@ -1,0 +1,54 @@
+{
+ "version": 1,
+ "game": "diablo_2",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "diablo_2_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "bf3594993ace02bd145ccb246f1d5dddeb718fcfcedaf78e7053adb94d28c416",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "diablo_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/diablo_2/casual6-ui.json",
+ "prompt_sha256": "6014d07764d361da65a1681cd318a815a077460d1f056e3a3b58f1622ede89d3",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "33d9d0edf0e0c8a75f9c76530c65813b5e75712c6126a43f4febd0c51fc678f1",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "아마존",
+  "en": "the Amazon hero's look — a leather-and-bronze armoured breastplate, a short pleated battle skirt, bracers, greaves and a javelin quiver"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "bf3594993ace02bd145ccb246f1d5dddeb718fcfcedaf78e7053adb94d28c416",
+  "passed": false,
+  "observations": [
+   "붉은 긴 머리·같은 얼굴. 청동 가죽 갑옷 미니드레스·주름 전투치마·투창 통의 아마존 코스튬.",
+   "바 환경 전신, 어깨 너머 시선·두 팔·두 다리·발 연결 정상. 문자·HUD·실제 상표 없음.",
+   "뒤 3/4 구도에서 계획과 손 좌우가 반대로 보임."
+  ],
+  "cause": "오른손 난간·왼손 머리 만지기 지시를 반전함"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
