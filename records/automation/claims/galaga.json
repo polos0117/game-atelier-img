@@ -27,6 +27,26 @@
    "approval": "사용자 2026-11-02 갤러그 작업 재개 및 main 일반 반영 승인",
    "released_by": "game-galaga-f949-20261102",
    "released_at": "2026-11-01T21:16:59.235Z"
+  },
+  {
+   "key": "galaga",
+   "execution": "game-galaga-f949-20261102",
+   "status": "working",
+   "claimed_at": "2026-11-01T21:17:32.331Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-01",
+   "missing": [
+    "galaga_title_open_glossy_kr_game_f.webp",
+    "galaga_middle_glossy_kr_game_f.webp",
+    "galaga_middle_open_glossy_kr_game_f.webp",
+    "galaga_ending_glossy_kr_game_f.webp",
+    "galaga_ending_open_glossy_kr_game_f.webp",
+    "galaga_glossy_kr_game_f_casual1.webp",
+    "galaga_glossy_kr_game_f_casual2.webp",
+    "galaga_glossy_kr_game_f_casual3.webp",
+    "galaga_glossy_kr_game_f_casual4.webp",
+    "galaga_glossy_kr_game_f_casual5.webp"
+   ]
   }
  ]
 }
