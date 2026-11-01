@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "legend_of_zelda",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "legend_of_zelda_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "91236310fad5a0f8ad04b3baf682de9e536dd3d9d936ee817f0e1f64ac4d2ba6",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "legend_of_zelda_title_glossy_kr_game_f.webp",
+ "prompt": "records/legend_of_zelda/casual6-ui.json",
+ "prompt_sha256": "f2ee192e53427522f11c514fdeaec7c5184e781279dd9677b7a0430963c4a935",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "53f8d73347d6b52a28eaaf7a9ceafe71f514232c9192adab2fde0da01f454fc0",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "링크",
+  "en": "Link's outfit — a green belted tunic, a long pointed green cap, brown leather belts and bracers, pale tights and brown boots"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "91236310fad5a0f8ad04b3baf682de9e536dd3d9d936ee817f0e1f64ac4d2ba6",
+  "passed": true,
+  "observations": [
+   "갈색 땋은 머리·동일 얼굴·체형 유지. 녹색 긴 모자·보디수트형 튜닉·갈색 벨트와 부츠·흰 스타킹의 링크 코스튬.",
+   "천문대 환경 전신. 뒤쪽 3/4에서 어깨 너머로 보며 오른손 난간·왼손 머리 만지기, 팔은 정확히 두 개이며 각 어깨와 연결됨.",
+   "두 다리·부츠가 프레임 안에 있고 목 회전이 과하지 않다. 한 여성, 원작 얼굴·로고·읽히는 문자·HUD 없음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "가까운 컷(가슴 위·클로즈업)이 없다"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
