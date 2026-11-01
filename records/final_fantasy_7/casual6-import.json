@@ -1,0 +1,54 @@
+{
+ "version": 1,
+ "game": "final_fantasy_7",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "final_fantasy_7_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "29ec901948b7352a859a191842d4a9ad488dd7c48d1b153599ddb6c23ba610a1",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "final_fantasy_7_title_glossy_kr_game_f.webp",
+ "prompt": "records/final_fantasy_7/casual6-ui.json",
+ "prompt_sha256": "ade9dcebc9ec5a1682eb28ea279cbcbf4c155622e38d21779ddace4f38db43e0",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "11a7c9de32437f9e7ef04c86f82aa9d85aa7e6b8a994c615b5b72eb2d8946a8a",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "클라우드 스트라이프",
+  "en": "Cloud Strife's SOLDIER look — a sleeveless navy turtleneck, a single silver shoulder guard, a brown leather belt harness and heavy boots"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "29ec901948b7352a859a191842d4a9ad488dd7c48d1b153599ddb6c23ba610a1",
+  "passed": true,
+  "observations": [
+   "남색 짧은 머리·녹색 눈·동일 성인 얼굴. 남색 민소매 터틀넥 보디수트·한쪽 금속 견갑·갈색 하네스의 클라우드 코스튬.",
+   "의상실 책상 옆 앉기, 한 손 자수틀·한 손 바늘. 두 팔·손이 어깨와 정상 연결, 무릎 모음.",
+   "마네킹은 얼굴 없는 사물, 주인공 한 명. 원작 얼굴·HUD·로고·선명한 문자는 없음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
