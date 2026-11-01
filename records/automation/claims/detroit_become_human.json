@@ -1,0 +1,26 @@
+{
+ "key": "detroit_become_human",
+ "runs": [
+  {
+   "key": "detroit_become_human",
+   "execution": "game-detroit-70c654-20261101",
+   "status": "working",
+   "claimed_at": "2026-11-01T13:52:09.858Z",
+   "date_kst": "2026-11-01",
+   "date_utc": "2026-11-01",
+   "missing": [
+    "detroit_become_human_title_glossy_kr_game_f.webp",
+    "detroit_become_human_title_open_glossy_kr_game_f.webp",
+    "detroit_become_human_middle_glossy_kr_game_f.webp",
+    "detroit_become_human_middle_open_glossy_kr_game_f.webp",
+    "detroit_become_human_ending_glossy_kr_game_f.webp",
+    "detroit_become_human_ending_open_glossy_kr_game_f.webp",
+    "detroit_become_human_glossy_kr_game_f_casual1.webp",
+    "detroit_become_human_glossy_kr_game_f_casual2.webp",
+    "detroit_become_human_glossy_kr_game_f_casual3.webp",
+    "detroit_become_human_glossy_kr_game_f_casual4.webp",
+    "detroit_become_human_glossy_kr_game_f_casual5.webp"
+   ]
+  }
+ ]
+}
