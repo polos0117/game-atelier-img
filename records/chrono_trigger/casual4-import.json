@@ -1,0 +1,75 @@
+{
+ "version": 1,
+ "game": "chrono_trigger",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "chrono_trigger_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "f7b8037ff92287ea7118016879dec701e398fdd28008aae468d4eb6b95b26075",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "chrono_trigger_title_glossy_kr_game_f.webp",
+ "prompt": "records/chrono_trigger/casual4-ui.json",
+ "prompt_sha256": "9c65603ed1304bb58f1aba384f5a0453ba6ae9ba57ec54ebbff19ea0864033f6",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "77d873c1863fc239851ffd500bcb8edb66378980effa101edfb662756106dc33",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-chrono-4c4bb8-20261101",
+ "qa": {
+  "reviewer": "gpt-game-chrono-4c4bb8",
+  "image_sha256": "f7b8037ff92287ea7118016879dec701e398fdd28008aae468d4eb6b95b26075",
+  "passed": false,
+  "observations": [
+   "1024×1536·세로 2:3 확인. 성인 여성 주인공 한 명이며 원작 인물·괴물의 얼굴/몸, 토리야마풍 원작 인물 디자인, 로고·HUD·읽히는 글자/숫자·실제 상표는 관찰되지 않음.",
+   "노출 moderate로 낮춘 세 번째 호출에서 생성. 정본 얼굴·붉은 머리·초록 눈과 당황한 표정, 양손으로 모래시계 양쪽 기둥을 쥔 모습 확인.",
+   "두 팔은 각각 어깨·팔꿈치·손목으로 자연스럽게 연결되며 추가 손은 보이지 않는다.",
+   "가슴 위 구도보다 복부까지 넓게 나왔고, 전통 직물 무늬 수영복보다 금빛 장식과 흰 프릴 중심이다. 원본 시계 장신구·팔레트가 일부 남아 있다."
+  ],
+  "cause": "모래시계 전체와 수영복의 하단을 보여주려는 구성이 CROP보다 우세함. WARDROBE의 독립 의상 요구보다 정본의 금빛 장식·흰색 재질 참조가 우세함."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; user_approval_2026-11-01 — 크로노트리거 이미지·기록·도감 main 일반 반영 승인",
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "stage": "output",
+    "category": "sexual",
+    "request_id": "c2665409-2876-4f4a-a8ac-c9bf5a3ba8fa",
+    "prompt_sha256": "bb848c1c2f97a3a8927e93b4a37be53ce9e68a3ea83445d55f52517963827137"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "stage": "output",
+    "category": "sexual",
+    "request_id": "06c7ab75-9c48-4dc8-a019-e6922e13796a",
+    "prompt_sha256": "bb848c1c2f97a3a8927e93b4a37be53ce9e68a3ea83445d55f52517963827137"
+   },
+   {
+    "attempt": 3,
+    "exposure": "moderate",
+    "result": "generated",
+    "prompt_sha256": "9c65603ed1304bb58f1aba384f5a0453ba6ae9ba57ec54ebbff19ea0864033f6"
+   }
+  ]
+ }
+}

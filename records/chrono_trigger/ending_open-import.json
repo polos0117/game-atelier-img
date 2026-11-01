@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "chrono_trigger",
+ "slot": "ending_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "chrono_trigger_ending_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "b12944baf6d9df5adbec20645e448bbf6b5032e31ed58f5cbf618ddc5d99d154",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "chrono_trigger_ending_glossy_kr_game_f.webp",
+ "prompt": "records/chrono_trigger/ending_open-ui.json",
+ "prompt_sha256": "c992f1688868fc0ae6f1be0daed1e337359c2703346c69bf36a654e49bd44617",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "0438bc1b3029e0afa4cffa238cfc5bdd12ed2d70642352b6dd70e4cbdc924ee4",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-chrono-4c4bb8-20261101",
+ "qa": {
+  "reviewer": "gpt-game-chrono-4c4bb8",
+  "image_sha256": "b12944baf6d9df5adbec20645e448bbf6b5032e31ed58f5cbf618ddc5d99d154",
+  "passed": false,
+  "observations": [
+   "1024×1536·세로 2:3 확인. 성인 여성 주인공 한 명이며 원작 인물·괴물의 얼굴/몸, 토리야마풍 원작 인물 디자인, 로고·HUD·읽히는 글자/숫자·실제 상표는 관찰되지 않음.",
+   "엔딩의 얼굴·머리·의상·모래시계를 든 자세·카메라 유지. 푸른 하늘과 시간 소용돌이·빛의 궤적 확인.",
+   "인물 한 명, 개방 단일 장면이며 두 팔·두 다리 연결과 두 발 프레임 안 확인.",
+   "모래시계 내부 빛은 보이나 모래가 위로 흐르는 방향은 정지 그림에서 명확하지 않다. 붉은 하늘에서 푸르게 되돌아가는 전환보다 이미 푸른 하늘로 표현됐다."
+  ],
+  "cause": "참조 엔딩 하늘이 이미 푸른색이며 OUTPUT은 환경 변경만 요청해 전환 전후 대비가 약함. 역방향 모래의 시각 단서가 추상적인 장면 문장에만 있음."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; user_approval_2026-11-01 — 크로노트리거 이미지·기록·도감 main 일반 반영 승인",
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "result": "generated",
+    "prompt_sha256": "c992f1688868fc0ae6f1be0daed1e337359c2703346c69bf36a654e49bd44617"
+   }
+  ]
+ }
+}

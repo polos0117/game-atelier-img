@@ -1,0 +1,111 @@
+{
+ "version": 1,
+ "game": "chrono_trigger",
+ "title": "크로노 트리거",
+ "mode": "form",
+ "form": "title",
+ "stage": "타이틀",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "chrono_trigger_title_glossy_kr_game_f.webp",
+ "record": "records/chrono_trigger/title-ui.json",
+ "at": "2026-11-01T09:24:46.100Z",
+ "storage": {
+  "last": "chrono_trigger",
+  "cards": {
+   "chrono_trigger": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "create",
+    "form": "title",
+    "baseForm": "title",
+    "casualN": 1,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "form",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "",
+      "scene": "",
+      "outfit": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold"
+      },
+      "action": {},
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      }
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images.\n\nGAME: «크로노 트리거» (Chrono Trigger), 1995. Genre: role-playing game. Graphics era: 16-bit console and early PC.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"원작 인물(크로노·마르·루카·개구리 등)의 얼굴\"; \"토리야마 아키라풍 인물 디자인 그대로\"; \"괴물의 디자인\"; \"로고·타이틀 글자\"; \"읽히는 글자·숫자·HUD\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined costume and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (recognizable, as the game shows them): \"푸르게 일렁이는 시간의 문\", \"황금 모래시계\", \"천년제 축제의 종과 깃발\", \"하늘을 나는 시간 비행기\".\n\nQuoted notes may be Korean; read them as description, never render them as text.\n\nSUBJECT: one adult woman who personifies the video game itself. Persona: \"축제 날 열린 시간의 문으로 뛰어들어 시대를 건너다니는 모험가\". Desire: \"멸망의 날을 막아 모두의 미래를 바꾸기\"; conflict: \"지금의 시대에 남고 싶은 마음과 다른 시대를 구해야 하는 몫\". Its symbols become costume motifs drawn the way the game shows them, worn, not carried, unless her form or pose puts one in hand: \"시간의 문\", \"모래시계\", \"축제의 종\".\n\nAGE: in her twenties — smooth youthful skin; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases) whatever her expression.\n\nCORE PLAY: \"동료와 기술을 합쳐 쓰고, 시대를 오가며 앞 시대의 일을 바꾼다\" — shown in her bearing and small costume details, never as effects, numbers or a HUD.\n\nERA LOOK: 16-bit era — richer color gradients in the fabric, layered sprite-like accents, saturated jewel tones — in fabric and trim only, never pixel art or a screenshot.\n\nSILHOUETTE: petite, small-framed build; voluminous hair; bright red hair; garment structure: layered skirts; main material: adventurer cotton and suede stitched with clock-gear embroidery; palette: time-gate sky blue, bronze clockwork and sunset orange.\n\nFACE (her own structure, not the style's default face): heart-shaped face; large round eyes; thin arched brows; upturned nose; wide smiling mouth; forest-green eyes; broad Southeast Asian ancestry with individual variation, no stereotyped features.\n\nFORM — TITLE (타이틀): \"짧은 모험가 튜닉과 겹치마, 스카프, 가죽 장화\". Battle role: scout. Stage of play: the first power-on — her cleanest look, genre colors most vivid.\nGEAR in the game's own style: \"축제 모험가풍 — 튜닉과 스카프\".\n\nSETTING (this form): \"천년제가 열린 마을 광장 — 풍선과 햇살\" — calm start-screen composition — centered, uncluttered, cool clean light, dark negative space.\n\nHOLD BACK: these moments belong to the open images — keep their events out of this setting, even as a distant figure or reflection: \"광장 한가운데 푸른 소용돌이가 열리며 둘레의 풍선들이 빨려 든다\"; \"무너진 돔 사이로 여러 시대의 풍경이 겹쳐 비친다\"; \"모래시계의 모래가 거꾸로 흐르며 붉은 하늘이 푸르게 되돌아간다\". An object named in FORM or in her pose stays.\n\nEXPOSURE (bold): cut the FORM costume to show skin through its own structure — a deep open neckline with natural cleavage, a fitted corset-like waist, and bare shoulders, arms or thighs where the garment allows, kept symmetrical. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the FORM costume, material and palette.\n\nPRESENTATION: a polished, glamorous adult game card illustration — a beautiful face within her FACE structure; a dense, high-detail costume with glossy trim, clasps and jewelry framing her game's material; luminous rim light, strong value contrast.\n\nSTANCE (this form): \"축제 광장에서 한 손을 들어 시간의 문 쪽을 가리키는 자세\" — held still and centered, seen at eye level, easy to read as a card.\n\nEXPRESSION (TITLE): one brow raised higher, head tilted, eyes wide and attentive, lips slightly parted — the mood of this stage, on her own face.\n\nOUTPUT: one full-body card image of this form, which also fixes who she is for every later form. Vertical 2:3 frame (1024×1536), full body with head and feet inside the frame and clear margins, nothing in front of her but what she holds, face toward the camera (front or three-quarter, never a back view). Build the background from SETTING; it evokes her game's world without being a screenshot or level map.\n\nONE FIGURE ONLY. No second character, no text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: natural human hands. Her hands do only what STANCE says and hold only what it names.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}

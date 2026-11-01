@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "chrono_trigger",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "chrono_trigger_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "a38110987456611786ea59d1cbeef5300a7fa558aae24536ac381ef37dfeecf8",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "chrono_trigger_title_glossy_kr_game_f.webp",
+ "prompt": "records/chrono_trigger/ending-ui.json",
+ "prompt_sha256": "618190baed3bd254078641f27f147f203978e50f844517808131d09196226ce5",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "26b186ab85eb810a8ad90a823431ab75fc556964abff03fe0d82988157d1b0a8",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-chrono-4c4bb8-20261101",
+ "qa": {
+  "reviewer": "gpt-game-chrono-4c4bb8",
+  "image_sha256": "a38110987456611786ea59d1cbeef5300a7fa558aae24536ac381ef37dfeecf8",
+  "passed": false,
+  "observations": [
+   "1024×1536·세로 2:3 확인. 성인 여성 주인공 한 명이며 원작 인물·괴물의 얼굴/몸, 토리야마풍 원작 인물 디자인, 로고·HUD·읽히는 글자/숫자·실제 상표는 관찰되지 않음.",
+   "정본 얼굴·머리·눈색 유지. 별빛 긴 망토와 왕관, 모래시계를 높이 든 전신 자세와 구름 위 왕국 확인.",
+   "두 팔·두 다리와 손목 연결에 중복·단절은 관찰되지 않음.",
+   "왕관은 설계의 은빛 대신 금빛이다. 지정한 약간 높은 먼 카메라보다 낮은 전신 구도이고, 아련한 반미소보다 입을 벌린 미소가 강하다."
+  ],
+  "cause": "정본의 청동·금빛 팔레트와 FORM의 은빛 왕관이 경쟁함. STANCE의 약간 높은 카메라·EXPRESSION의 아련한 미소보다 모래시계를 든 장대한 포즈와 정본 얼굴이 우세함."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; user_approval_2026-11-01 — 크로노트리거 이미지·기록·도감 main 일반 반영 승인",
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "result": "generated",
+    "prompt_sha256": "618190baed3bd254078641f27f147f203978e50f844517808131d09196226ce5"
+   }
+  ]
+ }
+}

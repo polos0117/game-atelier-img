@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "chrono_trigger",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "chrono_trigger_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "0fd8e505722cd77ce9923cf87caa69ef4de36aa0939aa508cebe4e8830a15b8d",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "chrono_trigger_title_glossy_kr_game_f.webp",
+ "prompt": "records/chrono_trigger/casual2-ui.json",
+ "prompt_sha256": "df47734119ba944712dbd514e853534bbded7055c7424224204b3d0858effea4",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "42036a9cd42be832d33284d30ba890ab720cb1f715378a8f6ceb7ae545b3e22c",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-chrono-4c4bb8-20261101",
+ "qa": {
+  "reviewer": "gpt-game-chrono-4c4bb8",
+  "image_sha256": "0fd8e505722cd77ce9923cf87caa69ef4de36aa0939aa508cebe4e8830a15b8d",
+  "passed": false,
+  "observations": [
+   "1024×1536·세로 2:3 확인. 성인 여성 주인공 한 명이며 원작 인물·괴물의 얼굴/몸, 토리야마풍 원작 인물 디자인, 로고·HUD·읽히는 글자/숫자·실제 상표는 관찰되지 않음.",
+   "의자에 앉아 카메라를 두 손으로 다루는 전신·발 포함 구도와 행사장 사진벽 확인. 두 팔·다리 연결은 자연스럽다.",
+   "완전 옆모습보다 3/4 얼굴·몸 방향이고, 윙크가 뚜렷하지 않다. 카메라 왼손은 바디 아래보다 렌즈 아래를 받친다.",
+   "유니폼의 견장·라펠은 반영됐으나 원본의 흰색·갈색·붉은색과 금빛 시계 장식·머리 장식이 옷과 소품에 다수 이어짐."
+  ],
+  "cause": "정본 이미지의 의상·머리 장식·미소가 WARDROBE·ANGLE·EXPRESSION보다 강하게 남음. 사진 확인 동작과 선택 표정 wink의 시선이 경쟁함."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; user_approval_2026-11-01 — 크로노트리거 이미지·기록·도감 main 일반 반영 승인",
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "result": "generated",
+    "prompt_sha256": "df47734119ba944712dbd514e853534bbded7055c7424224204b3d0858effea4"
+   }
+  ]
+ }
+}

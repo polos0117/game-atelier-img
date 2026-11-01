@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "chrono_trigger",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "chrono_trigger_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "6990eebf215b818d3fd81d2a10b89882a71a3e352d2427ffe4cee10f395361fe",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "chrono_trigger_title_glossy_kr_game_f.webp",
+ "prompt": "records/chrono_trigger/middle-ui.json",
+ "prompt_sha256": "c7a91fef00418cee6c49f2fd843abaecee78d61e256589845d7f9a806fa5d0da",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "106ec85eaa538157da0e8354eebec6e4c87b1d4c15a074a87b84e7e532d340a4",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-chrono-4c4bb8-20261101",
+ "qa": {
+  "reviewer": "gpt-game-chrono-4c4bb8",
+  "image_sha256": "6990eebf215b818d3fd81d2a10b89882a71a3e352d2427ffe4cee10f395361fe",
+  "passed": false,
+  "observations": [
+   "1024×1536·세로 2:3 확인. 성인 여성 주인공 한 명이며 원작 인물·괴물의 얼굴/몸, 토리야마풍 원작 인물 디자인, 로고·HUD·읽히는 글자/숫자·실제 상표는 관찰되지 않음.",
+   "정본 얼굴·머리·눈색 유지. 놀란 입 모양과 무릎을 굽혀 시간문으로 뛰어드는 자세, 망토·공구 주머니 확인.",
+   "두 팔·두 다리와 보이는 손의 연결이 자연스럽고 발이 모두 프레임 안에 있다.",
+   "첫 그림의 상의 구조·겹치마가 많이 남았다. 손에 들도록 지정하지 않은 모래시계를 들고 있다. 미래 폐허가 현대 기계 돔보다 판타지 석조 폐허로 읽힌다."
+  ],
+  "cause": "GARMENT의 의상 변경 지시보다 첨부 정본의 상의 형태가 강하게 유지됨. SIGNATURE의 모래시계가 HANDS의 STANCE 외 소품 금지보다 강하게 반영됨. 미래 돔의 구체적 구조는 SETTING에서 약하게 지정됨."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; user_approval_2026-11-01 — 크로노트리거 이미지·기록·도감 main 일반 반영 승인",
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "result": "generated",
+    "prompt_sha256": "c7a91fef00418cee6c49f2fd843abaecee78d61e256589845d7f9a806fa5d0da"
+   }
+  ]
+ }
+}

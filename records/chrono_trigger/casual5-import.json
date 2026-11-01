@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "chrono_trigger",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "chrono_trigger_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "e2587116b3c50d0bac0cd79c8ab70c1eff035f66f628c3d3f46d17f45c2033aa",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "chrono_trigger_title_glossy_kr_game_f.webp",
+ "prompt": "records/chrono_trigger/casual5-ui.json",
+ "prompt_sha256": "e0136c84a0720e924d29ffe7852bc8bd8d90496da555ba197f59ae1a2726cc1a",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "cae02c5b6bdb62d0f71709890ad8c054758f49868133f561a266bdb8fdec78ee",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-chrono-4c4bb8-20261101",
+ "qa": {
+  "reviewer": "gpt-game-chrono-4c4bb8",
+  "image_sha256": "e2587116b3c50d0bac0cd79c8ab70c1eff035f66f628c3d3f46d17f45c2033aa",
+  "passed": false,
+  "observations": [
+   "1024×1536·세로 2:3 확인. 성인 여성 주인공 한 명이며 원작 인물·괴물의 얼굴/몸, 토리야마풍 원작 인물 디자인, 로고·HUD·읽히는 글자/숫자·실제 상표는 관찰되지 않음.",
+   "목조 지붕 아래 족욕 장소와 수건으로 머리를 말리는 전신·주변 환경 구도 확인. 오른손은 정수리 수건, 왼손은 머리 옆 수건을 잡는다.",
+   "두 팔·두 다리와 손목·발목이 자연스럽게 이어지며 중복 팔은 관찰되지 않는다. 양발 모두 프레임 안.",
+   "등이 열린 라운지 의상은 반영됐지만 가운형으로 보이며, 완전 옆모습보다 뒤 3/4 방향이다. 1995년 현실 장소보다 축제 깃발·시계탑이 많은 판타지 온천 마을로 읽힌다."
+  ],
+  "cause": "ERA의 현실 1995년과 source_influence strong·SIGNATURE의 축제 종/깃발이 경쟁함. 백리스 의상을 보여주려는 구성이 side profile보다 우세함."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; user_approval_2026-11-01 — 크로노트리거 이미지·기록·도감 main 일반 반영 승인",
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "result": "generated",
+    "prompt_sha256": "e0136c84a0720e924d29ffe7852bc8bd8d90496da555ba197f59ae1a2726cc1a"
+   }
+  ]
+ }
+}
