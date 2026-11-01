@@ -1,0 +1,26 @@
+{
+ "key": "chrono_trigger",
+ "runs": [
+  {
+   "key": "chrono_trigger",
+   "execution": "game-chrono-4c4bb8-20261101",
+   "status": "working",
+   "claimed_at": "2026-11-01T09:12:15.548Z",
+   "date_kst": "2026-11-01",
+   "date_utc": "2026-11-01",
+   "missing": [
+    "chrono_trigger_title_glossy_kr_game_f.webp",
+    "chrono_trigger_title_open_glossy_kr_game_f.webp",
+    "chrono_trigger_middle_glossy_kr_game_f.webp",
+    "chrono_trigger_middle_open_glossy_kr_game_f.webp",
+    "chrono_trigger_ending_glossy_kr_game_f.webp",
+    "chrono_trigger_ending_open_glossy_kr_game_f.webp",
+    "chrono_trigger_glossy_kr_game_f_casual1.webp",
+    "chrono_trigger_glossy_kr_game_f_casual2.webp",
+    "chrono_trigger_glossy_kr_game_f_casual3.webp",
+    "chrono_trigger_glossy_kr_game_f_casual4.webp",
+    "chrono_trigger_glossy_kr_game_f_casual5.webp"
+   ]
+  }
+ ]
+}
