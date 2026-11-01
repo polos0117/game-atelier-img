@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "dragon_quest",
+ "slot": "casual7",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "dragon_quest_glossy_kr_game_f_casual7.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "b878bfccd5d101108535820889c134164c1d50e850ffdf0d9d834b5667a2c332",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "dragon_quest_title_glossy_kr_game_f.webp",
+ "prompt": "records/dragon_quest/casual7-ui.json",
+ "prompt_sha256": "a4cd801856d6660c8769f32a1539be9731c595643d5627a7ef65642807ab7304",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "0bdba332fc9a849c8363dc810d28fda10ead9e4ed2365235c77f9ae20b74e170",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "슬라임(마스코트)",
+  "en": "the blue Slime mascot's look — glossy translucent sky-blue in a rounded teardrop shape with a little curled tip as a headpiece, without its face"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b878bfccd5d101108535820889c134164c1d50e850ffdf0d9d834b5667a2c332",
+  "passed": false,
+  "observations": [
+   "갈색 장발·동일 얼굴, 하늘색 젤리 질감 미니드레스와 슬라임 끝 모양 모자. 마스코트 얼굴은 없음.",
+   "주방 전신, 두 팔·두 다리가 자연스럽게 연결되고 열린 손의 손가락은 다섯.",
+   "계획의 오른손 흔들기·왼손 내림이 반대로 보이고 측면보다 뒤 3/4이다. 읽히는 글자·HUD·상표 없음."
+  ],
+  "cause": "원본 방향을 일부 따라가 계획의 좌우 손·측면 방향이 뒤바뀜"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "필수 갈래가 없다"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
