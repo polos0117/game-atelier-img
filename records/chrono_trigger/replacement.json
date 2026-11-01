@@ -1,0 +1,22 @@
+{
+ "version": 1,
+ "game": "chrono_trigger",
+ "replacements": [
+  {
+   "slot": "casual5",
+   "file": "chrono_trigger_glossy_kr_game_f_casual5.webp",
+   "date": "2026-11-01",
+   "reason": "사용자 요청: 머리 말리는 손과 팔 구도 수정",
+   "previous_webp_sha256": "cae02c5b6bdb62d0f71709890ad8c054758f49868133f561a266bdb8fdec78ee",
+   "previous_source_png_sha256": "e2587116b3c50d0bac0cd79c8ab70c1eff035f66f628c3d3f46d17f45c2033aa",
+   "previous_git_blob": "41747601398c903a82f2d6b0b90b924a1db6bf8a",
+   "previous_commit": "163d9680590fc2b4d34cf69b17ddcdaaa623361d",
+   "new_webp_sha256": "ef058eaaf72e21c391bef287f7dfe0e9983c0e2d2f26cf4690258de0f6487022",
+   "new_source_png_sha256": "0307b17baf661fcf3f3787e5a216922ab18fa1ef0bcd256e879fec611d1d6ebc",
+   "old_record": "records/chrono_trigger/revisions/casual5-20261101-arms/before-casual5-import.json",
+   "new_record": "records/chrono_trigger/casual5-import.json",
+   "tool": "image_gen built-in edit",
+   "prompt_sha256": "f7ac457c028d11e4c071239f5f3b5ec2d10627e56741e9e9b453c6412a016b53"
+  }
+ ]
+}
