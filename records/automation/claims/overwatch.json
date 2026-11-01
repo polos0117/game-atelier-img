@@ -4,7 +4,7 @@
   {
    "key": "overwatch",
    "execution": "game-overwatch-e799-20261102",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-01T23:04:42.870Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-01",
@@ -20,7 +20,9 @@
     "overwatch_glossy_kr_game_f_casual3.webp",
     "overwatch_glossy_kr_game_f_casual4.webp",
     "overwatch_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-01T23:17:51.401Z",
+   "done_by": "game-overwatch-e799-20261102"
   }
  ]
 }
