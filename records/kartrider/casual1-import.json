@@ -1,0 +1,52 @@
+{
+ "version": 1,
+ "game": "kartrider",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "kartrider_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "bdbea2ebc577cf8064af93ad5d28c73d00b61ac100d42f7038c53960e443e30b",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "kartrider_title_glossy_kr_game_f.webp",
+ "prompt": "records/kartrider/casual1-ui.json",
+ "prompt_sha256": "e78d088b812a80ddad7073f761396280a462ec76dcced10ccfb96c90f50742af",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "374132d32f500d3bbcd9703e2ae8d56da7f2cbe1dc98fcebdeab77091d9fc269",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-kartrider-118c24-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "bdbea2ebc577cf8064af93ad5d28c73d00b61ac100d42f7038c53960e443e30b",
+  "passed": false,
+  "observations": [
+   "원본 크기 1024×1536 확인.",
+   "정본 얼굴·레몬빛 트윈테일·청록 눈 유지. 호숫가와 토끼귀·칼라·리본·커프스의 바니 의상, 배경 작은 카트 확인.",
+   "얼굴 곁에 브이 손 하나가 자연스럽게 이어지고 다른 손은 프레임 밖. 추가 팔·손 없음.",
+   "계획은 쇄골 아래가 보이지 않는 face_close였으나 실제로는 가슴까지 보이는 넓은 크롭.",
+   "브이는 화면 오른쪽의 해부학적 왼손으로 나타나 오른손 지정과 다름.",
+   "원작 마스코트 얼굴·HUD·읽히는 글자·숫자·브랜드 없음."
+  ],
+  "cause": "강한 스타일링·의상과 노출 문장이 얼굴 클로즈업 CROP보다 강하게 반영됨. 오른손 해부학적 지정도 카메라를 향한 브이 포즈 관습에 밀림. 자동화 규칙에 따라 기록 후 그대로 등록."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

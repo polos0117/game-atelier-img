@@ -1,0 +1,50 @@
+{
+ "version": 1,
+ "game": "kartrider",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "kartrider_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "be3a3b7ed0e79a5af34eada57c287ad61705d48d85a3dd6d483dfc22d96198cc",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "kartrider_title_glossy_kr_game_f.webp",
+ "prompt": "records/kartrider/title_open-ui.json",
+ "prompt_sha256": "5842d22a7e206969e95fdac61faed13179b9dc3ea03ce3fa6d689ba5d81687fd",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "0e8aac5ddc58b1aa58895943ea87a3a27345617e74c46bdd6c1416199055fe8a",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-kartrider-118c24-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "be3a3b7ed0e79a5af34eada57c287ad61705d48d85a3dd6d483dfc22d96198cc",
+  "passed": true,
+  "observations": [
+   "원본 크기 1024×1536 확인.",
+   "타이틀 정본의 얼굴·의상·포즈·카트·전신 구도를 유지한 단일 개방 장면.",
+   "신호등이 초록으로 켜지고 배경 풍선이 떠오르며 출발 순간이 드러남.",
+   "엄지 든 오른팔과 고글에 댄 왼팔, 두 다리·부츠가 각각 정상 연결됨. 분할 화면·중복 인물·HUD·읽히는 문자 없음."
+  ],
+  "cause": ""
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

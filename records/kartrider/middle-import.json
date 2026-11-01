@@ -1,0 +1,51 @@
+{
+ "version": 1,
+ "game": "kartrider",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "kartrider_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "5ac8410179ee9e0af58c1b07283d93ad35e63f54ef32ff46e093cfaef60fed42",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "kartrider_title_glossy_kr_game_f.webp",
+ "prompt": "records/kartrider/middle-ui.json",
+ "prompt_sha256": "4a9cae2961bda2d50a0ba96d77bea04c97d90de3a92850771ac60a0a81cfa718",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "bc39fa796c434603c69fb9b822d2de2d24b79cc43bff0e4097b2aecb8508eac2",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-kartrider-118c24-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5ac8410179ee9e0af58c1b07283d93ad35e63f54ef32ff46e093cfaef60fed42",
+  "passed": false,
+  "observations": [
+   "원본 크기 1024×1536 확인.",
+   "정본과 같은 레몬빛 트윈테일·청록 눈·체크 패널을 유지하고, 집중한 표정과 긴 스카프·얼음 동굴로 중반 폼을 구분.",
+   "양손이 각각 한 팔을 거쳐 핸들로 이어지며 추가 팔·손은 보이지 않음. 한쪽 다리와 부츠는 카트 차체 뒤로 가려짐.",
+   "원작 캐릭터 얼굴·로고·HUD·읽히는 글자·숫자 없음.",
+   "부스터뿐 아니라 타이어 근처에도 푸른 궤적이 나타나 닫힌 폼의 개방 사건 억제와 다소 어긋남."
+  ],
+  "cause": "SIGNATURE의 푸른 부스터와 STANCE의 드리프트가 결합해 HOLD BACK의 푸른 드리프트 자국 억제보다 강하게 반영된 것으로 보임. 자동화 규칙에 따라 재생성하지 않고 기록."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

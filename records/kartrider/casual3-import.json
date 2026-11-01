@@ -1,0 +1,52 @@
+{
+ "version": 1,
+ "game": "kartrider",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "kartrider_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "c6b6890ccf2cd9deedc752a8042800c1e109c4bf92ce9a618b27bd3a9bf6e128",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "kartrider_title_glossy_kr_game_f.webp",
+ "prompt": "records/kartrider/casual3-ui.json",
+ "prompt_sha256": "4d01ddc813e866bc0593210143184d802f01e3e7dde09c7742d34de617f865c8",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "76ecaaf845654dfc46ee82e43ef386184e4afb2cb80a371274c7c1d54aad0c40",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-kartrider-118c24-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c6b6890ccf2cd9deedc752a8042800c1e109c4bf92ce9a618b27bd3a9bf6e128",
+  "passed": false,
+  "observations": [
+   "원본 크기 1024×1536 확인.",
+   "정본의 얼굴·레몬빛 트윈테일 유지. 밝은 곡면 스파와 동전·시폰 벨리댄스 의상, 배경 체크 깃발 확인.",
+   "두 팔과 두 다리가 각각 자연스럽게 연결되며 중복 사지 없음. 머리 뒤 팔과 바닥 짚은 팔이 각기 다른 어깨에서 나옴.",
+   "지정은 옆으로 누워 오른손 머리 뒤·왼손 바닥이었으나 실제로는 상체를 높인 기대앉기, 왼손 머리 뒤·오른손 받침으로 좌우가 바뀜.",
+   "반대쪽 발끝 일부가 오른쪽 가장자리에서 잘려 전신 여백 조건에 미달.",
+   "HUD·로고·읽히는 글자·원작 캐릭터 얼굴 없음."
+  ],
+  "cause": "lie_side_full의 옆으로 눕기와 오른손 머리 받치기보다 의상을 전면에 보이는 화보 관습이 강해 상체를 세우고 팔을 좌우 반전한 것으로 보임. 추가 팔은 없으며 자동화 규칙에 따라 재생성하지 않고 기록."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

@@ -1,0 +1,51 @@
+{
+ "version": 1,
+ "game": "kartrider",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "kartrider_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "fd4516d6e89fb4a466b3bddd6d0a52edc0a5c001841d28353f8b01fa3f49fb7e",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "kartrider_title_glossy_kr_game_f.webp",
+ "prompt": "records/kartrider/ending-ui.json",
+ "prompt_sha256": "790a80e7e5b1c15404c1880cefa963d0961aaf843a8277a52de1fe1b034c482d",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "5759f722c44c600c8738c74e6259b6551c2e2f95db1dae5974f4e982fcac6c90",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-kartrider-118c24-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "fd4516d6e89fb4a466b3bddd6d0a52edc0a5c001841d28353f8b01fa3f49fb7e",
+  "passed": false,
+  "observations": [
+   "원본 크기 1024×1536 확인.",
+   "정본과 같은 얼굴·레몬빛 트윈테일·청록 눈. 흰 슈트·금빛 트로피 장식·망토·입을 연 웃음으로 엔딩 폼 구분.",
+   "카트 위에 두 부츠로 서 있으며 양팔은 한 쌍이고 왼손이 깃발을 쥠. 추가 사지나 손의 연결 끊김 없음.",
+   "읽히는 글자·숫자·HUD·실제 브랜드 로고·원작 마스코트 얼굴 없음.",
+   "닫힌 폼 배경에도 큰 불꽃놀이가 나타남. 카메라는 요청한 약간 높은 시점보다 낮은 시점에 가까움."
+  ],
+  "cause": "SETTING이 불꽃놀이가 터지는 결승선으로 지정되어 같은 사건을 막는 HOLD BACK과 충돌. 깃발을 크게 흔들며 카트 위에 선 STANCE와 전신 지시가 slightly high 카메라보다 강하게 반영됨. 자동화 규칙에 따라 재생성하지 않음."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

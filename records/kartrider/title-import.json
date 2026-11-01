@@ -1,0 +1,50 @@
+{
+ "version": 1,
+ "game": "kartrider",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "kartrider_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "454d8754cd366e21d74ee8238e3e1a55fedaacc16535ae8862d84de12893cd0c",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": null,
+ "prompt": "records/kartrider/title-ui.json",
+ "prompt_sha256": "94b5e12c89a9d4c96935e98bb982ee15fa0aaead4599179379b9adc343c8cebe",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "e191590a6ae7db5a12e65e172b7f8c86f179b18d875f2717177a98a03e4663f8",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-kartrider-118c24-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "454d8754cd366e21d74ee8238e3e1a55fedaacc16535ae8862d84de12893cd0c",
+  "passed": true,
+  "observations": [
+   "원본 크기 1024×1536 확인.",
+   "성인 여성 한 명, 레몬빛 트윈테일·청록색 눈·체크 레이싱 의상·고글·작은 카트 확인.",
+   "오른손 엄지 들기와 왼손 고글 조정이 각각 한 팔로 연결됨. 두 다리와 두 부츠가 프레임 안에 있음.",
+   "로고·HUD·원작 마스코트 얼굴 없음. 칼라에는 X형 장식 스티치가 보임."
+  ],
+  "cause": ""
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

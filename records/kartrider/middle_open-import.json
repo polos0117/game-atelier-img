@@ -1,0 +1,51 @@
+{
+ "version": 1,
+ "game": "kartrider",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "kartrider_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "7fbd595888f331a9cc7b97776402f41ba2112ff2ced105d1333f23217a03e779",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "kartrider_middle_glossy_kr_game_f.webp",
+ "prompt": "records/kartrider/middle_open-ui.json",
+ "prompt_sha256": "d0ce706e7be585d17c792a0a868ffc3f173d2efd4136ec68f7d30e5d55096206",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "c26d404ff47ac1ed207e6b3326f840258a55cb312ab93cb21ee780590d5e24be",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-kartrider-118c24-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7fbd595888f331a9cc7b97776402f41ba2112ff2ced105d1333f23217a03e779",
+  "passed": true,
+  "observations": [
+   "원본 크기 1024×1536 확인.",
+   "중반 닫힘의 얼굴·머리·의상·운전 자세·카트·대각선 카메라 유지.",
+   "드리프트 경로와 바퀴 둘레의 푸른 불꽃이 강화된 단일 개방 장면. 분할·중복 인물 없음.",
+   "핸들을 잡은 두 손과 양팔 연결 정상. 차체 뒤쪽 다리 가림은 닫힘과 같으며 추가 팔·다리·손 없음.",
+   "HUD·읽히는 글자·숫자·실제 브랜드·원작 캐릭터 얼굴 없음."
+  ],
+  "cause": ""
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

@@ -1,0 +1,51 @@
+{
+ "version": 1,
+ "game": "kartrider",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "kartrider_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "fc0617477dcf94f5a1444923eff7cca4a624bfa3dac878c2a20045086a97f8ec",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "kartrider_title_glossy_kr_game_f.webp",
+ "prompt": "records/kartrider/casual2-ui.json",
+ "prompt_sha256": "eea557e54f56ebe5c4857c560316cae5622c8367f7928e5913c27be65a0a2f4e",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "5f9831cb223244196ed39ced2215aae46d97cab20a8d0830420520bb63e3df11",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-kartrider-118c24-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "fc0617477dcf94f5a1444923eff7cca4a624bfa3dac878c2a20045086a97f8ec",
+  "passed": false,
+  "observations": [
+   "원본 크기 1024×1536 확인.",
+   "정본의 얼굴·레몬빛 머리·청록 눈을 유지한 성인 레이서 코스튬. 짧은 레이싱 상하의·장갑·고글 달린 헤드기어와 모션 캡처실 확인.",
+   "오른손은 오른 무릎에, 왼손은 바닥에 각각 연결됨. 책상다리의 두 다리와 두 부츠, 두 팔이 정상적으로 이어지고 추가 사지 없음.",
+   "계획의 몸·얼굴 옆모습과 환경 원경 대신 몸은 거의 정면, 얼굴은 옆모습에 가까운 3/4이고 인물이 화면 대부분을 차지함.",
+   "별도 푸른 부스터 소품은 명확하게 드러나지 않음. 실제 마스코트 얼굴·로고·HUD·읽히는 글자나 숫자 없음."
+  ],
+  "cause": "정본 얼굴·코스튬과 전신을 강조하는 문장이 environmental long shot 및 body in side profile보다 강하게 반영됨. 넓은 코스튬 문구가 타이틀 레이싱 의상과 비슷한 차림으로 수렴. 자동화 규칙에 따라 재생성하지 않음."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

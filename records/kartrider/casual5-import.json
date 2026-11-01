@@ -1,0 +1,51 @@
+{
+ "version": 1,
+ "game": "kartrider",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "kartrider_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "1f89425de301d5da358ec72f3dab7af16d595ff6b456002bf0ace77714ed535a",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "kartrider_title_glossy_kr_game_f.webp",
+ "prompt": "records/kartrider/casual5-ui.json",
+ "prompt_sha256": "c2abc79be448819dc03ee02a7f15e1b05417893a03b9114cf079e220b3c5fcfe",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "fa7731b7bfbc320bfa3436d8f69ee86a4a1ee825ac7fc18985275f739f2c0b5f",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-kartrider-118c24-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "1f89425de301d5da358ec72f3dab7af16d595ff6b456002bf0ace77714ed535a",
+  "passed": false,
+  "observations": [
+   "원본 크기 1024×1536 확인.",
+   "정본 얼굴·레몬빛 트윈테일·청록 눈을 유지한 테니스 코트 일상. 크롭탑·슬릿 랩스커트, 오른손으로 라켓을 어깨에 걸침.",
+   "오른손·팔 연결 정상. 왼팔은 몸 옆으로 자연스럽게 내려가 프레임 밖으로 이어짐. 추가 사지 없음.",
+   "허리 위 크롭보다 넓어 엉덩이·허벅지 위까지 보임. 시선은 라켓 대신 아래쪽으로 향함. 푸른 부스터 소품은 명확히 드러나지 않음.",
+   "라켓 축에 미세한 영문·숫자 유사 표식이 보이며 실제 브랜드는 식별되지 않음. HUD·원작 캐릭터 얼굴 없음."
+  ],
+  "cause": "랩스커트의 의상 형태를 보여 주려는 해석이 waist-up CROP보다 강하게 반영됨. GAZE what she holds는 어깨 뒤 라켓과 물리적으로 어색하고, 일반적인 아래쪽 시선으로 수렴. 라켓의 사실적 재질 묘사에서 작은 표식 생성. 자동화 규칙에 따라 재생성하지 않음."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

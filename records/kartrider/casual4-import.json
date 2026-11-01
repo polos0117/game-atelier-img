@@ -1,0 +1,51 @@
+{
+ "version": 1,
+ "game": "kartrider",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "kartrider_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "65c8fc0f12ca8a7573c41ed79ddee950c3d4160cdb7a7ea9c80adf22d84cee68",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "kartrider_title_glossy_kr_game_f.webp",
+ "prompt": "records/kartrider/casual4-ui.json",
+ "prompt_sha256": "c126ce7b016ba7ab8160f9a88177de327aa7c2982154e80f0b7af2c10bcd4de0",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "4f48ff0fe3b6be8bd69b88fed0fa7e87d844313f4eecf40dd424fdc4a2985b97",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-kartrider-118c24-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "65c8fc0f12ca8a7573c41ed79ddee950c3d4160cdb7a7ea9c80adf22d84cee68",
+  "passed": false,
+  "observations": [
+   "원본 크기 1024×1536 확인.",
+   "정본 얼굴·레몬빛 트윈테일·청록 눈 유지. 카트 세계의 밝은 마을과 분수, 커다란 물풍선 아이템을 양손으로 든 모습 확인.",
+   "양손은 물풍선 양옆을 잡고 각각 한 팔로 연결됨. 추가 손·팔 없음. 무릎 부근까지의 3/4 구도.",
+   "선택한 fitted unitard가 다리를 덮는 운동복 대신 하이컷 원피스 수영복으로 해석됐고, 정본의 이마 고글이 남음.",
+   "HUD·원작 마스코트 얼굴·읽히는 글자·숫자·브랜드 없음."
+  ],
+  "cause": "Place의 outdoor bath·fountain과 skin_exposure:bold가 fitted unitard를 수영복으로 유도한 것으로 보임. 참조 그림의 고글도 WARDROBE의 장신구 제거보다 강하게 유지됨. 자동화 규칙에 따라 기록 후 등록."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

@@ -1,0 +1,50 @@
+{
+ "version": 1,
+ "game": "kartrider",
+ "slot": "ending_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "kartrider_ending_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "359470663de9ac005b0914e201d605b7eab34d5bc3f882bf4654e42c1926172e",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "kartrider_ending_glossy_kr_game_f.webp",
+ "prompt": "records/kartrider/ending_open-ui.json",
+ "prompt_sha256": "041a49d0cec11c9e98361d5ba35ecf9cc732d8c8eaf1dd4ee502ac4ca4686208",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "f67330e726c0a0d40201c4eca642e4a1b30103b71917d0769256919579767fa8",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-kartrider-118c24-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "359470663de9ac005b0914e201d605b7eab34d5bc3f882bf4654e42c1926172e",
+  "passed": true,
+  "observations": [
+   "원본 크기 1024×1536 확인.",
+   "엔딩 닫힘의 얼굴·머리·흰 슈트·망토·깃발 든 자세·카트 위 양발과 카메라 유지.",
+   "결승선 양옆과 밤하늘의 불꽃놀이가 대규모로 확장되어 개방 장면 구분. 단일 장면이며 인물 중복·분할 없음.",
+   "양손이 각 손목·팔꿈치·어깨로 연결되고 추가 팔·다리 없음. 원작 캐릭터 얼굴·HUD·읽히는 글자·숫자·브랜드 없음."
+  ],
+  "cause": ""
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}
