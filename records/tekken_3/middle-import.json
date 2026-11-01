@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "tekken_3",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tekken_3_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "8fec5cafe66e85bbac1c99fb83962c76c835ec216ae9d93f5a8e7a827f59bea6",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "tekken_3_title_glossy_kr_game_f.webp",
+ "prompt": "records/tekken_3/middle-ui.json",
+ "prompt_sha256": "76d745e4b0e87782ee13d9c0f02b51ebce1ee26b80e186319f97cb93013ca386",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-tekken3-629d3561",
+ "qa": {
+  "reviewer": "gpt-game-629d3561",
+  "image_sha256": "8fec5cafe66e85bbac1c99fb83962c76c835ec216ae9d93f5a8e7a827f59bea6",
+  "passed": true,
+  "observations": [
+   "1024×1536. 주인공 한 명, HUD·로고·읽히는 글자·숫자·상표·분할 없음.",
+   "기준 얼굴·머리·눈색 유지. 찢긴 무도가 재킷·붉은 띠·빗속 무대.",
+   "올려찬 다리와 지지 다리, 어깨에서 이어지는 두 팔과 장갑을 확인. 두 신발이 프레임 안."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

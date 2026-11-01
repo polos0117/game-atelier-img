@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "tekken_3",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tekken_3_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "ea1223d141945f3a513fb2548bbc00ef4f3760c3e272cfa9eedd37b8e0b20a9d",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "tekken_3_title_glossy_kr_game_f.webp",
+ "prompt": "records/tekken_3/casual1-ui.json",
+ "prompt_sha256": "9a3aee69f493632e4b63d7964484359cbe1d30a9a98f70dd07646fd6fcbb8c68",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-tekken3-629d3561",
+ "qa": {
+  "reviewer": "gpt-game-629d3561",
+  "image_sha256": "ea1223d141945f3a513fb2548bbc00ef4f3760c3e272cfa9eedd37b8e0b20a9d",
+  "passed": true,
+  "observations": [
+   "1024×1536. 주인공 한 명, HUD·로고·읽히는 글자·숫자·상표·분할 없음.",
+   "롤러장·의전 교관 차림·허리 위 구도. 오른손 엄지 척, 왼손 허리 짚기.",
+   "두 팔이 각 어깨에서 이어지고 오른손은 엄지와 접힌 네 손가락. 배경 인물은 작고 흐림."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "tekken_3",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tekken_3_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "ff2546613430185df910001a260da00e2b654820c8aaca9efaf7f8b4842b9967",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "tekken_3_title_glossy_kr_game_f.webp",
+ "prompt": "records/tekken_3/casual2-ui.json",
+ "prompt_sha256": "764ff6cae3126569b488ac3d359008d5c7c1723122f93bce217ac4d0abdaca62",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-tekken3-629d3561",
+ "qa": {
+  "reviewer": "gpt-game-629d3561",
+  "image_sha256": "ff2546613430185df910001a260da00e2b654820c8aaca9efaf7f8b4842b9967",
+  "passed": false,
+  "observations": [
+   "1024×1536. 주인공 한 명, HUD·로고·읽히는 글자·숫자·상표·분할 없음.",
+   "같은 얼굴·붉은 머리·호박색 눈, 진의 검정·붉은 불꽃 코스튬을 성인 여성의 짧은 차림으로 표현.",
+   "팔다리는 두 쌍이나 계획의 오른손 머리 받침·왼손 바닥 짚기가 반대로 표현됨.",
+   "옆으로 눕기보다 상체를 세운 기대앉기이며, 화면 오른쪽 먼 발이 프레임 밖으로 잘림."
+  ],
+  "cause": "HAND TASK의 좌우 배정과 full_body 프레이밍이 원본 인물·코스튬 중심 근접 구도에 밀림."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

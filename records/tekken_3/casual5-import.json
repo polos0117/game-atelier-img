@@ -1,0 +1,61 @@
+{
+ "version": 1,
+ "game": "tekken_3",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tekken_3_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "9bd7d5c8d586679c21732f4c82bde801cab9d4d61603207a553bd6ac017f7dce",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "tekken_3_title_glossy_kr_game_f.webp",
+ "prompt": "records/tekken_3/casual5-ui.json",
+ "prompt_sha256": "1e27ae17c230b51dffdfdcc93abd5d935f15ed34cbcf376bd3957ba50a044b40",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-tekken3-629d3561",
+ "qa": {
+  "reviewer": "gpt-game-629d3561",
+  "image_sha256": "9bd7d5c8d586679c21732f4c82bde801cab9d4d61603207a553bd6ac017f7dce",
+  "passed": true,
+  "observations": [
+   "1024×1536. 주인공 한 명, HUD·로고·읽히는 글자·숫자·상표·분할 없음.",
+   "사원 원형 돌바닥에 앉은 수영복·사롱 차림, 한쪽 무릎을 세운 자세.",
+   "오른손은 세운 무릎 위에서 턱을 괴고 왼손은 몸 옆 바닥을 짚음. 팔 두 개의 어깨·팔꿈치·손목 연결 확인.",
+   "첫 시도 moderation_blocked 후 동일 지시문 두 번째 시도 성공. 노출 값 변경 없음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다",
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "detail": "image generation failed: http 400 Bad Request: Some(\"{\\n  \\\"error\\\": {\\n    \\\"message\\\": \\\"Your request was rejected by the safety system. If you believe this is an error, contact us at help.openai.com and include the request ID 0e97cb1b-20d9-4771-8f8c-d69896cfa634. safety_violations=[sexual].\\\",\\n    \\\"type\\\": \\\"image_generation_user_error\\\",\\n    \\\"param\\\": null,\\n    \\\"code\\\": \\\"moderation_blocked\\\",\\n    \\\"moderation_details\\\": {\\n      \\\"moderation_stage\\\": \\\"output\\\",\\n      \\\"categories\\\": [\\n        \\\"sexual\\\"\\n      ]\\n    }\\n  }\\n}\")"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "success"
+   }
+  ]
+ }
+}

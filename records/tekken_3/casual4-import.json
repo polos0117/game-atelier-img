@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "tekken_3",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tekken_3_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "1c3711980c615a5ce28fb7f4e1ceeb98831c6815625e015bed4f19f07f1d41ae",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "tekken_3_title_glossy_kr_game_f.webp",
+ "prompt": "records/tekken_3/casual4-ui.json",
+ "prompt_sha256": "9c08243415a21e8912e03776ce6c72858eecd20d57889a62c98a5a58cdd59536",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-tekken3-629d3561",
+ "qa": {
+  "reviewer": "gpt-game-629d3561",
+  "image_sha256": "1c3711980c615a5ce28fb7f4e1ceeb98831c6815625e015bed4f19f07f1d41ae",
+  "passed": false,
+  "observations": [
+   "1024×1536. 주인공 한 명, HUD·로고·읽히는 글자·숫자·상표·분할 없음.",
+   "양궁장·사리·옆으로 향한 몸·붉은 글자 없는 대진표를 두 손으로 듦.",
+   "두 팔과 두 손, 두 발을 확인. 환경 컷 요청보다 인물이 크게 차지하는 전신 컷에 가까움."
+  ],
+  "cause": "FRAME의 먼 환경 구도보다 인물 전신 강조가 우세."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

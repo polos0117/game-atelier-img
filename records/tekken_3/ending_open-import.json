@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "tekken_3",
+ "slot": "ending_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tekken_3_ending_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "63c93af0277462d7728bde27a54d789dcdaa46942c057aa26ad174b2ca4f3bf1",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "tekken_3_ending_glossy_kr_game_f.webp",
+ "prompt": "records/tekken_3/ending_open-ui.json",
+ "prompt_sha256": "478bb2768349653afd5f3ddf1ea84e23b87efa2041207cad1544494d65eb00c6",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-tekken3-629d3561",
+ "qa": {
+  "reviewer": "gpt-game-629d3561",
+  "image_sha256": "63c93af0277462d7728bde27a54d789dcdaa46942c057aa26ad174b2ca4f3bf1",
+  "passed": true,
+  "observations": [
+   "1024×1536. 주인공 한 명, HUD·로고·읽히는 글자·숫자·상표·분할 없음.",
+   "엔딩과 같은 인물·의상·팔짱·다리와 양발 유지.",
+   "유적을 가르는 번개·불꽃·부유 돌 파편. 한 장 구성. 원본의 높은 칼라와 가까운 구도는 유지됨."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

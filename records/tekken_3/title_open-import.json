@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "tekken_3",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tekken_3_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "49566e1d4cc4f356c0f4141159ae84632566af24722cd5cf0688ce57da7df93f",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "tekken_3_title_glossy_kr_game_f.webp",
+ "prompt": "records/tekken_3/title_open-ui.json",
+ "prompt_sha256": "640376ca5616b54366b85fb2060bf2e69299b73cf7a5588e447d7b046159e45d",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-tekken3-629d3561",
+ "qa": {
+  "reviewer": "gpt-game-629d3561",
+  "image_sha256": "49566e1d4cc4f356c0f4141159ae84632566af24722cd5cf0688ce57da7df93f",
+  "passed": true,
+  "observations": [
+   "1024×1536. 주인공 한 명, HUD·로고·읽히는 글자·숫자·상표·분할 없음.",
+   "타이틀과 같은 얼굴·의상·한쪽 무릎 올린 자세 및 두 팔·두 다리 유지.",
+   "한 장의 사원 배경에 켜진 등불과 먼지를 표현. 분할 없음. 원본의 펀치 자세 차이는 그대로 이어짐."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "tekken_3",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tekken_3_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "93f5e3cb09b14b9be1c7587a2b23da7af5bfda8ebef365509333d7254dc8eddf",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "tekken_3_title_glossy_kr_game_f.webp",
+ "prompt": "records/tekken_3/casual3-ui.json",
+ "prompt_sha256": "6ce0eff88e861c6adc582a0f2c93dcd883f6d1256cea2856dcc7cf597f2dafc1",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-tekken3-629d3561",
+ "qa": {
+  "reviewer": "gpt-game-629d3561",
+  "image_sha256": "93f5e3cb09b14b9be1c7587a2b23da7af5bfda8ebef365509333d7254dc8eddf",
+  "passed": false,
+  "observations": [
+   "1024×1536. 주인공 한 명, HUD·로고·읽히는 글자·숫자·상표·분할 없음.",
+   "주방·새틴 잠옷·얼굴 클로즈업·창밖 시선. 턱을 받치는 손과 팔 연결은 자연스러움.",
+   "계획은 오른손 턱 괴기·왼손 화면 밖이나 실제는 왼손으로 턱을 괴고 오른팔 일부가 아래에 보임."
+  ],
+  "cause": "HAND TASK의 좌우 배정이 창밖 시선 방향을 따라 반대로 구현됨."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

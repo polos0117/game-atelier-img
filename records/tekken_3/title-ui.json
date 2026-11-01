@@ -1,0 +1,111 @@
+{
+ "version": 1,
+ "game": "tekken_3",
+ "title": "철권 3",
+ "mode": "form",
+ "form": "title",
+ "stage": "타이틀",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tekken_3_title_glossy_kr_game_f.webp",
+ "record": "records/tekken_3/title-ui.json",
+ "at": "2026-11-01T18:14:25.369Z",
+ "storage": {
+  "last": "tekken_3",
+  "cards": {
+   "tekken_3": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "create",
+    "form": "title",
+    "baseForm": "title",
+    "casualN": 1,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "form",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "",
+      "scene": "",
+      "outfit": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold"
+      },
+      "action": {},
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      }
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: text only — no reference image is needed; do not reuse earlier conversation images.\n\nGAME: «철권 3» (Tekken 3), 1996. Genre: fighting. Graphics era: early 3D.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"원작 격투가들(진·폴·화랑 등)의 얼굴\"; \"철권 로고·타이틀 글자\"; \"체력 바·라운드 글자\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined costume and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (recognizable, as the game shows them): \"손등에 철 주먹 문양을 새긴 장갑\", \"붉은 토너먼트 대진표\", \"사방이 트인 원형 돌 무대\", \"오락실 캐비닛의 네 단추\".\n\nQuoted notes may be Korean; read them as description, never render them as text.\n\nSUBJECT: one adult woman who personifies the video game itself. Persona: \"철권 토너먼트 원형 무대에 오른, 두 손 두 발을 단추 넷처럼 따로 쓰는 격투가\". Desire: \"철권 토너먼트의 마지막 무대에 서기\"; conflict: \"띄우는 한 방과 이어 치는 공중 연타\". Its symbols become costume motifs drawn the way the game shows them, worn, not carried, unless her form or pose puts one in hand: \"네 개의 손발 단추\", \"토너먼트 대진표\", \"원형 돌 무대\".\n\nAGE: in her twenties — smooth youthful skin; minimal facial lines (no nasolabial folds, crow's feet, under-eye bags or cheek creases) whatever her expression.\n\nCORE PLAY: \"네 손발로 띄우고, 떠오른 상대를 떨어지기 전에 이어 친다\" — shown in her bearing and small costume details, never as effects, numbers or a HUD.\n\nERA LOOK: early 3D era — clean angular tailoring, faceted panels like simple polygons, cool metallic edges — in fabric and trim only, never pixel art or a screenshot.\n\nSILHOUETTE: athletic build; long braids; bright red hair; garment structure: a satin track jacket over fitted fighting shorts; main material: rugged martial-arts canvas stamped with an iron-fist pattern; palette: tournament crimson and brushed steel.\n\nFACE (her own structure, not the style's default face): diamond-shaped face; long monolid eyes; low heavy brows; upturned nose; full wide lips; amber eyes; broad Korean ancestry with individual variation, no stereotyped features.\n\nFORM — TITLE (타이틀): \"검은 격투 탱크톱 위에 걸친 짧은 트랙 재킷과 무릎 보호대가 달린 트레이닝 바지, 손등에 철 주먹 문양 장갑\". Battle role: attacker. Stage of play: the first power-on — her cleanest look, genre colors most vivid.\nGEAR in the game's own style: \"토너먼트 출전 번호 없는 흰 천 띠를 두른 탱크톱\".\n\nSETTING (this form): \"해 질 녘 사원 마당의 원형 돌 무대 — 붉은 기둥과 흩날리는 먼지\" — calm start-screen composition — centered, uncluttered, cool clean light, dark negative space.\n\nHOLD BACK: these moments belong to the open images — keep their events out of this setting, even as a distant figure or reflection: \"사원 마당 둘레의 등불이 차례로 켜지며 먼지가 피어오른다\"; \"올려 찬 발끝을 따라 떠오른 낙엽이 소용돌이친다\"; \"번개가 유적 무대를 가르며 불꽃이 흩어진다\". An object named in FORM or in her pose stays.\n\nEXPOSURE (bold): cut the FORM costume to show skin through its own structure — a deep open neckline with natural cleavage, a fitted corset-like waist, and bare shoulders, arms or thighs where the garment allows, kept symmetrical. The collar opens with the neckline in a V or folds down, never standing away from the neck. Nothing slipped off. Chest and pelvis covered; keep the FORM costume, material and palette.\n\nPRESENTATION: a polished, glamorous adult game card illustration — a beautiful face within her FACE structure; a dense, high-detail costume with glossy trim, clasps and jewelry framing her game's material; luminous rim light, strong value contrast.\n\nSTANCE (this form): \"한쪽 무릎을 들어 올리며 팔꿈치를 앞으로 내지르는 자세\" — held still and centered, seen at eye level, easy to read as a card.\n\nEXPRESSION (TITLE): level lowered brow, steady unblinking gaze, mouth closed in a straight line, jaw set — the mood of this stage, on her own face.\n\nOUTPUT: one full-body card image of this form, which also fixes who she is for every later form. Vertical 2:3 frame (1024×1536), full body with head and feet inside the frame and clear margins, nothing in front of her but what she holds, face toward the camera (front or three-quarter, never a back view). Build the background from SETTING; it evokes her game's world without being a screenshot or level map.\n\nONE FIGURE ONLY. No second character, no text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, about 7.5 heads tall — height from the legs, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: natural human hands. Her hands do only what STANCE says and hold only what it names.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}

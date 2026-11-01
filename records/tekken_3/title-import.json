@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "tekken_3",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tekken_3_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "24034a9343e3464fbd92fd3b39d6ed4e8bf6a94f298007adc2606ec1e49bef43",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": null,
+ "prompt": "records/tekken_3/title-ui.json",
+ "prompt_sha256": "74cd7bde719024457a06e321199d8eb84dd8da3388c3d410e0645494f3e1c9d3",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-tekken3-629d3561",
+ "qa": {
+  "reviewer": "gpt-game-629d3561",
+  "image_sha256": "24034a9343e3464fbd92fd3b39d6ed4e8bf6a94f298007adc2606ec1e49bef43",
+  "passed": false,
+  "observations": [
+   "1024×1536. 주인공 한 명, HUD·로고·읽히는 글자·숫자·상표·분할 없음.",
+   "붉은 땋은 머리·호박색 눈·철 주먹 장갑·무릎 보호대·원형 사원 무대. 두 팔과 두 다리, 발 전체 확인.",
+   "요청은 팔꿈치 내밀기이나 결과는 주먹을 앞으로 내지름. 재킷도 양 어깨에 온전히 걸쳐진 형태가 아님."
+  ],
+  "cause": "STANCE의 팔꿈치 동작보다 격투·장갑 모티프가 펀치 자세로 반영됨."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}
