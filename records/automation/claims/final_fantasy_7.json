@@ -4,7 +4,7 @@
   {
    "key": "final_fantasy_7",
    "execution": "game-ff7-20261101T0910Z",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-01T00:10:01.899Z",
    "date_kst": "2026-11-01",
    "date_utc": "2026-11-01",
@@ -20,7 +20,9 @@
     "final_fantasy_7_glossy_kr_game_f_casual3.webp",
     "final_fantasy_7_glossy_kr_game_f_casual4.webp",
     "final_fantasy_7_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-01T00:22:38.404Z",
+   "done_by": "game-ff7-20261101T0910Z"
   }
  ]
 }
