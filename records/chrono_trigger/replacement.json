@@ -33,6 +33,22 @@
    "new_record": "records/chrono_trigger/casual5-import.json",
    "tool": "image_gen built-in edit",
    "prompt_sha256": "d3c364089b978ea8409031a637668e4b65ed8c1d09ed5617f0b9df7ca5feae5d"
+  },
+  {
+   "slot": "casual5",
+   "file": "chrono_trigger_glossy_kr_game_f_casual5.webp",
+   "date": "2026-11-01",
+   "reason": "사용자 재지적: 아니 지금도 오른팔만 두개야 — 양 어깨가 보이는 정면 구도로 재구성",
+   "previous_webp_sha256": "0f671cace530d9f9e379df3bf857ef163efa320752b255ac10a6dc8e72f9433a",
+   "previous_source_png_sha256": "6bce7ab8c1514f1a271af297614e154af65d1feabd3a33a6b54354d2a6211e19",
+   "previous_git_blob": "03face2261d19f03f3c8bb1708e811f38eb8a025",
+   "previous_commit": "5f0c8b86e3b7f613b6a40efb7cc61ca96dc40b02",
+   "new_webp_sha256": "a23bb475c534ee527d690f77ea2c6329d9a4179668f6e3517b8c54ed0216e783",
+   "new_source_png_sha256": "f44bb45961372ec51dc1aadc894d3ec0989b340324f974a16fdb07a9106b57b7",
+   "old_record": "records/chrono_trigger/revisions/casual5-20261101-arms-v3/before-casual5-import.json",
+   "new_record": "records/chrono_trigger/casual5-import.json",
+   "tool": "image_gen built-in edit",
+   "prompt_sha256": "913cfbcb016088e60763b1e5fbc50017aaf3d35375af953063bdbf81f9784cab"
   }
  ]
 }
