@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "tetris",
+ "slot": "casual8",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tetris_glossy_kr_game_f_casual8.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "bacdc2331eeb35ac745b7e0c0ab4b03675194a8257d440d0724b0afd76ba3a98",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "tetris_title_glossy_kr_game_f.webp",
+ "prompt": "records/tetris/casual8-ui.json",
+ "prompt_sha256": "4e30ddaec26ac820fd7c4b1abb1b13922510ed62fe1026e549a9f8fa11e08837",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "cf640b59f33733a89c450f968bdc4593fafb4eb0278357ea10af3dd67545a912",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "테트로미노 블록",
+  "en": "the falling Tetris blocks — bold colour-blocked squares in cyan, yellow, purple, green, red, blue and orange set as interlocking four-square shapes with glossy bevelled edges"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "bacdc2331eeb35ac745b7e0c0ab4b03675194a8257d440d0724b0afd76ba3a98",
+  "passed": true,
+  "observations": [
+   "은백색 긴 머리·얼굴과 체형 유지. 7색 블록 크롭 투피스와 블록 소품이 식별된다.",
+   "전신 보행·오른손 소품·왼손 내림. 두 팔·두 다리 연결이 자연스럽고 손에 뚜렷한 중복 손가락 없음.",
+   "한 명만 선명하고 뒤의 행사 관객은 흐리다. 읽히는 글자·로고·HUD·원작 인물 얼굴 없음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "필수 갈래가 없다"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
