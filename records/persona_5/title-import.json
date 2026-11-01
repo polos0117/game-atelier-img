@@ -1,0 +1,50 @@
+{
+  "version": 1,
+  "game": "persona_5",
+  "slot": "title",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "persona_5_title_glossy_kr_game_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "bf2ddd150f97141d07afb85d5a38009f039f9925cd8d59155e45e757e9e39418",
+    "note": "원본 PNG는 올리지 않음 — sha256만 보존"
+  },
+  "reference": null,
+  "prompt": "records/persona_5/title-ui.json",
+  "prompt_sha256": "89c438a1d6914a3a3eb480d5fc9ffd1a634ca46ea94b1693dfc0461172cbfd53",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-01",
+  "execution": "game-persona5-77eb-20261101",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "bf2ddd150f97141d07afb85d5a38009f039f9925cd8d59155e45e757e9e39418",
+    "passed": false,
+    "observations": [
+      "원본 1024×1536 확인.",
+      "주요 여성 한 명, 원작 인물/페르소나 얼굴·몸, 로고·HUD·읽히는 글자·숫자·상표는 식별되지 않음.",
+      "보이는 양팔과 손은 어깨·팔꿈치·손목에 자연스럽게 이어지며 추가 팔·손은 관찰되지 않음. 손가락은 가림과 쥔 자세로 전부 확인할 수 없는 부분이 있음.",
+      "타이틀의 고요하고 차가운 시작 화면보다 따뜻하고 복잡한 도시로 나옴. 가방의 고양이 장식과 실제 고양이가 함께 보임."
+    ],
+    "cause": "정본의 소품·장식 보존과 SCENE/ANGLE/WARDROBE 및 프레이밍 지시 사이에서 정본의 특징 또는 의상 디테일이 우세했을 가능성."
+  },
+  "acceptance": "user_approval_2026-10-31 — AI 검수 뒤 묻지 않고 반영; 현재 사용자 main 일반 반영 승인",
+  "publication": {
+    "method": "GitHub connector commit + fast-forward main ref",
+    "force": false
+  }
+}
