@@ -1,0 +1,51 @@
+{
+ "version": 1,
+ "game": "detroit_become_human",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "detroit_become_human_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "25934d9a21b06d915821b2179495e6be1524be9bede926ab23ff13ac160db807",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "detroit_become_human_title_glossy_kr_game_f.webp",
+ "prompt": "records/detroit_become_human/casual3-ui.json",
+ "prompt_sha256": "7c41bbdfe5a887a37d5fa194a50758c89f2c24c6f0abdab3957802d032b58e4d",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "c9bd1ff1d5cc3236d39a1447a29cda00638d485e845541839fa6cfc22ee3a312",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-detroit-70c654-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "25934d9a21b06d915821b2179495e6be1524be9bede926ab23ff13ac160db807",
+  "passed": false,
+  "observations": [
+   "원본 1024×1536 확인. 정본의 짧은 청색 머리·청색 눈·피부색·얼굴 구조 유지(첫 그림은 새 인물).",
+   "공원 분수 앞 노란 크로셰 수영복, 아래로 향한 시선과 옆얼굴이 반영됨.",
+   "오른손을 머리에 대며 오른팔 연결이 자연스럽고 왼손은 화면 밖. 추가 팔 없음.",
+   "face_close 요구보다 넓은 가슴 위 크롭으로 나옴.",
+   "원작 인물의 얼굴·읽히는 글자·모델 번호·타이틀·로고·HUD·명확한 실제 상표는 관찰되지 않음."
+  ],
+  "cause": "수영복 의상 표현이 face_close의 CROP보다 강하게 반영됨."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

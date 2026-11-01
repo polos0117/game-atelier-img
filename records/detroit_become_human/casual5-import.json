@@ -1,0 +1,51 @@
+{
+ "version": 1,
+ "game": "detroit_become_human",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "detroit_become_human_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "657ff8677d44f0dde594086f15c88f622209c769719489fb5d1c4559c3363129",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "detroit_become_human_title_glossy_kr_game_f.webp",
+ "prompt": "records/detroit_become_human/casual5-ui.json",
+ "prompt_sha256": "51e691b7dc232bb39fa2ff32c90d2c9e811d2a3ccad495a1f3af0b599cf9d986",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "4b8a8c3925a77c0fba734111e51dffc21fad4107d8045b4bd3f334f01d2927ca",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-detroit-70c654-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "657ff8677d44f0dde594086f15c88f622209c769719489fb5d1c4559c3363129",
+  "passed": false,
+  "observations": [
+   "원본 1024×1536 확인. 정본의 짧은 청색 머리·청색 눈·피부색·얼굴 구조 유지(첫 그림은 새 인물).",
+   "게임 가게 카운터에서 휴대폰을 보는 레트로 모드 패션, 옆얼굴과 아래로 향한 시선이 반영됨.",
+   "보이는 두 팔·손이 각각 어깨로 연결되나 휴대폰을 든 손은 그녀의 왼손, 카운터에 둔 손은 오른손으로 계획과 반대.",
+   "waist_up보다 넓어 엉덩이·스커트 밑단까지 보임. 배경 인물은 작고 흐려 주인공을 다투지 않음.",
+   "원작 인물의 얼굴·읽히는 글자·모델 번호·타이틀·로고·HUD·명확한 실제 상표는 관찰되지 않음."
+  ],
+  "cause": "휴대폰의 가시성을 우선해 좌우 손 배치가 뒤바뀜. 미니 드레스 표현이 waist_up 크롭보다 우세함."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

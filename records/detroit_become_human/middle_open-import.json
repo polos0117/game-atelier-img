@@ -1,0 +1,50 @@
+{
+ "version": 1,
+ "game": "detroit_become_human",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "detroit_become_human_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "7d1411b7f1d253b8d22da6f773f46b3aba2e4f96d5fc3f4470e714f5f7b7abae",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "detroit_become_human_middle_glossy_kr_game_f.webp",
+ "prompt": "records/detroit_become_human/middle_open-ui.json",
+ "prompt_sha256": "5a2d252d5c143cb74e7aa23a1657d0bcd3fc82f62cc19399fecf78c5a3e337f6",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "2a878934086304837c1c51e817c7ad2c1c5bf7d2f9693f1d79648d9516df9aae",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-detroit-70c654-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7d1411b7f1d253b8d22da6f773f46b3aba2e4f96d5fc3f4470e714f5f7b7abae",
+  "passed": true,
+  "observations": [
+   "원본 1024×1536 확인. 정본의 짧은 청색 머리·청색 눈·피부색·얼굴 구조 유지(첫 그림은 새 인물).",
+   "중반의 인물·의상·손·카메라를 유지한 단일 개방. 광고판 인물은 사라지고 흰 대리석·눈·얼어붙은 장미 덩굴로 바뀜.",
+   "두 팔·두 다리와 양발이 자연스럽게 이어지고 읽히는 글자나 HUD 없음.",
+   "원작 인물의 얼굴·읽히는 글자·모델 번호·타이틀·로고·HUD·명확한 실제 상표는 관찰되지 않음."
+  ],
+  "cause": ""
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

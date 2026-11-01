@@ -1,0 +1,50 @@
+{
+ "version": 1,
+ "game": "detroit_become_human",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "detroit_become_human_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "525f166a31f8644f6088c8e63429c547cf13efe71f8cec26e972c409de4422a0",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": null,
+ "prompt": "records/detroit_become_human/title-ui.json",
+ "prompt_sha256": "b5bd1a1aba72798a71d17aace54c12a51fb77db796922b77f7bb6d87786e1c04",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "f336df81653d606f5bf6c753756196ce33314004e993bcdd16a4c26679e802e3",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-detroit-70c654-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "525f166a31f8644f6088c8e63429c547cf13efe71f8cec26e972c409de4422a0",
+  "passed": true,
+  "observations": [
+   "원본 1024×1536 확인. 정본의 짧은 청색 머리·청색 눈·피부색·얼굴 구조 유지(첫 그림은 새 인물).",
+   "흰·회색 롱 코트와 바지, 파란 팔띠·삼각형·관자놀이 LED, 눈 내리는 현관이 반영됨.",
+   "두 손을 앞에 모은 자세이며 팔 두 개와 다리 두 개가 연결되고 양발이 화면 안에 있음.",
+   "원작 인물의 얼굴·읽히는 글자·모델 번호·타이틀·로고·HUD·명확한 실제 상표는 관찰되지 않음."
+  ],
+  "cause": ""
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

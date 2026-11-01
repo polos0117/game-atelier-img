@@ -1,0 +1,51 @@
+{
+ "version": 1,
+ "game": "detroit_become_human",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "detroit_become_human_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "3146cd4700a2fbf3bc099cf86175957ed1cf6bfb9c5315b40c0a138b91822313",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "detroit_become_human_title_glossy_kr_game_f.webp",
+ "prompt": "records/detroit_become_human/middle-ui.json",
+ "prompt_sha256": "7b37274c4a630c7a53f6587666832032f65573cb96ef2db33fbfe21866ce3f23",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "bd644f66d7246a077886293e87dbad9ea8c6c218f6f209f8bbca6962a9b7eb3e",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-detroit-70c654-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3146cd4700a2fbf3bc099cf86175957ed1cf6bfb9c5315b40c0a138b91822313",
+  "passed": false,
+  "observations": [
+   "원본 1024×1536 확인. 정본의 짧은 청색 머리·청색 눈·피부색·얼굴 구조 유지(첫 그림은 새 인물).",
+   "낡은 후드 코트·목도리·노란 LED, 비 내리는 버스 정류장이 반영됨.",
+   "오른손은 코트 깃, 왼손은 시리움 병을 잡아 팔 두 개가 연결됨. 병은 STANCE에 없는 추가 소품임.",
+   "광고판에 그녀와 유사한 큰 얼굴 이미지가 추가됨. 표정은 요구한 놀람보다 약하고 고개를 숙인 정도도 약함.",
+   "원작 인물의 얼굴·읽히는 글자·모델 번호·타이틀·로고·HUD·명확한 실제 상표는 관찰되지 않음."
+  ],
+  "cause": "SIGNATURE의 시리움 병이 STANCE보다 강하게 반영됨. SETTING의 홀로그램 광고가 얼굴 광고로 해석됨. EXPRESSION의 놀람보다 참조 정본의 표정이 유지됨."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

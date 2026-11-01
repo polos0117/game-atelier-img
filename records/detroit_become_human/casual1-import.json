@@ -1,0 +1,63 @@
+{
+ "version": 1,
+ "game": "detroit_become_human",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "detroit_become_human_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "fad5b6eab5b3a9e088ca7289dea837feaa68643a60bdcdac87223ab36051826e",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "detroit_become_human_title_glossy_kr_game_f.webp",
+ "prompt": "records/detroit_become_human/casual1-ui.json",
+ "prompt_sha256": "aed18700bd18908447525d38cf47ea7997f2a848616db5d00d692bd26f19230a",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "ce0d096bb2f2a3579393fc50082d993c24ec76a0045187d943bb5ec5ab802bba",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-detroit-70c654-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "fad5b6eab5b3a9e088ca7289dea837feaa68643a60bdcdac87223ab36051826e",
+  "passed": false,
+  "observations": [
+   "원본 1024×1536 확인. 정본의 짧은 청색 머리·청색 눈·피부색·얼굴 구조 유지(첫 그림은 새 인물).",
+   "실내 라운저에 기대어 오른팔은 머리 뒤로, 왼손은 시리움 병을 잡음. 추가 팔 없이 각각의 어깨로 연결됨.",
+   "사리 블라우스풍 상의와 드레이프가 보이나 chest_up보다 넓어 허리·하반신 옷까지 보임.",
+   "의상 색이 원본의 흰색·청색과 비슷해 WARDROBE의 팔레트 분리 조건과 어긋남.",
+   "원작 인물의 얼굴·읽히는 글자·모델 번호·타이틀·로고·HUD·명확한 실제 상표는 관찰되지 않음."
+  ],
+  "cause": "Outfit의 드레이프 표현이 CROP보다 강하게 반영되고 참조 정본의 색상이 WARDROBE의 의상 독립 지시보다 강하게 작용함."
+ },
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked_output",
+    "request_id": "81466242-d547-4329-888b-3bd70c2d48a2"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "success"
+   }
+  ]
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

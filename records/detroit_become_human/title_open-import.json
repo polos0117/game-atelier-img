@@ -1,0 +1,50 @@
+{
+ "version": 1,
+ "game": "detroit_become_human",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "detroit_become_human_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "bc9cfc6089d0c24b77ebb294578cb2f4b220a50c79f35fae2c83a5fd922f98f7",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "detroit_become_human_title_glossy_kr_game_f.webp",
+ "prompt": "records/detroit_become_human/title_open-ui.json",
+ "prompt_sha256": "3c600a60be194a817c0e54052fbb9c355a93325b084e08baf286c1419bc66da5",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "ffac2e2cc09a29786a0be359ffdfa49ef48675e5dd05aa7ace863e657ee51505",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-detroit-70c654-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "bc9cfc6089d0c24b77ebb294578cb2f4b220a50c79f35fae2c83a5fd922f98f7",
+  "passed": true,
+  "observations": [
+   "원본 1024×1536 확인. 정본의 짧은 청색 머리·청색 눈·피부색·얼굴 구조 유지(첫 그림은 새 인물).",
+   "타이틀의 인물·의상·모은 손·전신 구도가 유지되고 붉은 LED와 금 간 붉은 벽·파편이 반영됨.",
+   "단일 개방 이미지이며 분할·중복 인물 없이 두 팔·다리 연결과 양발 여백이 유지됨.",
+   "원작 인물의 얼굴·읽히는 글자·모델 번호·타이틀·로고·HUD·명확한 실제 상표는 관찰되지 않음."
+  ],
+  "cause": ""
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

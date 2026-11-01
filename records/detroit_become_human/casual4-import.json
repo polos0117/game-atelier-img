@@ -1,0 +1,51 @@
+{
+ "version": 1,
+ "game": "detroit_become_human",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "detroit_become_human_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "327a1a03752551b1223c56a47a6e41128579647620338ff52f3e5d770bfb91b4",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "detroit_become_human_title_glossy_kr_game_f.webp",
+ "prompt": "records/detroit_become_human/casual4-ui.json",
+ "prompt_sha256": "ceba948b46864e0dc57313d9072d5cd14a443194aa2636b3181f60041ddff6c2",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "19375fa7b0435738c4c926b86a9fab7f2ca1cc19d1584f624d127606b5eca0e7",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-detroit-70c654-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "327a1a03752551b1223c56a47a6e41128579647620338ff52f3e5d770bfb91b4",
+  "passed": false,
+  "observations": [
+   "원본 1024×1536 확인. 정본의 짧은 청색 머리·청색 눈·피부색·얼굴 구조 유지(첫 그림은 새 인물).",
+   "눈 내린 근미래 도시가 보이는 실내에서 엎드려 두 손으로 턱을 괴며 양발을 올림.",
+   "두 손목·전완·팔꿈치와 두 다리·발이 각각 연결됨. 인물 한 명이며 전신에 가까운 프레이밍.",
+   "블레이저+스커트 대신 흰 셔츠+스커트로 나옴. 몸은 카메라에 대해 사선이라 정면 요구와 차이가 있음.",
+   "원작 인물의 얼굴·읽히는 글자·모델 번호·타이틀·로고·HUD·명확한 실제 상표는 관찰되지 않음."
+  ],
+  "cause": "턱 괴고 엎드린 편안한 장면이 블레이저 재단보다 우세하게 반영됨. 전신 눕기와 정면 몸 방향이 사선으로 해석됨."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

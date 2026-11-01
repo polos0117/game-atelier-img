@@ -1,0 +1,51 @@
+{
+ "version": 1,
+ "game": "detroit_become_human",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "detroit_become_human_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "8b3aa06cb62bccbb8c9741958f2bb690fbc0f728a2b3a6d39b9a16d6b67c9816",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "detroit_become_human_title_glossy_kr_game_f.webp",
+ "prompt": "records/detroit_become_human/ending-ui.json",
+ "prompt_sha256": "a4a71db398ad1d41b88ff93bbb90635c8159df60ac71a308438dc1bc2c4df278",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "9790259480f27ed9a1662abffda4fb1ac13ca56e0410a78e63a9e9470dd19ac5",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-detroit-70c654-20261101",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8b3aa06cb62bccbb8c9741958f2bb690fbc0f728a2b3a6d39b9a16d6b67c9816",
+  "passed": false,
+  "observations": [
+   "원본 1024×1536 확인. 정본의 짧은 청색 머리·청색 눈·피부색·얼굴 구조 유지(첫 그림은 새 인물).",
+   "소매 없는 흰 코트와 내민 오른손, 피부 아래 흰 몸체·파란 빛이 반영됨.",
+   "두 팔·두 다리가 연결되고 양발이 화면 안에 있음. 왼손의 시리움 병은 STANCE에 없는 추가 소품임.",
+   "배경에 작은 군중과 인물형 동상이 있으며 ONE FIGURE ONLY와 어긋남. 높은 먼 카메라보다 눈높이에 가까움.",
+   "원작 인물의 얼굴·읽히는 글자·모델 번호·타이틀·로고·HUD·명확한 실제 상표는 관찰되지 않음."
+  ],
+  "cause": "SIGNATURE의 병과 광장·바리케이드의 군중 연상이 ONE FIGURE·STANCE보다 강하게 반영됨. 정본의 눈높이 구도 영향."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}
