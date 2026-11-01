@@ -1,0 +1,54 @@
+{
+ "version": 1,
+ "game": "uncharted_waters_4",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "uncharted_waters_4_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "b08102f670bb9468b352fd53f9dea98f2f9aad636e61c28e204851a22992d424",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "uncharted_waters_4_title_glossy_kr_game_f.webp",
+ "prompt": "records/uncharted_waters_4/casual6-ui.json",
+ "prompt_sha256": "f437b0da186144edb99acb1591be277aefa5cc91dd012656690fea4eb827f9c8",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "d51325f5c4b82830c3c2d532aa1f2f3b9075a30848e2d8b97d932bf2be014971",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "주인공 선장",
+  "en": "the age-of-sail captain's look — a navy frock coat with brass buttons, a tricorn hat, a white ruffled shirt and a rapier belt"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "b08102f670bb9468b352fd53f9dea98f2f9aad636e61c28e204851a22992d424",
+  "passed": false,
+  "observations": [
+   "짙은 남색 장발·황금빛 눈·같은 얼굴. 삼각모·남색 금단추 코르셋 코트·흰 프릴 셔츠·레이피어 벨트의 선장 차림.",
+   "성의 창가에서 턱을 괴고 밖을 봄. 두 팔과 손의 연결은 자연스럽고 문자·HUD·로고 없음.",
+   "오른손 턱·왼손 난간 계획과 반대로 왼손 턱·오른손 난간."
+  ],
+  "cause": "턱 괴는 자세에서 좌우 반전"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
