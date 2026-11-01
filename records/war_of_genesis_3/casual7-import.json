@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "war_of_genesis_3",
+ "slot": "casual7",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "war_of_genesis_3_glossy_kr_game_f_casual7.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "20b24ae44e7cc13943658cffdc87395ecafad54aac6133491b289848fad0d712",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "war_of_genesis_3_title_glossy_kr_game_f.webp",
+ "prompt": "records/war_of_genesis_3/casual7-ui.json",
+ "prompt_sha256": "0d5dc8aa552722dc5b105237ed523c00c1e426ca2b6d82d701f7ce50feb8e347",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "ad612b71e132e07a02b7037ea429bc48419b954dd00d10ff03cd364101494fa5",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "창세기전 3의 주인공 기사",
+  "en": "the hero knight's look from The War of Genesis III — a dark high-collared coat over light silver armour, a long red scarf and a sword belt"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "20b24ae44e7cc13943658cffdc87395ecafad54aac6133491b289848fad0d712",
+  "passed": false,
+  "observations": [
+   "동일 갈색 긴 머리·얼굴, 야간 택시 뒷좌석 전신. 두 팔·손·두 다리·부츠가 자연스럽게 연결됨.",
+   "붉은 스카프·밝은 가슴갑옷은 보이나 미니드레스보다 원본의 망토·두건풍 천을 많이 가져옴. 손의 무릎 배치는 좌우 반대이고 발목 대신 무릎을 겹침. 로고·HUD·읽히는 문자 없음."
+  ],
+  "cause": "기준 의상 영향과 앉은 자세 기본형이 코스튬·발목 교차 지시를 덮음"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "필수 갈래가 없다"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
