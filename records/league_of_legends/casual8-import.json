@@ -1,0 +1,54 @@
+{
+ "version": 1,
+ "game": "league_of_legends",
+ "slot": "casual8",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "league_of_legends_glossy_kr_game_f_casual8.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "4735721ed6ec2e28f5d02a0ca91de2137595015a2dac17e6d24f67a47313cd20",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "league_of_legends_title_glossy_kr_game_f.webp",
+ "prompt": "records/league_of_legends/casual8-ui.json",
+ "prompt_sha256": "a4401c0c417579782189692922b6c384d80e4de9a656a4726d6ffce7d5d3111b",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "5ea1e4ae57f85a3699df38115c522d1584f29d22ecec1df9896ab56d1bfb6150",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "포로(마스코트)",
+  "en": "the Poro mascot's look — fluffy white faux fur with little curved horns and a fuzzy pom tail, without its face"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "4735721ed6ec2e28f5d02a0ca91de2137595015a2dac17e6d24f67a47313cd20",
+  "passed": false,
+  "observations": [
+   "하늘색 장발·금색 눈·같은 얼굴. 흰 털 코르셋·작은 뿔·폼 꼬리의 포로 코스튬이며 마스코트 얼굴 없음.",
+   "촬영 스튜디오에서 쪼그려 앉아 오른손 구체·왼손 무릎. 두 팔·두 손·두 다리·발이 연결되고 중복 없음.",
+   "계획의 소품 응시 대신 카메라 응시. 글자·로고·HUD 없음."
+  ],
+  "cause": "포즈는 지켰으나 카메라와 눈맞춤이 GAZE at_prop를 덮음"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
