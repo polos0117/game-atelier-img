@@ -1,0 +1,26 @@
+{
+ "key": "persona_5",
+ "runs": [
+  {
+   "key": "persona_5",
+   "execution": "game-persona5-77eb-20261101",
+   "status": "working",
+   "claimed_at": "2026-11-01T04:30:40.897Z",
+   "date_kst": "2026-11-01",
+   "date_utc": "2026-11-01",
+   "missing": [
+    "persona_5_title_glossy_kr_game_f.webp",
+    "persona_5_title_open_glossy_kr_game_f.webp",
+    "persona_5_middle_glossy_kr_game_f.webp",
+    "persona_5_middle_open_glossy_kr_game_f.webp",
+    "persona_5_ending_glossy_kr_game_f.webp",
+    "persona_5_ending_open_glossy_kr_game_f.webp",
+    "persona_5_glossy_kr_game_f_casual1.webp",
+    "persona_5_glossy_kr_game_f_casual2.webp",
+    "persona_5_glossy_kr_game_f_casual3.webp",
+    "persona_5_glossy_kr_game_f_casual4.webp",
+    "persona_5_glossy_kr_game_f_casual5.webp"
+   ]
+  }
+ ]
+}
