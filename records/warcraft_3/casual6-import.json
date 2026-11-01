@@ -1,0 +1,54 @@
+{
+ "version": 1,
+ "game": "warcraft_3",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "warcraft_3_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "20d5d42647784f7a5317adfabc105aeb63627010f9e35429ce782b9297c6db78",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "warcraft_3_title_glossy_kr_game_f.webp",
+ "prompt": "records/warcraft_3/casual6-ui.json",
+ "prompt_sha256": "0396d2e870ba9e83577b445916450229cbde2334f33a9ba99f9a26a7d5da0609",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "bd693ef54712ccf83a396c99539f9fe5abd545d4f947e695425b490a913e6bd0",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "제이나 프라우드무어",
+  "en": "Jaina Proudmoore's sorceress look — a white-and-violet mage robe with gold trim, a high collar and flowing open sleeves"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "20d5d42647784f7a5317adfabc105aeb63627010f9e35429ce782b9297c6db78",
+  "passed": false,
+  "observations": [
+   "흰 포니테일·푸른 눈·동일 성인 얼굴. 흰색·보라색·금장 보디수트형 마법사 로브.",
+   "천문대 의자에서 다리를 꼬고 오른손 책·왼손 무릎. 팔·손·다리 연결 정상. 원작 얼굴·문자·HUD 없음.",
+   "소품 응시 요청이나 닫힌 책은 가슴에 있고 시선은 다른 쪽 아래로 향함. 완전 측면보다 3/4."
+  ],
+  "cause": "앉은 코스튬 초상 기본형이 측면·소품 응시를 덮음"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
