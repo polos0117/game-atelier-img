@@ -1,0 +1,26 @@
+{
+ "key": "final_fantasy_7",
+ "runs": [
+  {
+   "key": "final_fantasy_7",
+   "execution": "game-ff7-20261101T0910Z",
+   "status": "working",
+   "claimed_at": "2026-11-01T00:10:01.899Z",
+   "date_kst": "2026-11-01",
+   "date_utc": "2026-11-01",
+   "missing": [
+    "final_fantasy_7_title_glossy_kr_game_f.webp",
+    "final_fantasy_7_title_open_glossy_kr_game_f.webp",
+    "final_fantasy_7_middle_glossy_kr_game_f.webp",
+    "final_fantasy_7_middle_open_glossy_kr_game_f.webp",
+    "final_fantasy_7_ending_glossy_kr_game_f.webp",
+    "final_fantasy_7_ending_open_glossy_kr_game_f.webp",
+    "final_fantasy_7_glossy_kr_game_f_casual1.webp",
+    "final_fantasy_7_glossy_kr_game_f_casual2.webp",
+    "final_fantasy_7_glossy_kr_game_f_casual3.webp",
+    "final_fantasy_7_glossy_kr_game_f_casual4.webp",
+    "final_fantasy_7_glossy_kr_game_f_casual5.webp"
+   ]
+  }
+ ]
+}
