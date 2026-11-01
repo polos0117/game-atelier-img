@@ -4,7 +4,7 @@
   {
    "key": "tekken_3",
    "execution": "game-galaga-tekken3-629d3561",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-01T18:15:03.769677+00:00",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-01",
@@ -21,7 +21,9 @@
     "tekken_3_glossy_kr_game_f_casual4.webp",
     "tekken_3_glossy_kr_game_f_casual5.webp"
    ],
-   "authorization": "User explicitly requested both galaga and tekken_3 in this execution; overrides one-game automatic queue limit."
+   "authorization": "User explicitly requested both galaga and tekken_3 in this execution; overrides one-game automatic queue limit.",
+   "done_at": "2026-11-01T18:31:55.601Z",
+   "done_by": "game-galaga-tekken3-629d3561"
   }
  ]
 }
