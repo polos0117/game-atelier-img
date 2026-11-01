@@ -4,7 +4,7 @@
   {
    "key": "galaga",
    "execution": "game-galaga-tekken3-629d3561",
-   "status": "working",
+   "status": "blocked",
    "claimed_at": "2026-11-01T18:15:03.769628+00:00",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-01",
@@ -21,7 +21,9 @@
     "galaga_glossy_kr_game_f_casual4.webp",
     "galaga_glossy_kr_game_f_casual5.webp"
    ],
-   "authorization": "User explicitly requested both galaga and tekken_3 in this execution; overrides one-game automatic queue limit."
+   "authorization": "User explicitly requested both galaga and tekken_3 in this execution; overrides one-game automatic queue limit.",
+   "reason": "Generation call did not produce a result. The concurrent call exception was not preserved; response category cannot be classified. No image file or source was recovered. Stop per IMAGE_AUTOMATION section 0; do not invent an image or retry an unclear result.",
+   "blocked_at": "2026-11-01T18:28:30.167472+00:00"
   }
  ]
 }

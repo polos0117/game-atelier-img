@@ -1,0 +1,10 @@
+{
+ "game": "galaga",
+ "slot": "middle",
+ "execution": "game-galaga-tekken3-629d3561",
+ "status": "blocked",
+ "reason": "Generation call did not produce a result. The concurrent call exception was not preserved; response category cannot be classified. No image file or source was recovered. Stop per IMAGE_AUTOMATION section 0; do not invent an image or retry an unclear result.",
+ "prompt_sha256": "7b150e7483cd34926500e8f4c08dee333161ef0b1bd90366e6f34fbe7672c9ee",
+ "attempts": 1,
+ "date": "2026-11-02"
+}

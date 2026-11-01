@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "galaga",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "galaga_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "0c3aa65a2eaec87f8fdb702862f8acca05e70c6089df9534cb3b915322fcc4ff",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": null,
+ "prompt": "records/galaga/title-ui.json",
+ "prompt_sha256": "a2f0e69cbe61a17b4f5c32e81c2666fc3b0ac0d07745378f81ccaf3c3d81b43f",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-galaga-tekken3-629d3561",
+ "qa": {
+  "reviewer": "gpt-game-629d3561",
+  "image_sha256": "0c3aa65a2eaec87f8fdb702862f8acca05e70c6089df9534cb3b915322fcc4ff",
+  "passed": true,
+  "observations": [
+   "1024×1536. 주인공 한 명, HUD·로고·읽히는 글자·숫자·상표·분할 없음.",
+   "남색 보브컷·진홍색 눈·흰 비행복과 붉은 조종석 선, 별 화면·레버·단추를 확인.",
+   "화면 왼쪽에 올라간 오른팔과 화면 오른쪽에 굽힌 왼팔이 각각 어깨에 연결됨. 두 다리와 두 발이 프레임 안에 있음.",
+   "쌍 전투기 모형은 뚜렷하게 보이지 않음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}
