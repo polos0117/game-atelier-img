@@ -1,0 +1,42 @@
+{
+ "game": "stardew_valley",
+ "seed": 711010,
+ "tree": 2,
+ "required": "costume",
+ "slots": [
+  6
+ ],
+ "cuts": [
+  {
+   "n": 6,
+   "era": "fantasy",
+   "place": "fx_castle",
+   "ofam": "hero_costume",
+   "treeV": 2,
+   "prop": "",
+   "preset": "tiptoe_wave",
+   "use": "",
+   "posture": "stand",
+   "support": "none",
+   "frame": "full_body",
+   "body": "side",
+   "head": "with_body",
+   "camera": "low",
+   "right": "wave",
+   "left": "down",
+   "legs": "tiptoe",
+   "gaze": "camera",
+   "item": "hc_mini_dress",
+   "expr": "mischievous",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "mostly posed",
+    "source_influence": "strong",
+    "separates_preference": "strongly prefer separates"
+   }
+  }
+ ],
+ "scope": "Existing registered games: add exactly one hero/mascot costume; legacy cuts stay unchanged",
+ "legacy_record_gaps": []
+}

@@ -1,0 +1,54 @@
+{
+ "version": 1,
+ "game": "stardew_valley",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "stardew_valley_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "10beb6d0dbe7b9f994793f7af9f9a9caa52f499481a8e664c45659a95686e49f",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "stardew_valley_title_glossy_kr_game_f.webp",
+ "prompt": "records/stardew_valley/casual6-ui.json",
+ "prompt_sha256": "1f8b2657ab254594c9e311e4af93860f4e5ce43c166baf3886df1f0f2ab75001",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "301621d97f1e5d5528724a7a7285334b424b6264cc93b8db4414e8dcc94f5e6a",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "농부(플레이어)",
+  "en": "the Stardew farmer's look — denim overalls, a plaid shirt, a wide straw hat and a little seed pouch"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "10beb6d0dbe7b9f994793f7af9f9a9caa52f499481a8e664c45659a95686e49f",
+  "passed": false,
+  "observations": [
+   "주황 땋은 머리·녹색 눈·동일 얼굴. 밀짚모자·체크 셔츠·데님 미니드레스와 씨앗 주머니의 농부 코스튬.",
+   "환상 성 계단 전신, 한 손 흔들기·다른 손 내림. 두 팔·두 다리·부츠 연결 자연스럽고 열린 손가락 다섯.",
+   "측면보다 뒤 3/4이며 계획의 오른손 흔들기와 반대쪽. 글자·HUD·상표 없음."
+  ],
+  "cause": "코스튬 뒤 장식과 리본을 강조하며 방향·손 좌우가 달라짐"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
