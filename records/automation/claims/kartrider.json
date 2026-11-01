@@ -4,7 +4,7 @@
   {
    "key": "kartrider",
    "execution": "game-kartrider-118c24-20261101",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-01T14:17:05.581Z",
    "date_kst": "2026-11-01",
    "date_utc": "2026-11-01",
@@ -20,7 +20,9 @@
     "kartrider_glossy_kr_game_f_casual3.webp",
     "kartrider_glossy_kr_game_f_casual4.webp",
     "kartrider_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-01T14:34:51.876Z",
+   "done_by": "game-kartrider-118c24-20261101"
   }
  ]
 }
