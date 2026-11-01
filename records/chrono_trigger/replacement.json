@@ -17,6 +17,22 @@
    "new_record": "records/chrono_trigger/casual5-import.json",
    "tool": "image_gen built-in edit",
    "prompt_sha256": "f7ac457c028d11e4c071239f5f3b5ec2d10627e56741e9e9b453c6412a016b53"
+  },
+  {
+   "slot": "casual5",
+   "file": "chrono_trigger_glossy_kr_game_f_casual5.webp",
+   "date": "2026-11-01",
+   "reason": "사용자 재지적: 지금도 이상해 — 한 손만 머리 옆, 다른 손은 허벅지 옆으로 내려 팔 분리",
+   "previous_webp_sha256": "ef058eaaf72e21c391bef287f7dfe0e9983c0e2d2f26cf4690258de0f6487022",
+   "previous_source_png_sha256": "0307b17baf661fcf3f3787e5a216922ab18fa1ef0bcd256e879fec611d1d6ebc",
+   "previous_git_blob": "eec86bd2d7675ce19ce517058493a6589b1c5af4",
+   "previous_commit": "9d9d7536dd3a95e3521895b977b3f3c4ab027fba",
+   "new_webp_sha256": "0f671cace530d9f9e379df3bf857ef163efa320752b255ac10a6dc8e72f9433a",
+   "new_source_png_sha256": "6bce7ab8c1514f1a271af297614e154af65d1feabd3a33a6b54354d2a6211e19",
+   "old_record": "records/chrono_trigger/revisions/casual5-20261101-arms-v2/before-casual5-import.json",
+   "new_record": "records/chrono_trigger/casual5-import.json",
+   "tool": "image_gen built-in edit",
+   "prompt_sha256": "d3c364089b978ea8409031a637668e4b65ed8c1d09ed5617f0b9df7ca5feae5d"
   }
  ]
 }
