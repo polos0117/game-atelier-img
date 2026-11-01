@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "street_fighter_2",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "street_fighter_2_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "1739bdd6eda3eaea009ac7f32964a5051eb2ce3a793cc3e0afe30a0b36e04df9",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "street_fighter_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/street_fighter_2/casual6-ui.json",
+ "prompt_sha256": "4dccfd1f25ac7146069f907fff6988f0071ab2c1f6d1607e9fb97dd9478b92b2",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "848707a32a9048119075768770f313d348c1007933f699d73f9e3747f97bf9c1",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "류",
+  "en": "Ryu's outfit — a white karate gi with torn-off sleeves, a red headband with long trailing ends, a black belt and red fingerless gloves"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "1739bdd6eda3eaea009ac7f32964a5051eb2ce3a793cc3e0afe30a0b36e04df9",
+  "passed": false,
+  "observations": [
+   "주황 짧은 머리·동일 성인 얼굴. 흰 도복 코르셋·붉은 머리띠와 글러브·검은 띠가 보임.",
+   "연회장 뒤 3/4 어깨 너머 구도. 앞쪽 아래로 내린 팔과 부채 든 팔 외에 화면 왼쪽 등 아래로 팔 하나가 추가로 보임.",
+   "주인공 한 명, 배경 관객은 흐리며 로고·HUD·읽히는 문자 없음."
+  ],
+  "cause": "뒤 3/4 어깨 너머+한 손 소품+다른 손 내림에서 어깨 배치가 겹쳐 팔이 추가됨; 자동 작업 규칙대로 재생성하지 않음"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "프레이밍 three_quarter 가 2 번(1 번까지)"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
