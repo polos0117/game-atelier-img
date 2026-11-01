@@ -4,7 +4,7 @@
   {
    "key": "maplestory",
    "execution": "game-maplestory-6b3ac6dc",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-01T14:38:02.921Z",
    "date_kst": "2026-11-01",
    "date_utc": "2026-11-01",
@@ -20,7 +20,9 @@
     "maplestory_glossy_kr_game_f_casual3.webp",
     "maplestory_glossy_kr_game_f_casual4.webp",
     "maplestory_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-01T14:56:05.818Z",
+   "done_by": "game-maplestory-6b3ac6dc"
   }
  ]
 }
