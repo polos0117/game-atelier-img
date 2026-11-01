@@ -1,0 +1,54 @@
+{
+ "version": 1,
+ "game": "witcher_3",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "witcher_3_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "955a67814f72973aca84b88c9c2211ee7bd00e4dbd75f6d9723cc8f901e6dc2a",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "witcher_3_title_glossy_kr_game_f.webp",
+ "prompt": "records/witcher_3/casual6-ui.json",
+ "prompt_sha256": "d7d2f35a4491b07ae0a3df4f184397c39c69edec0296cf9f1601ca5c288f3e99",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "fea0582f32a1781aed82328cd5c66506b0e832e7d798e896dabfea858f4bc0e3",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "게롤트(위처)",
+  "en": "the witcher's look — dark studded leather armour, crossed sword-belt straps for two swords, a silver wolf-head medallion and tall riding boots"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "955a67814f72973aca84b88c9c2211ee7bd00e4dbd75f6d9723cc8f901e6dc2a",
+  "passed": true,
+  "observations": [
+   "백발 포니테일·호박색 눈·동일 성인 얼굴 유지. 짙은 가죽 크롭 상하의·교차 검집 벨트·늑대 메달의 게롤트 차림.",
+   "환상 스파 가장자리에 정면 앉기, 두 손을 양옆에 짚고 무릎을 모음. 두 팔·손·다리 연결 자연스러움.",
+   "한 여성, 읽히는 문자·HUD·상표·원작 얼굴 없음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
