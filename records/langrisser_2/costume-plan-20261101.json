@@ -1,0 +1,44 @@
+{
+ "game": "langrisser_2",
+ "seed": 711010,
+ "tree": 2,
+ "required": "costume",
+ "slots": [
+  6
+ ],
+ "cuts": [
+  {
+   "n": 6,
+   "era": "fantasy",
+   "place": "fx_spa",
+   "ofam": "hero_costume",
+   "treeV": 2,
+   "prop": "",
+   "preset": "edge_brace",
+   "use": "",
+   "posture": "sit_edge",
+   "support": "hip_edge",
+   "frame": "three_quarter",
+   "body": "front",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "edge_brace_both",
+   "left": "edge_brace_both",
+   "legs": "knees_together",
+   "gaze": "camera",
+   "item": "hc_mini_dress",
+   "expr": "wink",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "mostly posed",
+    "source_influence": "balanced",
+    "separates_preference": "balanced"
+   }
+  }
+ ],
+ "scope": "Existing registered games: add exactly one hero/mascot costume; legacy cuts stay unchanged",
+ "legacy_record_gaps": [
+  "프레이밍 three_quarter 가 2 번(1 번까지)"
+ ]
+}

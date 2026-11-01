@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "langrisser_2",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "langrisser_2_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "cdba210069b30f4af8cfbd79f3e14f1e5a2a41d862c5ab2545f72732bbb59d76",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "langrisser_2_title_glossy_kr_game_f.webp",
+ "prompt": "records/langrisser_2/casual6-ui.json",
+ "prompt_sha256": "78441ba2720ab5451babd5d790cf676c5b4cb769885067a3941109bda9619cb5",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "909087953ad940c1711e29aeeb026665bdc3c67bbcc5ac472d1df5d150d8e1f5",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "엘윈",
+  "en": "the wandering swordsman hero's look from Langrisser II — a light breastplate over a blue tunic, a long red scarf and a sword belt"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "cdba210069b30f4af8cfbd79f3e14f1e5a2a41d862c5ab2545f72732bbb59d76",
+  "passed": true,
+  "observations": [
+   "은색 장발·푸른 눈·같은 얼굴. 흰 가슴갑옷·파란 튜닉 미니드레스·붉은 스카프와 검 벨트의 엘윈 차림.",
+   "환상 스파 가장자리에 정면으로 앉아 두 손을 양옆에 짚고 무릎을 모음·윙크. 두 팔과 두 손·다리 연결 자연스러움.",
+   "1024×1536. moderate 노출로 생성 성공. 원작 얼굴·읽히는 글자·HUD·실제 상표 없음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "프레이밍 three_quarter 가 2 번(1 번까지)"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
