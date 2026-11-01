@@ -1,0 +1,44 @@
+{
+ "game": "grand_theft_auto_v",
+ "seed": 711010,
+ "tree": 2,
+ "required": "costume",
+ "slots": [
+  6
+ ],
+ "cuts": [
+  {
+   "n": 6,
+   "era": "fantasy",
+   "place": "fx_spa",
+   "ofam": "hero_costume",
+   "treeV": 2,
+   "prop": "",
+   "preset": "edge_dangle",
+   "use": "",
+   "posture": "sit_edge",
+   "support": "hip_edge",
+   "frame": "full_body",
+   "body": "side",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "edge_brace_both",
+   "left": "edge_brace_both",
+   "legs": "feet_in_water",
+   "gaze": "horizon",
+   "item": "hc_corset",
+   "expr": "amused",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "balanced",
+    "source_influence": "strong",
+    "separates_preference": "balanced"
+   }
+  }
+ ],
+ "scope": "Existing registered games: add exactly one hero/mascot costume; legacy cuts stay unchanged",
+ "legacy_record_gaps": [
+  "프레이밍 full_body 가 2 번(1 번까지)"
+ ]
+}
