@@ -1,0 +1,45 @@
+{
+ "game": "resident_evil_2",
+ "seed": 711010,
+ "tree": 2,
+ "required": "costume",
+ "slots": [
+  6
+ ],
+ "cuts": [
+  {
+   "n": 6,
+   "era": "now",
+   "place": "street_grocery",
+   "ofam": "hero_costume",
+   "treeV": 2,
+   "prop": "",
+   "preset": "rail_lookback",
+   "use": "",
+   "posture": "lean_rail",
+   "support": "none",
+   "frame": "environmental",
+   "body": "rear_3q",
+   "head": "over_shoulder",
+   "camera": "eye",
+   "right": "rail",
+   "left": "hair_tuck",
+   "legs": "contrapposto",
+   "gaze": "camera",
+   "item": "hc_mini_dress",
+   "expr": "confident",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "mostly active",
+    "source_influence": "balanced",
+    "separates_preference": "prefer separates"
+   }
+  }
+ ],
+ "scope": "Existing registered games: add exactly one hero/mascot costume; legacy cuts stay unchanged",
+ "legacy_record_gaps": [
+  "시대 now 가 3 번(2 번까지)",
+  "프레이밍 environmental 가 2 번(1 번까지)"
+ ]
+}
