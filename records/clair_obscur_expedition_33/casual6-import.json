@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "clair_obscur_expedition_33",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "clair_obscur_expedition_33_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "46048f3115361e05b0a441079f341603f32dc67e0847a182e462e454f0281cbb",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "clair_obscur_expedition_33_title_glossy_kr_game_f.webp",
+ "prompt": "records/clair_obscur_expedition_33/casual6-ui.json",
+ "prompt_sha256": "c46a1929950b15e9dcc377a675a16e2a5e4ede44cc82a9206c577ff5d4ef1582",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "be31751c4ed68a34c80f02ad34b41b29401b1e6ec18fd86615e1b8b4a2cf2351",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "원정대원(구스타브·마엘)",
+  "en": "the Expedition 33 look — a belle-epoque expedition coat in faded blue with brass buckles, a high collar and a painted-brush sash"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "46048f3115361e05b0a441079f341603f32dc67e0847a182e462e454f0281cbb",
+  "passed": false,
+  "observations": [
+   "붉은 올림머리·같은 성인 얼굴 유지. 별이 보이는 무대 바닥에 다리 접고 앉고 오른손 무릎·왼손 바닥. 두 팔·손·다리·부츠 연결 자연스러움.",
+   "원정대 코트 미니드레스 요청보다 기존 흰색·검붉은 의상과 항구 배경이 강하게 남음. faded blue가 거의 보이지 않음.",
+   "측면보다 3/4, 환경 롱샷보다 인물 가까움. 원작 인물·HUD·선명한 문자·로고 없음."
+  ],
+  "cause": "원본 의상·항구 배경이 코스튬·별 무대 변경 지시보다 강함"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "프레이밍 environmental 가 2 번(1 번까지)"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
