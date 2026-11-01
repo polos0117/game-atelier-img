@@ -1,0 +1,55 @@
+{
+ "version": 1,
+ "game": "dark_souls",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "dark_souls_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "2d2a5f3a2f330ecffdd7ae5e77320021bcb8762565973fb38b170dea7651c8bc",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "dark_souls_title_glossy_kr_game_f.webp",
+ "prompt": "records/dark_souls/casual6-ui.json",
+ "prompt_sha256": "d36a9327d2e39edf9aa185a146311ee3036a85a0c58af3d0dc2355b00e205b8c",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "115bc1b651f9d08c092f97a5af4986d0d6e0429be3132734eee65c1d3eb7caa4",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "선택받은 불사자(상급 기사)",
+  "en": "the Elite Knight armour — a fitted steel breastplate, a short faded rust-red tabard, steel pauldrons, gauntlets and greaves, with a frayed cloth scarf"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2d2a5f3a2f330ecffdd7ae5e77320021bcb8762565973fb38b170dea7651c8bc",
+  "passed": false,
+  "observations": [
+   "긴 갈색 머리·동일 얼굴, 세탁방 측면 전신과 양손 한 컵. 두 팔·두 다리·부츠가 자연스럽다. 문자·HUD 없음.",
+   "상급 기사 실루엣은 있으나 요청한 은색 갑옷 미니드레스 대신 원본의 검은 갑옷·찢어진 붉은 망토를 강하게 유지함."
+  ],
+  "cause": "원본 갑옷의 시각적 영향이 WARDROBE 변경 지시보다 강함"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "필수 갈래가 없다"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
