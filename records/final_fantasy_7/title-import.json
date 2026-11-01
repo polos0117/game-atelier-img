@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "game": "final_fantasy_7",
+  "slot": "title",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "final_fantasy_7_title_glossy_kr_game_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "5af26e52100d3219cab6ad846cd0c62d64b612b21a4470e17b5765db18297ab9",
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  },
+  "reference": null,
+  "prompt": "records/final_fantasy_7/title-ui.json",
+  "prompt_sha256": "a551f0e57bc4ac1b5883d73d698987fc12d619f51721d143bf5e8847da5cd2c5",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "sha256": "2c81fbaac61f254f15b2c3b1c8ce80664b8bd93bc40e8ab5c24f57bc20fe5097",
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-01",
+  "execution": "game-ff7-20261101T0910Z",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "5af26e52100d3219cab6ad846cd0c62d64b612b21a4470e17b5765db18297ab9",
+    "passed": false,
+    "observations": [
+      "원본 1024×1536, 세로 2:3 확인.",
+      "주요 인물 한 명. 원작 캐릭터/몬스터 얼굴·몸, 로고·HUD·상표·읽히는 제목/숫자는 확인되지 않음.",
+      "관찰 가능한 팔/손/다리의 중복은 보이지 않으며, 손가락은 쥔 자세/가림 범위 안에서 자연스럽다.",
+      "STANCE의 비스듬히 돌아보기보다 몸과 얼굴이 정면 3/4에 가깝다."
+    ],
+    "cause": "LOOK-BACK/STANCE와 OUTPUT의 front or three-quarter 조건이 함께 있어 정면 3/4가 우세했을 가능성."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 사용자 main 일반 반영 승인",
+  "publication": {
+    "method": "GitHub connector commit + fast-forward main ref",
+    "reason": "Git CLI push credential unavailable; force=false"
+  }
+}

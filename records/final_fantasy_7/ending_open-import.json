@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "game": "final_fantasy_7",
+  "slot": "ending_open",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "final_fantasy_7_ending_open_glossy_kr_game_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "ff76494bfae577d86e288e65303580459be77240dc7d86413ad6530761d8c5a0",
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  },
+  "reference": "final_fantasy_7_ending_glossy_kr_game_f.webp",
+  "prompt": "records/final_fantasy_7/ending_open-ui.json",
+  "prompt_sha256": "9fff519e36495bce78a273f3d092901f70948de0572eca012700d20e9d2c8551",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "sha256": "15d62a7db695dbde7fb8d62a0c4297c37da9ac3bde576f714051aea7b3729477",
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-01",
+  "execution": "game-ff7-20261101T0910Z",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "ff76494bfae577d86e288e65303580459be77240dc7d86413ad6530761d8c5a0",
+    "passed": false,
+    "observations": [
+      "원본 1024×1536, 세로 2:3 확인.",
+      "주요 인물 한 명. 원작 캐릭터/몬스터 얼굴·몸, 로고·HUD·상표·읽히는 제목/숫자는 확인되지 않음.",
+      "관찰 가능한 팔/손/다리의 중복은 보이지 않으며, 손가락은 쥔 자세/가림 범위 안에서 자연스럽다.",
+      "기준과 남색 단발·녹색 눈·피부톤·얼굴 인상이 이어진다.",
+      "해당 닫힘 폼의 자세·얼굴·의상을 유지한 단일 개방 장면이며 2분할이 아니다.",
+      "기준 엔딩의 앞쪽 발끝 잘림과 가드 가까운 두 손 배치를 유지했다."
+    ],
+    "cause": "개방은 기준 폼의 구도/자세를 고정하므로 엔딩의 잘림과 손 위치도 이어졌다."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 사용자 main 일반 반영 승인",
+  "publication": {
+    "method": "GitHub connector commit + fast-forward main ref",
+    "reason": "Git CLI push credential unavailable; force=false"
+  }
+}

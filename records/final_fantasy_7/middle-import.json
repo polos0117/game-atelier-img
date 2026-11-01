@@ -1,0 +1,52 @@
+{
+  "version": 1,
+  "game": "final_fantasy_7",
+  "slot": "middle",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "final_fantasy_7_middle_glossy_kr_game_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "8566fc53314cb875bf3ff4dbc9ff771899e8f63b38cb803f2f9ccacd36d66319",
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  },
+  "reference": "final_fantasy_7_title_glossy_kr_game_f.webp",
+  "prompt": "records/final_fantasy_7/middle-ui.json",
+  "prompt_sha256": "fa0f4b40e4f0ec32d750e3decb7c49b1afc2b34f550339dc717b87d1b59ee037",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "sha256": "c9e9374e388c8384ef49f0dffa421b5df172167ef23310911ee1e4ddfb5b31c6",
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-01",
+  "execution": "game-ff7-20261101T0910Z",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "8566fc53314cb875bf3ff4dbc9ff771899e8f63b38cb803f2f9ccacd36d66319",
+    "passed": false,
+    "observations": [
+      "원본 1024×1536, 세로 2:3 확인.",
+      "주요 인물 한 명. 원작 캐릭터/몬스터 얼굴·몸, 로고·HUD·상표·읽히는 제목/숫자는 확인되지 않음.",
+      "관찰 가능한 팔/손/다리의 중복은 보이지 않으며, 손가락은 쥔 자세/가림 범위 안에서 자연스럽다.",
+      "기준과 남색 단발·녹색 눈·피부톤·얼굴 인상이 이어진다.",
+      "구슬을 들고 있으나 시선은 구슬보다 카메라 쪽이다."
+    ],
+    "cause": "원본 타이틀 카메라 응시와 구슬을 들여다보는 STANCE 사이에서 원본 응시가 남은 것으로 보인다."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 사용자 main 일반 반영 승인",
+  "publication": {
+    "method": "GitHub connector commit + fast-forward main ref",
+    "reason": "Git CLI push credential unavailable; force=false"
+  }
+}

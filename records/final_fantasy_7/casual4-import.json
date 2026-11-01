@@ -1,0 +1,55 @@
+{
+  "version": 1,
+  "game": "final_fantasy_7",
+  "slot": "casual4",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "final_fantasy_7_glossy_kr_game_f_casual4.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "cc057079e29cd3766f59b0d85a27d44ad79e7668d77a5c35e217b6b199c94ae7",
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  },
+  "reference": "final_fantasy_7_title_glossy_kr_game_f.webp",
+  "prompt": "records/final_fantasy_7/casual4-ui.json",
+  "prompt_sha256": "2e1acfe665f3c409e7ef720284d39f199438439133e968332d00841847394629",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "sha256": "e07408274d65259e7097816f169cd218a2894a0d18aed36d25092f7a102a2508",
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-01",
+  "execution": "game-ff7-20261101T0910Z",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "cc057079e29cd3766f59b0d85a27d44ad79e7668d77a5c35e217b6b199c94ae7",
+    "passed": false,
+    "observations": [
+      "원본 1024×1536, 세로 2:3 확인.",
+      "주요 인물 한 명. 원작 캐릭터/몬스터 얼굴·몸, 로고·HUD·상표·읽히는 제목/숫자는 확인되지 않음.",
+      "관찰 가능한 팔/손/다리의 중복은 보이지 않으며, 손가락은 쥔 자세/가림 범위 안에서 자연스럽다.",
+      "기준과 남색 단발·녹색 눈·피부톤·얼굴 인상이 이어진다.",
+      "오른손 컵·왼팔 내림·인어 쇼 의상·모션캡처 카메라들이 보인다. 배경 스태프는 작고 흐리며 주인공과 겹치지 않는다. 목 회전은 약한 3/4 범위다.",
+      "등을 보이며 먼 곳을 보는 계획과 달리 머리를 어깨 너머로 돌려 카메라 쪽 옆얼굴을 보인다.",
+      "환경 롱숏 계획보다 인물 비중이 큰 전신 구도다.",
+      "강철 도시/빈민가 소품은 명확하게 식별되지 않는다."
+    ],
+    "cause": "body back/gaze far 조건보다 참조 얼굴을 보존하려는 경향이 강해 어깨 너머 얼굴을 보인 것으로 보인다."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 사용자 main 일반 반영 승인",
+  "publication": {
+    "method": "GitHub connector commit + fast-forward main ref",
+    "reason": "Git CLI push credential unavailable; force=false"
+  }
+}

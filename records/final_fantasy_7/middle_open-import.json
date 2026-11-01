@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "game": "final_fantasy_7",
+  "slot": "middle_open",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "final_fantasy_7_middle_open_glossy_kr_game_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "c88f6f5008fca918614234d5365c41fecdcd78e503b00e1c19d3a36a28f92f5f",
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  },
+  "reference": "final_fantasy_7_middle_glossy_kr_game_f.webp",
+  "prompt": "records/final_fantasy_7/middle_open-ui.json",
+  "prompt_sha256": "cb5d439ac378cd182bcdbb1a5a65c990afa1a6aa7cae0d0d26c8b6b09579b967",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "sha256": "aa4236adbd046d3c083319c5b0994558ff3abe0bd0c417e6fc32d38c58de2ba6",
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-01",
+  "execution": "game-ff7-20261101T0910Z",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "c88f6f5008fca918614234d5365c41fecdcd78e503b00e1c19d3a36a28f92f5f",
+    "passed": true,
+    "observations": [
+      "원본 1024×1536, 세로 2:3 확인.",
+      "주요 인물 한 명. 원작 캐릭터/몬스터 얼굴·몸, 로고·HUD·상표·읽히는 제목/숫자는 확인되지 않음.",
+      "관찰 가능한 팔/손/다리의 중복은 보이지 않으며, 손가락은 쥔 자세/가림 범위 안에서 자연스럽다.",
+      "기준과 남색 단발·녹색 눈·피부톤·얼굴 인상이 이어진다.",
+      "해당 닫힘 폼의 자세·얼굴·의상을 유지한 단일 개방 장면이며 2분할이 아니다.",
+      "교회 꽃밭·구슬·양팔과 전신을 유지하고 녹색 빛고리·꽃잎을 더했다."
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 사용자 main 일반 반영 승인",
+  "publication": {
+    "method": "GitHub connector commit + fast-forward main ref",
+    "reason": "Git CLI push credential unavailable; force=false"
+  }
+}

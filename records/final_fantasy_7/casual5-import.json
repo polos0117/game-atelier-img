@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "game": "final_fantasy_7",
+  "slot": "casual5",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "final_fantasy_7_glossy_kr_game_f_casual5.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "4792cd83c1f20ecd9ede2f57512487729e81d2c155b254a39ba36880ee44105c",
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  },
+  "reference": "final_fantasy_7_title_glossy_kr_game_f.webp",
+  "prompt": "records/final_fantasy_7/casual5-ui.json",
+  "prompt_sha256": "4de47ceb3337f85bc45d6b76b12339fdf0691f3f341b728f67471ca3be306900",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "sha256": "b38a1bd9b223823fb8c2b2c0a54a986f6edfa91322f909df8e8b3367c3229bf0",
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-01",
+  "execution": "game-ff7-20261101T0910Z",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "4792cd83c1f20ecd9ede2f57512487729e81d2c155b254a39ba36880ee44105c",
+    "passed": false,
+    "observations": [
+      "원본 1024×1536, 세로 2:3 확인.",
+      "주요 인물 한 명. 원작 캐릭터/몬스터 얼굴·몸, 로고·HUD·상표·읽히는 제목/숫자는 확인되지 않음.",
+      "관찰 가능한 팔/손/다리의 중복은 보이지 않으며, 손가락은 쥔 자세/가림 범위 안에서 자연스럽다.",
+      "기준과 남색 단발·녹색 눈·피부톤·얼굴 인상이 이어진다.",
+      "오른손으로 등불을 들고 왼손은 화면 밖. 시선은 등불 방향이며 깃털은 소품에 달려 있다.",
+      "가슴 위 절단선 대신 허리와 골반 위쪽까지 넓어졌다.",
+      "분노 표정의 다문 입보다 입술이 살짝 벌어져 있다."
+    ],
+    "cause": "CROP의 가슴 절단선보다 가운/이브닝 코트와 등불의 배치가 하단 구도를 넓힌 것으로 보인다."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 사용자 main 일반 반영 승인",
+  "publication": {
+    "method": "GitHub connector commit + fast-forward main ref",
+    "reason": "Git CLI push credential unavailable; force=false"
+  }
+}

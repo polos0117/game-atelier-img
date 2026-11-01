@@ -1,0 +1,61 @@
+{
+ "_": "tools/prompt-pack.cjs 의 설정 — 고칠 수 있는 칸만 있다. 직접 입력(글 칸 · 표에 없는 값)엔 why 에 까닭을 적는다. 고친 뒤 build",
+ "game": "final_fantasy_7",
+ "style": "glossy_kr_game",
+ "plan": "/workspace/scratch/73743005e0ab/ff7-work/plan/plan.json",
+ "card": {
+  "motifs": "",
+  "lookNote": "",
+  "faceDesignOn": true,
+  "silhouetteOn": true,
+  "exposure": "bold",
+  "params": {},
+  "why": ""
+ },
+ "slots": {
+  "title": {
+   "scene": {},
+   "why": ""
+  },
+  "middle": {
+   "scene": {},
+   "why": ""
+  },
+  "ending": {
+   "scene": {},
+   "why": ""
+  },
+  "title_open": {
+   "scene": {},
+   "why": ""
+  },
+  "middle_open": {
+   "scene": {},
+   "why": ""
+  },
+  "ending_open": {
+   "scene": {},
+   "why": ""
+  },
+  "casual1": {
+   "custom": "",
+   "why": ""
+  },
+  "casual2": {
+   "custom": "",
+   "why": ""
+  },
+  "casual3": {
+   "custom": "",
+   "why": ""
+  },
+  "casual4": {
+   "custom": "",
+   "why": ""
+  },
+  "casual5": {
+   "custom": "",
+   "why": ""
+  }
+ }
+}

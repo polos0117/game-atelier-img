@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "game": "final_fantasy_7",
+  "slot": "ending",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "final_fantasy_7_ending_glossy_kr_game_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "8356eb0504e09aaffe8d4fb0ab348cb73cbaa65d708d918644588a6bdffdfadb",
+    "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  },
+  "reference": "final_fantasy_7_title_glossy_kr_game_f.webp",
+  "prompt": "records/final_fantasy_7/ending-ui.json",
+  "prompt_sha256": "cb65d5d6a8417b07e1d4c8ef1d2a33e339c43c65f89a410f986aa20eaf2588b3",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "sha256": "9ba054fe88a84db2640cdf56340ff012f2421e6aac9b9a6000793eef96ec774e",
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-01",
+  "execution": "game-ff7-20261101T0910Z",
+  "qa": {
+    "reviewer": "gpt",
+    "image_sha256": "8356eb0504e09aaffe8d4fb0ab348cb73cbaa65d708d918644588a6bdffdfadb",
+    "passed": false,
+    "observations": [
+      "원본 1024×1536, 세로 2:3 확인.",
+      "주요 인물 한 명. 원작 캐릭터/몬스터 얼굴·몸, 로고·HUD·상표·읽히는 제목/숫자는 확인되지 않음.",
+      "관찰 가능한 팔/손/다리의 중복은 보이지 않으며, 손가락은 쥔 자세/가림 범위 안에서 자연스럽다.",
+      "기준과 남색 단발·녹색 눈·피부톤·얼굴 인상이 이어진다.",
+      "앞쪽 부츠 발끝이 하단 경계에서 잘려 전신 여백 조건 미달.",
+      "내리치는 동작의 준비 자세로 나왔고, 크레이터 주변이 강철 도시로 확장됐다.",
+      "두 손이 검 밑부분에 모이지만 한 손은 손잡이보다 가드/검신 바닥 쪽을 받친다."
+    ],
+    "cause": "큰 대검과 머리 위 양팔이 세로 공간을 차지해 전신 여백이 줄었고, SIGNATURE 도시가 크레이터 SETTING과 함께 반영된 것으로 보인다."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 사용자 main 일반 반영 승인",
+  "publication": {
+    "method": "GitHub connector commit + fast-forward main ref",
+    "reason": "Git CLI push credential unavailable; force=false"
+  }
+}
