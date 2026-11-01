@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "super_mario_bros",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_mario_bros_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "1b2acefa84ab5da69b92f4386ec20238126ea51eed8a90add2dae116eb40c026",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "super_mario_bros_title_glossy_kr_game_f.webp",
+ "prompt": "records/super_mario_bros/casual6-ui.json",
+ "prompt_sha256": "b391942e5cc20fd9aac018cdb9b6d064e27313c1053063efbcfe4d90e2e8a8a9",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "bbfe7be76ce1dc5c9c063f8493d7da405f76d0745f535da6131290ddf831fff8",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "마리오",
+  "en": "Mario's outfit — a red cap with a plain white circle badge, a red top, blue overalls with big yellow buttons, white gloves and brown boots"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "1b2acefa84ab5da69b92f4386ec20238126ea51eed8a90add2dae116eb40c026",
+  "passed": false,
+  "observations": [
+   "붉은 포니테일·동일 성인 얼굴. 빨간 모자·흰 무문자 원·빨간 크롭 상의·파란 멜빵 반바지·흰 장갑이 보인다.",
+   "오른손 우산·왼손 난간. 두 손과 두 팔 연결이 자연스럽다. 허리 위 프레임과 시골 역 배경.",
+   "완전한 측면 요청보다 3/4로 돌아 있다. 웃으며 눈을 감아 소품 응시가 드러나지 않는다. 글자·HUD·상표·마리오 얼굴 없음."
+  ],
+  "cause": "측면 몸 방향·소품 응시보다 웃는 표정과 코스튬 식별성이 강조됨"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "필수 갈래가 없다"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}

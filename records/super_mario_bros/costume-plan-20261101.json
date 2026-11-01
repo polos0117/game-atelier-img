@@ -1,0 +1,44 @@
+{
+ "game": "super_mario_bros",
+ "seed": 711010,
+ "tree": 2,
+ "required": "costume",
+ "slots": [
+  6
+ ],
+ "cuts": [
+  {
+   "n": 6,
+   "era": "now",
+   "place": "travel_rural_station",
+   "ofam": "hero_costume",
+   "treeV": 2,
+   "prop": "",
+   "preset": "counter_cup",
+   "use": "umbrella_hold",
+   "posture": "lean_rail",
+   "support": "none",
+   "frame": "waist_up",
+   "body": "side",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "rail",
+   "legs": "",
+   "gaze": "at_prop",
+   "item": "hc_crop_set",
+   "expr": "laughing",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "balanced",
+    "source_influence": "balanced",
+    "separates_preference": "strongly prefer separates"
+   }
+  }
+ ],
+ "scope": "Existing registered games: add exactly one hero/mascot costume; legacy cuts stay unchanged",
+ "legacy_record_gaps": [
+  "필수 갈래가 없다"
+ ]
+}
