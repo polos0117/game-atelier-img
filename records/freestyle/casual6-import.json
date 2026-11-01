@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "freestyle",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "freestyle_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "5280622bdd0cba9783eca2760b6c223cb42cc65f32f2951add6bd34e40beba3f",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "freestyle_title_glossy_kr_game_f.webp",
+ "prompt": "records/freestyle/casual6-ui.json",
+ "prompt_sha256": "e1bcbad453a7ab5869afb5b0949cdd77a4d1bf92c8fdb1558e033ae0c5f3354c",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "24d8ea3b65431598dc765e00673aa0e1c9409cc0a23b7d0c872fe10f415d75f4",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "길거리 농구 선수",
+  "en": "the street baller's look — an oversized mesh basketball jersey with no numbers, a sweatband, a backwards cap and high-top sneakers without logos"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5280622bdd0cba9783eca2760b6c223cb42cc65f32f2951add6bd34e40beba3f",
+  "passed": true,
+  "observations": [
+   "파란 브레이드·황금 눈·같은 짙은 피부 성인 얼굴. 무문자 메쉬 코르셋·뒤로 쓴 모자·손목밴드·로고 없는 하이탑의 농구선수 코스튬.",
+   "연락선 데크 전신 보행, 오른손 숄더백 끈·왼손 내림. 두 팔·두 손·다리·발이 자연스럽게 이어짐.",
+   "한 명의 선명한 여성, 글자·숫자·HUD·상표·원작 얼굴 없음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "필수 갈래가 없다"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
