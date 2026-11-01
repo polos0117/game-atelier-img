@@ -1,0 +1,54 @@
+{
+ "version": 1,
+ "game": "hearthstone",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "hearthstone_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "eca0a6888d8e671d7110fdc8107284b3bc94b94abeaf0cf05f69765bb695304a",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "hearthstone_title_glossy_kr_game_f.webp",
+ "prompt": "records/hearthstone/casual6-ui.json",
+ "prompt_sha256": "bf653ad3c65603a8fd8fa30750180d971ed30e628e32cbe9b1e697b269b6e355",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "a94ef928fb60d7d872347310997dbd0dc31150d7cc13c7a1dcd54675c412f572",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "여관 주인",
+  "en": "the tavern innkeeper's look — a laced leather bodice, a rolled-sleeve linen shirt, a short apron and a hearth-glow stone pendant"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "eca0a6888d8e671d7110fdc8107284b3bc94b94abeaf0cf05f69765bb695304a",
+  "passed": false,
+  "observations": [
+   "갈색 올림머리·금색 눈·동일 얼굴. 리넨 셔츠·가죽 코르셋·짧은 앞치마·난롯빛 펜던트의 여관주인 차림.",
+   "별 무대 허리 위 정면에서 두 손을 모음. 두 팔·손의 연결은 자연스럽고 중복 손가락이 보이지 않음. 문자·HUD·로고 없음.",
+   "계획은 두 손을 낮게 모으기인데 가슴 앞까지 높아짐."
+  ],
+  "cause": "낮은 손 위치보다 인사하는 초상 포즈가 강조됨"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
