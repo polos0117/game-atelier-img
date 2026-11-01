@@ -1,0 +1,26 @@
+{
+ "key": "kartrider",
+ "runs": [
+  {
+   "key": "kartrider",
+   "execution": "game-kartrider-118c24-20261101",
+   "status": "working",
+   "claimed_at": "2026-11-01T14:17:05.581Z",
+   "date_kst": "2026-11-01",
+   "date_utc": "2026-11-01",
+   "missing": [
+    "kartrider_title_glossy_kr_game_f.webp",
+    "kartrider_title_open_glossy_kr_game_f.webp",
+    "kartrider_middle_glossy_kr_game_f.webp",
+    "kartrider_middle_open_glossy_kr_game_f.webp",
+    "kartrider_ending_glossy_kr_game_f.webp",
+    "kartrider_ending_open_glossy_kr_game_f.webp",
+    "kartrider_glossy_kr_game_f_casual1.webp",
+    "kartrider_glossy_kr_game_f_casual2.webp",
+    "kartrider_glossy_kr_game_f_casual3.webp",
+    "kartrider_glossy_kr_game_f_casual4.webp",
+    "kartrider_glossy_kr_game_f_casual5.webp"
+   ]
+  }
+ ]
+}
