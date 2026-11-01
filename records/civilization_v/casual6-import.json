@@ -1,0 +1,54 @@
+{
+ "version": 1,
+ "game": "civilization_v",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "civilization_v_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "a7357e9d1211a188cc2c6972ba8cf78b4528cb1ed657a22ca5dc585c8095c097",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "civilization_v_title_glossy_kr_game_f.webp",
+ "prompt": "records/civilization_v/casual6-ui.json",
+ "prompt_sha256": "c9e0b839eb79217d1d5e99a000cb24d811af9ef2f9c7d3463b265b743c771c7e",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "99ba11c6140af1cb560813e21d5e1eacb679f0654ffc173230948c5253c9b6a8",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "개척자(정착민 유닛)",
+  "en": "the settler unit's look — a homespun linen tunic with a woven sash, a rolled map and a small founding-flag accessory in parchment and blue"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a7357e9d1211a188cc2c6972ba8cf78b4528cb1ed657a22ca5dc585c8095c097",
+  "passed": true,
+  "observations": [
+   "갈색 물결 장발·동일 얼굴과 체형. 리넨 코르셋·파란 허리띠·지도와 작은 정착 깃발이 보임.",
+   "의상실 의자에 정면 앉기, 오른손 월계관·왼손 무릎, 얼굴과 시선은 화면 왼쪽. 두 팔·두 손·두 다리·발이 자연스러움.",
+   "전신과 의상실 배경 포함, 주인공 외 인물 없음. 마네킹은 얼굴 없는 물체. 읽히는 글자·HUD·로고 없음."
+  ],
+  "cause": ""
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}

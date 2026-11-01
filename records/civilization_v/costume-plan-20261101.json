@@ -1,0 +1,43 @@
+{
+ "game": "civilization_v",
+ "seed": 711010,
+ "tree": 2,
+ "required": "costume",
+ "slots": [
+  6
+ ],
+ "cuts": [
+  {
+   "n": 6,
+   "era": "now",
+   "place": "tailor_room",
+   "ofam": "hero_costume",
+   "treeV": 2,
+   "prop": "",
+   "preset": "bench_sit",
+   "use": "sig_hold",
+   "kind": "hold",
+   "posture": "sit_chair",
+   "support": "none",
+   "frame": "environmental",
+   "body": "front",
+   "head": "turn_side",
+   "camera": "eye",
+   "right": "prop",
+   "left": "lap",
+   "legs": "knees_together",
+   "gaze": "screen_left",
+   "item": "hc_corset",
+   "expr": "surprised",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "balanced",
+    "source_influence": "subtle",
+    "separates_preference": "prefer separates"
+   }
+  }
+ ],
+ "scope": "Existing registered games: add exactly one hero/mascot costume; legacy cuts stay unchanged",
+ "legacy_record_gaps": []
+}
