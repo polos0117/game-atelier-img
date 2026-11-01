@@ -4,7 +4,7 @@
   {
    "key": "resident_evil_2",
    "execution": "game-re2-7f93e99eda57",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-01T05:11:39.614Z",
    "date_kst": "2026-11-01",
    "date_utc": "2026-11-01",
@@ -20,7 +20,9 @@
     "resident_evil_2_glossy_kr_game_f_casual3.webp",
     "resident_evil_2_glossy_kr_game_f_casual4.webp",
     "resident_evil_2_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-01T05:34:34.099Z",
+   "done_by": "game-re2-7f93e99eda57"
   }
  ]
 }
