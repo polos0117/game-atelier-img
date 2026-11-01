@@ -1,0 +1,44 @@
+{
+ "game": "dave_the_diver",
+ "seed": 711010,
+ "tree": 2,
+ "required": "costume",
+ "slots": [
+  6
+ ],
+ "cuts": [
+  {
+   "n": 6,
+   "era": "now",
+   "place": "street_shop",
+   "ofam": "hero_costume",
+   "treeV": 2,
+   "prop": "",
+   "preset": "camera_shot",
+   "use": "flower_trim",
+   "posture": "stand",
+   "support": "none",
+   "frame": "three_quarter",
+   "body": "front_3q",
+   "head": "with_body",
+   "camera": "eye",
+   "right": "prop",
+   "left": "prop",
+   "legs": "stand_relaxed",
+   "gaze": "",
+   "item": "hc_bodysuit",
+   "expr": "flustered",
+   "axes": {
+    "overall_intensity": "strong",
+    "skin_exposure": "bold",
+    "action_level": "mostly posed",
+    "source_influence": "subtle",
+    "separates_preference": "balanced"
+   }
+  }
+ ],
+ "scope": "Existing registered games: add exactly one hero/mascot costume; legacy cuts stay unchanged",
+ "legacy_record_gaps": [
+  "필수 갈래가 없다"
+ ]
+}

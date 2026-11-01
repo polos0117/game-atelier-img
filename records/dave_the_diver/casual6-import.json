@@ -1,0 +1,56 @@
+{
+ "version": 1,
+ "game": "dave_the_diver",
+ "slot": "casual6",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "dave_the_diver_glossy_kr_game_f_casual6.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "9891563be7c89dc1e47191b92c36f84ff2e7e11ffea949969e4f5d1d25d11d86",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "dave_the_diver_title_glossy_kr_game_f.webp",
+ "prompt": "records/dave_the_diver/casual6-ui.json",
+ "prompt_sha256": "99066f732696fbdfc29bb02d261521abdfeb3044bd7636bee860c27927b19e70",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "sha256": "9534aa3dbb075dd5c3f44a2d4c5e7968499ff609c42bf4d46b458207e5e12dbf",
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-01",
+ "execution": "game-costume-7ba9ed-20261101",
+ "costume": {
+  "who": "데이브(잠수부)",
+  "en": "Dave's diving look — a blue-and-yellow wetsuit, an orange air tank harness, a round dive mask pushed up on the head and short fins"
+ },
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "9891563be7c89dc1e47191b92c36f84ff2e7e11ffea949969e4f5d1d25d11d86",
+  "passed": false,
+  "observations": [
+   "짧은 검은 단발·같은 성인 얼굴. 청색·황색 잠수 보디수트·이마의 마스크·탱크 하네스.",
+   "꽃가게에서 오른손 가위·왼손 꽃 줄기. 두 손·팔은 정상 연결, 한 여성이고 읽히는 글자·HUD·상표 없음.",
+   "코스튬 설정의 주황 산소통 대신 황색 산소통, 3/4보다 아래쪽이 적게 보이는 프레임."
+  ],
+  "cause": "원본 잠수장비 팔레트 영향으로 탱크 색이 바뀌고 꽃 작업 상체를 강조함"
+ },
+ "acceptance": "User explicitly approved all currently registered games costume additions, per-game commit and normal push to main, without additional confirmation",
+ "plan_validation": {
+  "legacy_and_bundle_findings": [
+   "필수 갈래가 없다"
+  ],
+  "scope": "One new hero costume cut only; pre-existing shots remain unchanged; unavailable legacy UI states are not invented"
+ }
+}
