@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "game": "pump_it_up",
+ "slot": "ending_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pump_it_up_ending_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "714a328bddb3a19d1c3b4225f3bb12fe873f37833d54e3f290dd78164340bb31",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pump_it_up_ending_glossy_kr_game_f.webp",
+ "prompt": "records/pump_it_up/ending_open-ui.json",
+ "prompt_sha256": "c010dba2bb735577d9891e6c5aef17e01c05b4f8ff073e3778903b3c9bd21adc",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pump-965969-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "714a328bddb3a19d1c3b4225f3bb12fe873f37833d54e3f290dd78164340bb31",
+  "passed": true,
+  "observations": [
+   "엔딩의 얼굴·의상·높이 든 다리·하늘을 가리키는 손·구도 유지.",
+   "빛 기둥과 금빛 종이 조각이 터지는 피날레, 두 팔·두 다리 연결 정상.",
+   "한 장의 단일 장면, 추가 인물·로고·글자·HUD 없음."
+  ],
+  "cause": ""
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

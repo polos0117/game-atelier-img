@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "game": "pump_it_up",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pump_it_up_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "6122592063bf05d134d72f6ad9fe9e93ef6961bb8303557d0412739bedc3b205",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pump_it_up_title_glossy_kr_game_f.webp",
+ "prompt": "records/pump_it_up/casual1-ui.json",
+ "prompt_sha256": "95f77d4159dded089baeaa1d5716006bd7d4ecf61bd1c65b15328e58b68b9135",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pump-965969-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "6122592063bf05d134d72f6ad9fe9e93ef6961bb8303557d0412739bedc3b205",
+  "passed": true,
+  "observations": [
+   "라이브 하우스 배경, 란제리풍 슬립, 정면 허리 위 구도.",
+   "오른손 엄지 척·왼손 허리에 손. 두 팔·손목 정상 연결, 오른손은 접은 네 손가락과 엄지로 보임.",
+   "첫 그림의 보라색 포니테일·얼굴 유지, 흐릿한 배경 손님 외 주요 인물 한 명, 글자·로고·HUD 없음."
+  ],
+  "cause": ""
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

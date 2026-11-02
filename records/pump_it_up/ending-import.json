@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "game": "pump_it_up",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pump_it_up_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "10201c0c1a449cffd3154008fb1529197f198888049fec83bdb69fc1e9426fae",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pump_it_up_title_glossy_kr_game_f.webp",
+ "prompt": "records/pump_it_up/ending-ui.json",
+ "prompt_sha256": "a9fdbd4819c3246136f56dfe988b2250b8852d5aa80cfda0375f5b981204c56a",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pump-965969-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "10201c0c1a449cffd3154008fb1529197f198888049fec83bdb69fc1e9426fae",
+  "passed": false,
+  "observations": [
+   "첫 그림과 같은 얼굴·머리·체형, 웃는 표정·반짝이는 헤어밴드·화살표 무대 의상.",
+   "두 팔·두 다리 정상, 두 손에 추가 손가락은 보이지 않음. 한쪽 다리를 들어 마지막 박자를 표현.",
+   "읽히는 로고·HUD 없음. 재킷 어깨가 내려가고 카메라는 요청한 높은 시점보다 낮음."
+  ],
+  "cause": "참조의 재킷 착용 방식 유지 및 역동적 STANCE가 높은 카메라 지시보다 우세함."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "game": "pump_it_up",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pump_it_up_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "f235afde8915b5a46630840be6e2e2f89dd4e86c24e4f97829e8341f5ad5f60c",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pump_it_up_title_glossy_kr_game_f.webp",
+ "prompt": "records/pump_it_up/middle-ui.json",
+ "prompt_sha256": "16ff5c4cd9af2d6de50b1f6c198a7459eae1780c92fcce5f1fc183dc8ae92cec",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pump-965969-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f235afde8915b5a46630840be6e2e2f89dd4e86c24e4f97829e8341f5ad5f60c",
+  "passed": false,
+  "observations": [
+   "첫 그림의 얼굴·보라색 포니테일·팔레트를 유지하고 땀받이 밴드·집중 표정·낮은 구도로 변화함.",
+   "두 팔·두 다리 연결 정상, 왼손은 뒤 봉을 잡고 오른손은 화면 가장자리에서 일부 잘림.",
+   "읽히는 글자·상표·HUD 없음. 재킷이 어깨 아래로 내려감."
+  ],
+  "cause": "참조 이미지의 내려간 재킷을 유지하여 EXPOSURE 지시와 다름."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

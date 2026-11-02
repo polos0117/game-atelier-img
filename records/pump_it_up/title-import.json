@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "game": "pump_it_up",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pump_it_up_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "ed8bb69b689097e0656cb0df5965ea09154dbb70d19243a991869e57323371f8",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": null,
+ "prompt": "records/pump_it_up/title-ui.json",
+ "prompt_sha256": "ce55e112d4b3687d9c06cfb9c96c5ab82b30c9431c14067a12c7cf34bd9ce9bd",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pump-965969-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ed8bb69b689097e0656cb0df5965ea09154dbb70d19243a991869e57323371f8",
+  "passed": false,
+  "observations": [
+   "성인 여성 한 명, 보라색 포니테일·코랄색 눈, 두 손과 두 발이 보임.",
+   "두 팔·두 다리 정상 연결, 다섯 발판과 네온 기계, 읽히는 글자·상표·HUD 없음.",
+   "재킷이 어깨 아래로 내려가 양쪽 어깨 착용 지시와 다름."
+  ],
+  "cause": "깊은 네크라인과 어깨 위 재킷 유지 지시 중 후자를 따르지 않음."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

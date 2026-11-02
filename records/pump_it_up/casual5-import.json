@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "game": "pump_it_up",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pump_it_up_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "c7ab7337c0b159e470203f2ec602f50b019eaeb5671d59a18d3c1d894671bf78",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pump_it_up_title_glossy_kr_game_f.webp",
+ "prompt": "records/pump_it_up/casual5-ui.json",
+ "prompt_sha256": "ccac1c160063ffc74cef727f06db171180c5a1d374ed187d67f0b9ee5209513b",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pump-965969-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c7ab7337c0b159e470203f2ec602f50b019eaeb5671d59a18d3c1d894671bf78",
+  "passed": true,
+  "observations": [
+   "서커스 천막·부르키니·정면 전신, 엎드려 양손으로 턱 괴기와 두 발 들어올리기 반영.",
+   "두 팔·두 다리 연결 정상, 두 손은 각각 턱 양옆을 받치며 여분의 팔·손이 보이지 않음.",
+   "원본의 얼굴·보라색 포니테일 유지, 단일 주요 인물. 로고·글자·HUD 없음."
+  ],
+  "cause": ""
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

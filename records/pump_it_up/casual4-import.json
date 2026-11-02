@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "game": "pump_it_up",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pump_it_up_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "4e6339a26384b0882af774df05c96195508b01a321c8d52842a4363b62029e34",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pump_it_up_title_glossy_kr_game_f.webp",
+ "prompt": "records/pump_it_up/casual4-ui.json",
+ "prompt_sha256": "eb22458abe8e28d8793b07dde3fb363274f5b144205ccb4c23d34dd944d27b06",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pump-965969-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "4e6339a26384b0882af774df05c96195508b01a321c8d52842a4363b62029e34",
+  "passed": false,
+  "observations": [
+   "세계 안 여관, 벽 기대기·팔짱·선드레스와 가디건, 3/4 정면.",
+   "첫 그림 얼굴·머리·체형 유지. 두 팔은 자연스럽게 교차하고 한 손은 반대 팔 아래 가려짐.",
+   "읽히는 글자·로고·HUD 없음. 계획의 chest_up보다 넓어 허리까지 보임."
+  ],
+  "cause": "팔짱 동작과 의상을 보여주려 가까운 chest_up 프레이밍 대신 허리 위로 넓혀 그림."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

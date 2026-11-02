@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "game": "pump_it_up",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pump_it_up_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "3344feb2355c3c5dca1c3ee1c1b8c654c3028ef87759ec9f8bf22e0162d4e996",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pump_it_up_title_glossy_kr_game_f.webp",
+ "prompt": "records/pump_it_up/title_open-ui.json",
+ "prompt_sha256": "b448ad76e065b399933ab2b2219d3e0e45b088ed4141a18299ba0f941a3f3910",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pump-965969-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "3344feb2355c3c5dca1c3ee1c1b8c654c3028ef87759ec9f8bf22e0162d4e996",
+  "passed": true,
+  "observations": [
+   "타이틀의 얼굴·헤어·의상·손·발·카메라를 유지한 단일 장면.",
+   "발밑과 사방의 네온 빛·스파크로 개방 사건을 표현. 두 팔·두 다리와 양손 연결 정상.",
+   "분할·복제 인물·읽히는 글자·로고·HUD 없음."
+  ],
+  "cause": ""
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

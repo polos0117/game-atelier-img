@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "game": "pump_it_up",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pump_it_up_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "802bab37e7b5060e9dc4791e56d7b789e98c7bc5f0e906f8179767ff713f05d0",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pump_it_up_middle_glossy_kr_game_f.webp",
+ "prompt": "records/pump_it_up/middle_open-ui.json",
+ "prompt_sha256": "3c30634cdfd95a1cd02b92fa65b4c4caadd96744552e655bd793f8764331f037",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pump-965969-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "802bab37e7b5060e9dc4791e56d7b789e98c7bc5f0e906f8179767ff713f05d0",
+  "passed": true,
+  "observations": [
+   "중반 폼의 얼굴·땀받이·자세·봉을 잡는 손·구도를 유지.",
+   "위로 올라가는 화살표 소용돌이가 개방 사건으로 드러남.",
+   "두 팔·두 다리 연결, 원본처럼 화면 밖 손 일부 잘림. 단일 이미지이며 로고·글자·HUD 없음."
+  ],
+  "cause": ""
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}
