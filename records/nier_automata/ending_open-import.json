@@ -1,0 +1,47 @@
+{
+ "version": 1,
+ "game": "nier_automata",
+ "slot": "ending_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "nier_automata_ending_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "521392ed10bfe5045cc4fd0d72425d40ec0f6baa0b4d86728e326680c4db1067",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "nier_automata_ending_glossy_kr_game_f.webp",
+ "prompt": "records/nier_automata/ending_open-ui.json",
+ "prompt_sha256": "1de5761cf91fef7ea7f809686fea5522b6d33f2c22636f4b094544fd54e6088a",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-nier-c6f28f-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "521392ed10bfe5045cc4fd0d72425d40ec0f6baa0b4d86728e326680c4db1067",
+  "passed": true,
+  "observations": [
+   "1024×1536, 한 명과 한 장면. 엔딩 폼의 얼굴·의상·꽃을 쥔 손·자세·구도를 유지.",
+   "무너진 탑 주변으로 흰 꽃잎이 흩날림. 화면 분할 없음.",
+   "팔다리 수와 연결 유지. 읽히는 글자·로고·HUD·피 없음. 엔딩 폼에서 이어진 이마의 눈가리개도 그대로임."
+  ]
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

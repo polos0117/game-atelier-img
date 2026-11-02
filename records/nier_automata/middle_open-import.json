@@ -1,0 +1,47 @@
+{
+ "version": 1,
+ "game": "nier_automata",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "nier_automata_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "50e7ac3cbc69164ce51f41845329d906c5de91700fae50265e1b7c083217583c",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "nier_automata_middle_glossy_kr_game_f.webp",
+ "prompt": "records/nier_automata/middle_open-ui.json",
+ "prompt_sha256": "4266b877962bbe6e680d7d3965ec499724a207fcc52cfdf01a84492fbd81737e",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-nier-c6f28f-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "50e7ac3cbc69164ce51f41845329d906c5de91700fae50265e1b7c083217583c",
+  "passed": true,
+  "observations": [
+   "1024×1536, 여성 한 명. 중반 폼 얼굴·의상·도약 자세·프레이밍 유지.",
+   "뒤에서 거대한 무표정 기계 구조의 그림자와 쏟아지는 모래가 보임. 인물·몬스터 얼굴이나 분할 화면 없음.",
+   "팔 둘과 다리 둘이 연결되고 손 역할 유지. 로고·HUD·읽히는 글자·피 없음."
+  ]
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

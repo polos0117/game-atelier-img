@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "game": "nier_automata",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "nier_automata_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "2136642f928d3691e5fa8d53940a309b4f012168048382c4605ac4623de8f375",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "nier_automata_title_glossy_kr_game_f.webp",
+ "prompt": "records/nier_automata/casual4-ui.json",
+ "prompt_sha256": "9e29ed4e9735062d1758f240e50a509161c03ca674082f413477902f61004b32",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-nier-c6f28f-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2136642f928d3691e5fa8d53940a309b4f012168048382c4605ac4623de8f375",
+  "passed": true,
+  "observations": [
+   "1024×1536, 성인 여성 한 명. 정본 얼굴·은백색 단발·체형 유지.",
+   "밤 천문대에서 늑대 코스튬을 입고 난간 앞에 서서 오른손의 작은 흰 꽃을 바라봄. 왼손은 난간 위에 놓임.",
+   "옆모습의 허리 위 구도와 소품 시선 유지. 어깨에서 양손까지 팔 둘의 연결이 보이고 손가락도 자연스러움.",
+   "로고·HUD·읽히는 글자·추가 팔 없음."
+  ]
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

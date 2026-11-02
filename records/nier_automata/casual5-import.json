@@ -1,0 +1,62 @@
+{
+ "version": 1,
+ "game": "nier_automata",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "nier_automata_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "4748c91ae6e20a3c7c7d9bf27fcfe143f589a33f66c4a6fa1dedadaebf4bce49",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "nier_automata_title_glossy_kr_game_f.webp",
+ "prompt": "records/nier_automata/casual5-ui.json",
+ "prompt_sha256": "f51a94c3fa6a11a91c048b06ab7443ce9cef5ad6798c78c64561cf5d334086b1",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-nier-c6f28f-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "4748c91ae6e20a3c7c7d9bf27fcfe143f589a33f66c4a6fa1dedadaebf4bce49",
+  "passed": false,
+  "observations": [
+   "1024×1536, 성인 여성 한 명. 정본의 얼굴·은백색 단발·푸른 눈 유지.",
+   "미래풍 스파에서 스트랩리스 드레스와 흰 장갑을 착용하고 오른손을 볼에 댐. 오른팔과 손의 연결이 자연스러우며 왼팔은 프레임 밖임.",
+   "계획의 얼굴 클로즈업보다 가슴과 의상이 많이 들어온 가까운 초상 구도임.",
+   "로고·HUD·읽히는 글자·추가 손 없음."
+  ],
+  "cause": "의상과 장갑을 보여 주는 지시가 face_close 프레이밍보다 강하게 반영됨."
+ },
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "stage": "output",
+    "request_id": "bb449682-30d8-4f30-ac9c-14483eb871ac"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "generated"
+   }
+  ]
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

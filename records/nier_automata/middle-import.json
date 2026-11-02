@@ -1,0 +1,62 @@
+{
+ "version": 1,
+ "game": "nier_automata",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "nier_automata_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "8e329582fb7f2dbc475a5fa5fda33cd23e6c4f13e3e7a35ee1a324d5f9ddcabd",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "nier_automata_title_glossy_kr_game_f.webp",
+ "prompt": "records/nier_automata/middle-ui.json",
+ "prompt_sha256": "b072ddcb07c6992139bbe3abdaccfec5219ec7dff02dcc2b65675d67e4479f6e",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-nier-c6f28f-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "8e329582fb7f2dbc475a5fa5fda33cd23e6c4f13e3e7a35ee1a324d5f9ddcabd",
+  "passed": false,
+  "observations": [
+   "1024×1536, 성인 여성 한 명. 정본의 은백색 단발·푸른 눈·얼굴 유지.",
+   "노을진 모래 폐허에서 도약하는 전신. 두 팔과 두 다리가 몸에 이어지고 두 손이 보임.",
+   "검·보조 기계가 보이고 로고·HUD·읽히는 글자·피 묘사는 없음.",
+   "FORM의 묶어 걷어 올린 치맛자락 매듭이 분명하지 않음. 타이틀의 펼쳐진 치맛자락 형태가 강하게 유지됨."
+  ],
+  "cause": "첨부 정본 의상 형태의 영향이 중반 FORM의 치맛자락 묶음 지시보다 강함."
+ },
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "stage": "output",
+    "request_id": "7e5ac2e3-0cbd-44a9-8015-87e20eb156e1"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "generated"
+   }
+  ]
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "nier_automata",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "nier_automata_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "7b7c5bcbaa9780ae2ed490b90e3aee61903e31703970cc0df44aa98bfa137d3c",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "nier_automata_title_glossy_kr_game_f.webp",
+ "prompt": "records/nier_automata/ending-ui.json",
+ "prompt_sha256": "c8210344a433c238212bcbe75837baf4e00da1c22671e1b144fc703bd9574751",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-nier-c6f28f-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7b7c5bcbaa9780ae2ed490b90e3aee61903e31703970cc0df44aa98bfa137d3c",
+  "passed": false,
+  "observations": [
+   "1024×1536, 성인 여성 한 명. 정본 얼굴·단발·체형 유지. 두 손으로 흰 꽃을 감싸 쥔 자세.",
+   "두 팔과 두 다리 연결이 보이며, 손은 꽃 앞에 모여 있고 추가 팔다리 없음.",
+   "검은 드레스와 흰 망토, 높은 탑과 흐린 하늘. 로고·HUD·글자·피 없음.",
+   "손목에 감도록 지정한 눈가리개가 이마에 남음."
+  ],
+  "cause": "정본 인물 유지 지시가 엔딩 FORM의 눈가리개 위치 변경보다 강하게 반영됨."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

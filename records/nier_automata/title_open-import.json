@@ -1,0 +1,47 @@
+{
+ "version": 1,
+ "game": "nier_automata",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "nier_automata_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "eddf949d2d0dabdb91a3adb3d70347f813691c3912075bcad93b26227da8e66a",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "nier_automata_title_glossy_kr_game_f.webp",
+ "prompt": "records/nier_automata/title_open-ui.json",
+ "prompt_sha256": "884faf5484e2b73f89c054318ffb770123b6c5a70388c23b6acb85852dac2d85",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-nier-c6f28f-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "eddf949d2d0dabdb91a3adb3d70347f813691c3912075bcad93b26227da8e66a",
+  "passed": true,
+  "observations": [
+   "1024×1536, 한 장면과 여성 한 명. 닫힌 타이틀의 얼굴·의상·구도·자세 유지.",
+   "폐허 빌딩 사이로 잎과 작은 잔해가 흩날림. 두 장 나란히 분할 없음.",
+   "두 팔·다리 연결이 닫힌 그림과 같고 두 손의 역할 유지. 로고·HUD·읽히는 글자·피 없음."
+  ]
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

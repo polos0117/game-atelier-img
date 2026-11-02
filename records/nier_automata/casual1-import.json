@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "nier_automata",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "nier_automata_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "c537d62a614af48fd4ee39f86dce041f0f96ab5d58e065b3f9d522b1b6fd7478",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "nier_automata_title_glossy_kr_game_f.webp",
+ "prompt": "records/nier_automata/casual1-ui.json",
+ "prompt_sha256": "6b77966b3de9c8006b753fd2ed0aea94a20e466551ff24e41d46a94634502f53",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-nier-c6f28f-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c537d62a614af48fd4ee39f86dce041f0f96ab5d58e065b3f9d522b1b6fd7478",
+  "passed": false,
+  "observations": [
+   "1024×1536, 성인 여성 한 명. 정본의 얼굴·은백색 단발·체형 유지.",
+   "폐허 세계의 테라스에서 줄무늬 페슈테말을 두르고 옆으로 누움. 오른팔은 머리 뒤로 이어지고 왼팔은 몸 옆으로 이어짐. 두 다리도 자연스럽게 이어짐.",
+   "계획의 왼손 바닥 짚기 대신 왼손을 허벅지 위에 놓음. 발끝 일부가 오른쪽 경계에 닿아 전신 여백이 부족함.",
+   "로고·HUD·읽히는 글자·추가 팔다리 없음."
+  ],
+  "cause": "누워 머리를 받친 동작과 전신 프레이밍이 reference의 인물 확대 성향에 눌리고, 왼손 지지가 허벅지 휴식 자세로 바뀜."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

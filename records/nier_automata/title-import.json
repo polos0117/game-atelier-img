@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "game": "nier_automata",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "nier_automata_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "208bdb20dde48d13c96f25519e364cc85ed46239b94154454ce4ca53e2414321",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": null,
+ "prompt": "records/nier_automata/title-ui.json",
+ "prompt_sha256": "d287913cda213260f4892bbdc6af1049dd41d6510ceb38699c6dc1c613f9e7c0",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-nier-c6f28f-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "208bdb20dde48d13c96f25519e364cc85ed46239b94154454ce4ca53e2414321",
+  "passed": true,
+  "observations": [
+   "1024×1536 세로, 성인 여성 한 명. 은백색 단발과 푸른 눈, 이마의 눈가리개, 검은 전투 드레스.",
+   "두 팔과 두 다리의 연결이 보인다. 오른손은 등 뒤 검 자루를 잡고 왼손은 옆으로 내린다.",
+   "폐허 도시, 흰 꽃, 보조 기계와 회전목마가 보인다. 로고·HUD·읽히는 글자·피 묘사 없음.",
+   "검 자루 상단이 이미지 상단 경계에 닿음. 머리와 발은 화면 안에 있음."
+  ]
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}

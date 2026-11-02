@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "nier_automata",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "nier_automata_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "673164bd14896311da472b3b8aad717d9fdb350e1d65dd591a100e3605b41c9d",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "nier_automata_title_glossy_kr_game_f.webp",
+ "prompt": "records/nier_automata/casual2-ui.json",
+ "prompt_sha256": "ad7a7b8eea5754c6cb4744d712ca3d2b3d05e29cf67306fb15b41f1dba4a1e55",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-nier-c6f28f-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "673164bd14896311da472b3b8aad717d9fdb350e1d65dd591a100e3605b41c9d",
+  "passed": false,
+  "observations": [
+   "1024×1536, 성인 여성 한 명. 정본의 얼굴·단발·체형 유지.",
+   "현대 화실에서 2B풍 크롭 투피스 코스튬과 부츠를 착용. 오른손으로 책을 안고 왼손을 무릎에 놓고 화면 왼쪽을 봄.",
+   "두 팔과 두 다리 연결이 보이며 손가락도 자연스러움. 글자·로고·HUD 없음.",
+   "계획의 먼 환경 컷보다 인물이 크게 나옴. 낮은 벤치 대신 높은 등받이 의자에 앉음."
+  ],
+  "cause": "environmental 프레이밍보다 정본의 인물 중심 크기와 앉은 의자 형태가 강하게 반영됨."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}
