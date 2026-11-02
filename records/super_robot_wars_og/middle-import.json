@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "super_robot_wars_og",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_robot_wars_og_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "c446c5347c96744d7b088d2ed53e92de017f343170b72faedb768beb7c2f7aeb",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "super_robot_wars_og_title_glossy_kr_game_f.webp",
+ "prompt": "records/super_robot_wars_og/middle-ui.json",
+ "prompt_sha256": "d905214e4ac0c27530aa46d229cbb0b99c44a993ada3bfd7bf2e149e57b9c6a4",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-srw-og-29d3c6a267dd",
+ "qa": {
+  "reviewer": "game-srw-og-29d3c6a267dd",
+  "image_sha256": "c446c5347c96744d7b088d2ed53e92de017f343170b72faedb768beb7c2f7aeb",
+  "passed": false,
+  "observations": [
+   "1024×1536 전신, 정본의 초록 머리·금빛 눈·얼굴과 체형을 유지한다.",
+   "오른팔을 앞으로 뻗은 다섯 손가락이 보이고 왼팔은 몸 옆으로 내려온다. 양발과 두 다리가 자연스럽게 연결된다.",
+   "초록 문양 망토·손목 장치·푸른 격자 하늘 전장. 읽히는 글자·로고·HUD·원작 얼굴은 보이지 않는다.",
+   "닫힘 단계인데 녹색 바람 궤적이 두드러져 개방의 바람 연출과 일부 겹친다. 규칙에 따라 재생성하지 않고 기록한다."
+  ],
+  "cause": "SETTING의 바람을 가르는 하늘·초록 망토와 HOLD BACK의 초록 바람 칼날 사건이 가까운 시각 모티프로 해석되었다."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

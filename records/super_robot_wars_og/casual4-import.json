@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "super_robot_wars_og",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_robot_wars_og_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "857d2b3b446fa3b64ee9e13bad590896f7d68617aa9117a3e6bbc0b5e56cf113",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "super_robot_wars_og_title_glossy_kr_game_f.webp",
+ "prompt": "records/super_robot_wars_og/casual4-ui.json",
+ "prompt_sha256": "2e7cb964819c81d9c408c2f8b2fb976fc51ce4171e0b6a7f20d318bd472c381e",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-srw-og-29d3c6a267dd",
+ "qa": {
+  "reviewer": "game-srw-og-29d3c6a267dd",
+  "image_sha256": "857d2b3b446fa3b64ee9e13bad590896f7d68617aa9117a3e6bbc0b5e56cf113",
+  "passed": true,
+  "observations": [
+   "1024×1536 전신, 머리·양손·두 발이 프레임 안에 있다. 정본 얼굴과 초록 머리·금빛 눈이 유지된다.",
+   "물감 묻은 큰 셔츠와 반바지를 입고 의자에 옆으로 앉아 양손으로 기체 개조 도면 두루마리를 잡는다. 손목·팔·어깨 연결과 다리 두 개가 자연스럽다.",
+   "시선은 도면을 향하고 무릎이 모여 있다. 여관의 따뜻한 조명과 창밖 격납고 경고등·기체 그림자가 게임 세계를 나타낸다.",
+   "설계도는 도형과 기술 선으로 표현되며 읽히는 글자·숫자·로고·HUD·식별 가능한 원작 로봇 외형은 보이지 않는다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

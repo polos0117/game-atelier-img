@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "super_robot_wars_og",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_robot_wars_og_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "aa4b68a3937ba653970c68554991609f73431b779400b587912ae3dad628693c",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "super_robot_wars_og_title_glossy_kr_game_f.webp",
+ "prompt": "records/super_robot_wars_og/casual3-ui.json",
+ "prompt_sha256": "185cab6f9817c549116fae7ecd41ad0db382449dcc2511229de56d5e97ef0b62",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-srw-og-29d3c6a267dd",
+ "qa": {
+  "reviewer": "game-srw-og-29d3c6a267dd",
+  "image_sha256": "aa4b68a3937ba653970c68554991609f73431b779400b587912ae3dad628693c",
+  "passed": false,
+  "observations": [
+   "1024×1536 허리 위 장면, 정본의 초록 머리·금빛 눈·얼굴을 유지한다. 요트 좌석과 수건이 보이는 갑판 풀에서 살와르 카미즈를 입고 있다.",
+   "오른손이 귀 옆 머리를 넘기며 왼손이 수면에 놓여 있다. 각 손이 알맞은 팔과 어깨로 연결되며 추가 팔은 보이지 않는다.",
+   "표정은 찡그린 눈썹과 굳은 입술로 계획과 맞는다. 읽히는 글자·로고·HUD·원작 얼굴은 보이지 않는다.",
+   "선택된 알아볼 거리인 커다란 칼자루가 장면에서 식별되지 않는다. 수위는 계획의 가슴 깊이보다 허리에 가까워 보인다."
+  ],
+  "cause": "두 손의 머리·수면 동작과 가까운 CROP가 먼저 반영되어 별도 배치되지 않은 SIGNATURE 소품이 빠졌다. 허리 위 구도와 가슴 깊이 수위 지시도 경쟁했다."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

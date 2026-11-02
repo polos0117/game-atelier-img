@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "super_robot_wars_og",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_robot_wars_og_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "1c247296dc4c690521fa9c474a60066461d7c5c49e64dd689f965a914c0b4732",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "super_robot_wars_og_title_glossy_kr_game_f.webp",
+ "prompt": "records/super_robot_wars_og/casual1-ui.json",
+ "prompt_sha256": "6c0dacc3c2c783f9b076e150b31421416cf23430a857be73ce16f913e207458e",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-srw-og-29d3c6a267dd",
+ "qa": {
+  "reviewer": "game-srw-og-29d3c6a267dd",
+  "image_sha256": "1c247296dc4c690521fa9c474a60066461d7c5c49e64dd689f965a914c0b4732",
+  "passed": false,
+  "observations": [
+   "1024×1536. 정본의 초록 머리·금빛 눈·얼굴을 유지하며 찜질방 바닥에 앉은 원숄더 수영복 장면이다.",
+   "오른팔꿈치가 세운 무릎에 놓이고 오른손이 턱을 받친다. 왼손은 바닥을 짚으며 양팔과 두 다리의 연결에 추가 팔다리는 보이지 않는다.",
+   "푸른 전술 격자 지도는 옆의 소품으로만 사용했고, 배경 사람들은 작고 흐리다. 읽히는 글자·로고·HUD는 보이지 않는다.",
+   "계획의 머리부터 무릎 위까지인 3/4 컷보다 하체가 넓게 보여 종아리와 발 일부가 프레임 경계에 걸린다."
+  ],
+  "cause": "CROP의 무릎 위 경계와 POSTURE·LEGS의 바닥에 앉아 무릎 세우기 설명이 경쟁하면서 더 넓은 하체 구도로 생성되었다."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

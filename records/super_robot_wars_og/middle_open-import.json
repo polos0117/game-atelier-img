@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "super_robot_wars_og",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_robot_wars_og_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "161b0d0674ea3ad462df783ef2abfb0bf622134c6d4005351a17608322a5bd2a",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "super_robot_wars_og_middle_glossy_kr_game_f.webp",
+ "prompt": "records/super_robot_wars_og/middle_open-ui.json",
+ "prompt_sha256": "6b89cd4992a576d4cdd68e680c5b6bd5420b768d654c23cca33aff991c81abb9",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-srw-og-29d3c6a267dd",
+ "qa": {
+  "reviewer": "game-srw-og-29d3c6a267dd",
+  "image_sha256": "161b0d0674ea3ad462df783ef2abfb0bf622134c6d4005351a17608322a5bd2a",
+  "passed": true,
+  "observations": [
+   "1024×1536 단일 개방 장면. 닫힘 중반 폼의 얼굴·머리·의상·자세·카메라·두 손 배치를 유지한다.",
+   "뻗은 오른손의 다섯 손가락과 내려온 왼팔, 양다리·부츠가 자연스럽게 연결되며 추가 팔다리는 보이지 않는다.",
+   "초록 바람 칼날이 하늘을 휘감는 환경으로 변화했다. 읽히는 글자·로고·HUD·원작 인물 얼굴과 로봇 외형은 보이지 않는다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

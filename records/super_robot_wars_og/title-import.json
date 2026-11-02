@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "super_robot_wars_og",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_robot_wars_og_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "8cbc069df8567e19144b8afd8ce5affc725a39bb8de4352774275f100dc131aa",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": null,
+ "prompt": "records/super_robot_wars_og/title-ui.json",
+ "prompt_sha256": "825c820c04bccb710aeb3c72673146f7ef8ad6321b9480db8a7bb8430a985019",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-srw-og-29d3c6a267dd",
+ "qa": {
+  "reviewer": "game-srw-og-29d3c6a267dd",
+  "image_sha256": "8cbc069df8567e19144b8afd8ce5affc725a39bb8de4352774275f100dc131aa",
+  "passed": true,
+  "observations": [
+   "1024×1536 세로 전신, 머리와 양발이 프레임 안에 있고 주인공 한 명이다.",
+   "초록 옆가르마 머리와 금빛 눈, 흰색·파란 파일럿 슈트. 오른손은 난간, 왼팔은 헬멧을 받친다. 팔 두 개와 다리 두 개의 연결이 자연스럽다.",
+   "붉은 경고등과 어두운 기체 실루엣의 격납고. 읽히는 글자·숫자·로고·HUD·원작 인물 얼굴은 보이지 않는다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

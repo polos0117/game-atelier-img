@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "super_robot_wars_og",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_robot_wars_og_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "442592d975af9c902e75b12ffb52e6ecfd0d8b92b13cc3f72d6f76799ebc90f3",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "super_robot_wars_og_title_glossy_kr_game_f.webp",
+ "prompt": "records/super_robot_wars_og/title_open-ui.json",
+ "prompt_sha256": "343a45875528a65270f2071e025651172cf2ae21405cc5e2acebc0451b34d453",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-srw-og-29d3c6a267dd",
+ "qa": {
+  "reviewer": "game-srw-og-29d3c6a267dd",
+  "image_sha256": "442592d975af9c902e75b12ffb52e6ecfd0d8b92b13cc3f72d6f76799ebc90f3",
+  "passed": true,
+  "observations": [
+   "1024×1536 단일 개방 장면, 분할·인물 복제가 없고 타이틀의 얼굴·의상·자세·카메라와 인물 크기를 유지한다.",
+   "난간의 오른손과 헬멧을 받치는 왼팔, 양다리와 발의 연결이 유지된다.",
+   "격납고 문이 열려 출격 신호와 햇빛이 쏟아지는 환경으로 바뀐다. 읽히는 글자·로고·HUD·원작 로봇 외형은 보이지 않는다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

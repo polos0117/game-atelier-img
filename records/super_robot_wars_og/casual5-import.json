@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "super_robot_wars_og",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_robot_wars_og_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "c340718106369de529388a589c28a656fb1ed24a5f2a8693e7c9be5cb9ce8a52",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "super_robot_wars_og_title_glossy_kr_game_f.webp",
+ "prompt": "records/super_robot_wars_og/casual5-ui.json",
+ "prompt_sha256": "4eaedf234d4533d42a78c551d649828708ad0aef3b135fdfeffd9ec063a9ba19",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-srw-og-29d3c6a267dd",
+ "qa": {
+  "reviewer": "game-srw-og-29d3c6a267dd",
+  "image_sha256": "c340718106369de529388a589c28a656fb1ed24a5f2a8693e7c9be5cb9ce8a52",
+  "passed": false,
+  "observations": [
+   "1024×1536 가슴 위 컷. 정본의 초록 머리·금빛 눈·얼굴을 유지하며 검은 벨벳과 레이스 고스 차림으로 해변의 얕은 바닷물에 있다.",
+   "몸은 카메라를 향하고 두 손은 물속·프레임 밖으로 보이지 않는다. 양어깨와 상완이 자연스럽게 이어지며 추가 손이나 팔은 보이지 않는다.",
+   "흐릿한 해변 배경, 반쯤 열린 입술과 처진 눈꺼풀. 읽히는 글자·숫자·로고·HUD·원작 얼굴은 없다.",
+   "선택된 게임 알아볼 거리 소품은 장면에서 식별되지 않는다."
+  ],
+  "cause": "가슴 위 수영 구도와 양손 프레임 밖 지시가 우선되어 별도 자리가 없는 SIGNATURE 소품이 빠진 것으로 보인다."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

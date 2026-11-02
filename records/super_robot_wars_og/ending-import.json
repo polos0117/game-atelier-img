@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "super_robot_wars_og",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_robot_wars_og_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "4cca6cf218b4aef54d4bd91ca07d2c09aabc559cef79f6c6aca602b70ebac0ee",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "super_robot_wars_og_title_glossy_kr_game_f.webp",
+ "prompt": "records/super_robot_wars_og/ending-ui.json",
+ "prompt_sha256": "340e8124af07d2d9754ae6e3c8cf9c0344e2b815c9c5b39b63da478ea70a0498",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-srw-og-29d3c6a267dd",
+ "qa": {
+  "reviewer": "game-srw-og-29d3c6a267dd",
+  "image_sha256": "4cca6cf218b4aef54d4bd91ca07d2c09aabc559cef79f6c6aca602b70ebac0ee",
+  "passed": true,
+  "observations": [
+   "1024×1536, 주인공 한 명의 전신과 두 발이 프레임 안에 있다. 정본의 얼굴·초록 머리·금빛 눈을 유지한다.",
+   "머리 위 칼자루를 잡은 오른손·왼손이 각각 손목과 팔뚝을 통해 양어깨로 이어지며 추가 팔은 보이지 않는다.",
+   "붉은색·금빛 장갑과 날개형 추진기, 우주 요새 파편 배경. 원작 기체의 또렷한 얼굴·읽히는 글자·로고·HUD는 보이지 않는다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

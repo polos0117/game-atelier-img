@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "super_robot_wars_og",
+ "slot": "ending_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_robot_wars_og_ending_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "f9866604b21636d1b48aca7192603dc773a69583a0eb440b56d44ae3211cd465",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "super_robot_wars_og_ending_glossy_kr_game_f.webp",
+ "prompt": "records/super_robot_wars_og/ending_open-ui.json",
+ "prompt_sha256": "8425018309b28c8fa1ca6a492d619ab6967780208709f3661e99c1908acadf1e",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-srw-og-29d3c6a267dd",
+ "qa": {
+  "reviewer": "game-srw-og-29d3c6a267dd",
+  "image_sha256": "f9866604b21636d1b48aca7192603dc773a69583a0eb440b56d44ae3211cd465",
+  "passed": true,
+  "observations": [
+   "1024×1536 단일 개방 장면. 엔딩 폼의 얼굴·머리·의상·양손 칼자루 자세·전신 구도를 유지한다.",
+   "오른손과 왼손이 각각 팔과 어깨로 연결되고 두 다리·두 발이 프레임 안에 있다. 분할이나 인물 복제가 없다.",
+   "우주 결전장에 거대한 청백색 칼날 빛과 어두운 거대 기체 그림자가 더해졌다. 읽히는 글자·로고·HUD·식별 가능한 원작 로봇 외형은 보이지 않는다."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

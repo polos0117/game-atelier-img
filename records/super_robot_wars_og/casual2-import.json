@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "super_robot_wars_og",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "super_robot_wars_og_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "10d9980b0825eb393612bf3d4bfaf55467d321d91b5ca83706f26ed0b51120a7",
+  "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+ },
+ "reference": "super_robot_wars_og_title_glossy_kr_game_f.webp",
+ "prompt": "records/super_robot_wars_og/casual2-ui.json",
+ "prompt_sha256": "df21b4ba8aa2dcdae71693bf7f99cacd980c5232d37067e38ed050f50ef593a4",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-srw-og-29d3c6a267dd",
+ "qa": {
+  "reviewer": "game-srw-og-29d3c6a267dd",
+  "image_sha256": "10d9980b0825eb393612bf3d4bfaf55467d321d91b5ca83706f26ed0b51120a7",
+  "passed": false,
+  "observations": [
+   "1024×1536, 초록 머리·금빛 눈·정본 얼굴을 유지한 성인 여성의 코스튬 장면. 백색 장갑·에메랄드 날개 조각·금 장식이 입는 의상으로 표현되었다.",
+   "한 손이 볼에 닿으며 추가 팔이나 복제 손은 보이지 않는다. 로봇 몸이나 얼굴로 바뀌지 않았고 읽히는 글자·로고·HUD는 없다.",
+   "계획의 얼굴 클로즈업보다 넓어 가슴과 상체가 많이 보인다. 볼에 닿은 손은 화면 오른쪽 어깨로 이어져 계획의 오른손 대신 왼손으로 보인다."
+  ],
+  "cause": "CROP의 얼굴 클로즈업과 WARDROBE의 코스튬을 알아볼 수 있게 보이라는 요구가 경쟁했다. RIGHT HAND 지시보다 정본의 좌우 방향과 볼 포즈 대칭이 우선된 것으로 보인다."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}
