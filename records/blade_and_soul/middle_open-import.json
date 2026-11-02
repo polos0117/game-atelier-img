@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "blade_and_soul",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "blade_and_soul_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "a7782d8f6f2889664739df3419504c8d90e0c670d6ef8f77e70cb87406e8e6ca",
+  "note": "Original PNG is not committed; SHA-256 retained."
+ },
+ "reference": "blade_and_soul_middle_glossy_kr_game_f.webp",
+ "prompt": "records/blade_and_soul/middle_open-ui.json",
+ "prompt_sha256": "b1b0474d8b60c9051adc1d1cd7468ae53e1f62097219b1d25a8d786b58d59926",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-blade-soul-190770-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "a7782d8f6f2889664739df3419504c8d90e0c670d6ef8f77e70cb87406e8e6ca",
+  "passed": true,
+  "observations": [
+   "Verified actual source dimensions: 1024 x 1536. No readable logo, HUD, brand or source-character face observed.",
+   "The middle reference pose, sword grip and clothing remain consistent; blue sword energy, split bamboo and leaves surround her.",
+   "No split panel or additional body. The reference sword continues out of the left edge."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31: publish after AI review; user reviews the resulting images. Daily limit exception explicitly authorized in this conversation."
+}

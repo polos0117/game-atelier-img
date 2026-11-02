@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "blade_and_soul",
+ "slot": "ending_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "blade_and_soul_ending_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "100e4338d02f322bcd47600a7d1a19b3acdd6469bc697db216209a4343d5d876",
+  "note": "Original PNG is not committed; SHA-256 retained."
+ },
+ "reference": "blade_and_soul_ending_glossy_kr_game_f.webp",
+ "prompt": "records/blade_and_soul/ending_open-ui.json",
+ "prompt_sha256": "2cfe908a79b172c97b202088ece563d51411d55e5c6c0e68c16c2228d6da1ab1",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-blade-soul-190770-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "100e4338d02f322bcd47600a7d1a19b3acdd6469bc697db216209a4343d5d876",
+  "passed": false,
+  "observations": [
+   "Verified actual source dimensions: 1024 x 1536. No readable logo, HUD, brand or source-character face observed.",
+   "Same airborne pose, scale and clothing as ending; dense lanterns rise across the night sky, with no split panel.",
+   "Two arms and two legs remain connected. The exposed-shoulder deviation is inherited from the ending reference."
+  ],
+  "cause": "The reference image influenced framing, ornament and palette choices despite SCENE / CROP / WARDROBE; specific deviations are recorded in observations."
+ },
+ "acceptance": "user_approval_2026-10-31: publish after AI review; user reviews the resulting images. Daily limit exception explicitly authorized in this conversation."
+}

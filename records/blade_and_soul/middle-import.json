@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "blade_and_soul",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "blade_and_soul_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "073e745d80bb8f9d763031d8e15bbf75dbaaea30fa7e0efc90c5997d57d13eba",
+  "note": "Original PNG is not committed; SHA-256 retained."
+ },
+ "reference": "blade_and_soul_title_glossy_kr_game_f.webp",
+ "prompt": "records/blade_and_soul/middle-ui.json",
+ "prompt_sha256": "7a349f5c4ef9db988419e37618f83f6be5cc2bf6330b610173ff7a556cd3e6be",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-blade-soul-190770-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "073e745d80bb8f9d763031d8e15bbf75dbaaea30fa7e0efc90c5997d57d13eba",
+  "passed": false,
+  "observations": [
+   "Verified actual source dimensions: 1024 x 1536. No readable logo, HUD, brand or source-character face observed.",
+   "Same woman in black martial clothing, right hand gripping a sword and left arm extended; two arms and two legs are connected.",
+   "Sword exits the left image edge; a small blue energy arc is already present in the closed form, contrary to HOLD BACK. The pose reads as a sword strike rather than drawing from behind the back."
+  ],
+  "cause": "The reference image influenced framing, ornament and palette choices despite SCENE / CROP / WARDROBE; specific deviations are recorded in observations."
+ },
+ "acceptance": "user_approval_2026-10-31: publish after AI review; user reviews the resulting images. Daily limit exception explicitly authorized in this conversation."
+}

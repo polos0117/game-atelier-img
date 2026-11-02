@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "blade_and_soul",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "blade_and_soul_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "5797c73cbf145a09d0dd27f6c1437de065857d9622be74d3e212169222f04659",
+  "note": "Original PNG is not committed; SHA-256 retained."
+ },
+ "reference": "blade_and_soul_title_glossy_kr_game_f.webp",
+ "prompt": "records/blade_and_soul/casual3-ui.json",
+ "prompt_sha256": "ae4559e07f6f0b389d2010ad05b029704a5d82d2aa16767c7645dfdca499e78d",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-blade-soul-190770-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5797c73cbf145a09d0dd27f6c1437de065857d9622be74d3e212169222f04659",
+  "passed": false,
+  "observations": [
+   "Verified actual source dimensions: 1024 x 1536. No readable logo, HUD, brand or source-character face observed.",
+   "Ski jacket and pants in a lantern-lit inn; right hand places a cup on the table, left hand rests on her knee, legs crossed. Identity retained.",
+   "Requested strict side view becomes a three-quarter side view. The reference hair ornaments and red/gold trim remain in the modern clothing."
+  ],
+  "cause": "The reference image influenced framing, ornament and palette choices despite SCENE / CROP / WARDROBE; specific deviations are recorded in observations."
+ },
+ "acceptance": "user_approval_2026-10-31: publish after AI review; user reviews the resulting images. Daily limit exception explicitly authorized in this conversation."
+}

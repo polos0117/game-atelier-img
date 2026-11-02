@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "blade_and_soul",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "blade_and_soul_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "e64cdd3923af468233c7057bec277579c6a917424a86279c117dfcb751f3f003",
+  "note": "Original PNG is not committed; SHA-256 retained."
+ },
+ "reference": "blade_and_soul_title_glossy_kr_game_f.webp",
+ "prompt": "records/blade_and_soul/casual4-ui.json",
+ "prompt_sha256": "df554d8db4ab4b5f8ce35ec61b908091ad01803dababf148f9e8790ea3eb5336",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-blade-soul-190770-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "e64cdd3923af468233c7057bec277579c6a917424a86279c117dfcb751f3f003",
+  "passed": false,
+  "observations": [
+   "Verified actual source dimensions: 1024 x 1536. No readable logo, HUD, brand or source-character face observed.",
+   "Y2K butterfly top and low-rise denim in a dressing room, with full body and both hands visible; no apparent extra limbs.",
+   "She crosses her legs at the knees, not only at the ankles as planned. Hair ornaments remain from the reference."
+  ],
+  "cause": "The reference image influenced framing, ornament and palette choices despite SCENE / CROP / WARDROBE; specific deviations are recorded in observations."
+ },
+ "acceptance": "user_approval_2026-10-31: publish after AI review; user reviews the resulting images. Daily limit exception explicitly authorized in this conversation."
+}

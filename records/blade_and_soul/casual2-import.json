@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "blade_and_soul",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "blade_and_soul_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "c6b94c17a2b98b9744b34287b64f4f53387f92b653ffbf7560a16da4aafb8827",
+  "note": "Original PNG is not committed; SHA-256 retained."
+ },
+ "reference": "blade_and_soul_title_glossy_kr_game_f.webp",
+ "prompt": "records/blade_and_soul/casual2-ui.json",
+ "prompt_sha256": "aba4bd0ea97b92818cc8486d791ff53d3ba40543ab5973b19778e6653417cc05",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-blade-soul-190770-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c6b94c17a2b98b9744b34287b64f4f53387f92b653ffbf7560a16da4aafb8827",
+  "passed": false,
+  "observations": [
+   "Verified actual source dimensions: 1024 x 1536. No readable logo, HUD, brand or source-character face observed.",
+   "Hongmoon-inspired white/crimson crop costume, a lantern in her right hand, left hand lowered, walking up castle stairs. Two arms, hands and legs are connected.",
+   "Body is seen from behind but the head turns toward the side instead of following the body. Figure fills most of the image rather than the requested environmental framing."
+  ],
+  "cause": "The reference image influenced framing, ornament and palette choices despite SCENE / CROP / WARDROBE; specific deviations are recorded in observations."
+ },
+ "acceptance": "user_approval_2026-10-31: publish after AI review; user reviews the resulting images. Daily limit exception explicitly authorized in this conversation."
+}

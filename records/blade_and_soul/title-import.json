@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "blade_and_soul",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "blade_and_soul_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "7fc73d8ba3b895144c3dac0a45ed33d491726307cc08b4601b8c4b94163e3d05",
+  "note": "Original PNG is not committed; SHA-256 retained."
+ },
+ "reference": null,
+ "prompt": "records/blade_and_soul/title-ui.json",
+ "prompt_sha256": "c32b07bec7ce986673b229c7c05a2e429d55a68109adad144f84e841e6b37c80",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-blade-soul-190770-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "7fc73d8ba3b895144c3dac0a45ed33d491726307cc08b4601b8c4b94163e3d05",
+  "passed": true,
+  "observations": [
+   "Verified actual source dimensions: 1024 x 1536. No readable logo, HUD, brand or source-character face observed.",
+   "A single adult woman in a white/crimson martial robe before a red mountain gate; both open palms have five fingers and connect to their respective arms.",
+   "Full body, both feet and head visible. Purple hair and crimson eyes establish the identity. No readable text, logo, HUD or second character."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31: publish after AI review; user reviews the resulting images. Daily limit exception explicitly authorized in this conversation."
+}

@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "blade_and_soul",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "blade_and_soul_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "0ae65266addf0d3440afc22349c313e4570fd3e6ca9d8c76587c98ea1da4582d",
+  "note": "Original PNG is not committed; SHA-256 retained."
+ },
+ "reference": "blade_and_soul_title_glossy_kr_game_f.webp",
+ "prompt": "records/blade_and_soul/title_open-ui.json",
+ "prompt_sha256": "cacf0afd8aee9eaf3db0c457e0c58c0e68fd3887bf76cbfbe86c6b7357a415cd",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-blade-soul-190770-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "0ae65266addf0d3440afc22349c313e4570fd3e6ca9d8c76587c98ea1da4582d",
+  "passed": true,
+  "observations": [
+   "Verified actual source dimensions: 1024 x 1536. No readable logo, HUD, brand or source-character face observed.",
+   "The title reference pose, scale, facial identity and costume are retained in a single image; buildings burn and embers fill the mountain courtyard.",
+   "Two raised hands, two arms and two legs remain connected; no split panel or added character."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31: publish after AI review; user reviews the resulting images. Daily limit exception explicitly authorized in this conversation."
+}
