@@ -4,7 +4,7 @@
   {
    "key": "nox",
    "execution": "game-nox-4225c5e4c897",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T14:44:37.696Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -21,7 +21,9 @@
     "nox_glossy_kr_game_f_casual4.webp",
     "nox_glossy_kr_game_f_casual5.webp"
    ],
-   "authorization": "User explicitly lifted the daily limit for this Nox task: 응 해제해. General daily limit and other tasks are unchanged."
+   "authorization": "User explicitly lifted the daily limit for this Nox task: 응 해제해. General daily limit and other tasks are unchanged.",
+   "done_at": "2026-11-02T15:06:20.648Z",
+   "done_by": "game-nox-4225c5e4c897"
   }
  ]
 }
