@@ -1,0 +1,27 @@
+{
+ "key": "blade_and_soul",
+ "runs": [
+  {
+   "key": "blade_and_soul",
+   "execution": "game-blade-soul-190770-20261102",
+   "status": "working",
+   "claimed_at": "2026-11-02T14:14:48.029002Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "blade_and_soul_title_glossy_kr_game_f.webp",
+    "blade_and_soul_title_open_glossy_kr_game_f.webp",
+    "blade_and_soul_middle_glossy_kr_game_f.webp",
+    "blade_and_soul_middle_open_glossy_kr_game_f.webp",
+    "blade_and_soul_ending_glossy_kr_game_f.webp",
+    "blade_and_soul_ending_open_glossy_kr_game_f.webp",
+    "blade_and_soul_glossy_kr_game_f_casual1.webp",
+    "blade_and_soul_glossy_kr_game_f_casual2.webp",
+    "blade_and_soul_glossy_kr_game_f_casual3.webp",
+    "blade_and_soul_glossy_kr_game_f_casual4.webp",
+    "blade_and_soul_glossy_kr_game_f_casual5.webp"
+   ],
+   "authorization": "User explicitly lifted the daily limit for this Blade & Soul task: 제한 해제할게. 다시 작업해줘. Other tasks and general daily limit are unchanged."
+  }
+ ]
+}
