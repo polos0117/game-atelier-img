@@ -4,7 +4,7 @@
   {
    "key": "castlevania_sotn",
    "execution": "game-castlevania-238a8c-20261102",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T10:35:19.247Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -20,7 +20,9 @@
     "castlevania_sotn_glossy_kr_game_f_casual3.webp",
     "castlevania_sotn_glossy_kr_game_f_casual4.webp",
     "castlevania_sotn_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T10:53:39.389081Z",
+   "done_by": "game-castlevania-238a8c-20261102"
   }
  ]
 }
