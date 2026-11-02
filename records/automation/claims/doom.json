@@ -4,7 +4,7 @@
   {
    "key": "doom",
    "execution": "game-doom-f6266992-20261102",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T09:09:06.984Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -20,7 +20,9 @@
     "doom_glossy_kr_game_f_casual3.webp",
     "doom_glossy_kr_game_f_casual4.webp",
     "doom_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T09:30:54.703Z",
+   "done_by": "game-doom-f6266992-20261102"
   }
  ]
 }
