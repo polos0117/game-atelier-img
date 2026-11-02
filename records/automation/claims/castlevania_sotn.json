@@ -1,0 +1,26 @@
+{
+ "key": "castlevania_sotn",
+ "runs": [
+  {
+   "key": "castlevania_sotn",
+   "execution": "game-castlevania-238a8c-20261102",
+   "status": "working",
+   "claimed_at": "2026-11-02T10:35:19.247Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "castlevania_sotn_title_glossy_kr_game_f.webp",
+    "castlevania_sotn_title_open_glossy_kr_game_f.webp",
+    "castlevania_sotn_middle_glossy_kr_game_f.webp",
+    "castlevania_sotn_middle_open_glossy_kr_game_f.webp",
+    "castlevania_sotn_ending_glossy_kr_game_f.webp",
+    "castlevania_sotn_ending_open_glossy_kr_game_f.webp",
+    "castlevania_sotn_glossy_kr_game_f_casual1.webp",
+    "castlevania_sotn_glossy_kr_game_f_casual2.webp",
+    "castlevania_sotn_glossy_kr_game_f_casual3.webp",
+    "castlevania_sotn_glossy_kr_game_f_casual4.webp",
+    "castlevania_sotn_glossy_kr_game_f_casual5.webp"
+   ]
+  }
+ ]
+}
