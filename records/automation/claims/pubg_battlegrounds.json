@@ -4,7 +4,7 @@
   {
    "key": "pubg_battlegrounds",
    "execution": "game-pubg-eeb9c52a-20261102",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T13:39:19.147Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -20,7 +20,9 @@
     "pubg_battlegrounds_glossy_kr_game_f_casual3.webp",
     "pubg_battlegrounds_glossy_kr_game_f_casual4.webp",
     "pubg_battlegrounds_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T13:59:40.676Z",
+   "done_by": "game-pubg-eeb9c52a-20261102"
   }
  ]
 }
