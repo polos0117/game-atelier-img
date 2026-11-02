@@ -1,0 +1,26 @@
+{
+ "key": "nier_automata",
+ "runs": [
+  {
+   "key": "nier_automata",
+   "execution": "game-nier-c6f28f-20261102",
+   "status": "working",
+   "claimed_at": "2026-11-02T12:18:00.200Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "nier_automata_title_glossy_kr_game_f.webp",
+    "nier_automata_title_open_glossy_kr_game_f.webp",
+    "nier_automata_middle_glossy_kr_game_f.webp",
+    "nier_automata_middle_open_glossy_kr_game_f.webp",
+    "nier_automata_ending_glossy_kr_game_f.webp",
+    "nier_automata_ending_open_glossy_kr_game_f.webp",
+    "nier_automata_glossy_kr_game_f_casual1.webp",
+    "nier_automata_glossy_kr_game_f_casual2.webp",
+    "nier_automata_glossy_kr_game_f_casual3.webp",
+    "nier_automata_glossy_kr_game_f_casual4.webp",
+    "nier_automata_glossy_kr_game_f_casual5.webp"
+   ]
+  }
+ ]
+}
