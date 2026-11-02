@@ -1,0 +1,111 @@
+{
+ "version": 1,
+ "game": "doom",
+ "title": "둠",
+ "mode": "open",
+ "form": "title",
+ "stage": "타이틀",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "doom_title_open_glossy_kr_game_f.webp",
+ "record": "records/doom/title_open-ui.json",
+ "at": "2026-11-02T09:21:48.829Z",
+ "storage": {
+  "last": "doom",
+  "cards": {
+   "doom": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "reference",
+    "form": "title",
+    "baseForm": "title",
+    "casualN": 1,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "open",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "",
+      "scene": "",
+      "outfit": "",
+      "custom": "",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "bold"
+      },
+      "action": {},
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      }
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: attach this game's title form card image. It is the approved CLOSED state and serves only as the visual reference for the single OPEN image.\n\nGAME: «둠» (Doom), 1993. Genre: shooter. Graphics era: early 3D.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"악마·괴물(임프·카코데몬 등)의 얼굴과 몸\"; \"피·내장 묘사\"; \"주인공 해병의 얼굴\"; \"DOOM 로고·타이틀 글자\"; \"탄약·체력 숫자와 HUD\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined costume and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (recognizable, as the game shows them): \"초록 전투 장갑과 바이저 헬멧\", \"펌프 산탄총\", \"빨강·파랑·노랑 열쇠 카드\", \"붉은 하늘 아래 화성 위성 기지\".\n\nQuoted notes may be Korean; read them as description, never render them as text.\n\nOUTPUT: exactly ONE standalone image showing ONLY the OPEN state — the climactic moment of this stage of play. The attached image is a visual reference, NOT part of the output. Keep the same character, face, hair, body, costume, pose, camera angle, framing and subject scale. Change only the environment, lighting and effects into this moment: \"기지 문이 열리며 붉은 하늘에서 불덩이가 비처럼 쏟아진다\". She is the only person; the moment is carried by objects, environment, light, weather or a formless looming shadow — never a character or creature from the game.\n\nFRAME: a single full-frame vertical 2:3 illustration (1024×1536). NEVER include the original CLOSED image, a before-and-after comparison, diptych, split-screen, side-by-side layout, collage, multiple panels or duplicated views. ONE image, ONE character, ONE scene — OPEN state only.\n\nAGE: keep her age as in the attached image; add no wrinkles, folds or under-eye shadows, even when she smiles.\n\nONE FIGURE ONLY. No second character, no text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame.\n\nHANDS: keep both hands as in the attached image.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}

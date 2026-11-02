@@ -1,0 +1,48 @@
+{
+ "version": 1,
+ "game": "doom",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "doom_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "415374905e6f2415bc510acd794e4999289e47c05c8c472c06557bd50add487a",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "doom_title_glossy_kr_game_f.webp",
+ "prompt": "records/doom/casual5-ui.json",
+ "prompt_sha256": "c1a0a7a0588f53f36267ed1747cd554409f057a0fbe0498b10f62ca6253b52bc",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-doom-f6266992-20261102",
+ "qa": {
+  "reviewer": "gpt-doom-f6266992",
+  "image_sha256": "415374905e6f2415bc510acd794e4999289e47c05c8c472c06557bd50add487a",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3.",
+   "주인공 성인 여성 한 명. 원작 인물·괴물 얼굴, 피·내장, HUD, 로고·읽히는 제목 없음.",
+   "팔 두 개와 다리 두 개의 연결을 확인. 숨은 부위와 잘린 부위는 구도에 따른 가림.",
+   "화풍 불일치: 요청한 우아한 애니 얼굴·글로시 게임 일러스트보다 피부 질감과 얼굴이 실사 3D 렌더에 가까움.",
+   "문방구 앞 오락기, 레트로 홀터 플레이수트, 의자에 앉아 두 손으로 게임기 사용, 두 발 확인.",
+   "계획의 엄격한 옆모습보다 3/4 옆모습. 휴대용 게임기의 형태가 실제 상용 콘솔을 연상시키며 상단의 미세한 무늬는 읽히는 글자인지 확정하기 어려움."
+  ],
+  "cause": "원본 첫 그림의 실사 렌더 경향이 참조 그림 전체에 이어짐. 개별 구도 편차는 observations에 기록."
+ },
+ "acceptance": "user_approval_2026-10-31 — AI 검수 편차를 기록하고 올린 뒤 사용자가 확인; 사용자 2026-11-02 작업 및 main 반영 승인"
+}

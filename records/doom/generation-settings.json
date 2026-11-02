@@ -1,0 +1,62 @@
+{
+  "_": "tools/prompt-pack.cjs 의 설정 — 고칠 수 있는 칸만 있다. 직접 입력(글 칸 · 표에 없는 값)엔 why 에 까닭을 적는다. 고친 뒤 build",
+  "game": "doom",
+  "style": "glossy_kr_game",
+  "plan": "/workspace/scratch/f6266992a141/doom-work/plan/plan.json",
+  "card": {
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "exposure": "bold",
+    "params": {},
+    "why": ""
+  },
+  "slots": {
+    "title": {
+      "scene": {},
+      "why": ""
+    },
+    "middle": {
+      "scene": {},
+      "why": ""
+    },
+    "ending": {
+      "scene": {},
+      "why": ""
+    },
+    "title_open": {
+      "scene": {},
+      "why": ""
+    },
+    "middle_open": {
+      "scene": {},
+      "why": ""
+    },
+    "ending_open": {
+      "scene": {},
+      "why": ""
+    },
+    "casual1": {
+      "custom": "",
+      "why": ""
+    },
+    "casual2": {
+      "custom": "Fully covered, non-sexual convention costume: an opaque high-neck long-sleeved padded bodysuit with olive armor and a utility belt. No cleavage, no lingerie, no bare chest or midriff. Treat the costume as practical protective clothing.",
+      "why": "코스튬 출력 필터가 보통 노출에서도 차단하여 완전히 덮인 실용적인 컨벤션 전투복으로 변경한다.",
+      "exposure": "low"
+    },
+    "casual3": {
+      "custom": "",
+      "why": ""
+    },
+    "casual4": {
+      "custom": "",
+      "why": ""
+    },
+    "casual5": {
+      "custom": "",
+      "why": ""
+    }
+  }
+}

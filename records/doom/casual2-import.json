@@ -1,0 +1,72 @@
+{
+ "version": 1,
+ "game": "doom",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "doom_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "bf959a542a5be6345d5d2517af5b28c413fc73b7c147fb96ef0fe136257cac1b",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "doom_title_glossy_kr_game_f.webp",
+ "prompt": "records/doom/casual2-ui.json",
+ "prompt_sha256": "4fb373433581a665b2b073123884f79caf5952844ca72b2ab1e78e2c1aaa7628",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-doom-f6266992-20261102",
+ "qa": {
+  "reviewer": "gpt-doom-f6266992",
+  "image_sha256": "bf959a542a5be6345d5d2517af5b28c413fc73b7c147fb96ef0fe136257cac1b",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3.",
+   "주인공 성인 여성 한 명. 원작 인물·괴물 얼굴, 피·내장, HUD, 로고·읽히는 제목 없음.",
+   "팔 두 개와 다리 두 개의 연결을 확인. 숨은 부위와 잘린 부위는 구도에 따른 가림.",
+   "화풍 불일치: 요청한 우아한 애니 얼굴·글로시 게임 일러스트보다 피부 질감과 얼굴이 실사 3D 렌더에 가까움.",
+   "노출을 낮춰 목과 가슴·팔을 덮은 올리브색 전투복, 웃음과 사진 조명 확인.",
+   "계획과 좌우 손이 바뀜: 왼손이 머리를 만지고 오른팔은 헬멧을 받침. 계획의 왼손 화면 밖과 다름.",
+   "허리 위보다 골반까지 넓은 컷. 코르셋형 대신 보호 전투복으로 변경. 출력 차단 후 안전한 의복으로 낮춘 사실을 기록."
+  ],
+  "cause": "원본 첫 그림의 실사 렌더 경향이 참조 그림 전체에 이어짐. 개별 구도 편차는 observations에 기록."
+ },
+ "acceptance": "user_approval_2026-10-31 — AI 검수 편차를 기록하고 올린 뒤 사용자가 확인; 사용자 2026-11-02 작업 및 main 반영 승인",
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked output sexual",
+    "request_id": "f70466a5-6528-412f-88b5-ba6abeebaeb8",
+    "prompt_sha256": "827959fef015eef5ed8daaa8cbc0bf724211e1143328707a589df087ec928e7d"
+   },
+   {
+    "attempt": 2,
+    "exposure": "moderate",
+    "result": "moderation_blocked output sexual",
+    "request_id": "f64476f4-c1eb-43ab-a96c-369631e36e01"
+   },
+   {
+    "attempt": 3,
+    "exposure": "low",
+    "result": "generated",
+    "change": "완전히 덮인 비노골적 전투복으로 변경"
+   }
+  ]
+ }
+}

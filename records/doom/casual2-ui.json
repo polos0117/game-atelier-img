@@ -1,0 +1,131 @@
+{
+ "version": 1,
+ "game": "doom",
+ "title": "둠",
+ "mode": "casual",
+ "form": "title",
+ "stage": "타이틀",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "doom_glossy_kr_game_f_casual2.webp",
+ "record": "records/doom/casual2-ui.json",
+ "at": "2026-11-02T09:21:48.833Z",
+ "storage": {
+  "last": "doom",
+  "cards": {
+   "doom": {
+    "style": "glossy_kr_game",
+    "version": "v1",
+    "identityMode": "reference",
+    "form": "title",
+    "baseForm": "title",
+    "casualN": 2,
+    "exposure": "bold",
+    "attachStyleRef": false,
+    "motifs": "",
+    "lookNote": "",
+    "faceDesignOn": true,
+    "silhouetteOn": true,
+    "params": {},
+    "locks": {},
+    "mode": "casual",
+    "scenes": {
+     "form": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "open": {
+      "expr": "",
+      "pose": "",
+      "orient": "",
+      "scene": "",
+      "outfit": "",
+      "frame": "",
+      "lens": "",
+      "camera": "",
+      "custom": "",
+      "aspect": "2:3",
+      "cat": "everyday_basic",
+      "catCustom": "",
+      "ex": "",
+      "exCustom": "",
+      "axes": {},
+      "action": {
+       "category": "",
+       "example": "",
+       "timing": "",
+       "power": "",
+       "effects": "",
+       "speed": "",
+       "environment": ""
+      },
+      "randomLocks": {}
+     },
+     "casual": {
+      "treeV": 2,
+      "expr": "laughing",
+      "scene": "",
+      "outfit": "",
+      "custom": "Fully covered, non-sexual convention costume: an opaque high-neck long-sleeved padded bodysuit with olive armor and a utility belt. No cleavage, no lingerie, no bare chest or midriff. Treat the costume as practical protective clothing.",
+      "aspect": "2:3",
+      "axes": {
+       "overall_intensity": "strong",
+       "skin_exposure": "low",
+       "action_level": "mostly posed",
+       "source_influence": "balanced",
+       "separates_preference": "strongly prefer separates"
+      },
+      "action": {},
+      "randomLocks": {
+       "axes.overall_intensity": true,
+       "axes.skin_exposure": true,
+       "aspect": true
+      },
+      "era": "fantasy",
+      "place": "fx_studio",
+      "ofam": "hero_costume",
+      "prop": "3",
+      "preset": "wall_hair",
+      "use": "",
+      "posture": "lean_wall",
+      "support": "back_wall",
+      "frame": "waist_up",
+      "body": "front_3q",
+      "head": "with_body",
+      "camera": "eye",
+      "right": "hair_tuck",
+      "left": "out",
+      "legs": "",
+      "gaze": "screen_left",
+      "item": "hc_corset"
+     }
+    },
+    "versionPinned": false
+   }
+  }
+ },
+ "prompt": "INPUT: the attached image is the approved character; keep her.\n\nCHARACTER: the same woman as the attached image — the personification of the game «둠» (shooter). Keep her face, eye and hair colors, haircut, skin tone and body proportions; expression and hair motion may change.\n\nNOT ITS CHARACTERS: an original woman who is the game itself — no face or body of its hero, mascot, characters or creatures (she may wear their outfits); no title logo, box art, real brands, HUD overlay or readable text and numbers. Its items, places, colors, gear and interface shapes may appear recognizably.\n\nNEVER DRAW for this game: \"악마·괴물(임프·카코데몬 등)의 얼굴과 몸\"; \"피·내장 묘사\"; \"주인공 해병의 얼굴\"; \"DOOM 로고·타이틀 글자\"; \"탄약·체력 숫자와 HUD\".\n\nSTYLE: Glossy Korean mobile-game character art with an elegant anime face, smooth dimensional shading, luminous color accents and refined fabric and accessory rendering. Keep highlights selective and the figure sharply readable.\n\nSIGNATURE (this one only, as an accessory or an object in the scene — never printed on or woven into the clothes): \"붉은 하늘 아래 화성 위성 기지\".\n\nAGE: keep her age as in the attached image; add no wrinkles, folds or under-eye shadows, even when she smiles.\n\nOUTPUT: one standalone off-duty scene of her wearing the costume chosen in SCENE — a daring adult costume version of her game's hero or mascot, as worn to a costume party, convention or photo shoot. In this cut her game shows in the outfit itself: its recognisable colours, shapes and parts. Everything else follows SCENE (chosen).\n\nFRAME: a vertical 2:3 (1024×1536) image. Compose the image for this frame; COMPOSITION in SCENE sets how much of her shows.\n\nCROP: a waist-up shot — the bottom edge crosses her waist; hips, legs and feet are out of frame. This crop wins over every other line: details apply only to the part that shows, and the outfit reads through its visible neckline, straps, fabric and colour. Never widen the framing to show a hidden support, hand or leg; a limb crossing the edge runs naturally on past it, never cut off or fading out inside the image.\n\nSETTING: a stylised stage, editorial or fantasy set, not bound to a real year — still one real adult woman in a believable space, no creatures.\n\nSCENE (chosen):\nPlace: an editorial photo studio with a seamless backdrop and dramatic lights\nOutfit: a daring adult costume version of the Doom marine's look — olive-green combat armour plates over a dark padded bodysuit, a brown ammo belt with pouches and a green-visored helmet carried under one arm, cut as a laced corset bustier with a short flared skirt\nPOSTURE: standing, leaning back against a wall.\nSUPPORT: her back rests against the wall.\nCOMPOSITION: a waist-up shot of her head, torso and hands; body turned three-quarters toward the camera; camera at her eye level.\nLens / perspective: 50mm-equivalent natural perspective with balanced proportions and modest depth compression.\nRIGHT HAND: her own right hand tucks hair behind her ear.\nLEFT HAND: her own left hand stays outside the frame.\nGAZE: she looks toward the left of the frame.\nEXPRESSION: eyes squeezed nearly shut, mouth open wide with teeth showing, cheeks raised high.\nNote: Fully covered, non-sexual convention costume: an opaque high-neck long-sleeved padded bodysuit with olive armor and a utility belt. No cleavage, no lingerie, no bare chest or midriff. Treat the costume as practical protective clothing.\noverall_intensity: strong — maximal styling presence within the scene; retain chosen exposure and anatomy\nskin_exposure: low — mostly covered clothing, limited neck/hand exposure unless outfit is explicit\naction_level: mostly posed — a paused or held moment of the selected activity\nseparates_preference: strongly prefer separates — use separate top and bottom by default; a garment named in the chosen Outfit takes priority\n\nWARDROBE: change her clothes completely into the costume SCENE describes. From the attached image take only her face, hair and body — not its garment, jewelry, hair ornaments or background. The costume must read at first glance as that hero's or mascot's look, rebuilt as a glamorous adult outfit; she is a real woman in a costume, not the character — never its face, body, creature shape, logo or readable text.\n\nANGLE: the attached image fixes who she is, not how she is posed or shot. Do not copy its head angle, head tilt, gaze direction, face size in frame, camera height or crop — turn her head, set her gaze and place the camera as SCENE describes, and let her face read naturally from that new angle (profile, three-quarter, looking down or away), with her features staying the same.\n\nONE MAIN FIGURE: she is the only character in focus. Where the place is busy, other people may appear only as small, soft-focus background extras — never posed with her and never a character from her game. No text, no lettering, no logo, no watermark, no speech bubble, no frame border, no game interface or score.\n\nANATOMY: natural adult proportions, never a smaller head or a longer neck. The neck is a natural length and the head sits close to the shoulders. No body-part enlargement, no extra limbs.\n\nBODY: a normal human body — one head, two arms and two legs, each joined at its natural joint; elbows, knees and wrists bend the human way. Hands and feet may be partly hidden by the pose, what she holds or the frame. Right and left mean her own right and left, not the viewer's.\n\nHANDS: natural human hands, no extra or duplicated limbs; each visible hand joins through its wrist and forearm to the matching shoulder. A hand may stay outside the crop, and fingers may be partly hidden by a grip.\n\nFINAL CHECK: glossy Korean mobile-game rendering with selective highlights; an original costume — no character, logo, title lettering or interface from the game."
+}

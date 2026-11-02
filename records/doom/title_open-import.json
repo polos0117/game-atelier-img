@@ -1,0 +1,47 @@
+{
+ "version": 1,
+ "game": "doom",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "doom_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "fcedcf0e6b4262efc79a013ee68d067d4109e783a67547280fdd9161ea0a6690",
+  "note": "원본 PNG는 올리지 않고 sha256만 남김"
+ },
+ "reference": "doom_title_glossy_kr_game_f.webp",
+ "prompt": "records/doom/title_open-ui.json",
+ "prompt_sha256": "b7c09beea972628fbb522fbb82c099588d188c7840919467f64798aa95dca34c",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-doom-f6266992-20261102",
+ "qa": {
+  "reviewer": "gpt-doom-f6266992",
+  "image_sha256": "fcedcf0e6b4262efc79a013ee68d067d4109e783a67547280fdd9161ea0a6690",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로 2:3.",
+   "주인공 성인 여성 한 명. 원작 인물·괴물 얼굴, 피·내장, HUD, 로고·읽히는 제목 없음.",
+   "팔 두 개와 다리 두 개의 연결을 확인. 숨은 부위와 잘린 부위는 구도에 따른 가림.",
+   "화풍 불일치: 요청한 우아한 애니 얼굴·글로시 게임 일러스트보다 피부 질감과 얼굴이 실사 3D 렌더에 가까움.",
+   "타이틀과 같은 인물·의상·웅크린 자세 유지. 열린 기지 문, 붉은 하늘의 불덩이 비. 2분할 없음."
+  ],
+  "cause": "원본 첫 그림의 실사 렌더 경향이 참조 그림 전체에 이어짐. 개별 구도 편차는 observations에 기록."
+ },
+ "acceptance": "user_approval_2026-10-31 — AI 검수 편차를 기록하고 올린 뒤 사용자가 확인; 사용자 2026-11-02 작업 및 main 반영 승인"
+}
