@@ -4,7 +4,7 @@
   {
    "key": "super_robot_wars_og",
    "execution": "game-srw-og-29d3c6a267dd",
-   "status": "working",
+   "status": "complete",
    "claimed_at": "2026-11-02T00:00:05.231Z",
    "date_kst": "2026-11-02",
    "date_utc": "2026-11-02",
@@ -20,7 +20,9 @@
     "super_robot_wars_og_glossy_kr_game_f_casual3.webp",
     "super_robot_wars_og_glossy_kr_game_f_casual4.webp",
     "super_robot_wars_og_glossy_kr_game_f_casual5.webp"
-   ]
+   ],
+   "done_at": "2026-11-02T00:13:44.772Z",
+   "done_by": "game-srw-og-29d3c6a267dd"
   }
  ]
 }
