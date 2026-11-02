@@ -1,0 +1,15 @@
+{
+ "version": 1,
+ "file": "castlevania_sotn_ending_open_glossy_kr_game_f.webp",
+ "reason": "Initial upload contained an empty blob; recover exact original output without regeneration.",
+ "before": {
+  "bytes": 0,
+  "git_blob_sha": "e69de29bb2d1d6434b8b29ae775ad8c2e48c5391"
+ },
+ "source_png_sha256": "366c23cfb6f5e80bfcd5ade82ed63ddf858111876a3c4dc7e5de6cf851d02a23",
+ "restored": {
+  "bytes": 528652,
+  "sha256": "267b7c1b2e64e93ad6ef4b68b95fb72cc376d5960055fc486d33485c1236cd8e"
+ },
+ "date": "2026-11-02"
+}
