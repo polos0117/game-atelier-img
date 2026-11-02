@@ -1,0 +1,27 @@
+{
+ "version": 1,
+ "game": "pump_it_up",
+ "replacements": [
+  {
+   "slot": "casual2",
+   "file": "pump_it_up_glossy_kr_game_f_casual2.webp",
+   "date": "2026-11-02",
+   "request": "가방 잡고 있는 손을 몸 앞으로 옮겨 가려지게 수정",
+   "before": {
+    "webp_sha256": "96850501cb0fea9333bc25b4e3ec57f88a67a40702a612881a04f10ba5b175b2",
+    "source_sha256": "93f6e415e70e9be66192f089812d040b53d048350c21357ae02435d995851420",
+    "git_blob": "e56af506a32edb7ae0547e937c1712096deac85a"
+   },
+   "after": {
+    "webp_sha256": "352e6dec259b83ee332ec8238a7a71925d62b8d631ffef8f631ab558df4a7595",
+    "source_sha256": "39b53a0535a9d1046af2c01bb7f15336409b3e8a8a05feb519b490988f01cd39",
+    "size": [
+     1024,
+     1536
+    ]
+   },
+   "archive": "records/pump_it_up/revisions/bag-hand-front-20261102",
+   "qa_requested_edit_passed": true
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "version": 1,
+ "game": "pump_it_up",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pump_it_up_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "93f6e415e70e9be66192f089812d040b53d048350c21357ae02435d995851420",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pump_it_up_title_glossy_kr_game_f.webp",
+ "prompt": "records/pump_it_up/casual2-ui.json",
+ "prompt_sha256": "1949d06a06ca029130992816063c863bcb0d2926b9e82e2606374791f10de862",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pump-965969-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "93f6e415e70e9be66192f089812d040b53d048350c21357ae02435d995851420",
+  "passed": false,
+  "observations": [
+   "페리 갑판·노을·멀어지는 걸음, 춤 기계의 화살표·검은 코르셋·허리 크롬 장식이 반영됨.",
+   "두 팔·두 다리 정상 연결, 토트백 끈은 화면 왼쪽 손(인물의 왼손)이 잡아 계획의 오른손 소품과 반대.",
+   "몸은 뒤쪽이나 고개는 옆으로 돌아가 몸과 같이 지시와 다름. 환경 컷보다 인물이 크게 차지함.",
+   "원본 보라색 포니테일과 얼굴 유지. 로고·글자·HUD 없음."
+  ],
+  "cause": "뒤 방향 걷기·어깨 끈 동작에서 소품 손의 좌우와 head=body 제약을 따르지 않음; 환경 컷 거리보다 인물을 크게 그림."
+ },
+ "generation": {
+  "retries": []
+ },
+ "acceptance": "user_approval_2026-11-02 — 작업 완료 후 커밋 및 main 일반 반영 승인"
+}
