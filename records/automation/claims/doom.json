@@ -1,0 +1,26 @@
+{
+ "key": "doom",
+ "runs": [
+  {
+   "key": "doom",
+   "execution": "game-doom-f6266992-20261102",
+   "status": "working",
+   "claimed_at": "2026-11-02T09:09:06.984Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "doom_title_glossy_kr_game_f.webp",
+    "doom_title_open_glossy_kr_game_f.webp",
+    "doom_middle_glossy_kr_game_f.webp",
+    "doom_middle_open_glossy_kr_game_f.webp",
+    "doom_ending_glossy_kr_game_f.webp",
+    "doom_ending_open_glossy_kr_game_f.webp",
+    "doom_glossy_kr_game_f_casual1.webp",
+    "doom_glossy_kr_game_f_casual2.webp",
+    "doom_glossy_kr_game_f_casual3.webp",
+    "doom_glossy_kr_game_f_casual4.webp",
+    "doom_glossy_kr_game_f_casual5.webp"
+   ]
+  }
+ ]
+}
