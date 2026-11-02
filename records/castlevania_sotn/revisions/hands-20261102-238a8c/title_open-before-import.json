@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "castlevania_sotn",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "castlevania_sotn_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "1af86bd2224951f2c5721dda2992b129a362bb3b48216cd308ba7ae4e0559e71",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "castlevania_sotn_title_glossy_kr_game_f.webp",
+ "prompt": "records/castlevania_sotn/title_open-ui.json",
+ "prompt_sha256": "93c5ef7fc284b2e10774a47182264db4e7a1d9c101c3674eadaf2c888ace558b",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-castlevania-238a8c-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "1af86bd2224951f2c5721dda2992b129a362bb3b48216cd308ba7ae4e0559e71",
+  "passed": true,
+  "observations": [
+   "1024×1536. 성인 여성 주인공 한 명. 읽히는 글자·로고·HUD·상표·피 묘사가 보이지 않음. 원작 인물 얼굴과 구별되는 정본의 얼굴·머리·눈 색을 유지.",
+   "정본과 같은 얼굴, 자세, 망토. 호수와 안개 위 고딕 성과 보름달. 단일 화면이며 분할 없음. 한 손만 보이고 나머지 팔다리 일부는 망토에 가림."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

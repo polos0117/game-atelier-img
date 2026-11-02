@@ -6,19 +6,19 @@
  "styleVersion": "v1",
  "file": "castlevania_sotn_ending_open_glossy_kr_game_f.webp",
  "source": {
-  "kind": "generated",
-  "tool": "image_gen (GPT 세션)",
+  "kind": "edited",
+  "tool": "image_gen (built-in)",
   "format": "png",
   "size": [
    1024,
    1536
   ],
-  "sha256": "366c23cfb6f5e80bfcd5ade82ed63ddf858111876a3c4dc7e5de6cf851d02a23",
-  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  "sha256": "040b918634b1a1802e311e1b472dae57a2c5889a06e077d9e74dc4d1851a6e84",
+  "note": "원본 PNG는 Git에 올리지 않고 해시만 기록"
  },
- "reference": "castlevania_sotn_ending_glossy_kr_game_f.webp",
- "prompt": "records/castlevania_sotn/ending_open-ui.json",
- "prompt_sha256": "6aadf75d2e89ca58d813019c145a375e8033c95efe67190f87c13e77e1ea06c3",
+ "reference": "castlevania_sotn_ending_open_glossy_kr_game_f.webp",
+ "prompt": "records/castlevania_sotn/revisions/hands-20261102-238a8c/ending_open-edit-prompt.txt",
+ "prompt_sha256": "933fddac0f64832867ecf5631f270a278ea5a61249cc7d6307920cea459673e4",
  "converted": {
   "format": "webp",
   "quality": 90,
@@ -29,16 +29,18 @@
   }
  },
  "imported": "2026-11-02",
- "execution": "game-castlevania-238a8c-20261102",
+ "execution": "hands-20261102-238a8c",
  "qa": {
   "reviewer": "gpt",
-  "image_sha256": "366c23cfb6f5e80bfcd5ade82ed63ddf858111876a3c4dc7e5de6cf851d02a23",
-  "passed": false,
+  "passed": true,
+  "scope": "user-requested hand repair",
+  "image_sha256": "040b918634b1a1802e311e1b472dae57a2c5889a06e077d9e74dc4d1851a6e84",
   "observations": [
-   "1024×1536. 성인 여성 주인공 한 명. 읽히는 글자·로고·HUD·상표·피 묘사가 보이지 않음. 원작 인물 얼굴과 구별되는 정본의 얼굴·머리·눈 색을 유지.",
-   "붉은 달과 거꾸로 선 성, 단일 화면. 엔딩 원본의 왼손 중복이 화면 오른쪽에 그대로 이어짐."
-  ],
-  "cause": "계획/참조와 출력의 불일치. 프롬프트를 수정하거나 재생성하지 않고 자동 작업 규칙 0·4절에 따라 기록함."
+   "1024×1536. 성인 여성 한 명. 얼굴·머리·의상·배경·전신 구도 유지.",
+   "화면 오른쪽 중복된 왼손 제거. 하나의 왼팔·손목·손으로 이어지며 오른손의 검 파지는 유지. 추가 손이나 분리된 손가락이 보이지 않음.",
+   "개방은 해당 수정 폼을 손 모양 보조 참조로 사용. 단일 화면이며 원래 개방 배경 유지."
+  ]
  },
- "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+ "acceptance": "사용자 손 오류 수정 요청 및 기존 main 반영 승인",
+ "previous_import": "records/castlevania_sotn/revisions/hands-20261102-238a8c/ending_open-before-import.json"
 }

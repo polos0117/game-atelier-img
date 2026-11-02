@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "castlevania_sotn",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "castlevania_sotn_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "9abb97f907f15c9c65e6c2dce64a9b35cf49bdef7cf3c3e1f6883f3deb04d3a1",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": null,
+ "prompt": "records/castlevania_sotn/title-ui.json",
+ "prompt_sha256": "823c268bc883429009385b0b31c97cf034a86860b7f35d6ec5b6a631b2c0e64a",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-castlevania-238a8c-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "9abb97f907f15c9c65e6c2dce64a9b35cf49bdef7cf3c3e1f6883f3deb04d3a1",
+  "passed": true,
+  "observations": [
+   "1024×1536. 성인 여성 주인공 한 명. 읽히는 글자·로고·HUD·상표·피 묘사가 보이지 않음. 원작 인물 얼굴과 구별되는 정본의 얼굴·머리·눈 색을 유지.",
+   "무너진 돌다리와 고딕 성, 은백색 긴 머리와 금빛 눈, 망토를 든 한 손이 보임. 다른 팔과 다리 일부는 망토에 가려 수와 손가락 전체를 확인하기 어려움."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

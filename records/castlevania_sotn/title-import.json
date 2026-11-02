@@ -6,19 +6,19 @@
  "styleVersion": "v1",
  "file": "castlevania_sotn_title_glossy_kr_game_f.webp",
  "source": {
-  "kind": "generated",
-  "tool": "image_gen (GPT 세션)",
+  "kind": "edited",
+  "tool": "image_gen (built-in)",
   "format": "png",
   "size": [
    1024,
    1536
   ],
-  "sha256": "9abb97f907f15c9c65e6c2dce64a9b35cf49bdef7cf3c3e1f6883f3deb04d3a1",
-  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+  "sha256": "132f956c321a430d8ae6c2d75e8be15255d0e9bec8d40f5f69e92fe2e64e4aa1",
+  "note": "원본 PNG는 Git에 올리지 않고 해시만 기록"
  },
- "reference": null,
- "prompt": "records/castlevania_sotn/title-ui.json",
- "prompt_sha256": "823c268bc883429009385b0b31c97cf034a86860b7f35d6ec5b6a631b2c0e64a",
+ "reference": "castlevania_sotn_title_glossy_kr_game_f.webp",
+ "prompt": "records/castlevania_sotn/revisions/hands-20261102-238a8c/title-edit-prompt.txt",
+ "prompt_sha256": "e5f6dfab3da489429b10c51eb9db156baf12b8b941b6bf1f43cf4bbfffe86b5d",
  "converted": {
   "format": "webp",
   "quality": 90,
@@ -29,16 +29,18 @@
   }
  },
  "imported": "2026-11-02",
- "execution": "game-castlevania-238a8c-20261102",
+ "execution": "hands-20261102-238a8c",
  "qa": {
   "reviewer": "gpt",
-  "image_sha256": "9abb97f907f15c9c65e6c2dce64a9b35cf49bdef7cf3c3e1f6883f3deb04d3a1",
   "passed": true,
+  "scope": "user-requested hand repair",
+  "image_sha256": "132f956c321a430d8ae6c2d75e8be15255d0e9bec8d40f5f69e92fe2e64e4aa1",
   "observations": [
-   "1024×1536. 성인 여성 주인공 한 명. 읽히는 글자·로고·HUD·상표·피 묘사가 보이지 않음. 원작 인물 얼굴과 구별되는 정본의 얼굴·머리·눈 색을 유지.",
-   "무너진 돌다리와 고딕 성, 은백색 긴 머리와 금빛 눈, 망토를 든 한 손이 보임. 다른 팔과 다리 일부는 망토에 가려 수와 손가락 전체를 확인하기 어려움."
-  ],
-  "cause": ""
+   "1024×1536. 성인 여성 한 명. 얼굴·머리·의상·배경·전신 구도 유지.",
+   "망토를 잡은 손목과 팔뚝 연결이 연속적이며 한 손으로 천을 쥔 모습. 손가락 일부는 천을 잡아 가려짐. 반대쪽 팔은 기존 망토에 가려짐.",
+   "기존 장면에서 손·팔뚝·연결된 소매와 천 주름 위주 국소 편집."
+  ]
  },
- "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+ "acceptance": "사용자 손 오류 수정 요청 및 기존 main 반영 승인",
+ "previous_import": "records/castlevania_sotn/revisions/hands-20261102-238a8c/title-before-import.json"
 }
