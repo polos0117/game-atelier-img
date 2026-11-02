@@ -1,0 +1,65 @@
+{
+ "version": 1,
+ "game": "pubg_battlegrounds",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pubg_battlegrounds_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "cb519ce0adb6a9c8f7cd0cc82380c91af57b7902e9b49216c83d75bd16c11bdc",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pubg_battlegrounds_title_glossy_kr_game_f.webp",
+ "prompt": "records/pubg_battlegrounds/casual1-ui.json",
+ "prompt_sha256": "016d56c5711f6f48922930aaa66973bb6328b6fda644b643597a56b7d1d99c91",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pubg-eeb9c52a-20261102",
+ "qa": {
+  "reviewer": "game-pubg-eeb9c52a-20261102",
+  "image_sha256": "cb519ce0adb6a9c8f7cd0cc82380c91af57b7902e9b49216c83d75bd16c11bdc",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로. 같은 얼굴·회색 단발·녹색 눈, 하맘에서 엎드린 여성 한 명",
+   "두 팔꿈치를 바닥에 두고 두 손으로 턱을 받침. 두 하퇴와 발을 올려 교차, 추가 팔·다리 없음",
+   "계획의 보이쇼트 하의 대신 옆끈 비키니 하의가 생성됨. 선택한 붉은 창고 모티프 대신 배경에 헬멧이 보임",
+   "전술 의상 대신 수영복. 로고·읽히는 글자·HUD·혈흔·다른 플레이어 없음. 첫 출력 거절 후 같은 지시문 재시도에서 생성됨"
+  ],
+  "cause": "Outfit의 square-cut boyshort와 수영복 일반 연상이 경쟁하여 옆끈 하의가 나옴. SIGNATURE의 창고보다 게임 문맥의 헬멧이 강하게 반영됨. 자동화 승인대로 기록하고 재생성하지 않음"
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다",
+ "generation": {
+  "retries": [
+   {
+    "attempt": 1,
+    "exposure": "bold",
+    "result": "moderation_blocked",
+    "stage": "output",
+    "category": "sexual",
+    "request_id": "667aecd6-fb7a-479f-b239-89d0047281f2",
+    "prompt_sha256": "016d56c5711f6f48922930aaa66973bb6328b6fda644b643597a56b7d1d99c91"
+   },
+   {
+    "attempt": 2,
+    "exposure": "bold",
+    "result": "generated",
+    "prompt_sha256": "016d56c5711f6f48922930aaa66973bb6328b6fda644b643597a56b7d1d99c91"
+   }
+  ]
+ }
+}

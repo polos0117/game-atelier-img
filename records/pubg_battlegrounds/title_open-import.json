@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "pubg_battlegrounds",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pubg_battlegrounds_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "a09be6c310f0b5b3c479176132793287189a4510988cfb1c295c6fdc7aa271f8",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pubg_battlegrounds_title_glossy_kr_game_f.webp",
+ "prompt": "records/pubg_battlegrounds/title_open-ui.json",
+ "prompt_sha256": "a5d9430a93ec443e37514c25a8666453d3b88d0a4daa89f423803a3dab85d13c",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pubg-eeb9c52a-20261102",
+ "qa": {
+  "reviewer": "game-pubg-eeb9c52a-20261102",
+  "image_sha256": "a09be6c310f0b5b3c479176132793287189a4510988cfb1c295c6fdc7aa271f8",
+  "passed": true,
+  "observations": [
+   "1024×1536 세로의 단일 개방 이미지. 분할·복제 인물 없음",
+   "타이틀의 회색 단발·얼굴·의상·문틀 짚는 자세·양발과 인물 크기를 유지",
+   "열린 화물칸 너머 구름 아래 섬과 다리·해안선이 넓게 드러남",
+   "두 팔·다리의 수와 연결 정상, 손 모양은 참조와 일치. 로고·읽히는 글자·HUD·다른 플레이어 없음"
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

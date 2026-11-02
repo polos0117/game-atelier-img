@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "pubg_battlegrounds",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pubg_battlegrounds_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "cf62b15c080976c0bb802e2cffa6997cba51e5489d8776afd13c7b4c5bfd34bd",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pubg_battlegrounds_title_glossy_kr_game_f.webp",
+ "prompt": "records/pubg_battlegrounds/middle-ui.json",
+ "prompt_sha256": "1dcd4bfa630cf1da906c6e9817160b99eb74f0a29a2e7aa668840fd8ec875bef",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pubg-eeb9c52a-20261102",
+ "qa": {
+  "reviewer": "game-pubg-eeb9c52a-20261102",
+  "image_sha256": "cf62b15c080976c0bb802e2cffa6997cba51e5489d8776afd13c7b4c5bfd34bd",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로, 여성 한 명. 회색 단발과 녹색 눈·체형 유지",
+   "한쪽 무릎을 꿇은 두 다리, 소총을 받치는 두 손과 두 팔의 연결은 정상으로 보임",
+   "3레벨 헬멧·조끼·배낭·프라이팬 및 붉은 창고 확인. 로고·HUD·읽히는 글자·혈흔 없음",
+   "돌담 뒤 어깨 너머 경계 자세 대신 정면으로 소총을 쥐는 자세. 소총은 FORM·STANCE에서 지정하지 않은 추가 소품. 전신 요청이나 뒤쪽 발은 가림"
+  ],
+  "cause": "군사 생존자라는 게임·장비 문맥이 STANCE보다 강하게 반영되어 총기를 추가하고 정면 자세를 취함. 자동화 승인대로 차이를 기록하고 재생성하지 않음"
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "pubg_battlegrounds",
+ "slot": "casual2",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pubg_battlegrounds_glossy_kr_game_f_casual2.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "2392ac1c9be1c2315a2b51b61880bce49c22f0143b8a480ed5fb644e6e06623e",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pubg_battlegrounds_title_glossy_kr_game_f.webp",
+ "prompt": "records/pubg_battlegrounds/casual2-ui.json",
+ "prompt_sha256": "f6d29fc222f330849975d3239a614e9b4b224bbc28f1b13f9945524b4c5fa647",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pubg-eeb9c52a-20261102",
+ "qa": {
+  "reviewer": "game-pubg-eeb9c52a-20261102",
+  "image_sha256": "2392ac1c9be1c2315a2b51b61880bce49c22f0143b8a480ed5fb644e6e06623e",
+  "passed": false,
+  "observations": [
+   "1024×1536 여성 한 명. 사진 스튜디오 조명과 배경, 3레벨 헬멧·배낭·프라이팬·코르셋 및 짧은 스커트로 필수 생존자 코스튬 표현",
+   "기준 얼굴·회색 단발·눈 색 유지. 오른손은 무릎에, 왼손은 바닥에 연결. 추가 팔다리 없음",
+   "계획한 완전 옆모습·책상다리 대신 몸은 3/4이며 한 다리를 앞으로 뻗음. 환경 롱숏보다 인물이 큼",
+   "글자·로고·HUD·혈흔·다른 플레이어 없음. 소품 보급 상자는 배경 장식으로 존재"
+  ],
+  "cause": "LEGS의 cross-legged와 환경 롱숏보다 장비·부츠를 보여주는 코스튬 화보 구도가 우세하여 다리가 뻗고 가까운 구도가 됨. 자동화 승인대로 차이를 기록하고 재생성하지 않음"
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

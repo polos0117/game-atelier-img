@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "pubg_battlegrounds",
+ "slot": "ending_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pubg_battlegrounds_ending_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "8940ed6c321965c95915647a5f887fe3225604c6b961e97a3073891779d602a8",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pubg_battlegrounds_ending_glossy_kr_game_f.webp",
+ "prompt": "records/pubg_battlegrounds/ending_open-ui.json",
+ "prompt_sha256": "4a3330b59780c5ea69860fad996431e58741bb22bb8f00f3afc7c58b8359fa21",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pubg-eeb9c52a-20261102",
+ "qa": {
+  "reviewer": "game-pubg-eeb9c52a-20261102",
+  "image_sha256": "8940ed6c321965c95915647a5f887fe3225604c6b961e97a3073891779d602a8",
+  "passed": true,
+  "observations": [
+   "1024×1536 세로의 단일 개방 장면. 여성 한 명, 분할 화면 없음",
+   "엔딩의 얼굴·회색 단발·의상·위장 망토·프라이팬과 헬멧을 든 양손 자세·프레이밍 유지",
+   "노을 하늘에 보급 상자·낙하산과 붉은 연기 추가. 배경 수송기는 다른 플레이어 인물이 아님",
+   "두 팔·손목·다리 연결 정상. 로고·읽히는 글자·HUD·혈흔·원작 캐릭터 없음"
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "pubg_battlegrounds",
+ "slot": "casual4",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pubg_battlegrounds_glossy_kr_game_f_casual4.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "996809e498574f44f9b08b1bf94c85ab97facc6c360de78d1a1a0e3f00d0edc3",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pubg_battlegrounds_title_glossy_kr_game_f.webp",
+ "prompt": "records/pubg_battlegrounds/casual4-ui.json",
+ "prompt_sha256": "2b7249d053874b464c1934bb9050aa71b6f37e3a86cc76c9dc9ff0edc8159f28",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pubg-eeb9c52a-20261102",
+ "qa": {
+  "reviewer": "game-pubg-eeb9c52a-20261102",
+  "image_sha256": "996809e498574f44f9b08b1bf94c85ab97facc6c360de78d1a1a0e3f00d0edc3",
+  "passed": false,
+  "observations": [
+   "1024×1536 여성 한 명. 기준 얼굴·회색 단발·눈 색 유지, 게임 세계의 테라스와 작업대·먼 자기장 표현",
+   "셔츠 원피스와 넓은 벨트, 두 손으로 프라이팬의 손잡이와 테두리를 각각 잡음. 두 손목·팔이 각 어깨로 이어지며 추가 손 없음",
+   "계획한 허리 위 컷보다 넓어 허벅지가 보임. WARDROBE의 장신구·장비 초기화 요청과 달리 타이틀의 고글·전술 장갑이 남음",
+   "읽히는 글자·로고·HUD·혈흔·다른 플레이어 없음"
+  ],
+  "cause": "CROP의 허리선보다 소품과 원피스 형태를 보여주는 구도가 강하게 반영됨. 인물 참조 이미지의 고글·장갑이 ANGLE·WARDROBE의 의상 초기화보다 우선되어 남음. 자동화 승인대로 기록하고 재생성하지 않음"
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

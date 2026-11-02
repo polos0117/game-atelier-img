@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "pubg_battlegrounds",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pubg_battlegrounds_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "529e3276ff56acbc916e4c7957aa6ea35a6b372f0f4d17a0584f381aa3ee1b78",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pubg_battlegrounds_title_glossy_kr_game_f.webp",
+ "prompt": "records/pubg_battlegrounds/casual3-ui.json",
+ "prompt_sha256": "1367610e44f7113811e04d6122a0900174dd39ea1a6d8226983ec65fa4de9848",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pubg-eeb9c52a-20261102",
+ "qa": {
+  "reviewer": "game-pubg-eeb9c52a-20261102",
+  "image_sha256": "529e3276ff56acbc916e4c7957aa6ea35a6b372f0f4d17a0584f381aa3ee1b78",
+  "passed": false,
+  "observations": [
+   "1024×1536 여성 한 명. 회색 단발·녹색 눈·얼굴을 유지, 실내 암벽과 니트 소재 상의 확인",
+   "보이는 브이 손은 손가락 다섯 개로 보이고 손목과 팔 연결 정상, 추가 팔 없음. 반대 팔은 프레임 밖으로 이어짐",
+   "계획한 쇄골선 얼굴 클로즈업보다 넓게 허리까지 보임. 본인 오른손 브이 요청과 달리 화면 오른쪽의 왼손이 브이",
+   "로고·읽히는 글자·HUD·혈흔·다른 플레이어 없음. 배낭·헬멧 모티프가 배경 소품으로 표현됨"
+  ],
+  "cause": "CROP의 쇄골선 자르기보다 Outfit의 cropped top 전체를 보여주는 화보 구도가 강하게 반영됨. 본인 기준 RIGHT HAND가 화면 기준 오른쪽으로 해석된 것으로 보임. 자동화 승인대로 차이를 기록하고 재생성하지 않음"
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

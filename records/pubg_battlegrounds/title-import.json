@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "pubg_battlegrounds",
+ "slot": "title",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pubg_battlegrounds_title_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "97f456be14094b87b026df2551937b7d90b3a479f70d87a2ed539e716c7e80ca",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": null,
+ "prompt": "records/pubg_battlegrounds/title-ui.json",
+ "prompt_sha256": "ea32d726e2692934efd0d719a7116d5200bb73b9b79d1bda9cbde2505d434486",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pubg-eeb9c52a-20261102",
+ "qa": {
+  "reviewer": "game-pubg-eeb9c52a-20261102",
+  "image_sha256": "97f456be14094b87b026df2551937b7d90b3a479f70d87a2ed539e716c7e80ca",
+  "passed": false,
+  "observations": [
+   "1024×1536 세로, 성인 여성 한 명. 머리와 양발이 모두 보임",
+   "회색 단발·녹색 눈, 수송기 문틀을 짚는 팔과 내려놓은 팔이 각 어깨에 연결됨. 두 다리 정상",
+   "읽히는 글자·로고·HUD·혈흔·다른 플레이어 없음",
+   "요청한 애니메이션 게임 화풍보다 실사 질감이 강하고 맨손 요청과 달리 손가락 없는 장갑을 착용함"
+  ],
+  "cause": "STYLE의 anime face와 정교한 재질·광택 연출 중 사실적인 피부와 재질 쪽이 강하게 반영됨. STANCE의 문틀 짚기는 따랐으나 FORM의 맨손보다 전술 장비의 장갑 연상이 우세함. 자동화 규칙대로 재생성하지 않고 차이를 기록함"
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

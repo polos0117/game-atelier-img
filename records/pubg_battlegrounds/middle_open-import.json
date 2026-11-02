@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "pubg_battlegrounds",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pubg_battlegrounds_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "343831747c4d68245ec3549a356fbb0d98acce93fccdc1a3a6cdc9b3d3a4bd28",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pubg_battlegrounds_middle_glossy_kr_game_f.webp",
+ "prompt": "records/pubg_battlegrounds/middle_open-ui.json",
+ "prompt_sha256": "1f8603a88df259ef51582ae1c21b73d85a2178bf0734407de586f813fb3f7df2",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pubg-eeb9c52a-20261102",
+ "qa": {
+  "reviewer": "game-pubg-eeb9c52a-20261102",
+  "image_sha256": "343831747c4d68245ec3549a356fbb0d98acce93fccdc1a3a6cdc9b3d3a4bd28",
+  "passed": true,
+  "observations": [
+   "1024×1536 단일 개방 장면, 여성 한 명. 원본과 나란히 그리지 않음",
+   "중반의 얼굴·회색 단발·헬멧·장비·무릎 꿇은 자세·총을 쥔 두 손과 인물 크기 유지",
+   "창고 뒤에 거대한 푸른 자기장 벽이 전진하고 흩날리는 먼지 표현",
+   "두 팔·다리·손 연결에 추가 부위 없음. 로고·문자·HUD·혈흔·다른 플레이어 없음. 중반에서 추가된 총은 참조대로 유지됨"
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

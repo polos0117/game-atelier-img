@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "pubg_battlegrounds",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pubg_battlegrounds_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "43b43bd6fda8aa8e4e87453484f0719c3d9b23f9ed88b82c2fd9aeb5df84d262",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pubg_battlegrounds_title_glossy_kr_game_f.webp",
+ "prompt": "records/pubg_battlegrounds/casual5-ui.json",
+ "prompt_sha256": "e1de54266ee5961d661b409a494475015cc82e56f28ade7ff8162fdb66dd58d4",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pubg-eeb9c52a-20261102",
+ "qa": {
+  "reviewer": "game-pubg-eeb9c52a-20261102",
+  "image_sha256": "43b43bd6fda8aa8e4e87453484f0719c3d9b23f9ed88b82c2fd9aeb5df84d262",
+  "passed": false,
+  "observations": [
+   "1024×1536 여성 한 명. 기준 얼굴·회색 단발·녹색 눈, 도시 옥상의 물탱크·전구와 자수 패널 드레스 표현",
+   "본인 오른손 검지 끝에서 농구공을 받치며 손가락 다섯 개와 손목·팔 연결이 자연스럽게 보임. 왼손은 화면 밖",
+   "가슴 위 크롭 요청보다 넓게 허리 아래까지 보임. 낙하산 모티프는 식별되지 않음",
+   "로고·읽히는 글자·HUD·혈흔·다른 플레이어 없음. 의상은 전술 장비와 구분됨"
+  ],
+  "cause": "CROP의 가슴선 자르기보다 드레스 자수 패널 전체를 보여주는 화보 구도가 강하게 반영됨. SIGNATURE의 작은 낙하산보다 농구공과 드레스에 시각적 비중이 집중됨. 자동화 승인대로 기록하고 재생성하지 않음"
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

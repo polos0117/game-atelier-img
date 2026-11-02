@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "pubg_battlegrounds",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "pubg_battlegrounds_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "f7d25142f4c5a2eedcd0967a5c3e8276bf66e8045808afc0f386cc7d67cd909b",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "pubg_battlegrounds_title_glossy_kr_game_f.webp",
+ "prompt": "records/pubg_battlegrounds/ending-ui.json",
+ "prompt_sha256": "99b5bffdec1ef8fdf849f2a1d4a336bb0165701133246b32510add53c1017ca3",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-pubg-eeb9c52a-20261102",
+ "qa": {
+  "reviewer": "game-pubg-eeb9c52a-20261102",
+  "image_sha256": "f7d25142f4c5a2eedcd0967a5c3e8276bf66e8045808afc0f386cc7d67cd909b",
+  "passed": true,
+  "observations": [
+   "1024×1536 세로, 여성 한 명과 머리·양발 여백 확인",
+   "기준 이미지의 회색 단발·녹색 눈·얼굴·체형을 유지. 위장 망토와 노을 언덕·멀리 푸른 자기장 표현",
+   "오른손은 프라이팬 손잡이를 어깨 위에서 쥐고 왼손은 헬멧을 옆구리에서 받침. 각 손목·팔꿈치·어깨가 이어지고 두 다리가 정상",
+   "로고·읽히는 글자·HUD·혈흔·다른 플레이어 없음. 기준과 같은 실사에 가까운 재질감은 유지됨"
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}
