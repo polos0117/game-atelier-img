@@ -1,0 +1,26 @@
+{
+ "key": "tomb_raider",
+ "runs": [
+  {
+   "key": "tomb_raider",
+   "execution": "game-tomb-74e666-20261102",
+   "status": "working",
+   "claimed_at": "2026-11-02T11:56:42.122Z",
+   "date_kst": "2026-11-02",
+   "date_utc": "2026-11-02",
+   "missing": [
+    "tomb_raider_title_glossy_kr_game_f.webp",
+    "tomb_raider_title_open_glossy_kr_game_f.webp",
+    "tomb_raider_middle_glossy_kr_game_f.webp",
+    "tomb_raider_middle_open_glossy_kr_game_f.webp",
+    "tomb_raider_ending_glossy_kr_game_f.webp",
+    "tomb_raider_ending_open_glossy_kr_game_f.webp",
+    "tomb_raider_glossy_kr_game_f_casual1.webp",
+    "tomb_raider_glossy_kr_game_f_casual2.webp",
+    "tomb_raider_glossy_kr_game_f_casual3.webp",
+    "tomb_raider_glossy_kr_game_f_casual4.webp",
+    "tomb_raider_glossy_kr_game_f_casual5.webp"
+   ]
+  }
+ ]
+}
