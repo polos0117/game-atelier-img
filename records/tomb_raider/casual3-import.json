@@ -1,0 +1,46 @@
+{
+ "version": 1,
+ "game": "tomb_raider",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tomb_raider_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "f65af108a6d447aa54df3cf61df8cf5404719d627c0f86a6ef8d63ee6a968239",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "tomb_raider_title_glossy_kr_game_f.webp",
+ "prompt": "records/tomb_raider/casual3-ui.json",
+ "prompt_sha256": "ee4f0422032192a0883cc425022d16a60c5633eb1bb98cc077061236cd3eea88",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-tomb-74e666-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "f65af108a6d447aa54df3cf61df8cf5404719d627c0f86a6ef8d63ee6a968239",
+  "passed": false,
+  "observations": [
+   "1024×1536; one adult focal woman; two arms attached naturally and no extra limbs observed.",
+   "No title logo, HUD, watermark, recognizable original character face or blood.",
+   "Bronze braid, emerald eyes and facial identity retained.",
+   "Rendering is glossy and more semi-realistic than a strongly anime interpretation.",
+   "Background adds fencing mask and sword; one game signature backpack remains."
+  ],
+  "cause": "Background adds fencing mask and sword; one game signature backpack remains."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

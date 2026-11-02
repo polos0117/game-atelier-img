@@ -1,0 +1,47 @@
+{
+ "version": 1,
+ "game": "tomb_raider",
+ "slot": "middle",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tomb_raider_middle_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "c0bc442cef0964952af4bb67e056bb4726a6d3b981988e6ff5a8ab900feac8b3",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "tomb_raider_title_glossy_kr_game_f.webp",
+ "prompt": "records/tomb_raider/middle-ui.json",
+ "prompt_sha256": "7d993ebe4c620557fe0cada4c620fe61a98b0a286e189162f479b40dea253d8f",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-tomb-74e666-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "c0bc442cef0964952af4bb67e056bb4726a6d3b981988e6ff5a8ab900feac8b3",
+  "passed": false,
+  "observations": [
+   "1024×1536; one adult focal woman; two arms attached naturally and no extra limbs observed.",
+   "No title logo, HUD, watermark, recognizable original character face or blood.",
+   "Bronze braid, emerald eyes and facial identity retained.",
+   "Rendering is glossy and more semi-realistic than a strongly anime interpretation.",
+   "Tight climbing crop omits feet despite full-body OUTPUT; STANCE ledge pull-up and dynamic camera competed with full-body framing.",
+   "Gaze is forward rather than downward."
+  ],
+  "cause": "Tight climbing crop omits feet despite full-body OUTPUT; STANCE ledge pull-up and dynamic camera competed with full-body framing. Gaze is forward rather than downward."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

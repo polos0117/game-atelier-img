@@ -1,0 +1,47 @@
+{
+ "version": 1,
+ "game": "tomb_raider",
+ "slot": "casual5",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tomb_raider_glossy_kr_game_f_casual5.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "ece5bc0ec0bcab2fa0a0e15fd272b8f740a6662ad47af498f8af907a064b3cd3",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "tomb_raider_title_glossy_kr_game_f.webp",
+ "prompt": "records/tomb_raider/casual5-ui.json",
+ "prompt_sha256": "a80cc96f4b1872fd98dd505b9a83da0ab34ffececa9371d0ec4554cc770a1e2c",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-tomb-74e666-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "ece5bc0ec0bcab2fa0a0e15fd272b8f740a6662ad47af498f8af907a064b3cd3",
+  "passed": false,
+  "observations": [
+   "1024×1536; one adult focal woman; two arms attached naturally and no extra limbs observed.",
+   "No title logo, HUD, watermark, recognizable original character face or blood.",
+   "Bronze braid, emerald eyes and facial identity retained.",
+   "Rendering is glossy and more semi-realistic than a strongly anime interpretation.",
+   "Crop extends to waist instead of ending just below bust.",
+   "Tiny print-like marks appear on background papers; no coherent words identified."
+  ],
+  "cause": "Crop extends to waist instead of ending just below bust. Tiny print-like marks appear on background papers; no coherent words identified."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

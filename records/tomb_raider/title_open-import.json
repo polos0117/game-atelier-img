@@ -1,0 +1,45 @@
+{
+ "version": 1,
+ "game": "tomb_raider",
+ "slot": "title_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "tomb_raider_title_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT session)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "5be5ee6ad0654d42c1a300a87a6eba573500f58e04056c213c80ef64528bb604",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "tomb_raider_title_glossy_kr_game_f.webp",
+ "prompt": "records/tomb_raider/title_open-ui.json",
+ "prompt_sha256": "394a9db5cbe6fae582af8777b43c9fa4ed102607bb855c84b710249fd43bbb9f",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-tomb-74e666-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5be5ee6ad0654d42c1a300a87a6eba573500f58e04056c213c80ef64528bb604",
+  "passed": true,
+  "observations": [
+   "1024×1536; one adult focal woman; two arms attached naturally and no extra limbs observed.",
+   "No title logo, HUD, watermark, recognizable original character face or blood.",
+   "Bronze braid, emerald eyes and facial identity retained.",
+   "Rendering is glossy and more semi-realistic than a strongly anime interpretation."
+  ],
+  "cause": ""
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}
