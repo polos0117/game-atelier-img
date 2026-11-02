@@ -1,0 +1,30 @@
+{
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1536x1024",
+ "quality": "medium",
+ "background": "opaque",
+ "prompt": "Photorealistic product-display photograph, perfectly straight-on orthographic front view, no perspective tilt: the inside of ONE empty shelf compartment of a dark walnut wood display cabinet. The top 78% of the image is the dark walnut back panel with fine vertical wood grain, lit from above by a warm LED strip that makes a soft glow fading downward. The bottom 22% of the image is the thick front edge of a single walnut shelf plank running exactly horizontally across the full width, edge to edge, with a thin brass trim line along its top edge. The compartment is completely empty — nothing on the shelf. No side walls visible, the panel and plank continue past the left and right edges. No text, no letters, no logos, no objects.",
+ "usage": {
+  "input_tokens": 159,
+  "input_tokens_details": {
+   "image_tokens": 0,
+   "text_tokens": 159
+  },
+  "output_tokens": 343,
+  "output_tokens_details": {
+   "image_tokens": 343,
+   "text_tokens": 0
+  },
+  "total_tokens": 502
+ },
+ "seconds": 11,
+ "date": "2026-11-02",
+ "file": "backgrounds/shelf-plank.webp",
+ "scene": "진열장 칸 — 호두나무 뒷판 · LED 띠 · 놋쇠 테 판자",
+ "raw_sha256": "7c30644a0fd459329bb5c4e02d8a4bdcf89099baee4399d37bb989b3a0bd1bdd",
+ "webp_sha256": "a71090576702607051a5f28173c2b8a6baec114feb47ab0260774bdba442be3a",
+ "by": "claude",
+ "why": "game-atelier 진열장(shelf.html)을 실감 나게 — 사용자 「진열장 이미지를 이미지 생성기로 좀 더 실감나게 만들어줘」 · 「게임 공방 이미지 올려줘」(2026-11-02). 원본 PNG 는 올리지 않는다",
+ "how": "images/generations medium, 도트 공방과 같은 열쇠(tools 아님 — 세션의 gen2.cjs). 투명 바탕은 둘레를 잘라 webp(알파) 로",
+ "crop": "원본의 아래(82.81% 부터) — 판자 앞면"
+}

@@ -1,0 +1,36 @@
+{
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1024x1024",
+ "quality": "medium",
+ "background": "transparent",
+ "prompt": "Photorealistic studio product photograph of a single generic grey 16-bit era video game cartridge, standing upright, seen perfectly straight-on from the front, no perspective tilt, centered, on a transparent background, soft even studio lighting with a gentle highlight. Ridged grip lines across the top, slightly rounded top corners, a recessed front label area that takes up most of the front face. The label area is a perfectly flat, uniform, pure white (#FFFFFF) rectangle with sharp edges and nothing printed on it. No text, no letters, no numbers, no logos, no brand names, no artwork anywhere on the object.",
+ "usage": {
+  "input_tokens": 132,
+  "input_tokens_details": {
+   "image_tokens": 0,
+   "text_tokens": 132
+  },
+  "output_tokens": 439,
+  "output_tokens_details": {
+   "image_tokens": 439,
+   "text_tokens": 0
+  },
+  "total_tokens": 571
+ },
+ "seconds": 13,
+ "date": "2026-11-02",
+ "file": "backgrounds/shelf-cartridge.webp",
+ "scene": "카트리지 껍데기 — 흰 라벨에 겉그림",
+ "raw_sha256": "a1103a0cc116246ead5adca80edd24eb46f63995603ba24446abe893b6a141d5",
+ "webp_sha256": "ce69f80dd8ff4bda512b270e49ee7729cee94ed024ba9cee78fdb4c7b908bcdf",
+ "by": "claude",
+ "why": "game-atelier 진열장(shelf.html)을 실감 나게 — 사용자 「진열장 이미지를 이미지 생성기로 좀 더 실감나게 만들어줘」 · 「게임 공방 이미지 올려줘」(2026-11-02). 원본 PNG 는 올리지 않는다",
+ "how": "images/generations medium, 도트 공방과 같은 열쇠(tools 아님 — 세션의 gen2.cjs). 투명 바탕은 둘레를 잘라 webp(알파) 로",
+ "label": [
+  12.13,
+  20.45,
+  75.74,
+  60.16
+ ],
+ "note": "label — 흰 라벨 칸(왼쪽 · 위 · 너비 · 높이, 그림 대비 백분율). game-atelier lib/shelf.js SHELLS 와 같다"
+}

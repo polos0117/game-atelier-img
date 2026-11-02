@@ -1,0 +1,36 @@
+{
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1024x1536",
+ "quality": "medium",
+ "background": "transparent",
+ "prompt": "Photorealistic studio product photograph of a single DVD keep case, closed, tall rectangle, standing upright, seen perfectly straight-on from the front, no perspective tilt, centered, on a transparent background, soft even studio lighting with a gentle highlight. Dark blue plastic case with a clear plastic sleeve over the front; behind the sleeve the front insert is the label area and fills the whole front face inside a thin plastic border. The label area is a perfectly flat, uniform, pure white (#FFFFFF) rectangle with sharp edges and nothing printed on it. No text, no letters, no numbers, no logos, no brand names, no artwork anywhere on the object.",
+ "usage": {
+  "input_tokens": 139,
+  "input_tokens_details": {
+   "image_tokens": 0,
+   "text_tokens": 139
+  },
+  "output_tokens": 343,
+  "output_tokens_details": {
+   "image_tokens": 343,
+   "text_tokens": 0
+  },
+  "total_tokens": 482
+ },
+ "seconds": 11,
+ "date": "2026-11-02",
+ "file": "backgrounds/shelf-disc.webp",
+ "scene": "DVD 케이스 껍데기 — 앞 속지 자리에 겉그림",
+ "raw_sha256": "42a71934324647f5b19f785dac178618a537baae5b16a71ed51f13cd4f637ab4",
+ "webp_sha256": "138260748aa55712566b0b2b056a7bbbb2df508a381ca80c4691d41e57d63441",
+ "by": "claude",
+ "why": "game-atelier 진열장(shelf.html)을 실감 나게 — 사용자 「진열장 이미지를 이미지 생성기로 좀 더 실감나게 만들어줘」 · 「게임 공방 이미지 올려줘」(2026-11-02). 원본 PNG 는 올리지 않는다",
+ "how": "images/generations medium, 도트 공방과 같은 열쇠(tools 아님 — 세션의 gen2.cjs). 투명 바탕은 둘레를 잘라 webp(알파) 로",
+ "label": [
+  2.35,
+  2.6,
+  93.39,
+  95.09
+ ],
+ "note": "label — 흰 라벨 칸(왼쪽 · 위 · 너비 · 높이, 그림 대비 백분율). game-atelier lib/shelf.js SHELLS 와 같다"
+}

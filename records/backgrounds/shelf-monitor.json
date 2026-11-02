@@ -1,0 +1,36 @@
+{
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1536x1024",
+ "quality": "medium",
+ "background": "transparent",
+ "prompt": "Photorealistic product photograph of a single early-2000s computer monitor seen perfectly straight-on from the front, no perspective tilt, centered, on a transparent background. Glossy black bezel with a thin silver lower edge, small round power button with a tiny green light, a slim silver stand and base. The screen is switched on but shows a completely uniform flat pure black (#000000) rectangle filling the whole display area, perfectly rectangular with sharp corners, no reflections, no glare, no picture on it. No text, no letters, no logos, no brand names, no keyboard, no desk.",
+ "usage": {
+  "input_tokens": 129,
+  "input_tokens_details": {
+   "image_tokens": 0,
+   "text_tokens": 129
+  },
+  "output_tokens": 343,
+  "output_tokens_details": {
+   "image_tokens": 343,
+   "text_tokens": 0
+  },
+  "total_tokens": 472
+ },
+ "seconds": 13,
+ "date": "2026-11-02",
+ "file": "backgrounds/shelf-monitor.webp",
+ "scene": "PC 모니터 — 검은 화면 칸에 바탕화면",
+ "raw_sha256": "f6003e571c7d07c33fd46ade98498d1ce3d36abc5a5245fde6bc7e64affc38bd",
+ "webp_sha256": "64932e05e379228e4dcf7fe41140127e48415dbc9ce8685553bfa630e4e6b63c",
+ "by": "claude",
+ "why": "game-atelier 진열장(shelf.html)을 실감 나게 — 사용자 「진열장 이미지를 이미지 생성기로 좀 더 실감나게 만들어줘」 · 「게임 공방 이미지 올려줘」(2026-11-02). 원본 PNG 는 올리지 않는다",
+ "how": "images/generations medium, 도트 공방과 같은 열쇠(tools 아님 — 세션의 gen2.cjs). 투명 바탕은 둘레를 잘라 webp(알파) 로",
+ "screen": [
+  4.28,
+  5.9,
+  91.43,
+  66.25
+ ],
+ "note": "screen — 검은 화면 칸(백분율). lib/shelf.js MONITOR 와 같다"
+}

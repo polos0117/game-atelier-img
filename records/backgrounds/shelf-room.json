@@ -1,0 +1,29 @@
+{
+ "model": "gpt-image-2.5-sunburst",
+ "size": "1536x1024",
+ "quality": "medium",
+ "background": "opaque",
+ "prompt": "Photorealistic interior photograph, wide straight-on view: a cozy retro video game collector's room at night, softly out of focus as a backdrop. Dark walnut wall shelving packed with indistinct game boxes and consoles (no readable text, no logos), a desk with a desk lamp casting warm amber light, neon accent glow in teal and magenta, a window with dark blue night sky. Calm, moody, low contrast, generous dark empty areas. No people, no characters, no text, no letters, no logos, no brand names, no readable signs.",
+ "usage": {
+  "input_tokens": 121,
+  "input_tokens_details": {
+   "image_tokens": 0,
+   "text_tokens": 121
+  },
+  "output_tokens": 343,
+  "output_tokens_details": {
+   "image_tokens": 343,
+   "text_tokens": 0
+  },
+  "total_tokens": 464
+ },
+ "seconds": 14,
+ "date": "2026-11-02",
+ "file": "backgrounds/shelf-room.webp",
+ "scene": "방 배경 — 밤의 게임 수집가 방(흐릿하게 뒤에 깐다)",
+ "raw_sha256": "4da6e340972c902d0cede529d7545fb8657c53ae068747ff0d30b4b94393501c",
+ "webp_sha256": "2da53aca7650ce3f1f491d0b81135d8a0ba95e46ac158e8a0f9410c57858b2cd",
+ "by": "claude",
+ "why": "game-atelier 진열장(shelf.html)을 실감 나게 — 사용자 「진열장 이미지를 이미지 생성기로 좀 더 실감나게 만들어줘」 · 「게임 공방 이미지 올려줘」(2026-11-02). 원본 PNG 는 올리지 않는다",
+ "how": "images/generations medium, 도트 공방과 같은 열쇠(tools 아님 — 세션의 gen2.cjs). 투명 바탕은 둘레를 잘라 webp(알파) 로"
+}
