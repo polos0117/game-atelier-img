@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "game": "nox",
+  "slot": "casual5",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "nox_glossy_kr_game_f_casual5.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "f061b344290d0dea804ac473db9b580de520e44b7ffb85a038531f21a01cacb9",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": "nox_title_glossy_kr_game_f.webp",
+  "prompt": "records/nox/casual5-ui.json",
+  "prompt_sha256": "3861ce3b3b49e2404927f6f201b53cd6bca754d3b3694d2e11386acc6e9f6e28",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-nox-4225c5e4c897",
+  "qa": {
+    "reviewer": "gpt / game-nox-4225c5e4c897",
+    "image_sha256": "f061b344290d0dea804ac473db9b580de520e44b7ffb85a038531f21a01cacb9",
+    "passed": false,
+    "observations": [
+      "1024×1536, 세로 2:3.",
+      "주인공은 성인 여성 한 명. 원작 캐릭터·괴물의 얼굴과 몸·로고·겹친 HUD·피 묘사는 보이지 않는다.",
+      "읽히는 글자·숫자나 식별 가능한 실제 상표를 발견하지 못했다.",
+      "도시가 보이는 루프탑 풀 가장자리에 볼룸 가운을 입고 앉아 두 발을 물에 담갔다. 두 팔과 손이 가장자리로 연결된다.",
+      "계획은 몸과 얼굴 모두 옆모습이지만 몸은 3/4 정면에 가깝다. 보이는 눈은 감겨 있고 지정된 윙크와 다르다. 지정한 바닥 문양 외에 구슬 소품도 추가됐다."
+    ],
+    "cause": "옆모습과 먼 곳 시선을 요구하면서 한쪽 눈 윙크도 요구해 표정 가독성과 측면 구도 사이 긴장이 있다. 결과는 몸을 카메라 쪽으로 돌렸다. 추가 구슬은 참고 그림의 소품 영향으로 추정된다."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 요청에서 커밋·main 일반 반영 승인, 녹스 하루 제한 해제 승인(응 해제해)"
+}

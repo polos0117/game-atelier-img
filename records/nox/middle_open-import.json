@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "game": "nox",
+  "slot": "middle_open",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "nox_middle_open_glossy_kr_game_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "9580a543852682e88bb52faebca716a80b9d2e629f38ca5380098ac7661f7c7d",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": "nox_middle_glossy_kr_game_f.webp",
+  "prompt": "records/nox/middle_open-ui.json",
+  "prompt_sha256": "cd9883cf1278414b3ab7e33f73dadc03d53a61102222abf7307b4fe21d8526d1",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-nox-4225c5e4c897",
+  "qa": {
+    "reviewer": "gpt / game-nox-4225c5e4c897",
+    "image_sha256": "9580a543852682e88bb52faebca716a80b9d2e629f38ca5380098ac7661f7c7d",
+    "passed": true,
+    "observations": [
+      "1024×1536, 세로 2:3.",
+      "주인공은 성인 여성 한 명. 원작 캐릭터·괴물의 얼굴과 몸·로고·겹친 HUD·피 묘사는 보이지 않는다.",
+      "읽히는 글자·숫자나 식별 가능한 실제 상표를 발견하지 못했다.",
+      "닫힘 중반의 얼굴·의상·웅크린 자세·손과 카메라를 유지했다.",
+      "횃불이 푸른 불꽃으로 바뀌고 통로가 밝혀진다. 확대 검수에서 바닥 쪽 오른손의 다섯 손가락을 확인했다."
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 요청에서 커밋·main 일반 반영 승인, 녹스 하루 제한 해제 승인(응 해제해)"
+}

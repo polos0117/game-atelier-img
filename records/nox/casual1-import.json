@@ -1,0 +1,67 @@
+{
+  "version": 1,
+  "game": "nox",
+  "slot": "casual1",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "nox_glossy_kr_game_f_casual1.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "108a64e5c2b986650aeae0851262a8bb56bb094356fd16d1ba2daf543034855f",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": "nox_title_glossy_kr_game_f.webp",
+  "prompt": "records/nox/casual1-ui.json",
+  "prompt_sha256": "d39b036c984c07fd89204efef7f9f225086945f7f9931a68835f9832200c5769",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-nox-4225c5e4c897",
+  "qa": {
+    "reviewer": "gpt / game-nox-4225c5e4c897",
+    "image_sha256": "108a64e5c2b986650aeae0851262a8bb56bb094356fd16d1ba2daf543034855f",
+    "passed": true,
+    "observations": [
+      "1024×1536, 세로 2:3.",
+      "주인공은 성인 여성 한 명. 원작 캐릭터·괴물의 얼굴과 몸·로고·겹친 HUD·피 묘사는 보이지 않는다.",
+      "읽히는 글자·숫자나 식별 가능한 실제 상표를 발견하지 못했다.",
+      "트레일러 방 안에서 노란 크로셰 비키니를 입고 기대 누운 가까운 컷. 오른팔은 머리 뒤, 왼손은 빛나는 구슬을 든다.",
+      "각 팔이 해당 어깨로 연결되고 복제 팔은 보이지 않는다. 지친 표정과 카메라 시선. 첫 시도는 출력 필터 거절, 같은 프롬프트의 두 번째 호출에서 생성됐다."
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 요청에서 커밋·main 일반 반영 승인, 녹스 하루 제한 해제 승인(응 해제해)",
+  "generation": {
+    "retries": [
+      {
+        "slot": "casual1",
+        "attempt": 1,
+        "exposure": "bold",
+        "result": "moderation_blocked",
+        "category": "sexual",
+        "request_id": "88d9d3e9-f386-443e-9b15-40e7b5f1416a",
+        "prompt_sha256": "d39b036c984c07fd89204efef7f9f225086945f7f9931a68835f9832200c5769"
+      },
+      {
+        "slot": "casual1",
+        "attempt": 2,
+        "exposure": "bold",
+        "result": "generated",
+        "prompt_sha256": "d39b036c984c07fd89204efef7f9f225086945f7f9931a68835f9832200c5769"
+      }
+    ]
+  }
+}

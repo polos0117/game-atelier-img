@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "game": "nox",
+  "slot": "middle",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "nox_middle_glossy_kr_game_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "0546d03264a812599c87fbbcf15951d8da7967007f294b0eb0e4969493b1a8e5",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": "nox_title_glossy_kr_game_f.webp",
+  "prompt": "records/nox/middle-ui.json",
+  "prompt_sha256": "b04bc9ae2b4b804c171d26a79ae5d11f4499d3f6e6b8b47dba6b0114d60ecd6b",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-nox-4225c5e4c897",
+  "qa": {
+    "reviewer": "gpt / game-nox-4225c5e4c897",
+    "image_sha256": "0546d03264a812599c87fbbcf15951d8da7967007f294b0eb0e4969493b1a8e5",
+    "passed": true,
+    "observations": [
+      "1024×1536, 세로 2:3.",
+      "주인공은 성인 여성 한 명. 원작 캐릭터·괴물의 얼굴과 몸·로고·겹친 HUD·피 묘사는 보이지 않는다.",
+      "읽히는 글자·숫자나 식별 가능한 실제 상표를 발견하지 못했다.",
+      "같은 인물. 지하 감옥에서 웅크려 오른손으로 바닥의 빛나는 문양을 그리며 왼손은 무릎 위에 둔다.",
+      "확대 검수에서 오른손의 다섯 손가락을 확인했다. 두 다리는 웅크린 자세로 연결되며 여분 팔다리는 보이지 않는다. 타이틀과 다른 웃는 표정."
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 요청에서 커밋·main 일반 반영 승인, 녹스 하루 제한 해제 승인(응 해제해)"
+}

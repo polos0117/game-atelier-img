@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "game": "nox",
+  "slot": "title_open",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "nox_title_open_glossy_kr_game_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "159da05215d778bc9f1ce45f5acdae1c8abadaee6cc688f3186225dd7ae06913",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": "nox_title_glossy_kr_game_f.webp",
+  "prompt": "records/nox/title_open-ui.json",
+  "prompt_sha256": "32abd38d18af13e9ca88e0096833bbc7346b981c610864232c689be37c3d059d",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-nox-4225c5e4c897",
+  "qa": {
+    "reviewer": "gpt / game-nox-4225c5e4c897",
+    "image_sha256": "159da05215d778bc9f1ce45f5acdae1c8abadaee6cc688f3186225dd7ae06913",
+    "passed": true,
+    "observations": [
+      "1024×1536, 세로 2:3.",
+      "주인공은 성인 여성 한 명. 원작 캐릭터·괴물의 얼굴과 몸·로고·겹친 HUD·피 묘사는 보이지 않는다.",
+      "읽히는 글자·숫자나 식별 가능한 실제 상표를 발견하지 못했다.",
+      "닫힘 타이틀의 얼굴·의상·자세·인물 크기와 프레임을 유지한 단일 개방 장면.",
+      "TV에서 빛의 소용돌이가 터지고 실내 물건이 떠오른다. 두 팔의 연결 유지. 떠오른 종이에는 작은 모사 흔적이 있으나 읽히는 단어는 식별되지 않는다."
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 요청에서 커밋·main 일반 반영 승인, 녹스 하루 제한 해제 승인(응 해제해)"
+}

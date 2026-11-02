@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "game": "nox",
+  "slot": "casual2",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "nox_glossy_kr_game_f_casual2.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "b55af4ee7a51c48375e06ac80cac3986fa73ada12119694fa2a8ee46cc1683cf",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": "nox_title_glossy_kr_game_f.webp",
+  "prompt": "records/nox/casual2-ui.json",
+  "prompt_sha256": "3ed4aecf65fbcd15f03613a9df685a40e2d6551022f436f8c0da8ad4a6fc5f82",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-nox-4225c5e4c897",
+  "qa": {
+    "reviewer": "gpt / game-nox-4225c5e4c897",
+    "image_sha256": "b55af4ee7a51c48375e06ac80cac3986fa73ada12119694fa2a8ee46cc1683cf",
+    "passed": false,
+    "observations": [
+      "1024×1536, 세로 2:3.",
+      "주인공은 성인 여성 한 명. 원작 캐릭터·괴물의 얼굴과 몸·로고·겹친 HUD·피 묘사는 보이지 않는다.",
+      "읽히는 글자·숫자나 식별 가능한 실제 상표를 발견하지 못했다.",
+      "해안 바위길에서 코르셋·짧은 스커트형 잭 모워 코스튬. 오른손은 어깨의 낚싯대, 왼팔은 옆으로 내려온다. 두 다리가 걷는 자세로 연결된다.",
+      "계획은 뒤를 보는 환경 원경이지만 결과는 인물이 크게 차지하는 전신 컷이고 머리는 측면으로 돌아갔다."
+    ],
+    "cause": "환경 원경·몸과 함께 뒤를 보는 머리 선택보다 코스튬 디테일과 참고 인물의 얼굴을 드러내는 쪽으로 생성 결과가 치우쳤다. 프롬프트의 직접적인 모순은 찾지 못했다."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 요청에서 커밋·main 일반 반영 승인, 녹스 하루 제한 해제 승인(응 해제해)"
+}

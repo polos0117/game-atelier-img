@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "game": "nox",
+  "slot": "casual3",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "nox_glossy_kr_game_f_casual3.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "0d3b56da98eaebac57a6d23eb91e7268cdfe80c347c701b6e54fb07bcac5d17c",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": "nox_title_glossy_kr_game_f.webp",
+  "prompt": "records/nox/casual3-ui.json",
+  "prompt_sha256": "3c28a1a24ea6409cb7fbff200eaab7346b2494ecd13f79b46d5238b1af3a9155",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-nox-4225c5e4c897",
+  "qa": {
+    "reviewer": "gpt / game-nox-4225c5e4c897",
+    "image_sha256": "0d3b56da98eaebac57a6d23eb91e7268cdfe80c347c701b6e54fb07bcac5d17c",
+    "passed": false,
+    "observations": [
+      "1024×1536, 세로 2:3.",
+      "주인공은 성인 여성 한 명. 원작 캐릭터·괴물의 얼굴과 몸·로고·겹친 HUD·피 묘사는 보이지 않는다.",
+      "보드게임 라운지에서 린넨 원피스와 공구 벨트를 착용했다. 오른손이 머그잔을 들고 왼팔은 프레임 밖으로 자연스럽게 이어진다. 배경 손님은 작고 흐리다.",
+      "계획의 허리 위보다 아래까지 프레임이 넓어졌고, 렌치 손잡이에 문자 형태의 각인이 보인다. 글자 금지 기준 미충족으로 표시한다."
+    ],
+    "cause": "허리 위 CROP과 허리 공구 벨트 SIGNATURE를 함께 요구했다. 결과가 벨트를 더 보여주며 아래로 넓어졌고, 소품 각인은 글자 금지 줄을 따르지 않았다."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 요청에서 커밋·main 일반 반영 승인, 녹스 하루 제한 해제 승인(응 해제해)"
+}

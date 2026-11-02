@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "game": "nox",
+  "slot": "ending_open",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "nox_ending_open_glossy_kr_game_f.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "be085ecb5a146ddbefb6b200fe5b195c0923e850365a064c77996105324e9ce7",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": "nox_ending_glossy_kr_game_f.webp",
+  "prompt": "records/nox/ending_open-ui.json",
+  "prompt_sha256": "ca5536f102bf279ab307dfb53ef6a90bbfd282e50023b7f1a3d3f28c3afc3635",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-nox-4225c5e4c897",
+  "qa": {
+    "reviewer": "gpt / game-nox-4225c5e4c897",
+    "image_sha256": "be085ecb5a146ddbefb6b200fe5b195c0923e850365a064c77996105324e9ce7",
+    "passed": true,
+    "observations": [
+      "1024×1536, 세로 2:3.",
+      "주인공은 성인 여성 한 명. 원작 캐릭터·괴물의 얼굴과 몸·로고·겹친 HUD·피 묘사는 보이지 않는다.",
+      "읽히는 글자·숫자나 식별 가능한 실제 상표를 발견하지 못했다.",
+      "닫힘 엔딩의 인물·의상·양팔 자세·프레임을 유지했다.",
+      "구슬의 빛이 터지고 보라색 구름이 걷혀 푸른 하늘이 드러난다. 분할·복제 인물 없음."
+    ],
+    "cause": ""
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 요청에서 커밋·main 일반 반영 승인, 녹스 하루 제한 해제 승인(응 해제해)"
+}

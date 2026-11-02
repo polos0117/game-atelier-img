@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "game": "nox",
+  "slot": "casual4",
+  "style": "glossy_kr_game",
+  "styleVersion": "v1",
+  "file": "nox_glossy_kr_game_f_casual4.webp",
+  "source": {
+    "kind": "generated",
+    "tool": "image_gen (GPT 세션)",
+    "format": "png",
+    "size": [
+      1024,
+      1536
+    ],
+    "sha256": "66dbe4a22e58d8934457230346b694fc337fe1607add6e53b57b5bb810837feb",
+    "note": "원본 PNG 는 올리지 않는다 — sha256 만 남긴다"
+  },
+  "reference": "nox_title_glossy_kr_game_f.webp",
+  "prompt": "records/nox/casual4-ui.json",
+  "prompt_sha256": "bd265244f574e95aa53420f842a8ff4ef846f6ee149ca7a2fe654ac0532eec2f",
+  "converted": {
+    "format": "webp",
+    "quality": 90,
+    "method": 6,
+    "thumb": {
+      "long_edge": 512,
+      "quality": 72
+    }
+  },
+  "imported": "2026-11-02",
+  "execution": "game-nox-4225c5e4c897",
+  "qa": {
+    "reviewer": "gpt / game-nox-4225c5e4c897",
+    "image_sha256": "66dbe4a22e58d8934457230346b694fc337fe1607add6e53b57b5bb810837feb",
+    "passed": false,
+    "observations": [
+      "1024×1536, 세로 2:3.",
+      "주인공은 성인 여성 한 명. 원작 캐릭터·괴물의 얼굴과 몸·로고·겹친 HUD·피 묘사는 보이지 않는다.",
+      "읽히는 글자·숫자나 식별 가능한 실제 상표를 발견하지 못했다.",
+      "같은 얼굴·주황 머리·푸른 눈. 양머리 모양 수건 머리띠와 오른손의 볼 짚기가 보이며 왼손은 화면 밖이다.",
+      "계획은 별빛 무대·찜질복·쇄골에서 자르는 얼굴 클로즈업이다. 결과는 트레일러 옆 야외 목욕 장면·몸을 감싼 수건이고 프레임이 가슴 위까지 넓어졌다. 배경에는 추가 구슬도 보인다."
+    ],
+    "cause": "별빛 무대와 트레일러 SIGNATURE를 함께 요구하면서 결과가 트레일러 배경으로 치우쳤다. 얼굴 클로즈업보다 목욕 차림을 넓게 보여주며 찜질복은 수건으로 바뀌었다."
+  },
+  "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다; 현재 요청에서 커밋·main 일반 반영 승인, 녹스 하루 제한 해제 승인(응 해제해)"
+}
