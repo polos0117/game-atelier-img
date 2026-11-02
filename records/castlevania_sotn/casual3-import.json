@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "castlevania_sotn",
+ "slot": "casual3",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "castlevania_sotn_glossy_kr_game_f_casual3.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "5fd720f2dc5e7e6de6ad67449b8090397a36c3ab85e128d735dbf4d61c390fc1",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "castlevania_sotn_title_glossy_kr_game_f.webp",
+ "prompt": "records/castlevania_sotn/casual3-ui.json",
+ "prompt_sha256": "255a98d859eb220d93ff1fe82782450fa6066741d6d9972d8e57c32df2f4e2f3",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-castlevania-238a8c-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5fd720f2dc5e7e6de6ad67449b8090397a36c3ab85e128d735dbf4d61c390fc1",
+  "passed": false,
+  "observations": [
+   "1024×1536. 성인 여성 주인공 한 명. 읽히는 글자·로고·HUD·상표·피 묘사가 보이지 않음. 원작 인물 얼굴과 구별되는 정본의 얼굴·머리·눈 색을 유지.",
+   "크로셰 수영복과 공원 배경. 오른손 브이 요청과 달리 왼손 브이. 얼굴 클로즈업보다 넓은 가슴 위 구도로 생성됨."
+  ],
+  "cause": "계획/참조와 출력의 불일치. 프롬프트를 수정하거나 재생성하지 않고 자동 작업 규칙 0·4절에 따라 기록함."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

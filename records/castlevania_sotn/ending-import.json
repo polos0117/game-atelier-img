@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "castlevania_sotn",
+ "slot": "ending",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "castlevania_sotn_ending_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "2395f9345a4e8cb7187b6cbed955ebcd735f453a044210dde40dad8dfa124dd1",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "castlevania_sotn_title_glossy_kr_game_f.webp",
+ "prompt": "records/castlevania_sotn/ending-ui.json",
+ "prompt_sha256": "d50372dc3a3b798e0e051722af29147c369563857ae02ac49ce36b0e8fc6b87e",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-castlevania-238a8c-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "2395f9345a4e8cb7187b6cbed955ebcd735f453a044210dde40dad8dfa124dd1",
+  "passed": false,
+  "observations": [
+   "1024×1536. 성인 여성 주인공 한 명. 읽히는 글자·로고·HUD·상표·피 묘사가 보이지 않음. 원작 인물 얼굴과 구별되는 정본의 얼굴·머리·눈 색을 유지.",
+   "오른손에 아래로 향한 검. 화면 오른쪽에 왼손이 두 개처럼 중복됨. 원본 망토 실루엣이 유지되어 검은 예복으로의 변화가 약함."
+  ],
+  "cause": "계획/참조와 출력의 불일치. 프롬프트를 수정하거나 재생성하지 않고 자동 작업 규칙 0·4절에 따라 기록함."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

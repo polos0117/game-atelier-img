@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "castlevania_sotn",
+ "slot": "casual1",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "castlevania_sotn_glossy_kr_game_f_casual1.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "62853a6273b42e8977759f26c7dcc96e83808f5c036a087e5389618718a3ae44",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "castlevania_sotn_title_glossy_kr_game_f.webp",
+ "prompt": "records/castlevania_sotn/casual1-ui.json",
+ "prompt_sha256": "9493a8d8d129ccbd637192acd7891652c3da82a58dbacc492d2528df8e52de1c",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-castlevania-238a8c-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "62853a6273b42e8977759f26c7dcc96e83808f5c036a087e5389618718a3ae44",
+  "passed": false,
+  "observations": [
+   "1024×1536. 성인 여성 주인공 한 명. 읽히는 글자·로고·HUD·상표·피 묘사가 보이지 않음. 원작 인물 얼굴과 구별되는 정본의 얼굴·머리·눈 색을 유지.",
+   "수건 차림과 여관, 부채를 든 장면. 계획의 오른손 대신 왼손으로 부채를 들고 반대 손이 화면 밖. 부채 높이가 눈 바로 아래보다 낮음. 요청한 망토 소품이 별도로 보이지 않음."
+  ],
+  "cause": "계획/참조와 출력의 불일치. 프롬프트를 수정하거나 재생성하지 않고 자동 작업 규칙 0·4절에 따라 기록함."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}

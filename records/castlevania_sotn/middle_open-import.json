@@ -1,0 +1,44 @@
+{
+ "version": 1,
+ "game": "castlevania_sotn",
+ "slot": "middle_open",
+ "style": "glossy_kr_game",
+ "styleVersion": "v1",
+ "file": "castlevania_sotn_middle_open_glossy_kr_game_f.webp",
+ "source": {
+  "kind": "generated",
+  "tool": "image_gen (GPT 세션)",
+  "format": "png",
+  "size": [
+   1024,
+   1536
+  ],
+  "sha256": "5b5a886a22f68189609a701eb75e4476debea675f987c8d64fd12e22128e83a1",
+  "note": "원본 PNG는 올리지 않는다 — sha256만 남긴다"
+ },
+ "reference": "castlevania_sotn_middle_glossy_kr_game_f.webp",
+ "prompt": "records/castlevania_sotn/middle_open-ui.json",
+ "prompt_sha256": "a52661c66564c5bb7e099e9066b145ce3e06fd9f23e681c76900926ad86097b7",
+ "converted": {
+  "format": "webp",
+  "quality": 90,
+  "method": 6,
+  "thumb": {
+   "long_edge": 512,
+   "quality": 72
+  }
+ },
+ "imported": "2026-11-02",
+ "execution": "game-castlevania-238a8c-20261102",
+ "qa": {
+  "reviewer": "gpt",
+  "image_sha256": "5b5a886a22f68189609a701eb75e4476debea675f987c8d64fd12e22128e83a1",
+  "passed": false,
+  "observations": [
+   "1024×1536. 성인 여성 주인공 한 명. 읽히는 글자·로고·HUD·상표·피 묘사가 보이지 않음. 원작 인물 얼굴과 구별되는 정본의 얼굴·머리·눈 색을 유지.",
+   "중반과 같은 자세와 의상. 꺼진 촛대와 박쥐 소용돌이, 단일 화면. 양팔 두 손과 두 다리 연결이 보임. 중반의 어두운 흉갑과 망토 장식이 그대로 유지됨."
+  ],
+  "cause": "계획/참조와 출력의 불일치. 프롬프트를 수정하거나 재생성하지 않고 자동 작업 규칙 0·4절에 따라 기록함."
+ },
+ "acceptance": "user_approval_2026-10-31 — 묻지 않고 올리고 사용자가 올라간 뒤 본다"
+}
